@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295483",
+      "season": 1,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38179614",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-29T22:33:03.000Z"
+    },
+    "_id": "6965de7bda6ce23e8e95a751",
+    "name": "Nữ Phản Diện Được Hoàng Tử Nước Láng Giềng Yêu Mến",
+    "slug": "nu-phan-dien-duoc-hoang-tu-nuoc-lang-gieng-yeu-men",
+    "origin_name": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+    "thumb_url": "nu-phan-dien-duoc-hoang-tu-nuoc-lang-gieng-yeu-men-thumb.jpg",
+    "poster_url": "nu-phan-dien-duoc-hoang-tu-nuoc-lang-gieng-yeu-men-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278157",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34930070",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-29T21:30:48.000Z"
+    },
+    "_id": "6981c3f9988d934ea9e63a57",
+    "name": "Tình yêu đích thực sau hôn nhân",
+    "slug": "tinh-yeu-dich-thuc-sau-hon-nhan",
+    "origin_name": "My Romance Scammer",
+    "thumb_url": "tinh-yeu-dich-thuc-sau-hon-nhan-thumb.jpg",
+    "poster_url": "tinh-yeu-dich-thuc-sau-hon-nhan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "280822",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34625806",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-29T21:30:33.000Z"
+    },
+    "_id": "69b9275e32adc86a1e815cde",
+    "name": "Xin Chào 1983",
+    "slug": "xin-chao-1983",
+    "origin_name": "Dream of Golden Years",
+    "thumb_url": "xin-chao-1983-thumb.jpg",
+    "poster_url": "xin-chao-1983-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278043",
+      "season": 1,
+      "vote_average": 8.818,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt36034547",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-29T21:29:54.000Z"
+    },
+    "_id": "6963a2afda6ce23e8e957968",
+    "name": "Cậu Và Tớ Là Hai Thái Cực Đối Lập",
+    "slug": "cau-va-to-la-hai-thai-cuc-doi-lap",
+    "origin_name": "You and I Are Polar Opposites",
+    "thumb_url": "cau-va-to-la-hai-thai-cuc-doi-lap-thumb.jpg",
+    "poster_url": "cau-va-to-la-hai-thai-cuc-doi-lap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "291470",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36959254",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-29T21:10:39.000Z"
+    },
+    "_id": "69bd3bb2f063d23bbbd4a0e3",
+    "name": "Đông Qua Xuân Đến",
+    "slug": "dong-qua-xuan-den",
+    "origin_name": "Live up to Your Youth",
+    "thumb_url": "dong-qua-xuan-den-thumb.jpg",
+    "poster_url": "dong-qua-xuan-den-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "212588",
+      "season": 2,
+      "vote_average": 7.1,
+      "vote_count": 123
+    },
+    "imdb": {
+      "id": "tt11384300",
+      "vote_average": 6.3,
+      "vote_count": 3994
+    },
+    "modified": {
+      "time": "2026-03-29T20:41:06.000Z"
+    },
+    "_id": "69c8dbad4da3bf6eb3463c5d",
+    "name": "Thế giới ngầm Paris (Phần 2)",
+    "slug": "the-gioi-ngam-paris-phan-2",
+    "origin_name": "Furies (Season 2)",
+    "thumb_url": "the-gioi-ngam-paris-phan-2-thumb.jpg",
+    "poster_url": "the-gioi-ngam-paris-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "248126",
+      "season": 3,
+      "vote_average": 7.08,
+      "vote_count": 25
+    },
+    "imdb": {
+      "id": "tt31556143",
+      "vote_average": 7.3,
+      "vote_count": 4223
+    },
+    "modified": {
+      "time": "2026-03-29T20:40:45.000Z"
+    },
+    "_id": "69c8dd160a0114095c859c7e",
+    "name": "Homicide: Án mạng (Phần 3)",
+    "slug": "homicide-an-mang-phan-3",
+    "origin_name": "Homicide (Season 3)",
+    "thumb_url": "homicide-an-mang-phan-3-thumb.jpg",
+    "poster_url": "homicide-an-mang-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "219063",
+      "season": 4,
+      "vote_average": 8.365,
+      "vote_count": 130
+    },
+    "imdb": {
+      "id": "tt26346647",
+      "vote_average": 7.9,
+      "vote_count": 1737
+    },
+    "modified": {
+      "time": "2026-03-29T20:40:20.000Z"
+    },
+    "_id": "69c8dd53f07c400a86d65f08",
+    "name": "Eva mãi mãi (Phần 4)",
+    "slug": "eva-mai-mai-phan-4",
+    "origin_name": "Eva Lasting (Season 4)",
+    "thumb_url": "eva-mai-mai-phan-4-thumb.jpg",
+    "poster_url": "eva-mai-mai-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "227975",
+      "season": 3,
+      "vote_average": 6.5,
+      "vote_count": 86
+    },
+    "imdb": {
+      "id": "tt27951663",
+      "vote_average": 4.9,
+      "vote_count": 1850
+    },
+    "modified": {
+      "time": "2026-03-29T20:39:48.000Z"
+    },
+    "_id": "69c8dc42ccc6cea26886edbe",
+    "name": "Cám Dỗ Chết Chóc (Phần 3)",
+    "slug": "cam-do-chet-choc-phan-3",
+    "origin_name": "Fatal Seduction (Season 3)",
+    "thumb_url": "cam-do-chet-choc-phan-3-thumb.jpg",
+    "poster_url": "cam-do-chet-choc-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-29T17:17:10.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317041",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-29T16:06:53.000Z"
+    },
+    "_id": "69bfc6ce400bf394bd942519",
+    "name": "Săn Tội Huyết Oán",
+    "slug": "san-toi-huyet-oan",
+    "origin_name": "Hunting For Crime · Red Deep Grudge",
+    "thumb_url": "san-toi-huyet-oan-thumb.jpg",
+    "poster_url": "san-toi-huyet-oan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316374",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40606760",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-29T16:06:39.000Z"
+    },
+    "_id": "69c7aab9e263b2a946273f02",
+    "name": "Minh Châu Kỳ Đàm (Phần 2)",
+    "slug": "minh-chau-ky-dam-phan-2",
+    "origin_name": "The Secret of the Lost Pearl (Season 2)",
+    "thumb_url": "minh-chau-ky-dam-phan-2-thumb.jpg",
+    "poster_url": "minh-chau-ky-dam-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306129",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-29T16:06:24.000Z"
+    },
+    "_id": "697f03db124287e08252ff23",
+    "name": "Soda Master",
+    "slug": "soda-master",
+    "origin_name": "Soda Master",
+    "thumb_url": "soda-master-thumb.jpg",
+    "poster_url": "soda-master-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "41787",
+      "season": null,
+      "vote_average": 4.9,
+      "vote_count": 27
+    },
+    "imdb": {
+      "id": "tt0099397",
+      "vote_average": 5.5,
+      "vote_count": 1217
+    },
+    "modified": {
+      "time": "2026-03-29T14:53:00.000Z"
+    },
+    "_id": "69c8da5a400bf394bd95e620",
+    "name": "Defenseless",
+    "slug": "defenseless",
+    "origin_name": "Defenseless",
+    "thumb_url": "defenseless-thumb.jpg",
+    "poster_url": "defenseless-poster.jpg",
+    "year": 1991
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1058710",
+      "season": null,
+      "vote_average": 5.76,
+      "vote_count": 50
+    },
+    "imdb": {
+      "id": "tt13899250",
+      "vote_average": 4.3,
+      "vote_count": 5408
+    },
+    "modified": {
+      "time": "2026-03-29T14:52:35.000Z"
+    },
+    "_id": "69c8da41da6ce23e8eaa271f",
+    "name": "Kẻ giết người huyết thống",
+    "slug": "ke-giet-nguoi-huyet-thong",
+    "origin_name": "Bloodline Killer",
+    "thumb_url": "ke-giet-nguoi-huyet-thong-thumb.jpg",
+    "poster_url": "ke-giet-nguoi-huyet-thong-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "14638",
+      "season": null,
+      "vote_average": 7.3,
+      "vote_count": 430
+    },
+    "imdb": {
+      "id": "tt0038669",
+      "vote_average": 7.7,
+      "vote_count": 25760
+    },
+    "modified": {
+      "time": "2026-03-29T14:51:45.000Z"
+    },
+    "_id": "69c8da0f0a0114095c859ae4",
+    "name": "Những kẻ giết người",
+    "slug": "nhung-ke-giet-nguoi",
+    "origin_name": "The Killers",
+    "thumb_url": "nhung-ke-giet-nguoi-thumb.jpg",
+    "poster_url": "nhung-ke-giet-nguoi-poster.jpg",
+    "year": 1946
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "65460",
+      "season": null,
+      "vote_average": 4.3,
+      "vote_count": 54
+    },
+    "imdb": {
+      "id": "tt0112634",
+      "vote_average": 3.7,
+      "vote_count": 2290
+    },
+    "modified": {
+      "time": "2026-03-29T14:50:44.000Z"
+    },
+    "_id": "69c8d9d21d0b515454b88977",
+    "name": "Khủng long ăn thịt 2",
+    "slug": "khung-long-an-thit-2",
+    "origin_name": "Carnosaur 2",
+    "thumb_url": "khung-long-an-thit-2-thumb.jpg",
+    "poster_url": "khung-long-an-thit-2-poster.jpg",
+    "year": 1995
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "31393",
+      "season": null,
+      "vote_average": 3.8,
+      "vote_count": 26
+    },
+    "imdb": {
+      "id": "tt0051134",
+      "vote_average": 3.3,
+      "vote_count": 1925
+    },
+    "modified": {
+      "time": "2026-03-29T14:49:47.000Z"
+    },
+    "_id": "69c8d998f063d23bbbd72075",
+    "name": "Sự kỳ lạ",
+    "slug": "su-ky-la",
+    "origin_name": "The Unearthly",
+    "thumb_url": "su-ky-la-thumb.jpg",
+    "poster_url": "su-ky-la-poster.jpg",
+    "year": 1957
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "20616",
+      "season": null,
+      "vote_average": 5.2,
+      "vote_count": 287
+    },
+    "imdb": {
+      "id": "tt0283026",
+      "vote_average": 5.1,
+      "vote_count": 21553
+    },
+    "modified": {
+      "time": "2026-03-29T14:48:59.000Z"
+    },
+    "_id": "69c8d96954ca9185bbbe04d7",
+    "name": "Swimfan",
+    "slug": "swimfan",
+    "origin_name": "Swimfan",
+    "thumb_url": "swimfan-thumb.jpg",
+    "poster_url": "swimfan-poster.jpg",
+    "year": 2002
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "62029",
+      "season": null,
+      "vote_average": 5.741,
+      "vote_count": 172
+    },
+    "imdb": {
+      "id": "tt0083655",
+      "vote_average": 6,
+      "vote_count": 2402
+    },
+    "modified": {
+      "time": "2026-03-29T14:48:29.000Z"
+    },
+    "_id": "69c8d94ab9fc4b542977a1ec",
+    "name": "Bingo Bongo",
+    "slug": "bingo-bongo",
+    "origin_name": "Bingo Bongo",
+    "thumb_url": "bingo-bongo-thumb.jpg",
+    "poster_url": "bingo-bongo-poster.jpg",
+    "year": 1982
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "547012",
+      "season": null,
+      "vote_average": 6.704,
+      "vote_count": 270
+    },
+    "imdb": {
+      "id": "tt8647310",
+      "vote_average": 6.2,
+      "vote_count": 8650
+    },
+    "modified": {
+      "time": "2026-03-29T14:47:58.000Z"
+    },
+    "_id": "69c8d92cd88856be7725a6eb",
+    "name": "Buffaloed",
+    "slug": "buffaloed",
+    "origin_name": "Buffaloed",
+    "thumb_url": "buffaloed-thumb.jpg",
+    "poster_url": "buffaloed-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "101307",
+      "season": null,
+      "vote_average": 6.5,
+      "vote_count": 21
+    },
+    "imdb": {
+      "id": "tt0069158",
+      "vote_average": 6.3,
+      "vote_count": 1347
+    },
+    "modified": {
+      "time": "2026-03-29T14:47:28.000Z"
+    },
+    "_id": "69c8d90cf65d22d617b95e4d",
+    "name": "Rage",
+    "slug": "rage",
+    "origin_name": "Rage",
+    "thumb_url": "rage-thumb.jpg",
+    "poster_url": "rage-poster.jpg",
+    "year": 1972
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "82545",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 56
+    },
+    "imdb": {
+      "id": "tt0103069",
+      "vote_average": 6,
+      "vote_count": 3136
+    },
+    "modified": {
+      "time": "2026-03-29T14:46:20.000Z"
+    },
+    "_id": "69c8d8c846046a8eb69850dd",
+    "name": "Texasville",
+    "slug": "texasville",
+    "origin_name": "Texasville",
+    "thumb_url": "texasville-thumb.jpg",
+    "poster_url": "texasville-poster.jpg",
+    "year": 1990
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "565911",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39374313",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-29T14:45:48.000Z"
+    },
+    "_id": "69c8d8a7f07c400a86d65baf",
+    "name": "Attila",
+    "slug": "attila",
+    "origin_name": "Attila",
+    "thumb_url": "attila-thumb.jpg",
+    "poster_url": "attila-poster.jpg",
+    "year": 2018
+  }
+]
