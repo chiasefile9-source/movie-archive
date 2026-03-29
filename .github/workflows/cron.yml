@@ -2,20 +2,20 @@ name: Movie Daily Archive
 
 on:
   schedule:
-    - cron: '0 17 * * *' # Chạy vào 17:00 UTC (tức 00:00 đêm giờ Việt Nam)
-  workflow_dispatch: # Giúp bạn có nút "Run" để chạy thử ngay lập tức
+    - cron: '0 17 * * *' # 00:00 giờ Việt Nam
+  workflow_dispatch: 
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout mã nguồn
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Nâng cấp từ v3 lên v4
 
       - name: Cài đặt Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4 # Nâng cấp từ v3 lên v4
         with:
-          node-version: 18
+          node-version: 24 # Sử dụng Node 24 theo khuyến nghị của thông báo
 
       - name: Chạy script lấy phim
         run: node fetch_movies.js
