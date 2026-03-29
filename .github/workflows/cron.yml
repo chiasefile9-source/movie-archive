@@ -1,0 +1,29 @@
+name: Movie Daily Archive
+
+on:
+  schedule:
+    - cron: '0 17 * * *' # Chạy vào 17:00 UTC (tức 00:00 đêm giờ Việt Nam)
+  workflow_dispatch: # Giúp bạn có nút "Run" để chạy thử ngay lập tức
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout mã nguồn
+        uses: actions/checkout@v3
+
+      - name: Cài đặt Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Chạy script lấy phim
+        run: node fetch_movies.js
+
+      - name: Lưu file vào GitHub
+        run: |
+          git config --global user.name "Github-Movie-Bot"
+          git config --global user.email "actions@github.com"
+          git add data/*.json
+          git commit -m "Lưu trữ phim ngày $(date +'%Y-%m-%d')" || exit 0
+          git push
