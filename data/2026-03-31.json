@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287344",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-31T01:31:05.000Z"
+    },
+    "_id": "69a402dada6ce23e8ea149e2",
+    "name": "Cẩm Nang Yêu",
+    "slug": "cam-nang-yeu",
+    "origin_name": "The Practical Guide to Love",
+    "thumb_url": "cam-nang-yeu-thumb.jpg",
+    "poster_url": "cam-nang-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "310800",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39303992",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-31T01:13:27.000Z"
+    },
+    "_id": "69a5ae72d88856be771d7da9",
+    "name": "Nụ Hôn Siren",
+    "slug": "nu-hon-siren",
+    "origin_name": "Siren's Kiss",
+    "thumb_url": "nu-hon-siren-thumb.jpg",
+    "poster_url": "nu-hon-siren-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "233833",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39369595",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-31T01:12:45.000Z"
+    },
+    "_id": "6999abc4ccc6cea2687a17f6",
+    "name": "Mùa Rực Rỡ Của Em",
+    "slug": "mua-ruc-ro-cua-em",
+    "origin_name": "In Your Radiant Season",
+    "thumb_url": "mua-ruc-ro-cua-em-thumb.jpg",
+    "poster_url": "mua-ruc-ro-cua-em-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "276582",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt35324031",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-31T00:25:06.000Z"
+    },
+    "_id": "69abad79e263b2a94620a194",
+    "name": "Xe Đạp Tình Yêu",
+    "slug": "xe-dap-tinh-yeu",
+    "origin_name": "Love Like a Bike",
+    "thumb_url": "xe-dap-tinh-yeu-thumb.jpg",
+    "poster_url": "xe-dap-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309206",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30015686",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-31T00:23:30.000Z"
+    },
+    "_id": "6965dcdada6ce23e8e95a700",
+    "name": "Trái Tim Của Yiwha: Tình Yêu Và Báo Thù",
+    "slug": "trai-tim-cua-yiwha-tinh-yeu-va-bao-thu",
+    "origin_name": "The Heart of Yiwha: Of Love & Vengeance",
+    "thumb_url": "trai-tim-cua-yiwha-tinh-yeu-va-bao-thu-thumb.jpg",
+    "poster_url": "trai-tim-cua-yiwha-tinh-yeu-va-bao-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "304885",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38856481",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-31T00:16:10.000Z"
+    },
+    "_id": "698ab59f46046a8eb686f5c4",
+    "name": "Yesterday",
+    "slug": "yesterday",
+    "origin_name": "Yesterday",
+    "thumb_url": "yesterday-thumb.jpg",
+    "poster_url": "yesterday-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "284969",
+      "season": 1,
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt38646977",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-31T00:15:36.000Z"
+    },
+    "_id": "6966143754ca9185bba99c3f",
+    "name": "Hỏa Thực Điểu: Đội cứu hỏa Borotobi vùng Ushu",
+    "slug": "hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu",
+    "origin_name": "Oedo Fire Slayer -The Legend of Phoenix-",
+    "thumb_url": "hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu-thumb.jpg",
+    "poster_url": "hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "280110",
+      "season": 2,
+      "vote_average": 7.677,
+      "vote_count": 65
+    },
+    "imdb": {
+      "id": "tt35636246",
+      "vote_average": 7.2,
+      "vote_count": 2301
+    },
+    "modified": {
+      "time": "2026-03-31T00:13:34.000Z"
+    },
+    "_id": "695f54c2f063d23bbbc21c73",
+    "name": "Học Viện Anh Hùng: Vigilantes (Phần 2)",
+    "slug": "hoc-vien-anh-hung-vigilantes-phan-2",
+    "origin_name": "My Hero Academia: Vigilantes Season 2",
+    "thumb_url": "hoc-vien-anh-hung-vigilantes-phan-2-thumb.jpg",
+    "poster_url": "hoc-vien-anh-hung-vigilantes-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241860",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39017753",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-31T00:12:52.000Z"
+    },
+    "_id": "69b8cf9ef65d22d617b5c6f0",
+    "name": "Cực Hạn",
+    "slug": "cuc-han",
+    "origin_name": "Climax",
+    "thumb_url": "cuc-han-thumb.jpg",
+    "poster_url": "cuc-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "298917",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-31T00:06:21.000Z"
+    },
+    "_id": "69abad07ccc6cea2688008c6",
+    "name": "Pinanong",
+    "slug": "pinanong",
+    "origin_name": "Pinanong",
+    "thumb_url": "pinanong-thumb.jpg",
+    "poster_url": "pinanong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315335",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40596207",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-31T00:06:03.000Z"
+    },
+    "_id": "69b95d61e263b2a94624181d",
+    "name": "Quyết Chiến Vương Triều",
+    "slug": "quyet-chien-vuong-trieu",
+    "origin_name": "The Last Duel",
+    "thumb_url": "quyet-chien-vuong-trieu-thumb.jpg",
+    "poster_url": "quyet-chien-vuong-trieu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211288",
+      "season": 3,
+      "vote_average": 7.5,
+      "vote_count": 244
+    },
+    "imdb": {
+      "id": "tt13875494",
+      "vote_average": 7.1,
+      "vote_count": 25845
+    },
+    "modified": {
+      "time": "2026-03-30T23:35:11.000Z"
+    },
+    "_id": "68f9f11ea2d805aecaf99b2e",
+    "name": "Tracker (Phần 3)",
+    "slug": "tracker-phan-3",
+    "origin_name": "Tracker (Season 3)",
+    "thumb_url": "tracker-phan-3-thumb-1761239638607.jpg",
+    "poster_url": "tracker-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317895",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-30T19:24:13.000Z"
+    },
+    "_id": "69c9f845ccc6cea2688724c4",
+    "name": "Chiến Kỳ Như Tranh",
+    "slug": "chien-ky-nhu-tranh",
+    "origin_name": "Flags of Glory",
+    "thumb_url": "chien-ky-nhu-tranh-thumb.jpg",
+    "poster_url": "chien-ky-nhu-tranh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261675",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt30478333",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-30T19:23:51.000Z"
+    },
+    "_id": "69c4b767f07c400a86d5798e",
+    "name": "Toà Án Gia Đình",
+    "slug": "toa-an-gia-dinh",
+    "origin_name": "Hold A Court Now",
+    "thumb_url": "toa-an-gia-dinh-thumb.jpg",
+    "poster_url": "toa-an-gia-dinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "291470",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36959254",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-30T18:53:01.000Z"
+    },
+    "_id": "69bd3bb2f063d23bbbd4a0e3",
+    "name": "Đông Qua Xuân Đến",
+    "slug": "dong-qua-xuan-den",
+    "origin_name": "Live up to Your Youth",
+    "thumb_url": "dong-qua-xuan-den-thumb.jpg",
+    "poster_url": "dong-qua-xuan-den-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-30T18:47:42.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "280822",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34625806",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-30T17:36:30.000Z"
+    },
+    "_id": "69b9275e32adc86a1e815cde",
+    "name": "Xin Chào 1983",
+    "slug": "xin-chao-1983",
+    "origin_name": "Dream of Golden Years",
+    "thumb_url": "xin-chao-1983-thumb.jpg",
+    "poster_url": "xin-chao-1983-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317210",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-30T17:28:31.000Z"
+    },
+    "_id": "69c10e9cf07c400a86d4e264",
+    "name": "Chẳng Thể Kiểm Soát Con Tim",
+    "slug": "chang-the-kiem-soat-con-tim",
+    "origin_name": "Lose My Heart to You",
+    "thumb_url": "chang-the-kiem-soat-con-tim-thumb.jpg",
+    "poster_url": "chang-the-kiem-soat-con-tim-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "117465",
+      "season": 2,
+      "vote_average": 8.1,
+      "vote_count": 380
+    },
+    "imdb": {
+      "id": "tt13911284",
+      "vote_average": 8.1,
+      "vote_count": 24906
+    },
+    "modified": {
+      "time": "2026-03-30T17:25:33.000Z"
+    },
+    "_id": "69646a4754ca9185bba9766f",
+    "name": "Địa Ngục Cực Lạc (Phần 2)",
+    "slug": "dia-nguc-cuc-lac-phan-2",
+    "origin_name": "Hell's Paradise (Season 2)",
+    "thumb_url": "dia-nguc-cuc-lac-phan-2-thumb.jpg",
+    "poster_url": "dia-nguc-cuc-lac-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290856",
+      "season": 1,
+      "vote_average": 8.179,
+      "vote_count": 39
+    },
+    "imdb": {
+      "id": "tt36849871",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-30T17:20:55.000Z"
+    },
+    "_id": "69aa268c400bf394bd8ea526",
+    "name": "Lực Lượng Marshals",
+    "slug": "marshals",
+    "origin_name": "Marshals",
+    "thumb_url": "marshals-thumb.jpg",
+    "poster_url": "marshals-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "83533",
+      "season": null,
+      "vote_average": 7.297,
+      "vote_count": 1673
+    },
+    "imdb": {
+      "id": "tt1757678",
+      "vote_average": 7.4,
+      "vote_count": 123629
+    },
+    "modified": {
+      "time": "2026-03-30T14:16:57.000Z"
+    },
+    "_id": "688873e6e6dc25c84dd0b2f7",
+    "name": "Avatar 3: Lửa và Tro Tàn",
+    "slug": "avatar-3-lua-va-tro-tan",
+    "origin_name": "Avatar: Fire and Ash",
+    "thumb_url": "avatar-3-lua-va-tro-tan-thumb.jpg",
+    "poster_url": "avatar-3-lua-va-tro-tan-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-30T14:03:54.000Z"
+    },
+    "_id": "69ca1f9ed88856be7725eca5",
+    "name": "Lòng Anh Không Khó Đoán",
+    "slug": "long-anh-khong-kho-doan",
+    "origin_name": "Born To Be The Villain",
+    "thumb_url": "long-anh-khong-kho-doan-thumb.jpg",
+    "poster_url": "long-anh-khong-kho-doan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316374",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40606760",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-30T14:01:15.000Z"
+    },
+    "_id": "69c7aab9e263b2a946273f02",
+    "name": "Minh Châu Kỳ Đàm (Phần 2)",
+    "slug": "minh-chau-ky-dam-phan-2",
+    "origin_name": "The Secret of the Lost Pearl (Season 2)",
+    "thumb_url": "minh-chau-ky-dam-phan-2-thumb.jpg",
+    "poster_url": "minh-chau-ky-dam-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317041",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-03-30T14:01:09.000Z"
+    },
+    "_id": "69bfc6ce400bf394bd942519",
+    "name": "Săn Tội Huyết Oán",
+    "slug": "san-toi-huyet-oan",
+    "origin_name": "Hunting For Crime · Red Deep Grudge",
+    "thumb_url": "san-toi-huyet-oan-thumb.jpg",
+    "poster_url": "san-toi-huyet-oan-poster.jpg",
+    "year": 2026
+  }
+]
