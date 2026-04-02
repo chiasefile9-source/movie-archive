@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "86031",
+      "season": 4,
+      "vote_average": 8.538,
+      "vote_count": 1609
+    },
+    "imdb": {
+      "id": "tt9679542",
+      "vote_average": 8.1,
+      "vote_count": 40034
+    },
+    "modified": {
+      "time": "2026-04-03T00:10:57.000Z"
+    },
+    "_id": "6780ddf7af10fecdaf87d209",
+    "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
+    "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
+    "origin_name": "Dr. STONE (Season 4)",
+    "thumb_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
+    "poster_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T00:05:42.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303405",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38742795",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T00:02:57.000Z"
+    },
+    "_id": "69ce1b62f063d23bbbd85f17",
+    "name": "Tội Lỗi Của Kujo",
+    "slug": "toi-loi-cua-kujo",
+    "origin_name": "Sins of Kujo",
+    "thumb_url": "toi-loi-cua-kujo-thumb.jpg",
+    "poster_url": "toi-loi-cua-kujo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "242867",
+      "season": 1,
+      "vote_average": 4.9,
+      "vote_count": 53
+    },
+    "imdb": {
+      "id": "tt22475008",
+      "vote_average": 5.5,
+      "vote_count": 5993
+    },
+    "modified": {
+      "time": "2026-04-02T23:19:46.000Z"
+    },
+    "_id": "69aba24f46046a8eb6916589",
+    "name": "Bác Sĩ Watson (Phần 1)",
+    "slug": "bac-si-watson-phan-1",
+    "origin_name": "Watson (Season 1)",
+    "thumb_url": "bac-si-watson-phan-1-thumb.jpg",
+    "poster_url": "bac-si-watson-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "298849",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T20:58:03.000Z"
+    },
+    "_id": "69a12fda4ea2111da8bf4850",
+    "name": "Con Tôi Hẹn Hò (Phần 2)",
+    "slug": "con-toi-hen-ho-phan-2",
+    "origin_name": "When Our Kids Fall In Love",
+    "thumb_url": "con-toi-hen-ho-phan-2-thumb.jpg",
+    "poster_url": "con-toi-hen-ho-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "307624",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt40586090",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T20:57:38.000Z"
+    },
+    "_id": "69be8cc5b06c99c722ff4329",
+    "name": "Tết Thiếu Nhi của Sơ Tam",
+    "slug": "tet-thieu-nhi-cua-so-tam",
+    "origin_name": "Sammy's Children's Day",
+    "thumb_url": "tet-thieu-nhi-cua-so-tam-thumb.jpg",
+    "poster_url": "tet-thieu-nhi-cua-so-tam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "273151",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41150762",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T20:13:52.000Z"
+    },
+    "_id": "69cbba5eeea244e3e8ba4862",
+    "name": "Mối Quan Hệ Nguy Hiểm",
+    "slug": "moi-quan-he-nguy-hiem-2026",
+    "origin_name": "The Dark Romance",
+    "thumb_url": "moi-quan-he-nguy-hiem-2026-thumb.jpg",
+    "poster_url": "moi-quan-he-nguy-hiem-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261675",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt30478333",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T20:13:22.000Z"
+    },
+    "_id": "69c4b767f07c400a86d5798e",
+    "name": "Toà Án Gia Đình",
+    "slug": "toa-an-gia-dinh",
+    "origin_name": "Hold A Court Now",
+    "thumb_url": "toa-an-gia-dinh-thumb.jpg",
+    "poster_url": "toa-an-gia-dinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "291470",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36959254",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T20:13:11.000Z"
+    },
+    "_id": "69bd3bb2f063d23bbbd4a0e3",
+    "name": "Đông Qua Xuân Đến",
+    "slug": "dong-qua-xuan-den",
+    "origin_name": "Live up to Your Youth",
+    "thumb_url": "dong-qua-xuan-den-thumb.jpg",
+    "poster_url": "dong-qua-xuan-den-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317762",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41164579",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T20:09:01.000Z"
+    },
+    "_id": "69ca1f9ed88856be7725eca5",
+    "name": "Lòng Anh Không Khó Đoán",
+    "slug": "long-anh-khong-kho-doan",
+    "origin_name": "Born To Be The Villain",
+    "thumb_url": "long-anh-khong-kho-doan-thumb.jpg",
+    "poster_url": "long-anh-khong-kho-doan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "195670",
+      "season": 3,
+      "vote_average": 8.065,
+      "vote_count": 596
+    },
+    "imdb": {
+      "id": "tt14490706",
+      "vote_average": 6.5,
+      "vote_count": 22644
+    },
+    "modified": {
+      "time": "2026-04-02T20:07:53.000Z"
+    },
+    "_id": "69ce1b0a54ca9185bbbf44f2",
+    "name": "XO, Kitty (Phần 3)",
+    "slug": "xo-kitty-phan-3",
+    "origin_name": "XO, Kitty (Season 3)",
+    "thumb_url": "xo-kitty-phan-3-thumb.jpg",
+    "poster_url": "xo-kitty-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274222",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T20:06:54.000Z"
+    },
+    "_id": "69ce440754ca9185bbbf4eb0",
+    "name": "Tình Địch Của Tôi Là Chính Tôi",
+    "slug": "tinh-dich-cua-toi-la-chinh-toi",
+    "origin_name": "My Rival in Love is Me",
+    "thumb_url": "tinh-dich-cua-toi-la-chinh-toi-thumb.jpg",
+    "poster_url": "tinh-dich-cua-toi-la-chinh-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "280822",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34625806",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T17:30:24.000Z"
+    },
+    "_id": "69b9275e32adc86a1e815cde",
+    "name": "Xin Chào 1983",
+    "slug": "xin-chao-1983",
+    "origin_name": "Dream of Golden Years",
+    "thumb_url": "xin-chao-1983-thumb.jpg",
+    "poster_url": "xin-chao-1983-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317210",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T17:17:03.000Z"
+    },
+    "_id": "69c10e9cf07c400a86d4e264",
+    "name": "Chẳng Thể Kiểm Soát Con Tim",
+    "slug": "chang-the-kiem-soat-con-tim",
+    "origin_name": "Lose My Heart to You",
+    "thumb_url": "chang-the-kiem-soat-con-tim-thumb.jpg",
+    "poster_url": "chang-the-kiem-soat-con-tim-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318188",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39383599",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T16:16:22.000Z"
+    },
+    "_id": "69ce19fa400bf394bd9722e9",
+    "name": "Alkhallat+: Loạt Phim",
+    "slug": "alkhallat-loat-phim",
+    "origin_name": "Alkhallat+: The Series",
+    "thumb_url": "alkhallat-loat-phim-thumb.jpg",
+    "poster_url": "alkhallat-loat-phim-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "213703",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt23220752",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T16:16:03.000Z"
+    },
+    "_id": "69ce1ad6ccc6cea268882860",
+    "name": "Kê Thân",
+    "slug": "ke-than",
+    "origin_name": "Agent from Above",
+    "thumb_url": "ke-than-thumb.jpg",
+    "poster_url": "ke-than-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302540",
+      "season": 2,
+      "vote_average": 6.5,
+      "vote_count": 33
+    },
+    "imdb": {
+      "id": "tt31392119",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T16:14:44.000Z"
+    },
+    "_id": "69ce1a2eeea244e3e8bacd44",
+    "name": "Những kẻ xấu xa: Đột nhập (Phần 2)",
+    "slug": "nhung-ke-xau-xa-dot-nhap-phan-2",
+    "origin_name": "The Bad Guys: The Series (Season 2)",
+    "thumb_url": "nhung-ke-xau-xa-dot-nhap-phan-2-thumb.jpg",
+    "poster_url": "nhung-ke-xau-xa-dot-nhap-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "61786",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 10
+    },
+    "imdb": {
+      "id": "tt4284162",
+      "vote_average": 6.9,
+      "vote_count": 240
+    },
+    "modified": {
+      "time": "2026-04-02T15:02:01.000Z"
+    },
+    "_id": "69cde7eef063d23bbbd84b9e",
+    "name": "Kiêu Hãnh Và Định Kiến",
+    "slug": "kieu-hanh-va-dinh-kienn",
+    "origin_name": "Pride and Prejudice",
+    "thumb_url": "kieu-hanh-va-dinh-kienn-thumb.jpg",
+    "poster_url": "kieu-hanh-va-dinh-kienn-poster.jpg",
+    "year": 2014
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317041",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T14:16:23.000Z"
+    },
+    "_id": "69bfc6ce400bf394bd942519",
+    "name": "Săn Tội Huyết Oán",
+    "slug": "san-toi-huyet-oan",
+    "origin_name": "Hunting For Crime · Red Deep Grudge",
+    "thumb_url": "san-toi-huyet-oan-thumb.jpg",
+    "poster_url": "san-toi-huyet-oan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316374",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40606760",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T14:16:10.000Z"
+    },
+    "_id": "69c7aab9e263b2a946273f02",
+    "name": "Minh Châu Kỳ Đàm (Phần 2)",
+    "slug": "minh-chau-ky-dam-phan-2",
+    "origin_name": "The Secret of the Lost Pearl (Season 2)",
+    "thumb_url": "minh-chau-ky-dam-phan-2-thumb.jpg",
+    "poster_url": "minh-chau-ky-dam-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1444032",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt36187149",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T13:33:27.000Z"
+    },
+    "_id": "69cc983af937c3b5a11c3736",
+    "name": "Masthishka Maranam",
+    "slug": "masthishka-maranam",
+    "origin_name": "Masthishka Maranam",
+    "thumb_url": "masthishka-maranam-thumb.jpg",
+    "poster_url": "masthishka-maranam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1130875",
+      "season": null,
+      "vote_average": 7.25,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt19393076",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T13:32:56.000Z"
+    },
+    "_id": "69cc979e97c71dcd0d7b7d75",
+    "name": "Operation Taco Gary's",
+    "slug": "operation-taco-garys",
+    "origin_name": "Operation Taco Gary's",
+    "thumb_url": "operation-taco-garys-thumb.jpg",
+    "poster_url": "operation-taco-garys-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1275574",
+      "season": null,
+      "vote_average": 4.833,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt31969779",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-02T13:32:09.000Z"
+    },
+    "_id": "69cc98b3988d934ea9f95509",
+    "name": "O' Romeo",
+    "slug": "o-romeo",
+    "origin_name": "O' Romeo",
+    "thumb_url": "o-romeo-thumb.jpg",
+    "poster_url": "o-romeo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1628578",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37028716",
+      "vote_average": 0,
+      "vote_count": 503
+    },
+    "modified": {
+      "time": "2026-04-02T13:30:47.000Z"
+    },
+    "_id": "69cc96a5d88856be77268a90",
+    "name": "Yogida",
+    "slug": "yogida",
+    "origin_name": "Yogida",
+    "thumb_url": "yogida-thumb.jpg",
+    "poster_url": "yogida-poster.jpg",
+    "year": 2026
+  }
+]
