@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302926",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38644602",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T23:55:18.000Z"
+    },
+    "_id": "690d5c6726683d7f739fd5d0",
+    "name": "Những Ông Bố Của Ma Ri",
+    "slug": "nhung-ong-bo-cua-ma-ri",
+    "origin_name": "Marie and Her Three Daddies",
+    "thumb_url": "nhung-ong-bo-cua-ma-ri-thumb.jpg",
+    "poster_url": "nhung-ong-bo-cua-ma-ri-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "87917",
+      "season": 5,
+      "vote_average": 7.7,
+      "vote_count": 879
+    },
+    "imdb": {
+      "id": "tt7772588",
+      "vote_average": 8.1,
+      "vote_count": 84321
+    },
+    "modified": {
+      "time": "2026-04-03T21:19:49.000Z"
+    },
+    "_id": "69c64b534da3bf6eb345b5c0",
+    "name": "Cuộc Chiến Không Gian (Phần 5)",
+    "slug": "cuoc-chien-khong-gianphan-5",
+    "origin_name": "For All Mankind (Season 5)",
+    "thumb_url": "cuoc-chien-khong-gianphan-5-thumb.jpg",
+    "poster_url": "cuoc-chien-khong-gianphan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "201289",
+      "season": 2,
+      "vote_average": 7,
+      "vote_count": 159
+    },
+    "imdb": {
+      "id": "tt13745850",
+      "vote_average": 6.6,
+      "vote_count": 20775
+    },
+    "modified": {
+      "time": "2026-04-03T21:19:11.000Z"
+    },
+    "_id": "699ad6b8da6ce23e8e9dbec7",
+    "name": "Lời Nhắn Cuối Cùng (Phần 2)",
+    "slug": "loi-nhan-cuoi-cung-phan-2",
+    "origin_name": "The Last Thing He Told Me (Season 2)",
+    "thumb_url": "loi-nhan-cuoi-cung-phan-2-thumb.jpg",
+    "poster_url": "loi-nhan-cuoi-cung-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202411",
+      "season": 2,
+      "vote_average": 7.7,
+      "vote_count": 1015
+    },
+    "imdb": {
+      "id": "tt17220216",
+      "vote_average": 7,
+      "vote_count": 51851
+    },
+    "modified": {
+      "time": "2026-04-03T21:18:37.000Z"
+    },
+    "_id": "69a255c81d0b515454af0815",
+    "name": "Monarch: Thế Giới Quái Thú (Phần 2)",
+    "slug": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2",
+    "origin_name": "Monarch: Legacy of Monsters (Season 2)",
+    "thumb_url": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-thumb.jpg",
+    "poster_url": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T21:07:30.000Z"
+    },
+    "_id": "69cfc1840a0114095c87307b",
+    "name": "Bão Tố Dữ Dội",
+    "slug": "bao-to-du-doi",
+    "origin_name": "The Storm",
+    "thumb_url": "bao-to-du-doi-thumb.jpg",
+    "poster_url": "bao-to-du-doi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281392",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32465914",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T20:58:44.000Z"
+    },
+    "_id": "69cfb9e5f07c400a86d7f054",
+    "name": "Rừng Thép",
+    "slug": "rung-thep",
+    "origin_name": "Sunsets Secrets Regrets",
+    "thumb_url": "rung-thep-thumb.jpg",
+    "poster_url": "rung-thep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "246483",
+      "season": 2,
+      "vote_average": 7.7,
+      "vote_count": 25
+    },
+    "imdb": {
+      "id": "tt31183656",
+      "vote_average": 8,
+      "vote_count": 10079
+    },
+    "modified": {
+      "time": "2026-04-03T20:49:31.000Z"
+    },
+    "_id": "69cfc56b1d0b515454ba21d2",
+    "name": "Mớ chuyện pháp lý (Phần 2)",
+    "slug": "mo-chuyen-phap-ly-phan-2",
+    "origin_name": "Maamla Legal Hai (Season 2)",
+    "thumb_url": "mo-chuyen-phap-ly-phan-2-thumb.jpg",
+    "poster_url": "mo-chuyen-phap-ly-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283428",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39123061",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T20:49:07.000Z"
+    },
+    "_id": "69cfc54f54ca9185bbbf9f80",
+    "name": "Bức Tường Băng",
+    "slug": "buc-tuong-bang",
+    "origin_name": "The Ramparts of Ice",
+    "thumb_url": "buc-tuong-bang-thumb.jpg",
+    "poster_url": "buc-tuong-bang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "203616",
+      "season": 3,
+      "vote_average": 6.9,
+      "vote_count": 67
+    },
+    "imdb": {
+      "id": "tt21093806",
+      "vote_average": 7.3,
+      "vote_count": 3692
+    },
+    "modified": {
+      "time": "2026-04-03T20:43:37.000Z"
+    },
+    "_id": "69cfc2b9e263b2a94629163e",
+    "name": "High Tides (Phần 3)",
+    "slug": "high-tides-phan-3",
+    "origin_name": "High Tides (Season 3)",
+    "thumb_url": "high-tides-phan-3-thumb.jpg",
+    "poster_url": "high-tides-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1620551",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38589464",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T20:30:35.000Z"
+    },
+    "_id": "69cfc0f6e263b2a946291513",
+    "name": "Tiếng Hát Trong Thinh Lặng",
+    "slug": "tieng-hat-trong-thinh-lang",
+    "origin_name": "Feel My Voice",
+    "thumb_url": "tieng-hat-trong-thinh-lang-thumb.jpg",
+    "poster_url": "tieng-hat-trong-thinh-lang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T20:28:20.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "863149",
+      "season": null,
+      "vote_average": 4,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39308490",
+      "vote_average": 0,
+      "vote_count": 17
+    },
+    "modified": {
+      "time": "2026-04-03T20:23:35.000Z"
+    },
+    "_id": "6992eeedda6ce23e8e9b150b",
+    "name": "Tình Đầu Khó Nói",
+    "slug": "tinh-dau-kho-noi",
+    "origin_name": "Heartman: Rock and Love",
+    "thumb_url": "tinh-dau-kho-noi-thumb-1773559381184.jpg",
+    "poster_url": "tinh-dau-kho-noi-poster-1773559383785.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "127529",
+      "season": 2,
+      "vote_average": 8.309,
+      "vote_count": 510
+    },
+    "imdb": {
+      "id": "tt26315487",
+      "vote_average": 8.1,
+      "vote_count": 21346
+    },
+    "modified": {
+      "time": "2026-04-03T19:51:57.000Z"
+    },
+    "_id": "69cfa8f9ae6f0c1fdf4b8944",
+    "name": "Chó Săn Công Lý (Phần 2)",
+    "slug": "cho-san-cong-ly-phan-2",
+    "origin_name": "Bloodhounds (Season 2)",
+    "thumb_url": "cho-san-cong-ly-phan-2-thumb.jpg",
+    "poster_url": "cho-san-cong-ly-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282902",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T19:09:11.000Z"
+    },
+    "_id": "69cd0970eea244e3e8ba91fc",
+    "name": "Anh Vũ",
+    "slug": "anh-vu-2026",
+    "origin_name": "Unpredictable",
+    "thumb_url": "anh-vu-2026-thumb.jpg",
+    "poster_url": "anh-vu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211358",
+      "season": 1,
+      "vote_average": 7.8,
+      "vote_count": 212
+    },
+    "imdb": {
+      "id": "tt1640719",
+      "vote_average": 7.2,
+      "vote_count": 20870
+    },
+    "modified": {
+      "time": "2026-04-03T15:13:22.000Z"
+    },
+    "_id": "69cb7a5e458948c679afe323",
+    "name": "Bi Kịch Dưới Chân Cầu",
+    "slug": "bi-kich-duoi-chan-cau",
+    "origin_name": "Under the Bridge",
+    "thumb_url": "bi-kich-duoi-chan-cau-thumb.jpg",
+    "poster_url": "bi-kich-duoi-chan-cau-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316374",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40606760",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T14:29:45.000Z"
+    },
+    "_id": "69c7aab9e263b2a946273f02",
+    "name": "Minh Châu Kỳ Đàm (Phần 2)",
+    "slug": "minh-chau-ky-dam-phan-2",
+    "origin_name": "The Secret of the Lost Pearl (Season 2)",
+    "thumb_url": "minh-chau-ky-dam-phan-2-thumb.jpg",
+    "poster_url": "minh-chau-ky-dam-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317041",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T14:29:04.000Z"
+    },
+    "_id": "69bfc6ce400bf394bd942519",
+    "name": "Săn Tội Huyết Oán",
+    "slug": "san-toi-huyet-oan",
+    "origin_name": "Hunting For Crime · Red Deep Grudge",
+    "thumb_url": "san-toi-huyet-oan-thumb.jpg",
+    "poster_url": "san-toi-huyet-oan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317762",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41164579",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T14:28:39.000Z"
+    },
+    "_id": "69ca1f9ed88856be7725eca5",
+    "name": "Lòng Anh Không Khó Đoán",
+    "slug": "long-anh-khong-kho-doan",
+    "origin_name": "Born To Be The Villain",
+    "thumb_url": "long-anh-khong-kho-doan-thumb.jpg",
+    "poster_url": "long-anh-khong-kho-doan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "62264",
+      "season": 2,
+      "vote_average": 7.733,
+      "vote_count": 1727
+    },
+    "imdb": {
+      "id": "tt4189022",
+      "vote_average": 8.4,
+      "vote_count": 84428
+    },
+    "modified": {
+      "time": "2026-04-03T11:27:03.000Z"
+    },
+    "_id": "69cf34d5f65d22d617bad03a",
+    "name": "Ash Đối Đầu Ma Cây (Phần 2)",
+    "slug": "ash-doi-dau-ma-cay-phan-2",
+    "origin_name": "Ash vs Evil Dead (Season 2)",
+    "thumb_url": "ash-doi-dau-ma-cay-phan-2-thumb.jpg",
+    "poster_url": "ash-doi-dau-ma-cay-phan-2-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283961",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982546",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T11:15:49.000Z"
+    },
+    "_id": "69c4bee8f65d22d617b880f2",
+    "name": "Em là niềm vui đến muộn",
+    "slug": "em-la-niem-vui-den-muon",
+    "origin_name": "You Are My Fateful Love",
+    "thumb_url": "em-la-niem-vui-den-muon-thumb.jpg",
+    "poster_url": "em-la-niem-vui-den-muon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278275",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt35046984",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T11:15:26.000Z"
+    },
+    "_id": "69cbbf964da3bf6eb346f5e5",
+    "name": "Nguyệt Lân Ỷ Kỷ",
+    "slug": "nguyet-lan-y-ky",
+    "origin_name": "Veil of Shadows",
+    "thumb_url": "nguyet-lan-y-ky-thumb.jpg",
+    "poster_url": "nguyet-lan-y-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309044",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T11:06:09.000Z"
+    },
+    "_id": "69843f824ea2111da8b72fb3",
+    "name": "Món Quà Của Kluay",
+    "slug": "mon-qua-cua-kluay",
+    "origin_name": "The Gift",
+    "thumb_url": "mon-qua-cua-kluay-thumb.jpg",
+    "poster_url": "mon-qua-cua-kluay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282904",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32563322",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T11:03:43.000Z"
+    },
+    "_id": "69b4de70458948c679aa8d38",
+    "name": "Ngọn Lửa Rực Rỡ Của Cô Ấy",
+    "slug": "ngon-lua-ruc-ro-cua-co-ay",
+    "origin_name": "Her Blaze",
+    "thumb_url": "ngon-lua-ruc-ro-cua-co-ay-thumb.jpg",
+    "poster_url": "ngon-lua-ruc-ro-cua-co-ay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "293505",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-03T11:03:31.000Z"
+    },
+    "_id": "69bb7ceaf937c3b5a1186a98",
+    "name": "Cận Kề Bóng Tối",
+    "slug": "can-ke-bong-toi",
+    "origin_name": "Dark and Dawn",
+    "thumb_url": "can-ke-bong-toi-thumb.jpg",
+    "poster_url": "can-ke-bong-toi-poster.jpg",
+    "year": 2026
+  }
+]
