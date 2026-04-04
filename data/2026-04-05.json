@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "253391",
+      "season": 1,
+      "vote_average": 7.3,
+      "vote_count": 23
+    },
+    "imdb": {
+      "id": "tt32268630",
+      "vote_average": 6.5,
+      "vote_count": 2132
+    },
+    "modified": {
+      "time": "2026-04-04T20:09:28.000Z"
+    },
+    "_id": "694b47ecb06c99c722eaa29f",
+    "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
+    "slug": "canh-sat-truong-vung-que-phan-1",
+    "origin_name": "Sheriff Country",
+    "thumb_url": "canh-sat-truong-vung-que-phan-1-thumb.jpg",
+    "poster_url": "canh-sat-truong-vung-que-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261675",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt30478333",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T19:55:59.000Z"
+    },
+    "_id": "69c4b767f07c400a86d5798e",
+    "name": "Toà Án Gia Đình",
+    "slug": "toa-an-gia-dinh",
+    "origin_name": "Hold A Court Now",
+    "thumb_url": "toa-an-gia-dinh-thumb.jpg",
+    "poster_url": "toa-an-gia-dinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "273151",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41150762",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T19:55:43.000Z"
+    },
+    "_id": "69cbba5eeea244e3e8ba4862",
+    "name": "Mối Quan Hệ Nguy Hiểm",
+    "slug": "moi-quan-he-nguy-hiem-2026",
+    "origin_name": "The Dark Romance",
+    "thumb_url": "moi-quan-he-nguy-hiem-2026-thumb.jpg",
+    "poster_url": "moi-quan-he-nguy-hiem-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281392",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32465914",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T17:24:55.000Z"
+    },
+    "_id": "69cfb9e5f07c400a86d7f054",
+    "name": "Rừng Thép",
+    "slug": "rung-thep",
+    "origin_name": "Sunsets Secrets Regrets",
+    "thumb_url": "rung-thep-thumb.jpg",
+    "poster_url": "rung-thep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282902",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T17:23:58.000Z"
+    },
+    "_id": "69cd0970eea244e3e8ba91fc",
+    "name": "Anh Vũ",
+    "slug": "anh-vu-2026",
+    "origin_name": "Unpredictable",
+    "thumb_url": "anh-vu-2026-thumb.jpg",
+    "poster_url": "anh-vu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "217838",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34934110",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T17:15:57.000Z"
+    },
+    "_id": "69c75361eea244e3e8b93ab3",
+    "name": "Love Upon A Time: Duyên Kiếp Bên Người",
+    "slug": "love-upon-a-time-duyen-kiep-ben-nguoi",
+    "origin_name": "Love Upon a Time",
+    "thumb_url": "love-upon-a-time-duyen-kiep-ben-nguoi-thumb.jpg",
+    "poster_url": "love-upon-a-time-duyen-kiep-ben-nguoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T17:15:25.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311650",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40529147",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T16:39:09.000Z"
+    },
+    "_id": "69d0d35ff65d22d617bb4255",
+    "name": "Đời Cải Thảo",
+    "slug": "doi-cai-thao",
+    "origin_name": "Cabbage Your Life",
+    "thumb_url": "doi-cai-thao-thumb.jpg",
+    "poster_url": "doi-cai-thao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "56570",
+      "season": 8,
+      "vote_average": 8.179,
+      "vote_count": 2784
+    },
+    "imdb": {
+      "id": "tt3006802",
+      "vote_average": 8.3,
+      "vote_count": 197619
+    },
+    "modified": {
+      "time": "2026-04-04T15:19:54.000Z"
+    },
+    "_id": "69b4da44b06c99c722fca67d",
+    "name": "Người Ngoại Tộc (Phần 8)",
+    "slug": "nguoi-ngoai-toc-phan-8",
+    "origin_name": "Outlander (Season 8)",
+    "thumb_url": "nguoi-ngoai-toc-phan-8-thumb.jpg",
+    "poster_url": "nguoi-ngoai-toc-phan-8-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T15:16:15.000Z"
+    },
+    "_id": "69cfc1840a0114095c87307b",
+    "name": "Bão Tố Dữ Dội",
+    "slug": "bao-to-du-doi",
+    "origin_name": "The Storm",
+    "thumb_url": "bao-to-du-doi-thumb.jpg",
+    "poster_url": "bao-to-du-doi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317762",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41164579",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T15:06:16.000Z"
+    },
+    "_id": "69ca1f9ed88856be7725eca5",
+    "name": "Lòng Anh Không Khó Đoán",
+    "slug": "long-anh-khong-kho-doan",
+    "origin_name": "Born To Be The Villain",
+    "thumb_url": "long-anh-khong-kho-doan-thumb.jpg",
+    "poster_url": "long-anh-khong-kho-doan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317041",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T15:00:39.000Z"
+    },
+    "_id": "69bfc6ce400bf394bd942519",
+    "name": "Săn Tội Huyết Oán",
+    "slug": "san-toi-huyet-oan",
+    "origin_name": "Hunting For Crime · Red Deep Grudge",
+    "thumb_url": "san-toi-huyet-oan-thumb.jpg",
+    "poster_url": "san-toi-huyet-oan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316374",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40606760",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T14:59:34.000Z"
+    },
+    "_id": "69c7aab9e263b2a946273f02",
+    "name": "Minh Châu Kỳ Đàm (Phần 2)",
+    "slug": "minh-chau-ky-dam-phan-2",
+    "origin_name": "The Secret of the Lost Pearl (Season 2)",
+    "thumb_url": "minh-chau-ky-dam-phan-2-thumb.jpg",
+    "poster_url": "minh-chau-ky-dam-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281010",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39837101",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T13:51:37.000Z"
+    },
+    "_id": "69abb1c2f063d23bbbd03d3e",
+    "name": "Luật Sư Bóng Ma",
+    "slug": "luat-su-bong-ma",
+    "origin_name": "Phantom Lawyer",
+    "thumb_url": "luat-su-bong-ma-thumb.jpg",
+    "poster_url": "luat-su-bong-ma-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295351",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T13:48:28.000Z"
+    },
+    "_id": "699967540a0114095c78ad50",
+    "name": "Play Park",
+    "slug": "play-park",
+    "origin_name": "Play Park",
+    "thumb_url": "play-park-thumb.jpg",
+    "poster_url": "play-park-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "276472",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40108629",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T13:47:50.000Z"
+    },
+    "_id": "69aba7d4ccc6cea2688005cb",
+    "name": "Ánh sáng của đôi ta",
+    "slug": "anh-sang-cua-doi-ta",
+    "origin_name": "Still Shining",
+    "thumb_url": "anh-sang-cua-doi-ta-thumb.jpg",
+    "poster_url": "anh-sang-cua-doi-ta-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "79744",
+      "season": 8,
+      "vote_average": 8.529,
+      "vote_count": 2930
+    },
+    "imdb": {
+      "id": "tt7587890",
+      "vote_average": 8,
+      "vote_count": 116400
+    },
+    "modified": {
+      "time": "2026-04-04T13:37:01.000Z"
+    },
+    "_id": "6966276b4da3bf6eb331cdd6",
+    "name": "Lính Mới (Phần 8)",
+    "slug": "linh-moi-phan-8",
+    "origin_name": "The Rookie (Season 8)",
+    "thumb_url": "linh-moi-phan-8-thumb.jpg",
+    "poster_url": "linh-moi-phan-8-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "242867",
+      "season": 1,
+      "vote_average": 4.9,
+      "vote_count": 53
+    },
+    "imdb": {
+      "id": "tt22475008",
+      "vote_average": 5.5,
+      "vote_count": 5993
+    },
+    "modified": {
+      "time": "2026-04-04T13:36:37.000Z"
+    },
+    "_id": "69aba24f46046a8eb6916589",
+    "name": "Bác Sĩ Watson (Phần 1)",
+    "slug": "bac-si-watson-phan-1",
+    "origin_name": "Watson (Season 1)",
+    "thumb_url": "bac-si-watson-phan-1-thumb.jpg",
+    "poster_url": "bac-si-watson-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278275",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt35046984",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T12:33:43.000Z"
+    },
+    "_id": "69cbbf964da3bf6eb346f5e5",
+    "name": "Nguyệt Lân Ỷ Kỷ",
+    "slug": "nguyet-lan-y-ky",
+    "origin_name": "Veil of Shadows",
+    "thumb_url": "nguyet-lan-y-ky-thumb.jpg",
+    "poster_url": "nguyet-lan-y-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312583",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39452164",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T12:31:34.000Z"
+    },
+    "_id": "69d09f12f937c3b5a11d24b6",
+    "name": "Người Yêu Miền Quê",
+    "slug": "nguoi-yeu-mien-que",
+    "origin_name": "Hometown Romance",
+    "thumb_url": "nguoi-yeu-mien-que-thumb.jpg",
+    "poster_url": "nguoi-yeu-mien-que-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283961",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982546",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T12:30:06.000Z"
+    },
+    "_id": "69c4bee8f65d22d617b880f2",
+    "name": "Em là niềm vui đến muộn",
+    "slug": "em-la-niem-vui-den-muon",
+    "origin_name": "You Are My Fateful Love",
+    "thumb_url": "em-la-niem-vui-den-muon-thumb.jpg",
+    "poster_url": "em-la-niem-vui-den-muon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1531601",
+      "season": null,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T12:28:57.000Z"
+    },
+    "_id": "69119eabaa1685d51b948708",
+    "name": "Cục Vàng Của Ngoại",
+    "slug": "cuc-vang-cua-ngoai",
+    "origin_name": "My Little Grandma",
+    "thumb_url": "cuc-vang-cua-ngoai-thumb.jpg",
+    "poster_url": "cuc-vang-cua-ngoai-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274222",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-04T12:26:11.000Z"
+    },
+    "_id": "69ce440754ca9185bbbf4eb0",
+    "name": "Tình Địch Của Tôi Là Chính Tôi",
+    "slug": "tinh-dich-cua-toi-la-chinh-toi",
+    "origin_name": "My Rival in Love is Me",
+    "thumb_url": "tinh-dich-cua-toi-la-chinh-toi-thumb.jpg",
+    "poster_url": "tinh-dich-cua-toi-la-chinh-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "227042",
+      "season": 2,
+      "vote_average": 6.9,
+      "vote_count": 52
+    },
+    "imdb": {
+      "id": "tt27843828",
+      "vote_average": 6.4,
+      "vote_count": 2132
+    },
+    "modified": {
+      "time": "2026-04-04T12:25:51.000Z"
+    },
+    "_id": "69d09c3ff937c3b5a11d22e8",
+    "name": "Các băng đảng Galicia (Phần 2)",
+    "slug": "cac-bang-dang-galicia-phan-2",
+    "origin_name": "Gangs of Galicia (Season 2)",
+    "thumb_url": "cac-bang-dang-galicia-phan-2-thumb.jpg",
+    "poster_url": "cac-bang-dang-galicia-phan-2-poster.jpg",
+    "year": 2026
+  }
+]
