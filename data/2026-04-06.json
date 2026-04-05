@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303076",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T00:40:15.000Z"
+    },
+    "_id": "6947a82897c71dcd0d63982e",
+    "name": "Người Đàn Ông Đầu Tiên",
+    "slug": "nguoi-dan-ong-dau-tien",
+    "origin_name": "First Man",
+    "thumb_url": "nguoi-dan-ong-dau-tien-thumb.jpg",
+    "poster_url": "nguoi-dan-ong-dau-tien-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "307602",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39375564",
+      "vote_average": 4.5,
+      "vote_count": 19
+    },
+    "modified": {
+      "time": "2026-04-06T00:05:39.000Z"
+    },
+    "_id": "69bc1529ccc6cea268841d51",
+    "name": "Công Thức Tình Yêu",
+    "slug": "cong-thuc-tinh-yeu",
+    "origin_name": "Recipe For Love",
+    "thumb_url": "cong-thuc-tinh-yeu-thumb.jpg",
+    "poster_url": "cong-thuc-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211358",
+      "season": 1,
+      "vote_average": 7.8,
+      "vote_count": 212
+    },
+    "imdb": {
+      "id": "tt1640719",
+      "vote_average": 7.2,
+      "vote_count": 20870
+    },
+    "modified": {
+      "time": "2026-04-05T23:43:41.000Z"
+    },
+    "_id": "69cb7a5e458948c679afe323",
+    "name": "Bi Kịch Dưới Chân Cầu",
+    "slug": "bi-kich-duoi-chan-cau",
+    "origin_name": "Under the Bridge",
+    "thumb_url": "bi-kich-duoi-chan-cau-thumb.jpg",
+    "poster_url": "bi-kich-duoi-chan-cau-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281392",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32465914",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T19:18:08.000Z"
+    },
+    "_id": "69cfb9e5f07c400a86d7f054",
+    "name": "Rừng Thép",
+    "slug": "rung-thep",
+    "origin_name": "Sunsets Secrets Regrets",
+    "thumb_url": "rung-thep-thumb.jpg",
+    "poster_url": "rung-thep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "273151",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41150762",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T19:16:56.000Z"
+    },
+    "_id": "69cbba5eeea244e3e8ba4862",
+    "name": "Mối Quan Hệ Nguy Hiểm",
+    "slug": "moi-quan-he-nguy-hiem-2026",
+    "origin_name": "The Dark Romance",
+    "thumb_url": "moi-quan-he-nguy-hiem-2026-thumb.jpg",
+    "poster_url": "moi-quan-he-nguy-hiem-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T19:15:31.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282902",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T19:15:17.000Z"
+    },
+    "_id": "69cd0970eea244e3e8ba91fc",
+    "name": "Anh Vũ",
+    "slug": "anh-vu-2026",
+    "origin_name": "Unpredictable",
+    "thumb_url": "anh-vu-2026-thumb.jpg",
+    "poster_url": "anh-vu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "307624",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt40586090",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T16:31:15.000Z"
+    },
+    "_id": "69be8cc5b06c99c722ff4329",
+    "name": "Tết Thiếu Nhi của Sơ Tam",
+    "slug": "tet-thieu-nhi-cua-so-tam",
+    "origin_name": "Sammy's Children's Day",
+    "thumb_url": "tet-thieu-nhi-cua-so-tam-thumb.jpg",
+    "poster_url": "tet-thieu-nhi-cua-so-tam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1629369",
+      "season": null,
+      "vote_average": 7,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt32572716",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T16:00:33.000Z"
+    },
+    "_id": "69d21ffbb06c99c72203787b",
+    "name": "Sự thật và bi kịch của Moriah Wilson",
+    "slug": "su-that-va-bi-kich-cua-moriah-wilson",
+    "origin_name": "The Truth and Tragedy of Moriah Wilson",
+    "thumb_url": "su-that-va-bi-kich-cua-moriah-wilson-thumb.jpg",
+    "poster_url": "su-that-va-bi-kich-cua-moriah-wilson-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306129",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T15:17:05.000Z"
+    },
+    "_id": "697f03db124287e08252ff23",
+    "name": "Soda Master",
+    "slug": "soda-master",
+    "origin_name": "Soda Master",
+    "thumb_url": "soda-master-thumb.jpg",
+    "poster_url": "soda-master-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "270857",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt31540954",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T15:02:24.000Z"
+    },
+    "_id": "69bb84f40a0114095c82b197",
+    "name": "Cái Tên Ẩn Danh",
+    "slug": "cai-ten-an-danh",
+    "origin_name": "Vanished Name",
+    "thumb_url": "cai-ten-an-danh-thumb.jpg",
+    "poster_url": "cai-ten-an-danh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316374",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40606760",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T15:02:02.000Z"
+    },
+    "_id": "69c7aab9e263b2a946273f02",
+    "name": "Minh Châu Kỳ Đàm (Phần 2)",
+    "slug": "minh-chau-ky-dam-phan-2",
+    "origin_name": "The Secret of the Lost Pearl (Season 2)",
+    "thumb_url": "minh-chau-ky-dam-phan-2-thumb.jpg",
+    "poster_url": "minh-chau-ky-dam-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T15:01:40.000Z"
+    },
+    "_id": "69cfc1840a0114095c87307b",
+    "name": "Bão Tố Dữ Dội",
+    "slug": "bao-to-du-doi",
+    "origin_name": "The Storm",
+    "thumb_url": "bao-to-du-doi-thumb.jpg",
+    "poster_url": "bao-to-du-doi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317216",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40961512",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T15:01:27.000Z"
+    },
+    "_id": "69c4b708988d934ea9f78f06",
+    "name": "Sa Đoạ",
+    "slug": "sa-doa",
+    "origin_name": "In Love with Loving You",
+    "thumb_url": "sa-doa-thumb.jpg",
+    "poster_url": "sa-doa-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282904",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32563322",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T15:01:09.000Z"
+    },
+    "_id": "69b4de70458948c679aa8d38",
+    "name": "Ngọn Lửa Rực Rỡ Của Cô Ấy",
+    "slug": "ngon-lua-ruc-ro-cua-co-ay",
+    "origin_name": "Her Blaze",
+    "thumb_url": "ngon-lua-ruc-ro-cua-co-ay-thumb.jpg",
+    "poster_url": "ngon-lua-ruc-ro-cua-co-ay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317762",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41164579",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T15:00:53.000Z"
+    },
+    "_id": "69ca1f9ed88856be7725eca5",
+    "name": "Lòng Anh Không Khó Đoán",
+    "slug": "long-anh-khong-kho-doan",
+    "origin_name": "Born To Be The Villain",
+    "thumb_url": "long-anh-khong-kho-doan-thumb.jpg",
+    "poster_url": "long-anh-khong-kho-doan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "128904",
+      "season": 4,
+      "vote_average": 7.509,
+      "vote_count": 168
+    },
+    "imdb": {
+      "id": "tt15017118",
+      "vote_average": 7.7,
+      "vote_count": 30016
+    },
+    "modified": {
+      "time": "2026-04-05T14:11:29.000Z"
+    },
+    "_id": "6995931e4ea2111da8bb15c1",
+    "name": "Cuồng Phong Bóng Tối (Phần 4)",
+    "slug": "cuong-phong-bong-toi-phan-4",
+    "origin_name": "Dark Winds (Season 4)",
+    "thumb_url": "cuong-phong-bong-toi-phan-4-thumb.jpg",
+    "poster_url": "cuong-phong-bong-toi-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "247805",
+      "season": 4,
+      "vote_average": 8.3,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt34460456",
+      "vote_average": 0,
+      "vote_count": 31
+    },
+    "modified": {
+      "time": "2026-04-05T14:10:29.000Z"
+    },
+    "_id": "6943a6f5d6caf55037c2b7bb",
+    "name": "Mọi Lúc Mọi Nơi (Phần 4)",
+    "slug": "moi-luc-moi-noi-phan-4",
+    "origin_name": "Whenever Possible (Season 4)",
+    "thumb_url": "moi-luc-moi-noi-phan-4-thumb.jpg",
+    "poster_url": "moi-luc-moi-noi-phan-4-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312175",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-05T14:10:09.000Z"
+    },
+    "_id": "698099011d0b515454a62a96",
+    "name": "Câu Lạc Bộ Bạn Bí Mật",
+    "slug": "cau-lac-bo-ban-bi-mat",
+    "origin_name": "The Secret Friends Club",
+    "thumb_url": "cau-lac-bo-ban-bi-mat-thumb.jpg",
+    "poster_url": "cau-lac-bo-ban-bi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202297",
+      "season": 4,
+      "vote_average": 8.155,
+      "vote_count": 152
+    },
+    "imdb": {
+      "id": "tt16098700",
+      "vote_average": 7.1,
+      "vote_count": 16438
+    },
+    "modified": {
+      "time": "2026-04-05T11:54:56.000Z"
+    },
+    "_id": "693a839b8e1195b71e9271a9",
+    "name": "Vùng Đất Lửa (Phần 4)",
+    "slug": "fire-country-phan-4",
+    "origin_name": "Fire Country (Season 4)",
+    "thumb_url": "fire-country-phan-4-thumb.jpg",
+    "poster_url": "fire-country-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "91801",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 285
+    },
+    "imdb": {
+      "id": "tt11034066",
+      "vote_average": 7.6,
+      "vote_count": 3317
+    },
+    "modified": {
+      "time": "2026-04-05T10:31:54.000Z"
+    },
+    "_id": "69d1d78e32adc86a1e86e515",
+    "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
+    "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
+    "origin_name": "Welcome to Demon School! Iruma-kun (Season 4)",
+    "thumb_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-thumb.jpg",
+    "poster_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "110181",
+      "season": 1,
+      "vote_average": 7.6,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt20769560",
+      "vote_average": 0,
+      "vote_count": 131
+    },
+    "modified": {
+      "time": "2026-04-05T10:01:32.000Z"
+    },
+    "_id": "68e4bc4d69d7b4696cc59469",
+    "name": "Võ Thần Chúa Tể",
+    "slug": "vo-than-chua-te",
+    "origin_name": "Martial Master",
+    "thumb_url": "vo-than-chua-te-thumb.jpg",
+    "poster_url": "vo-than-chua-te-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "198182",
+      "season": 1,
+      "vote_average": 8.8,
+      "vote_count": 28
+    },
+    "imdb": {
+      "id": "tt19902148",
+      "vote_average": 7,
+      "vote_count": 1273
+    },
+    "modified": {
+      "time": "2026-04-05T10:01:04.000Z"
+    },
+    "_id": "62a1a4ae7a956fb5db030134",
+    "name": "Thần Ấn Vương Toạ",
+    "origin_name": "Throne of Seal",
+    "thumb_url": "than-an-vuong-toa-thumb.jpg",
+    "poster_url": "than-an-vuong-toa-poster.jpg",
+    "slug": "than-an-vuong-toa",
+    "year": 2022
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "79481",
+      "season": 5,
+      "vote_average": 8.2,
+      "vote_count": 56
+    },
+    "imdb": {
+      "id": "tt12409194",
+      "vote_average": 8.7,
+      "vote_count": 2938
+    },
+    "modified": {
+      "time": "2026-04-05T10:00:13.000Z"
+    },
+    "_id": "644f757ed95ac616c32b8c56",
+    "name": "Đấu Phá Thương Khung Ngoại Truyện",
+    "slug": "dau-pha-thuong-khung-ngoai-truyen",
+    "origin_name": "Fights Break Sphere S5",
+    "thumb_url": "dau-pha-thuong-khung-ngoai-truyen-thumb.jpg",
+    "poster_url": "dau-pha-thuong-khung-ngoai-truyen-poster.jpg",
+    "year": 2023
+  }
+]
