@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "242867",
+      "season": 2,
+      "vote_average": 4.9,
+      "vote_count": 53
+    },
+    "imdb": {
+      "id": "tt22475008",
+      "vote_average": 5.4,
+      "vote_count": 4512
+    },
+    "modified": {
+      "time": "2026-04-06T22:59:21.000Z"
+    },
+    "_id": "69d3d859988d934ea9fae27d",
+    "name": "Bác Sĩ Watson (Phần 2)",
+    "slug": "bac-si-watson-phan-2",
+    "origin_name": "Watson (Season 2)",
+    "thumb_url": "bac-si-watson-phan-2-thumb.jpg",
+    "poster_url": "bac-si-watson-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290856",
+      "season": 1,
+      "vote_average": 8.179,
+      "vote_count": 39
+    },
+    "imdb": {
+      "id": "tt36849871",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T21:11:47.000Z"
+    },
+    "_id": "69aa268c400bf394bd8ea526",
+    "name": "Lực Lượng Marshals",
+    "slug": "marshals",
+    "origin_name": "Marshals",
+    "thumb_url": "marshals-thumb.jpg",
+    "poster_url": "marshals-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316374",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40606760",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T20:13:26.000Z"
+    },
+    "_id": "69c7aab9e263b2a946273f02",
+    "name": "Minh Châu Kỳ Đàm (Phần 2)",
+    "slug": "minh-chau-ky-dam-phan-2",
+    "origin_name": "The Secret of the Lost Pearl (Season 2)",
+    "thumb_url": "minh-chau-ky-dam-phan-2-thumb.jpg",
+    "poster_url": "minh-chau-ky-dam-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317762",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41164579",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T20:13:05.000Z"
+    },
+    "_id": "69ca1f9ed88856be7725eca5",
+    "name": "Lòng Anh Không Khó Đoán",
+    "slug": "long-anh-khong-kho-doan",
+    "origin_name": "Born To Be The Villain",
+    "thumb_url": "long-anh-khong-kho-doan-thumb.jpg",
+    "poster_url": "long-anh-khong-kho-doan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T20:12:47.000Z"
+    },
+    "_id": "69cfc1840a0114095c87307b",
+    "name": "Bão Tố Dữ Dội",
+    "slug": "bao-to-du-doi",
+    "origin_name": "The Storm",
+    "thumb_url": "bao-to-du-doi-thumb.jpg",
+    "poster_url": "bao-to-du-doi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303076",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T18:59:54.000Z"
+    },
+    "_id": "6947a82897c71dcd0d63982e",
+    "name": "Người Đàn Ông Đầu Tiên",
+    "slug": "nguoi-dan-ong-dau-tien",
+    "origin_name": "First Man",
+    "thumb_url": "nguoi-dan-ong-dau-tien-thumb.jpg",
+    "poster_url": "nguoi-dan-ong-dau-tien-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1356071",
+      "season": null,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt30458710",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T16:47:45.000Z"
+    },
+    "_id": "69d3813f458948c679b19b55",
+    "name": "Eastern Western",
+    "slug": "eastern-western",
+    "origin_name": "Eastern Western",
+    "thumb_url": "eastern-western-thumb.jpg",
+    "poster_url": "eastern-western-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1363103",
+      "season": null,
+      "vote_average": 3,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt33996512",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T16:45:18.000Z"
+    },
+    "_id": "69d380aa124287e08267d856",
+    "name": "Blazing Fists",
+    "slug": "blazing-fists",
+    "origin_name": "Blazing Fists",
+    "thumb_url": "blazing-fists-thumb.jpg",
+    "poster_url": "blazing-fists-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1323909",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt33029387",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T16:40:36.000Z"
+    },
+    "_id": "69d37f92400bf394bd98452d",
+    "name": "Red Riding",
+    "slug": "red-riding",
+    "origin_name": "Red Riding",
+    "thumb_url": "red-riding-thumb.jpg",
+    "poster_url": "red-riding-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1339876",
+      "season": null,
+      "vote_average": 7.633,
+      "vote_count": 15
+    },
+    "imdb": {
+      "id": "tt27673536",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T13:58:55.000Z"
+    },
+    "_id": "69d358c70a0114095c87f1f0",
+    "name": "Mardaani 3",
+    "slug": "mardaani-3",
+    "origin_name": "Mardaani 3",
+    "thumb_url": "mardaani-3-thumb.jpg",
+    "poster_url": "mardaani-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1151586",
+      "season": null,
+      "vote_average": 4.889,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt27404597",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T13:44:12.000Z"
+    },
+    "_id": "69cf3bb7b06c99c72202cbe6",
+    "name": "Pig Hill",
+    "slug": "pig-hill",
+    "origin_name": "Pig Hill",
+    "thumb_url": "pig-hill-thumb.jpg",
+    "poster_url": "pig-hill-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "233833",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39369595",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T13:43:09.000Z"
+    },
+    "_id": "6999abc4ccc6cea2687a17f6",
+    "name": "Mùa Rực Rỡ Của Em",
+    "slug": "mua-ruc-ro-cua-em",
+    "origin_name": "In Your Radiant Season",
+    "thumb_url": "mua-ruc-ro-cua-em-thumb.jpg",
+    "poster_url": "mua-ruc-ro-cua-em-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "862739",
+      "season": null,
+      "vote_average": 6.147,
+      "vote_count": 17
+    },
+    "imdb": {
+      "id": "tt15460036",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T13:40:21.000Z"
+    },
+    "_id": "69cf3a7d400bf394bd9759c1",
+    "name": "The Virgin of the Quarry Lake",
+    "slug": "the-virgin-of-the-quarry-lake",
+    "origin_name": "The Virgin of the Quarry Lake",
+    "thumb_url": "the-virgin-of-the-quarry-lake-thumb.jpg",
+    "poster_url": "the-virgin-of-the-quarry-lake-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "938150",
+      "season": null,
+      "vote_average": 6.8,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt5095076",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T13:39:51.000Z"
+    },
+    "_id": "69cf3ab7f65d22d617bad1ca",
+    "name": "Wardriver",
+    "slug": "wardriver",
+    "origin_name": "Wardriver",
+    "thumb_url": "wardriver-thumb.jpg",
+    "poster_url": "wardriver-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "37854",
+      "season": 1,
+      "vote_average": 8.7,
+      "vote_count": 5118
+    },
+    "imdb": {
+      "id": "tt0388629",
+      "vote_average": 9,
+      "vote_count": 341535
+    },
+    "modified": {
+      "time": "2026-04-06T12:12:13.000Z"
+    },
+    "_id": "6220e66e8481266c5b7f154f",
+    "name": "Đảo Hải Tặc",
+    "origin_name": "One Piece (Luffy)",
+    "thumb_url": "one-piece-thumb.jpg",
+    "slug": "one-piece",
+    "year": 1999,
+    "poster_url": "one-piece-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "14247",
+      "season": null,
+      "vote_average": 5.4,
+      "vote_count": 121
+    },
+    "imdb": {
+      "id": "tt0408196",
+      "vote_average": 5.3,
+      "vote_count": 3903
+    },
+    "modified": {
+      "time": "2026-04-06T12:08:33.000Z"
+    },
+    "_id": "69d32fb71d0b515454bad6ec",
+    "name": "Lính Bắn Tỉa 3",
+    "slug": "linh-ban-tia-3",
+    "origin_name": "Sniper 3",
+    "thumb_url": "linh-ban-tia-3-thumb.jpg",
+    "poster_url": "linh-ban-tia-3-poster.jpg",
+    "year": 2004
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258124",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt13158394",
+      "vote_average": 0,
+      "vote_count": 68
+    },
+    "modified": {
+      "time": "2026-04-06T12:08:05.000Z"
+    },
+    "_id": "69d32e9fd88856be7727f9d3",
+    "name": "Danny Go! (Phần 2)",
+    "slug": "danny-go-phan-2",
+    "origin_name": "Danny Go! (Season 2)",
+    "thumb_url": "danny-go-phan-2-thumb-1775447752804.jpg",
+    "poster_url": "danny-go-phan-2-poster-1775447754168.jpg",
+    "year": 2019
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313718",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41382074",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T12:04:09.000Z"
+    },
+    "_id": "69d33ec932adc86a1e8728b0",
+    "name": "Thất Cốt",
+    "slug": "that-cot",
+    "origin_name": "Bone Ritual",
+    "thumb_url": "that-cot-thumb.jpg",
+    "poster_url": "that-cot-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283961",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982546",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T11:58:36.000Z"
+    },
+    "_id": "69c4bee8f65d22d617b880f2",
+    "name": "Em là niềm vui đến muộn",
+    "slug": "em-la-niem-vui-den-muon",
+    "origin_name": "You Are My Fateful Love",
+    "thumb_url": "em-la-niem-vui-den-muon-thumb.jpg",
+    "poster_url": "em-la-niem-vui-den-muon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278275",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt35046984",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T11:57:51.000Z"
+    },
+    "_id": "69cbbf964da3bf6eb346f5e5",
+    "name": "Nguyệt Lân Ỷ Kỷ",
+    "slug": "nguyet-lan-y-ky",
+    "origin_name": "Veil of Shadows",
+    "thumb_url": "nguyet-lan-y-ky-thumb.jpg",
+    "poster_url": "nguyet-lan-y-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "270857",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt31540954",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T11:40:17.000Z"
+    },
+    "_id": "69bb84f40a0114095c82b197",
+    "name": "Cái Tên Ẩn Danh",
+    "slug": "cai-ten-an-danh",
+    "origin_name": "Vanished Name",
+    "thumb_url": "cai-ten-an-danh-thumb.jpg",
+    "poster_url": "cai-ten-an-danh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317216",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40961512",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-06T11:40:00.000Z"
+    },
+    "_id": "69c4b708988d934ea9f78f06",
+    "name": "Sa Đoạ",
+    "slug": "sa-doa",
+    "origin_name": "In Love with Loving You",
+    "thumb_url": "sa-doa-thumb.jpg",
+    "poster_url": "sa-doa-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295434",
+      "season": 1,
+      "vote_average": 9.3,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt37532884",
+      "vote_average": 8.2,
+      "vote_count": 104
+    },
+    "modified": {
+      "time": "2026-04-06T11:08:03.000Z"
+    },
+    "_id": "68d273e85c81ed0050c53bce",
+    "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
+    "slug": "hiep-si-mat-na-zeztz",
+    "origin_name": "Kamen Rider ZEZTZ",
+    "thumb_url": "hiep-si-mat-na-zeztz-thumb.jpg",
+    "poster_url": "hiep-si-mat-na-zeztz-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "129272",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt15816496",
+      "vote_average": 0,
+      "vote_count": 122
+    },
+    "modified": {
+      "time": "2026-04-06T11:07:49.000Z"
+    },
+    "_id": "62d1e31f0376e41264a0aad7",
+    "name": "Nghịch Thiên Chí Tôn",
+    "origin_name": "Against The Sky Supreme",
+    "thumb_url": "nghich-thien-chi-ton-thumb.jpg",
+    "poster_url": "nghich-thien-chi-ton-poster.jpg",
+    "slug": "nghich-thien-chi-ton",
+    "year": 2021
+  }
+]
