@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "247704",
+      "season": 2,
+      "vote_average": 7.116,
+      "vote_count": 108
+    },
+    "imdb": {
+      "id": "tt23897504",
+      "vote_average": 7.1,
+      "vote_count": 11287
+    },
+    "modified": {
+      "time": "2026-04-09T23:45:20.000Z"
+    },
+    "_id": "69d7d7a06d4243e068ecb61a",
+    "name": "Chuyến Bay Đêm (Phần 2)",
+    "slug": "chuyen-bay-dem-phan-2",
+    "origin_name": "Red Eye (Season 2)",
+    "thumb_url": "chuyen-bay-dem-phan-2-thumb.jpg",
+    "poster_url": "chuyen-bay-dem-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1653994",
+      "season": null,
+      "vote_average": 8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T23:22:08.000Z"
+    },
+    "_id": "69d7ca02377c8aaad53f16f8",
+    "name": "Già Thiên Movie: Vác Quan Tài Chiến Vương Đằng",
+    "slug": "gia-thien-movie-vac-quan-tai-chien-vuong-dang",
+    "origin_name": "Shrounding the Heavens Movie：Fighting Against Wang Teng with Copper Coffin",
+    "thumb_url": "gia-thien-movie-vac-quan-tai-chien-vuong-dang-thumb.jpg",
+    "poster_url": "gia-thien-movie-vac-quan-tai-chien-vuong-dang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274671",
+      "season": 2,
+      "vote_average": 7,
+      "vote_count": 45
+    },
+    "imdb": {
+      "id": "tt34119820",
+      "vote_average": 5.8,
+      "vote_count": 3103
+    },
+    "modified": {
+      "time": "2026-04-09T23:19:59.000Z"
+    },
+    "_id": "69cdf6070a0114095c86cb06",
+    "name": "Vị vua mạnh nhất làm gì ở kiếp thứ hai? (Phần 2)",
+    "slug": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2",
+    "origin_name": "The Beginning After the End (Season 2)",
+    "thumb_url": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2-thumb.jpg",
+    "poster_url": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1526650",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38365045",
+      "vote_average": 7,
+      "vote_count": 123
+    },
+    "modified": {
+      "time": "2026-04-09T22:19:51.000Z"
+    },
+    "_id": "69d740eb93c48ff6bfe6d211",
+    "name": "Oán Thai Đòi Mẹ",
+    "slug": "oan-thai-doi-me",
+    "origin_name": "Mudborn",
+    "thumb_url": "oan-thai-doi-me-thumb.jpg",
+    "poster_url": "oan-thai-doi-me-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309044",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T22:19:32.000Z"
+    },
+    "_id": "69843f824ea2111da8b72fb3",
+    "name": "Món Quà Của Kluay",
+    "slug": "mon-qua-cua-kluay",
+    "origin_name": "The Gift",
+    "thumb_url": "mon-qua-cua-kluay-thumb.jpg",
+    "poster_url": "mon-qua-cua-kluay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1318642",
+      "season": null,
+      "vote_average": 4,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39045344",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T22:19:20.000Z"
+    },
+    "_id": "6992ef37ccc6cea26877deaf",
+    "name": "Người Đẹp Và Quái Lạ",
+    "slug": "ดีว่าราวี",
+    "origin_name": "Beauty and the Beat",
+    "thumb_url": "ดีว่าราวี-thumb.jpg",
+    "poster_url": "ดีว่าราวี-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313732",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40289654",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T22:19:02.000Z"
+    },
+    "_id": "69d7241141d6bb2c3150f2cf",
+    "name": "Tin Đồn Tình Yêu",
+    "slug": "tin-don-tinh-yeu",
+    "origin_name": "Scandal love",
+    "thumb_url": "tin-don-tinh-yeu-thumb.jpg",
+    "poster_url": "tin-don-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313964",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30176500",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T22:18:48.000Z"
+    },
+    "_id": "69b95e70f063d23bbbd3b68d",
+    "name": "Hương Vị Tình Nhân",
+    "slug": "huong-vi-tinh-nhan",
+    "origin_name": "Aroma of Affection",
+    "thumb_url": "huong-vi-tinh-nhan-thumb.jpg",
+    "poster_url": "huong-vi-tinh-nhan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306118",
+      "season": 1,
+      "vote_average": 9.6,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt39013436",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T22:04:53.000Z"
+    },
+    "_id": "6947d108da6ce23e8e932ab7",
+    "name": "Ranh Giới Định Mệnh",
+    "slug": "ranh-gioi-dinh-menh",
+    "origin_name": "Bound by Fate",
+    "thumb_url": "ranh-gioi-dinh-menh-thumb.jpg",
+    "poster_url": "ranh-gioi-dinh-menh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "271548",
+      "season": 1,
+      "vote_average": 5.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt33349183",
+      "vote_average": 5.5,
+      "vote_count": 1098
+    },
+    "modified": {
+      "time": "2026-04-09T20:58:56.000Z"
+    },
+    "_id": "67ff8c12bee774075c03e8cb",
+    "name": "Những Mảnh Đời Vô Định",
+    "slug": "nhung-manh-doi-vo-dinh",
+    "origin_name": "The Stranded",
+    "thumb_url": "nhung-manh-doi-vo-dinh-thumb.jpg",
+    "poster_url": "nhung-manh-doi-vo-dinh-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "269161",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37024175",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T20:31:30.000Z"
+    },
+    "_id": "69d759e193c48ff6bfe6db76",
+    "name": "Bandi",
+    "slug": "bandi",
+    "origin_name": "Bandi",
+    "thumb_url": "bandi-thumb.jpg",
+    "poster_url": "bandi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "310800",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39303992",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T20:23:00.000Z"
+    },
+    "_id": "69a5ae72d88856be771d7da9",
+    "name": "Nụ Hôn Siren",
+    "slug": "nu-hon-siren",
+    "origin_name": "Siren's Kiss",
+    "thumb_url": "nu-hon-siren-thumb.jpg",
+    "poster_url": "nu-hon-siren-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "298849",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T19:58:36.000Z"
+    },
+    "_id": "69a12fda4ea2111da8bf4850",
+    "name": "Con Tôi Hẹn Hò (Phần 2)",
+    "slug": "con-toi-hen-ho-phan-2",
+    "origin_name": "When Our Kids Fall In Love",
+    "thumb_url": "con-toi-hen-ho-phan-2-thumb.jpg",
+    "poster_url": "con-toi-hen-ho-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1641962",
+      "season": null,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40224399",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T18:10:37.000Z"
+    },
+    "_id": "69d75907482e09b4282066c9",
+    "name": "Bí mật giới thể thao: Chiếu hết",
+    "slug": "bi-mat-gioi-the-thao-chieu-het",
+    "origin_name": "Untold: Chess Mates",
+    "thumb_url": "bi-mat-gioi-the-thao-chieu-het-thumb.jpg",
+    "poster_url": "bi-mat-gioi-the-thao-chieu-het-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316898",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40826311",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T18:09:45.000Z"
+    },
+    "_id": "69d7595b482e09b4282066f5",
+    "name": "Hãy tin tôi: Nhà tiên tri giả mạo",
+    "slug": "hay-tin-toi-nha-tien-tri-gia-mao",
+    "origin_name": "Trust Me: The False Prophet",
+    "thumb_url": "hay-tin-toi-nha-tien-tri-gia-mao-thumb.jpg",
+    "poster_url": "hay-tin-toi-nha-tien-tri-gia-mao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289690",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T17:58:05.000Z"
+    },
+    "_id": "693a6ec954d8512f7b46ed0b",
+    "name": "Hội Chứng Sợ Yêu",
+    "slug": "love-phobia",
+    "origin_name": "Love Phobia",
+    "thumb_url": "love-phobia-thumb.jpg",
+    "poster_url": "love-phobia-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T17:51:11.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282902",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T17:50:38.000Z"
+    },
+    "_id": "69cd0970eea244e3e8ba91fc",
+    "name": "Anh Vũ",
+    "slug": "anh-vu-2026",
+    "origin_name": "Unpredictable",
+    "thumb_url": "anh-vu-2026-thumb.jpg",
+    "poster_url": "anh-vu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281392",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32465914",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T17:46:44.000Z"
+    },
+    "_id": "69cfb9e5f07c400a86d7f054",
+    "name": "Rừng Thép",
+    "slug": "rung-thep",
+    "origin_name": "Sunsets Secrets Regrets",
+    "thumb_url": "rung-thep-thumb.jpg",
+    "poster_url": "rung-thep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T17:46:01.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302926",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38644602",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T17:41:53.000Z"
+    },
+    "_id": "690d5c6726683d7f739fd5d0",
+    "name": "Những Ông Bố Của Ma Ri",
+    "slug": "nhung-ong-bo-cua-ma-ri",
+    "origin_name": "Marie and Her Three Daddies",
+    "thumb_url": "nhung-ong-bo-cua-ma-ri-thumb.jpg",
+    "poster_url": "nhung-ong-bo-cua-ma-ri-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289624",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31501042",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T16:46:19.000Z"
+    },
+    "_id": "69d770a4a54286c41ba2b17a",
+    "name": "Tám Nghìn Dặm Đường Mây Và Trăng",
+    "slug": "tam-nghin-dam-duong-may-va-trang",
+    "origin_name": "Echoes of a Thousand Moons",
+    "thumb_url": "tam-nghin-dam-duong-may-va-trang-thumb.jpg",
+    "poster_url": "tam-nghin-dam-duong-may-va-trang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241609",
+      "season": 2,
+      "vote_average": 7.473,
+      "vote_count": 185
+    },
+    "imdb": {
+      "id": "tt30459041",
+      "vote_average": 7.7,
+      "vote_count": 47480
+    },
+    "modified": {
+      "time": "2026-04-09T15:59:41.000Z"
+    },
+    "_id": "69d74fed91cc1b96d584364e",
+    "name": "Bạn Bè & Hàng Xóm (Phần 2)",
+    "slug": "ban-be-and-hang-xom-phan-2",
+    "origin_name": "Your Friends & Neighbors (Season 2)",
+    "thumb_url": "ban-be-and-hang-xom-phan-2-thumb.jpg",
+    "poster_url": "ban-be-and-hang-xom-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-09T14:26:10.000Z"
+    },
+    "_id": "69cfc1840a0114095c87307b",
+    "name": "Bão Tố Dữ Dội",
+    "slug": "bao-to-du-doi",
+    "origin_name": "The Storm",
+    "thumb_url": "bao-to-du-doi-thumb.jpg",
+    "poster_url": "bao-to-du-doi-poster.jpg",
+    "year": 2026
+  }
+]
