@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211358",
+      "season": 1,
+      "vote_average": 7.8,
+      "vote_count": 212
+    },
+    "imdb": {
+      "id": "tt1640719",
+      "vote_average": 7.2,
+      "vote_count": 20870
+    },
+    "modified": {
+      "time": "2026-04-10T23:57:04.000Z"
+    },
+    "_id": "69cb7a5e458948c679afe323",
+    "name": "Bi Kịch Dưới Chân Cầu",
+    "slug": "bi-kich-duoi-chan-cau",
+    "origin_name": "Under the Bridge",
+    "thumb_url": "bi-kich-duoi-chan-cau-thumb.jpg",
+    "poster_url": "bi-kich-duoi-chan-cau-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278573",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39333617",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T23:37:00.000Z"
+    },
+    "_id": "69d8f14d7e5a0662d4dd2f64",
+    "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+    "slug": "phu-nhan-dai-quan-the-ky-21",
+    "origin_name": "Perfect Crown",
+    "thumb_url": "phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+    "poster_url": "phu-nhan-dai-quan-the-ky-21-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281010",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39837101",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T21:56:40.000Z"
+    },
+    "_id": "69abb1c2f063d23bbbd03d3e",
+    "name": "Luật Sư Bóng Ma",
+    "slug": "luat-su-bong-ma",
+    "origin_name": "Phantom Lawyer",
+    "thumb_url": "luat-su-bong-ma-thumb.jpg",
+    "poster_url": "luat-su-bong-ma-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1049471",
+      "season": null,
+      "vote_average": 6.7,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt23724682",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T21:56:27.000Z"
+    },
+    "_id": "69d905ad4a74b3cede0ab640",
+    "name": "Nhân Quả",
+    "slug": "nhan-qua",
+    "origin_name": "Outcome",
+    "thumb_url": "nhan-qua-thumb.jpg",
+    "poster_url": "nhan-qua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283853",
+      "season": 1,
+      "vote_average": 3.9,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt35677100",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T21:51:27.000Z"
+    },
+    "_id": "69d90e6f41d6bb2c31517329",
+    "name": "Privilèges",
+    "slug": "privileges",
+    "origin_name": "Privileges",
+    "thumb_url": "privileges-thumb.jpg",
+    "poster_url": "privileges-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "76479",
+      "season": 5,
+      "vote_average": 8.442,
+      "vote_count": 11563
+    },
+    "imdb": {
+      "id": "tt1190634",
+      "vote_average": 8.6,
+      "vote_count": 822500
+    },
+    "modified": {
+      "time": "2026-04-10T21:33:40.000Z"
+    },
+    "_id": "695f5290f063d23bbbc21c06",
+    "name": "The Boys (Phần 5)",
+    "slug": "the-boys-phan-5",
+    "origin_name": "The Boys (Season 5)",
+    "thumb_url": "the-boys-phan-5-thumb-1775624659696.jpg",
+    "poster_url": "the-boys-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "250220",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31909098",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T21:25:09.000Z"
+    },
+    "_id": "69d899c9db41bcecb8dda433",
+    "name": "Cô Vợ Tí Hon",
+    "slug": "co-vo-ti-hon",
+    "origin_name": "The Miniature Wife",
+    "thumb_url": "co-vo-ti-hon-thumb.jpg",
+    "poster_url": "co-vo-ti-hon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1290417",
+      "season": null,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt32362890",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T21:24:43.000Z"
+    },
+    "_id": "69d9056cf616ee3807d5b204",
+    "name": "Cá Mập Săn Người",
+    "slug": "ca-map-san-nguoi",
+    "origin_name": "Thrash",
+    "thumb_url": "ca-map-san-nguoi-thumb.jpg",
+    "poster_url": "ca-map-san-nguoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289624",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31501042",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T18:32:26.000Z"
+    },
+    "_id": "69d770a4a54286c41ba2b17a",
+    "name": "Tám Nghìn Dặm Đường Mây Và Trăng",
+    "slug": "tam-nghin-dam-duong-may-va-trang",
+    "origin_name": "Echoes of a Thousand Moons",
+    "thumb_url": "tam-nghin-dam-duong-may-va-trang-thumb.jpg",
+    "poster_url": "tam-nghin-dam-duong-may-va-trang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281392",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32465914",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T18:25:05.000Z"
+    },
+    "_id": "69cfb9e5f07c400a86d7f054",
+    "name": "Rừng Thép",
+    "slug": "rung-thep",
+    "origin_name": "Sunsets Secrets Regrets",
+    "thumb_url": "rung-thep-thumb.jpg",
+    "poster_url": "rung-thep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T18:18:43.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "247805",
+      "season": 4,
+      "vote_average": 8.3,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt34460456",
+      "vote_average": 0,
+      "vote_count": 31
+    },
+    "modified": {
+      "time": "2026-04-10T15:55:41.000Z"
+    },
+    "_id": "6943a6f5d6caf55037c2b7bb",
+    "name": "Mọi Lúc Mọi Nơi (Phần 4)",
+    "slug": "moi-luc-moi-noi-phan-4",
+    "origin_name": "Whenever Possible (Season 4)",
+    "thumb_url": "moi-luc-moi-noi-phan-4-thumb.jpg",
+    "poster_url": "moi-luc-moi-noi-phan-4-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "64387",
+      "season": 2,
+      "vote_average": 6.994,
+      "vote_count": 443
+    },
+    "imdb": {
+      "id": "tt3846642",
+      "vote_average": 6.9,
+      "vote_count": 12540
+    },
+    "modified": {
+      "time": "2026-04-10T15:08:32.000Z"
+    },
+    "_id": "69d8884a4a74b3cede0a94c9",
+    "name": "Gái Ngành Hạng Sang (Phần 2)",
+    "slug": "gai-nganh-hang-sang-phan-2",
+    "origin_name": "The Girlfriend Experience (Season 2)",
+    "thumb_url": "gai-nganh-hang-sang-phan-2-thumb.jpg",
+    "poster_url": "gai-nganh-hang-sang-phan-2-poster.jpg",
+    "year": 2017
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "64387",
+      "season": 1,
+      "vote_average": 6.994,
+      "vote_count": 443
+    },
+    "imdb": {
+      "id": "tt3846642",
+      "vote_average": 6.9,
+      "vote_count": 12854
+    },
+    "modified": {
+      "time": "2026-04-10T15:08:07.000Z"
+    },
+    "_id": "69c35028ccc6cea26885ba9a",
+    "name": "Gái ngành hạng sang (Phần 1)",
+    "slug": "the-girlfriend-experience-phan-1",
+    "origin_name": "The Girlfriend Experience (Season 1)",
+    "thumb_url": "the-girlfriend-experience-phan-1-thumb-1775798456037.jpg",
+    "poster_url": "the-girlfriend-experience-phan-1-poster-1775798457154.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "157689",
+      "season": 4,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt15731684",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T14:40:02.000Z"
+    },
+    "_id": "69d8928dda7d8940685a1d75",
+    "name": "Biệt Đội Boonie (Phần 4)",
+    "slug": "biet-doi-boonie-phan-4",
+    "origin_name": "Boonie Squad (Season 4)",
+    "thumb_url": "biet-doi-boonie-phan-4-thumb.jpg",
+    "poster_url": "biet-doi-boonie-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316374",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40606760",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T14:03:36.000Z"
+    },
+    "_id": "69c7aab9e263b2a946273f02",
+    "name": "Minh Châu Kỳ Đàm (Phần 2)",
+    "slug": "minh-chau-ky-dam-phan-2",
+    "origin_name": "The Secret of the Lost Pearl (Season 2)",
+    "thumb_url": "minh-chau-ky-dam-phan-2-thumb.jpg",
+    "poster_url": "minh-chau-ky-dam-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317762",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41164579",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T14:03:20.000Z"
+    },
+    "_id": "69ca1f9ed88856be7725eca5",
+    "name": "Lòng Anh Không Khó Đoán",
+    "slug": "long-anh-khong-kho-doan",
+    "origin_name": "Born To Be The Villain",
+    "thumb_url": "long-anh-khong-kho-doan-thumb.jpg",
+    "poster_url": "long-anh-khong-kho-doan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T14:03:03.000Z"
+    },
+    "_id": "69cfc1840a0114095c87307b",
+    "name": "Bão Tố Dữ Dội",
+    "slug": "bao-to-du-doi",
+    "origin_name": "The Storm",
+    "thumb_url": "bao-to-du-doi-thumb.jpg",
+    "poster_url": "bao-to-du-doi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "240150",
+      "season": 2,
+      "vote_average": 8.2,
+      "vote_count": 12
+    },
+    "imdb": {
+      "id": "tt33378111",
+      "vote_average": 0,
+      "vote_count": 53
+    },
+    "modified": {
+      "time": "2026-04-10T13:50:51.000Z"
+    },
+    "_id": "69474097ae6f0c1fdf32f4bd",
+    "name": "Fourever You (Phần 2)",
+    "slug": "fourever-you-phan-2",
+    "origin_name": "Fourever You (Season 2)",
+    "thumb_url": "fourever-you-phan-2-thumb.jpg",
+    "poster_url": "fourever-you-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T13:50:07.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318892",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-10T13:43:27.000Z"
+    },
+    "_id": "69d86c1e91cc1b96d58478a5",
+    "name": "Cô Dâu Giả Báo Thù",
+    "slug": "co-dau-gia-bao-thu",
+    "origin_name": "Revenge of the False Bride",
+    "thumb_url": "co-dau-gia-bao-thu-thumb.jpg",
+    "poster_url": "co-dau-gia-bao-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241609",
+      "season": 2,
+      "vote_average": 7.473,
+      "vote_count": 185
+    },
+    "imdb": {
+      "id": "tt30459041",
+      "vote_average": 7.7,
+      "vote_count": 47480
+    },
+    "modified": {
+      "time": "2026-04-10T13:30:11.000Z"
+    },
+    "_id": "69d74fed91cc1b96d584364e",
+    "name": "Bạn Bè & Hàng Xóm (Phần 2)",
+    "slug": "ban-be-and-hang-xom-phan-2",
+    "origin_name": "Your Friends & Neighbors (Season 2)",
+    "thumb_url": "ban-be-and-hang-xom-phan-2-thumb.jpg",
+    "poster_url": "ban-be-and-hang-xom-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "201289",
+      "season": 2,
+      "vote_average": 7,
+      "vote_count": 159
+    },
+    "imdb": {
+      "id": "tt13745850",
+      "vote_average": 6.6,
+      "vote_count": 20775
+    },
+    "modified": {
+      "time": "2026-04-10T13:28:57.000Z"
+    },
+    "_id": "699ad6b8da6ce23e8e9dbec7",
+    "name": "Lời Nhắn Cuối Cùng (Phần 2)",
+    "slug": "loi-nhan-cuoi-cung-phan-2",
+    "origin_name": "The Last Thing He Told Me (Season 2)",
+    "thumb_url": "loi-nhan-cuoi-cung-phan-2-thumb.jpg",
+    "poster_url": "loi-nhan-cuoi-cung-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202411",
+      "season": 2,
+      "vote_average": 7.7,
+      "vote_count": 1015
+    },
+    "imdb": {
+      "id": "tt17220216",
+      "vote_average": 7,
+      "vote_count": 51851
+    },
+    "modified": {
+      "time": "2026-04-10T13:28:35.000Z"
+    },
+    "_id": "69a255c81d0b515454af0815",
+    "name": "Monarch: Thế Giới Quái Thú (Phần 2)",
+    "slug": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2",
+    "origin_name": "Monarch: Legacy of Monsters (Season 2)",
+    "thumb_url": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-thumb.jpg",
+    "poster_url": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-poster.jpg",
+    "year": 2026
+  }
+]
