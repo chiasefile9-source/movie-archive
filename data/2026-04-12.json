@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300131",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39443399",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T23:12:52.000Z"
+    },
+    "_id": "69da6f99f616ee3807d610b1",
+    "name": "KILL BLUE",
+    "slug": "kill-blue",
+    "origin_name": "KILL BLUE",
+    "thumb_url": "kill-blue-thumb.jpg",
+    "poster_url": "kill-blue-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "260463",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37532356",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T23:11:32.000Z"
+    },
+    "_id": "69d1cc78da6ce23e8eac3148",
+    "name": "Song Mệnh Cõi Hoàng Tuyền",
+    "slug": "song-menh-coi-hoang-tuyen",
+    "origin_name": "Daemons of the Shadow Realm",
+    "thumb_url": "song-menh-coi-hoang-tuyen-thumb.jpg",
+    "poster_url": "song-menh-coi-hoang-tuyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297438",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38797595",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T23:09:19.000Z"
+    },
+    "_id": "69d5e020e53e6a47ad57f86c",
+    "name": "Chuyện Kể Của Akane",
+    "slug": "chuyen-ke-cua-akane",
+    "origin_name": "Akane-banashi",
+    "thumb_url": "chuyen-ke-cua-akane-thumb.jpg",
+    "poster_url": "chuyen-ke-cua-akane-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312175",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T23:08:49.000Z"
+    },
+    "_id": "698099011d0b515454a62a96",
+    "name": "Câu Lạc Bộ Bạn Bí Mật",
+    "slug": "cau-lac-bo-ban-bi-mat",
+    "origin_name": "The Secret Friends Club",
+    "thumb_url": "cau-lac-bo-ban-bi-mat-thumb.jpg",
+    "poster_url": "cau-lac-bo-ban-bi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "284828",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35932199",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T23:08:37.000Z"
+    },
+    "_id": "697ef942f65d22d617a6e6d8",
+    "name": "Tình Yêu Bọ Xít",
+    "slug": "tinh-yeu-bo-xit",
+    "origin_name": "Duang With You",
+    "thumb_url": "tinh-yeu-bo-xit-thumb.jpg",
+    "poster_url": "tinh-yeu-bo-xit-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T23:08:11.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287114",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36626289",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T23:05:49.000Z"
+    },
+    "_id": "69bd06b8f65d22d617b6ceda",
+    "name": "The Water 4 Elements: Dòng Sông Mưu Mẹo",
+    "slug": "the-water-4-elements-dong-song-muu-meo",
+    "origin_name": "The Water",
+    "thumb_url": "the-water-4-elements-dong-song-muu-meo-thumb.jpg",
+    "poster_url": "the-water-4-elements-dong-song-muu-meo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281010",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39837101",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T23:02:27.000Z"
+    },
+    "_id": "69abb1c2f063d23bbbd03d3e",
+    "name": "Luật Sư Bóng Ma",
+    "slug": "luat-su-bong-ma",
+    "origin_name": "Phantom Lawyer",
+    "thumb_url": "luat-su-bong-ma-thumb.jpg",
+    "poster_url": "luat-su-bong-ma-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278573",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39333617",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T23:01:10.000Z"
+    },
+    "_id": "69d8f14d7e5a0662d4dd2f64",
+    "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+    "slug": "phu-nhan-dai-quan-the-ky-21",
+    "origin_name": "Perfect Crown",
+    "thumb_url": "phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+    "poster_url": "phu-nhan-dai-quan-the-ky-21-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289219",
+      "season": 1,
+      "vote_average": 7.1,
+      "vote_count": 24
+    },
+    "imdb": {
+      "id": "tt36594331",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T21:10:22.000Z"
+    },
+    "_id": "69da18d7db41bcecb8de0412",
+    "name": "Cuộc Chiến Ngân Hà: Maul - Chúa Tể Bóng Tối (Phần 1)",
+    "slug": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi",
+    "origin_name": "Star Wars: Maul - Shadow Lord",
+    "thumb_url": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi-thumb.jpg",
+    "poster_url": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261675",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt30478333",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T20:48:25.000Z"
+    },
+    "_id": "69c4b767f07c400a86d5798e",
+    "name": "Toà Án Gia Đình",
+    "slug": "toa-an-gia-dinh",
+    "origin_name": "Hold A Court Now",
+    "thumb_url": "toa-an-gia-dinh-thumb.jpg",
+    "poster_url": "toa-an-gia-dinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "91801",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 285
+    },
+    "imdb": {
+      "id": "tt11034066",
+      "vote_average": 7.6,
+      "vote_count": 3317
+    },
+    "modified": {
+      "time": "2026-04-11T20:48:09.000Z"
+    },
+    "_id": "69d1d78e32adc86a1e86e515",
+    "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
+    "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
+    "origin_name": "Welcome to Demon School! Iruma-kun (Season 4)",
+    "thumb_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-thumb.jpg",
+    "poster_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281392",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32465914",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T17:47:58.000Z"
+    },
+    "_id": "69cfb9e5f07c400a86d7f054",
+    "name": "Rừng Thép",
+    "slug": "rung-thep",
+    "origin_name": "Sunsets Secrets Regrets",
+    "thumb_url": "rung-thep-thumb.jpg",
+    "poster_url": "rung-thep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T17:43:02.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1660412",
+      "season": null,
+      "vote_average": 1,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T16:47:12.000Z"
+    },
+    "_id": "69da18784a74b3cede0af89b",
+    "name": "Celestial Quest",
+    "slug": "celestial-quest",
+    "origin_name": "Celestial Quest",
+    "thumb_url": "celestial-quest-thumb.jpg",
+    "poster_url": "celestial-quest-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1657617",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T16:42:58.000Z"
+    },
+    "_id": "69da0f9ee53e6a47ad58ed6a",
+    "name": "Truyền Thuyết Linh Tinh",
+    "slug": "truyen-thuyet-linh-tinh",
+    "origin_name": "Legend of Ling Jing",
+    "thumb_url": "truyen-thuyet-linh-tinh-thumb.jpg",
+    "poster_url": "truyen-thuyet-linh-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1651278",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T16:42:45.000Z"
+    },
+    "_id": "69da0fe3006591e1081347a3",
+    "name": "Thanh Đao Sắc Bén: Phong Chiến Sĩ",
+    "slug": "thanh-dao-sac-ben-phong-chien-si",
+    "origin_name": "Blade Warrior of Blade Action",
+    "thumb_url": "thanh-dao-sac-ben-phong-chien-si-thumb.jpg",
+    "poster_url": "thanh-dao-sac-ben-phong-chien-si-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1480790",
+      "season": null,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39075920",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T16:42:34.000Z"
+    },
+    "_id": "69da11bea54286c41ba35249",
+    "name": "Theo Dấu Tội Ác",
+    "slug": "theo-dau-toi-ac",
+    "origin_name": "The Sin Trade",
+    "thumb_url": "theo-dau-toi-ac-thumb.jpg",
+    "poster_url": "theo-dau-toi-ac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1645606",
+      "season": null,
+      "vote_average": 1,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T16:35:00.000Z"
+    },
+    "_id": "69da1122db41bcecb8de0046",
+    "name": "Đao Quang Ảnh Kiếm",
+    "slug": "dao-quang-anh-kiem",
+    "origin_name": "A Knife of the Weapon Gleams With Blood",
+    "thumb_url": "dao-quang-anh-kiem-thumb.jpg",
+    "poster_url": "dao-quang-anh-kiem-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1664632",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T16:34:47.000Z"
+    },
+    "_id": "69da116793c48ff6bfe78544",
+    "name": "Anh Hùng Thành Phố Ẩn Danh",
+    "slug": "anh-hung-thanh-pho-an-danh",
+    "origin_name": "Hero in the Hidden City",
+    "thumb_url": "anh-hung-thanh-pho-an-danh-thumb.jpg",
+    "poster_url": "anh-hung-thanh-pho-an-danh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1610460",
+      "season": null,
+      "vote_average": 3.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt27335011",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T16:32:28.000Z"
+    },
+    "_id": "69da069816bc1b4174f11ed8",
+    "name": "Dặm thứ 666",
+    "slug": "dam-thu-666",
+    "origin_name": "Mile 666",
+    "thumb_url": "dam-thu-666-thumb.jpg",
+    "poster_url": "dam-thu-666-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1424772",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt29711811",
+      "vote_average": 0,
+      "vote_count": 12
+    },
+    "modified": {
+      "time": "2026-04-11T16:15:17.000Z"
+    },
+    "_id": "69da1120da7d8940685a7a55",
+    "name": "The Omro Heist",
+    "slug": "the-omro-heist",
+    "origin_name": "The Omro Heist",
+    "thumb_url": "the-omro-heist-thumb.jpg",
+    "poster_url": "the-omro-heist-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1509766",
+      "season": null,
+      "vote_average": 5.8,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt37543777",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T16:12:54.000Z"
+    },
+    "_id": "69da109215072466ace982f5",
+    "name": "Relentless Fury",
+    "slug": "relentless-fury",
+    "origin_name": "Relentless Fury",
+    "thumb_url": "relentless-fury-thumb.jpg",
+    "poster_url": "relentless-fury-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1327819",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt26443616",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-11T16:04:27.000Z"
+    },
+    "_id": "6992efb097c71dcd0d6b8798",
+    "name": "Hoppers: Cú Nhảy Kỳ Diệu",
+    "slug": "hoppers-cu-nhay-ky-dieu",
+    "origin_name": "Hoppers",
+    "thumb_url": "hoppers-cu-nhay-ky-dieu-thumb.jpg",
+    "poster_url": "hoppers-cu-nhay-ky-dieu-poster.jpg",
+    "year": 2026
+  }
+]
