@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "196950",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt32550889",
+      "vote_average": 0,
+      "vote_count": 19
+    },
+    "modified": {
+      "time": "2026-04-14T00:04:33.000Z"
+    },
+    "_id": "69d4614f400bf394bd986a9d",
+    "name": "Xưởng Phép Thuật",
+    "slug": "xuong-phep-thuat",
+    "origin_name": "Witch Hat Atelier",
+    "thumb_url": "xuong-phep-thuat-thumb.jpg",
+    "poster_url": "xuong-phep-thuat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "128995",
+      "season": 3,
+      "vote_average": 7.8,
+      "vote_count": 53
+    },
+    "imdb": {
+      "id": "tt14596630",
+      "vote_average": 8.1,
+      "vote_count": 2836
+    },
+    "modified": {
+      "time": "2026-04-13T20:48:35.000Z"
+    },
+    "_id": "69bd063ef063d23bbbd48d45",
+    "name": "Các Tế Bào Của Yumi (Phần 3)",
+    "slug": "cac-te-bao-cua-yumi-phan-3",
+    "origin_name": "Yumi's Cells (Season 3)",
+    "thumb_url": "cac-te-bao-cua-yumi-phan-3-thumb.jpg",
+    "poster_url": "cac-te-bao-cua-yumi-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261675",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt30478333",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T19:24:07.000Z"
+    },
+    "_id": "69c4b767f07c400a86d5798e",
+    "name": "Toà Án Gia Đình",
+    "slug": "toa-an-gia-dinh",
+    "origin_name": "Hold A Court Now",
+    "thumb_url": "toa-an-gia-dinh-thumb.jpg",
+    "poster_url": "toa-an-gia-dinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289219",
+      "season": 1,
+      "vote_average": 7.1,
+      "vote_count": 24
+    },
+    "imdb": {
+      "id": "tt36594331",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T18:43:35.000Z"
+    },
+    "_id": "69da18d7db41bcecb8de0412",
+    "name": "Cuộc Chiến Ngân Hà: Maul - Chúa Tể Bóng Tối (Phần 1)",
+    "slug": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi",
+    "origin_name": "Star Wars: Maul - Shadow Lord",
+    "thumb_url": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi-thumb.jpg",
+    "poster_url": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T17:54:22.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282902",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T17:54:10.000Z"
+    },
+    "_id": "69cd0970eea244e3e8ba91fc",
+    "name": "Anh Vũ",
+    "slug": "anh-vu-2026",
+    "origin_name": "Unpredictable",
+    "thumb_url": "anh-vu-2026-thumb.jpg",
+    "poster_url": "anh-vu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T17:29:27.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302299",
+      "season": 6,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt28234493",
+      "vote_average": 0,
+      "vote_count": 7
+    },
+    "modified": {
+      "time": "2026-04-13T15:52:19.000Z"
+    },
+    "_id": "69dba6aacec790794bf38b46",
+    "name": "UNTOLD (Phần 6)",
+    "slug": "untold-phan-6",
+    "origin_name": "UNTOLD (Season 6)",
+    "thumb_url": "untold-phan-6-thumb.jpg",
+    "poster_url": "untold-phan-6-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316093",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T15:52:01.000Z"
+    },
+    "_id": "69dba4fb6d4243e068eda61c",
+    "name": "Way To You",
+    "slug": "way-to-you",
+    "origin_name": "Way To You",
+    "thumb_url": "way-to-you-thumb.jpg",
+    "poster_url": "way-to-you-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "37854",
+      "season": 1,
+      "vote_average": 8.7,
+      "vote_count": 5118
+    },
+    "imdb": {
+      "id": "tt0388629",
+      "vote_average": 9,
+      "vote_count": 341535
+    },
+    "modified": {
+      "time": "2026-04-13T15:43:13.000Z"
+    },
+    "_id": "6220e66e8481266c5b7f154f",
+    "name": "Đảo Hải Tặc",
+    "origin_name": "One Piece (Luffy)",
+    "thumb_url": "one-piece-thumb.jpg",
+    "slug": "one-piece",
+    "year": 1999,
+    "poster_url": "one-piece-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "156571",
+      "season": 5,
+      "vote_average": 7.2,
+      "vote_count": 10
+    },
+    "imdb": {
+      "id": "tt20835030",
+      "vote_average": 0,
+      "vote_count": 72
+    },
+    "modified": {
+      "time": "2026-04-13T15:34:53.000Z"
+    },
+    "_id": "69537b9f54ca9185bba81a38",
+    "name": "Vĩnh Sinh (Phần 5)",
+    "slug": "vinh-sinh-phan-5",
+    "origin_name": "Immortality (Season 5)",
+    "thumb_url": "vinh-sinh-phan-5-thumb.jpg",
+    "poster_url": "vinh-sinh-phan-5-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314787",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39971895",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T14:51:16.000Z"
+    },
+    "_id": "69dca0746d4243e068edf2d5",
+    "name": "Running Man Thái Lan",
+    "slug": "running-man-thai-lan",
+    "origin_name": "Running Man Thailand",
+    "thumb_url": "running-man-thai-lan-thumb.jpg",
+    "poster_url": "running-man-thai-lan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1357759",
+      "season": null,
+      "vote_average": 7.25,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt33396536",
+      "vote_average": 6.1,
+      "vote_count": 77
+    },
+    "modified": {
+      "time": "2026-04-13T14:50:45.000Z"
+    },
+    "_id": "69dca055db41bcecb8deb92b",
+    "name": "Nữ Nhi",
+    "slug": "nu-nhi",
+    "origin_name": "Girl",
+    "thumb_url": "nu-nhi-thumb.jpg",
+    "poster_url": "nu-nhi-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297557",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39123043",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T14:19:25.000Z"
+    },
+    "_id": "69dc96fb41d6bb2c31526006",
+    "name": "Hắc Miêu Và Lớp Học Phù Thủy",
+    "slug": "hac-mieu-va-lop-hoc-phu-thuy",
+    "origin_name": "The Classroom of a Black Cat and a Witch",
+    "thumb_url": "hac-mieu-va-lop-hoc-phu-thuy-thumb.jpg",
+    "poster_url": "hac-mieu-va-lop-hoc-phu-thuy-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317762",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41164579",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T14:04:12.000Z"
+    },
+    "_id": "69ca1f9ed88856be7725eca5",
+    "name": "Lòng Anh Không Khó Đoán",
+    "slug": "long-anh-khong-kho-doan",
+    "origin_name": "Born To Be The Villain",
+    "thumb_url": "long-anh-khong-kho-doan-thumb.jpg",
+    "poster_url": "long-anh-khong-kho-doan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T14:03:56.000Z"
+    },
+    "_id": "69cfc1840a0114095c87307b",
+    "name": "Bão Tố Dữ Dội",
+    "slug": "bao-to-du-doi",
+    "origin_name": "The Storm",
+    "thumb_url": "bao-to-du-doi-thumb.jpg",
+    "poster_url": "bao-to-du-doi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317219",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T14:03:13.000Z"
+    },
+    "_id": "69db44ff6d4243e068ed8c79",
+    "name": "Cung Nữ Này Không Mấy Bình Tĩnh",
+    "slug": "cung-nu-nay-khong-may-binh-tinh",
+    "origin_name": "This Palace Maid Isn't Very Calm",
+    "thumb_url": "cung-nu-nay-khong-may-binh-tinh-thumb.jpg",
+    "poster_url": "cung-nu-nay-khong-may-binh-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "247704",
+      "season": 2,
+      "vote_average": 7.116,
+      "vote_count": 108
+    },
+    "imdb": {
+      "id": "tt23897504",
+      "vote_average": 7.1,
+      "vote_count": 11287
+    },
+    "modified": {
+      "time": "2026-04-13T13:30:03.000Z"
+    },
+    "_id": "69d7d7a06d4243e068ecb61a",
+    "name": "Chuyến Bay Đêm (Phần 2)",
+    "slug": "chuyen-bay-dem-phan-2",
+    "origin_name": "Red Eye (Season 2)",
+    "thumb_url": "chuyen-bay-dem-phan-2-thumb.jpg",
+    "poster_url": "chuyen-bay-dem-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259819",
+      "season": 1,
+      "vote_average": 8.8,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt33086804",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T11:59:25.000Z"
+    },
+    "_id": "69b8cad6b06c99c722fdbb43",
+    "name": "Cự Kê Chiến Ký",
+    "slug": "cu-ke-chien-ky",
+    "origin_name": "Rooster Fighter",
+    "thumb_url": "cu-ke-chien-ky-thumb.jpg",
+    "poster_url": "cu-ke-chien-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1080365",
+      "season": null,
+      "vote_average": 6.1,
+      "vote_count": 30
+    },
+    "imdb": {
+      "id": "tt24060892",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T11:59:15.000Z"
+    },
+    "_id": "69dc74f9006591e10813ebaa",
+    "name": "They Call Him OG",
+    "slug": "they-call-him-og",
+    "origin_name": "They Call Him OG",
+    "thumb_url": "they-call-him-og-thumb.jpg",
+    "poster_url": "they-call-him-og-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318892",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T11:52:57.000Z"
+    },
+    "_id": "69d86c1e91cc1b96d58478a5",
+    "name": "Cô Dâu Giả Báo Thù",
+    "slug": "co-dau-gia-bao-thu",
+    "origin_name": "Revenge of the False Bride",
+    "thumb_url": "co-dau-gia-bao-thu-thumb.jpg",
+    "poster_url": "co-dau-gia-bao-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1472951",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt29218808",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T11:41:51.000Z"
+    },
+    "_id": "69dc740b16bc1b4174f1c667",
+    "name": "Infiltrate",
+    "slug": "infiltrate",
+    "origin_name": "Infiltrate",
+    "thumb_url": "infiltrate-thumb.jpg",
+    "poster_url": "infiltrate-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1226863",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt28650488",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-13T11:40:38.000Z"
+    },
+    "_id": "69b37aa754ca9185bbb8f541",
+    "name": "Phim Super Mario Thiên Hà",
+    "slug": "phim-super-mario-thien-ha",
+    "origin_name": "The Super Mario Galaxy Movie",
+    "thumb_url": "phim-super-mario-thien-ha-thumb.jpg",
+    "poster_url": "phim-super-mario-thien-ha-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1107166",
+      "season": null,
+      "vote_average": 5.9,
+      "vote_count": 24
+    },
+    "imdb": {
+      "id": "tt1764551",
+      "vote_average": 5,
+      "vote_count": 555
+    },
+    "modified": {
+      "time": "2026-04-13T11:39:18.000Z"
+    },
+    "_id": "69dc737331aa2678f8c730c4",
+    "name": "Sát Nhân Điên Loạn",
+    "slug": "sat-nhan-dien-loan",
+    "origin_name": "Psycho Killer",
+    "thumb_url": "sat-nhan-dien-loan-thumb.jpg",
+    "poster_url": "sat-nhan-dien-loan-poster.jpg",
+    "year": 2026
+  }
+]
