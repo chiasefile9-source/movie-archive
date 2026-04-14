@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "301944",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39122769",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T23:08:13.000Z"
+    },
+    "_id": "69d5dfb315072466ace88b55",
+    "name": "Mai Mối Cho Độc Sư",
+    "slug": "mai-moi-cho-doc-su",
+    "origin_name": "Marriage Toxin",
+    "thumb_url": "mai-moi-cho-doc-su-thumb.jpg",
+    "poster_url": "mai-moi-cho-doc-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241860",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39017753",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T22:34:09.000Z"
+    },
+    "_id": "69b8cf9ef65d22d617b5c6f0",
+    "name": "Cực Hạn",
+    "slug": "cuc-han",
+    "origin_name": "Climax",
+    "thumb_url": "cuc-han-thumb.jpg",
+    "poster_url": "cuc-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "206122",
+      "season": 5,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T20:21:37.000Z"
+    },
+    "_id": "69de3f5c377c8aaad540db28",
+    "name": "Nhịp Đập Tuổi 20: Bản Mùa Đông (Phần 5)",
+    "slug": "nhip-dap-tuoi-20-ban-mua-dong-phan-5",
+    "origin_name": "Twinkle Love (Season 5)",
+    "thumb_url": "nhip-dap-tuoi-20-ban-mua-dong-phan-5-thumb.jpg",
+    "poster_url": "nhip-dap-tuoi-20-ban-mua-dong-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261675",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt30478333",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T19:04:28.000Z"
+    },
+    "_id": "69c4b767f07c400a86d5798e",
+    "name": "Toà Án Gia Đình",
+    "slug": "toa-an-gia-dinh",
+    "origin_name": "Hold A Court Now",
+    "thumb_url": "toa-an-gia-dinh-thumb.jpg",
+    "poster_url": "toa-an-gia-dinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T19:03:51.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1624455",
+      "season": null,
+      "vote_average": 5.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39452102",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T19:00:42.000Z"
+    },
+    "_id": "69de2c6a006591e108147b9c",
+    "name": "Tyson Fury vs. Arslanbek Makhmudov",
+    "slug": "tyson-fury-vs-arslanbek-makhmudov",
+    "origin_name": "Tyson Fury vs. Arslanbek Makhmudov",
+    "thumb_url": "tyson-fury-vs-arslanbek-makhmudov-thumb.jpg",
+    "poster_url": "tyson-fury-vs-arslanbek-makhmudov-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211288",
+      "season": 3,
+      "vote_average": 7.5,
+      "vote_count": 244
+    },
+    "imdb": {
+      "id": "tt13875494",
+      "vote_average": 7.1,
+      "vote_count": 25845
+    },
+    "modified": {
+      "time": "2026-04-14T17:29:56.000Z"
+    },
+    "_id": "68f9f11ea2d805aecaf99b2e",
+    "name": "Tracker (Phần 3)",
+    "slug": "tracker-phan-3",
+    "origin_name": "Tracker (Season 3)",
+    "thumb_url": "tracker-phan-3-thumb-1761239638607.jpg",
+    "poster_url": "tracker-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T17:20:29.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282902",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T17:20:14.000Z"
+    },
+    "_id": "69cd0970eea244e3e8ba91fc",
+    "name": "Anh Vũ",
+    "slug": "anh-vu-2026",
+    "origin_name": "Unpredictable",
+    "thumb_url": "anh-vu-2026-thumb.jpg",
+    "poster_url": "anh-vu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T17:19:07.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314787",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39971895",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T15:01:34.000Z"
+    },
+    "_id": "69dca0746d4243e068edf2d5",
+    "name": "Running Man Thái Lan",
+    "slug": "running-man-thai-lan",
+    "origin_name": "Running Man Thailand",
+    "thumb_url": "running-man-thai-lan-thumb.jpg",
+    "poster_url": "running-man-thai-lan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1357759",
+      "season": null,
+      "vote_average": 7.25,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt33396536",
+      "vote_average": 6.1,
+      "vote_count": 77
+    },
+    "modified": {
+      "time": "2026-04-14T15:00:09.000Z"
+    },
+    "_id": "69dca055db41bcecb8deb92b",
+    "name": "Nữ Nhi",
+    "slug": "nu-nhi",
+    "origin_name": "Girl",
+    "thumb_url": "nu-nhi-thumb.jpg",
+    "poster_url": "nu-nhi-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278157",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34930070",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T14:56:47.000Z"
+    },
+    "_id": "6981c3f9988d934ea9e63a57",
+    "name": "Tình yêu đích thực sau hôn nhân",
+    "slug": "tinh-yeu-dich-thuc-sau-hon-nhan",
+    "origin_name": "My Romance Scammer",
+    "thumb_url": "tinh-yeu-dich-thuc-sau-hon-nhan-thumb.jpg",
+    "poster_url": "tinh-yeu-dich-thuc-sau-hon-nhan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1432605",
+      "season": null,
+      "vote_average": 7.729,
+      "vote_count": 24
+    },
+    "imdb": {
+      "id": "tt35695538",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T14:52:27.000Z"
+    },
+    "_id": "69ddd427748ca16f085d0fac",
+    "name": "Bóng của cha tôi",
+    "slug": "bong-cua-cha-toi",
+    "origin_name": "My Father's Shadow",
+    "thumb_url": "bong-cua-cha-toi-thumb.jpg",
+    "poster_url": "bong-cua-cha-toi-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1641319",
+      "season": null,
+      "vote_average": 5.979,
+      "vote_count": 24
+    },
+    "imdb": {
+      "id": "tt39538786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T14:52:15.000Z"
+    },
+    "_id": "69ddd56db692c7b208d05b98",
+    "name": "Xạ Thủ Bắn Tỉa: Vô Tổ Quốc",
+    "slug": "xa-thu-ban-tia-vo-to-quoc",
+    "origin_name": "Sniper: No Nation",
+    "thumb_url": "xa-thu-ban-tia-vo-to-quoc-thumb.jpg",
+    "poster_url": "xa-thu-ban-tia-vo-to-quoc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318544",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41423004",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T14:46:50.000Z"
+    },
+    "_id": "69ddeaf1006591e108146597",
+    "name": "Trinh Tống",
+    "slug": "trinh-tong",
+    "origin_name": "Detective in the Song Dynasty",
+    "thumb_url": "trinh-tong-thumb.jpg",
+    "poster_url": "trinh-tong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "220850",
+      "season": 1,
+      "vote_average": 8.6,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt28210907",
+      "vote_average": 8.6,
+      "vote_count": 124
+    },
+    "modified": {
+      "time": "2026-04-14T14:03:34.000Z"
+    },
+    "_id": "69042d90b234f5d94935f1ca",
+    "name": "Luyện Khí Mười Vạn Năm",
+    "slug": "luyen-khi-muoi-van-nam",
+    "origin_name": "One Hundred Thousand Years of Qi Refining",
+    "thumb_url": "luyen-khi-muoi-van-nam-thumb.jpg",
+    "poster_url": "luyen-khi-muoi-van-nam-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317762",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41164579",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T14:03:15.000Z"
+    },
+    "_id": "69ca1f9ed88856be7725eca5",
+    "name": "Lòng Anh Không Khó Đoán",
+    "slug": "long-anh-khong-kho-doan",
+    "origin_name": "Born To Be The Villain",
+    "thumb_url": "long-anh-khong-kho-doan-thumb.jpg",
+    "poster_url": "long-anh-khong-kho-doan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T14:02:53.000Z"
+    },
+    "_id": "69cfc1840a0114095c87307b",
+    "name": "Bão Tố Dữ Dội",
+    "slug": "bao-to-du-doi",
+    "origin_name": "The Storm",
+    "thumb_url": "bao-to-du-doi-thumb.jpg",
+    "poster_url": "bao-to-du-doi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317219",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T14:02:26.000Z"
+    },
+    "_id": "69db44ff6d4243e068ed8c79",
+    "name": "Cung Nữ Này Không Mấy Bình Tĩnh",
+    "slug": "cung-nu-nay-khong-may-binh-tinh",
+    "origin_name": "This Palace Maid Isn't Very Calm",
+    "thumb_url": "cung-nu-nay-khong-may-binh-tinh-thumb.jpg",
+    "poster_url": "cung-nu-nay-khong-may-binh-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "276582",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt35324031",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T13:56:22.000Z"
+    },
+    "_id": "69abad79e263b2a94620a194",
+    "name": "Xe Đạp Tình Yêu",
+    "slug": "xe-dap-tinh-yeu",
+    "origin_name": "Love Like a Bike",
+    "thumb_url": "xe-dap-tinh-yeu-thumb.jpg",
+    "poster_url": "xe-dap-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "252788",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T13:44:27.000Z"
+    },
+    "_id": "69045e95df2f0059996054c5",
+    "name": "Tuyệt Thế Chiến Hồn",
+    "slug": "tuyet-the-chien-hon",
+    "origin_name": "Peerless Battle Spirit",
+    "thumb_url": "tuyet-the-chien-hon-thumb.jpg",
+    "poster_url": "tuyet-the-chien-hon-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "854062",
+      "season": null,
+      "vote_average": 6.6,
+      "vote_count": 19
+    },
+    "imdb": {
+      "id": "tt10334160",
+      "vote_average": 0,
+      "vote_count": 235
+    },
+    "modified": {
+      "time": "2026-04-14T13:06:20.000Z"
+    },
+    "_id": "69ddd207f616ee3807d7069c",
+    "name": "Khi Mọi Điều Dần An Bài",
+    "slug": "khi-moi-dieu-dan-an-bai",
+    "origin_name": "Falling into Place",
+    "thumb_url": "khi-moi-dieu-dan-an-bai-thumb.jpg",
+    "poster_url": "khi-moi-dieu-dan-an-bai-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1492341",
+      "season": null,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37172278",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-14T12:51:15.000Z"
+    },
+    "_id": "69ddca4db692c7b208d0569e",
+    "name": "Noah Kahan: Trải nghiệm thoát xác",
+    "slug": "noah-kahan-trai-nghiem-thoat-xac",
+    "origin_name": "Noah Kahan: Out of Body",
+    "thumb_url": "noah-kahan-trai-nghiem-thoat-xac-thumb.jpg",
+    "poster_url": "noah-kahan-trai-nghiem-thoat-xac-poster.jpg",
+    "year": 2026
+  }
+]
