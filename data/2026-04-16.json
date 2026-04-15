@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72976",
+      "season": 5,
+      "vote_average": 6.6,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt16444020",
+      "vote_average": 7.4,
+      "vote_count": 74
+    },
+    "modified": {
+      "time": "2026-04-16T00:50:40.000Z"
+    },
+    "_id": "69dfcfeb41d6bb2c315360fb",
+    "name": "Nhịp Đập Trái Tim (Phần 5)",
+    "slug": "nhip-dap-trai-tim-phan-5",
+    "origin_name": "Heart Signal (Season 5)",
+    "thumb_url": "nhip-dap-trai-tim-phan-5-thumb.jpg",
+    "poster_url": "nhip-dap-trai-tim-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "244189",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40389354",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T22:42:02.000Z"
+    },
+    "_id": "69c6027ef063d23bbbd6882b",
+    "name": "Hướng Về Sao Băng Cầu Nguyện",
+    "slug": "huong-ve-sao-bang-cau-nguyen",
+    "origin_name": "Wishing Upon the Shooting Stars",
+    "thumb_url": "huong-ve-sao-bang-cau-nguyen-thumb.jpg",
+    "poster_url": "huong-ve-sao-bang-cau-nguyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "304820",
+      "season": 1,
+      "vote_average": 6,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt39122552",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T22:41:50.000Z"
+    },
+    "_id": "69da0326377c8aaad53f9816",
+    "name": "Để xổng mất là cá to, nhưng cá tôi câu được lại còn to hơn",
+    "slug": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
+    "origin_name": "Always a Catch!",
+    "thumb_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-thumb.jpg",
+    "poster_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "95557",
+      "season": 4,
+      "vote_average": 8.6,
+      "vote_count": 5328
+    },
+    "imdb": {
+      "id": "tt6741278",
+      "vote_average": 8.7,
+      "vote_count": 301589
+    },
+    "modified": {
+      "time": "2026-04-15T22:40:58.000Z"
+    },
+    "_id": "69bb9587f937c3b5a1186fc6",
+    "name": "BẤT KHẢ CHIẾN BẠI (Phần 4)",
+    "slug": "bat-kha-chien-bai-phan-4",
+    "origin_name": "Invincible (Season 4)",
+    "thumb_url": "bat-kha-chien-bai-phan-4-thumb.jpg",
+    "poster_url": "bat-kha-chien-bai-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1432547",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt36148135",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T22:40:10.000Z"
+    },
+    "_id": "69df861d6d4243e068eecf72",
+    "name": "Hãy sống cho ngày mai. Hãy chết hôm nay.",
+    "slug": "hay-song-cho-ngay-mai-hay-chet-hom-nay",
+    "origin_name": "All You Need is Kill",
+    "thumb_url": "hay-song-cho-ngay-mai-hay-chet-hom-nay-thumb.jpg",
+    "poster_url": "hay-song-cho-ngay-mai-hay-chet-hom-nay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318006",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T22:37:30.000Z"
+    },
+    "_id": "69dfb02615072466aceb2819",
+    "name": "Hình Phạt Vì Yêu Em",
+    "slug": "hinh-phat-vi-yeu-em",
+    "origin_name": "Love's Shattered Reflections",
+    "thumb_url": "hinh-phat-vi-yeu-em-thumb.jpg",
+    "poster_url": "hinh-phat-vi-yeu-em-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313732",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40289654",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T19:38:29.000Z"
+    },
+    "_id": "69d7241141d6bb2c3150f2cf",
+    "name": "Tin Đồn Tình Yêu",
+    "slug": "tin-don-tinh-yeu",
+    "origin_name": "Scandal love",
+    "thumb_url": "tin-don-tinh-yeu-thumb.jpg",
+    "poster_url": "tin-don-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T19:37:11.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72517",
+      "season": 4,
+      "vote_average": 8.402,
+      "vote_count": 757
+    },
+    "imdb": {
+      "id": "tt7263328",
+      "vote_average": 7.7,
+      "vote_count": 20411
+    },
+    "modified": {
+      "time": "2026-04-15T19:37:00.000Z"
+    },
+    "_id": "69cde6c8400bf394bd970fda",
+    "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+    "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+    "origin_name": "Classroom of the Elite (Season 4)",
+    "thumb_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+    "poster_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "245318",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt31137273",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T19:35:56.000Z"
+    },
+    "_id": "69df658b93c48ff6bfe91299",
+    "name": "Rắc Rối Tiền Bạc Của Margo",
+    "slug": "rac-roi-tien-bac-cua-margo",
+    "origin_name": "Margo's Got Money Troubles",
+    "thumb_url": "rac-roi-tien-bac-cua-margo-thumb.jpg",
+    "poster_url": "rac-roi-tien-bac-cua-margo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202555",
+      "season": 2,
+      "vote_average": 7.971,
+      "vote_count": 678
+    },
+    "imdb": {
+      "id": "tt18923754",
+      "vote_average": 8,
+      "vote_count": 87894
+    },
+    "modified": {
+      "time": "2026-04-15T19:34:31.000Z"
+    },
+    "_id": "69c39efcf65d22d617b84ba1",
+    "name": "Daredevil: Tái Xuất (Phần 2)",
+    "slug": "daredevil-tai-xuat-phan-2",
+    "origin_name": "Daredevil: Born Again (Season 2)",
+    "thumb_url": "daredevil-tai-xuat-phan-2-thumb.jpg",
+    "poster_url": "daredevil-tai-xuat-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "108181",
+      "season": 1,
+      "vote_average": 5.4,
+      "vote_count": 21
+    },
+    "imdb": {
+      "id": "tt31937954",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T19:30:14.000Z"
+    },
+    "_id": "69c352a7b06c99c7220029e6",
+    "name": "Những Người Phụ Nữ Không Hoàn Hảo",
+    "slug": "nhung-nguoi-phu-nu-khong-hoan-hao",
+    "origin_name": "Imperfect Women",
+    "thumb_url": "nhung-nguoi-phu-nu-khong-hoan-hao-thumb.jpg",
+    "poster_url": "nhung-nguoi-phu-nu-khong-hoan-hao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297454",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T17:41:13.000Z"
+    },
+    "_id": "69df3eba31aa2678f8c80f62",
+    "name": "Người nắm giữ sự thật",
+    "slug": "nguoi-nam-giu-su-that",
+    "origin_name": "Someone Has to Know",
+    "thumb_url": "nguoi-nam-giu-su-that-thumb.jpg",
+    "poster_url": "nguoi-nam-giu-su-that-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1416391",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34498610",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T17:40:51.000Z"
+    },
+    "_id": "69df3dc1482e09b4282292bc",
+    "name": "Máy nướng bánh",
+    "slug": "may-nuong-banh",
+    "origin_name": "Toaster",
+    "thumb_url": "may-nuong-banh-thumb.jpg",
+    "poster_url": "may-nuong-banh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283905",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38273912",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T17:20:34.000Z"
+    },
+    "_id": "69df645a15072466aceb0f40",
+    "name": "Dáng Say Tựa Đoá Bách Hợp",
+    "slug": "dang-say-tua-doa-bach-hop",
+    "origin_name": "Botan Kamiina Fully Blossoms When Drunk",
+    "thumb_url": "dang-say-tua-doa-bach-hop-thumb.jpg",
+    "poster_url": "dang-say-tua-doa-bach-hop-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "293697",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39122671",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T17:20:16.000Z"
+    },
+    "_id": "69df6411377c8aaad5412ad8",
+    "name": "Tôi muốn chấm dứt trò chơi tình yêu này",
+    "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
+    "origin_name": "I Want to End This Love Game",
+    "thumb_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-thumb.jpg",
+    "poster_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282902",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T17:20:01.000Z"
+    },
+    "_id": "69cd0970eea244e3e8ba91fc",
+    "name": "Anh Vũ",
+    "slug": "anh-vu-2026",
+    "origin_name": "Unpredictable",
+    "thumb_url": "anh-vu-2026-thumb.jpg",
+    "poster_url": "anh-vu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289624",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31501042",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T17:19:44.000Z"
+    },
+    "_id": "69d770a4a54286c41ba2b17a",
+    "name": "Tám Nghìn Dặm Đường Mây Và Trăng",
+    "slug": "tam-nghin-dam-duong-may-va-trang",
+    "origin_name": "Echoes of a Thousand Moons",
+    "thumb_url": "tam-nghin-dam-duong-may-va-trang-thumb.jpg",
+    "poster_url": "tam-nghin-dam-duong-may-va-trang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "85552",
+      "season": 3,
+      "vote_average": 8.284,
+      "vote_count": 10386
+    },
+    "imdb": {
+      "id": "tt8772296",
+      "vote_average": 8.2,
+      "vote_count": 291961
+    },
+    "modified": {
+      "time": "2026-04-15T17:13:49.000Z"
+    },
+    "_id": "69df1bc8006591e10814bd8c",
+    "name": "Lâng Lâng (Phần 3)",
+    "slug": "lang-lang-phan-3",
+    "origin_name": "Euphoria (Season 3)",
+    "thumb_url": "lang-lang-phan-3-thumb.jpg",
+    "poster_url": "lang-lang-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T17:09:06.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "76479",
+      "season": 5,
+      "vote_average": 8.442,
+      "vote_count": 11563
+    },
+    "imdb": {
+      "id": "tt1190634",
+      "vote_average": 8.6,
+      "vote_count": 822500
+    },
+    "modified": {
+      "time": "2026-04-15T17:07:42.000Z"
+    },
+    "_id": "695f5290f063d23bbbc21c06",
+    "name": "The Boys (Phần 5)",
+    "slug": "the-boys-phan-5",
+    "origin_name": "The Boys (Season 5)",
+    "thumb_url": "the-boys-phan-5-thumb-1775624659696.jpg",
+    "poster_url": "the-boys-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314073",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40330547",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-15T16:52:11.000Z"
+    },
+    "_id": "69b926dbe263b2a9462406e4",
+    "name": "Never Forget Your Enemy",
+    "slug": "never-forget-your-enemy",
+    "origin_name": "Never Forget Your Enemy",
+    "thumb_url": "never-forget-your-enemy-thumb.jpg",
+    "poster_url": "never-forget-your-enemy-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "227371",
+      "season": 3,
+      "vote_average": 7.2,
+      "vote_count": 194
+    },
+    "imdb": {
+      "id": "tt14494938",
+      "vote_average": 5.7,
+      "vote_count": 6025
+    },
+    "modified": {
+      "time": "2026-04-15T16:49:18.000Z"
+    },
+    "_id": "69df5f1e4a74b3cede0c7c71",
+    "name": "Danh tính giả (Phần 3)",
+    "slug": "danh-tinh-gia-phan-3",
+    "origin_name": "Fake Profile (Season 3)",
+    "thumb_url": "danh-tinh-gia-phan-3-thumb.jpg",
+    "poster_url": "danh-tinh-gia-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211358",
+      "season": 1,
+      "vote_average": 7.8,
+      "vote_count": 212
+    },
+    "imdb": {
+      "id": "tt1640719",
+      "vote_average": 7.2,
+      "vote_count": 20870
+    },
+    "modified": {
+      "time": "2026-04-15T16:13:09.000Z"
+    },
+    "_id": "69cb7a5e458948c679afe323",
+    "name": "Bi Kịch Dưới Chân Cầu",
+    "slug": "bi-kich-duoi-chan-cau",
+    "origin_name": "Under the Bridge",
+    "thumb_url": "bi-kich-duoi-chan-cau-thumb.jpg",
+    "poster_url": "bi-kich-duoi-chan-cau-poster.jpg",
+    "year": 2024
+  }
+]
