@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "247805",
+      "season": 4,
+      "vote_average": 8.3,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt34460456",
+      "vote_average": 0,
+      "vote_count": 31
+    },
+    "modified": {
+      "time": "2026-04-17T00:18:47.000Z"
+    },
+    "_id": "6943a6f5d6caf55037c2b7bb",
+    "name": "Mọi Lúc Mọi Nơi (Phần 4)",
+    "slug": "moi-luc-moi-noi-phan-4",
+    "origin_name": "Whenever Possible (Season 4)",
+    "thumb_url": "moi-luc-moi-noi-phan-4-thumb.jpg",
+    "poster_url": "moi-luc-moi-noi-phan-4-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "247704",
+      "season": 2,
+      "vote_average": 7.116,
+      "vote_count": 108
+    },
+    "imdb": {
+      "id": "tt23897504",
+      "vote_average": 7.1,
+      "vote_count": 11287
+    },
+    "modified": {
+      "time": "2026-04-16T22:51:50.000Z"
+    },
+    "_id": "69d7d7a06d4243e068ecb61a",
+    "name": "Chuyến Bay Đêm (Phần 2)",
+    "slug": "chuyen-bay-dem-phan-2",
+    "origin_name": "Red Eye (Season 2)",
+    "thumb_url": "chuyen-bay-dem-phan-2-thumb.jpg",
+    "poster_url": "chuyen-bay-dem-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283428",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39123061",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T22:47:11.000Z"
+    },
+    "_id": "69cfc54f54ca9185bbbf9f80",
+    "name": "Bức Tường Băng",
+    "slug": "buc-tuong-bang",
+    "origin_name": "The Ramparts of Ice",
+    "thumb_url": "buc-tuong-bang-thumb.jpg",
+    "poster_url": "buc-tuong-bang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "86031",
+      "season": 4,
+      "vote_average": 8.538,
+      "vote_count": 1609
+    },
+    "imdb": {
+      "id": "tt9679542",
+      "vote_average": 8.1,
+      "vote_count": 40034
+    },
+    "modified": {
+      "time": "2026-04-16T22:40:29.000Z"
+    },
+    "_id": "6780ddf7af10fecdaf87d209",
+    "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
+    "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
+    "origin_name": "Dr. STONE (Season 4)",
+    "thumb_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
+    "poster_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309044",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T22:39:49.000Z"
+    },
+    "_id": "69843f824ea2111da8b72fb3",
+    "name": "Món Quà Của Kluay",
+    "slug": "mon-qua-cua-kluay",
+    "origin_name": "The Gift",
+    "thumb_url": "mon-qua-cua-kluay-thumb.jpg",
+    "poster_url": "mon-qua-cua-kluay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "250220",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31909098",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T22:11:26.000Z"
+    },
+    "_id": "69d899c9db41bcecb8dda433",
+    "name": "Cô Vợ Tí Hon",
+    "slug": "co-vo-ti-hon",
+    "origin_name": "The Miniature Wife",
+    "thumb_url": "co-vo-ti-hon-thumb.jpg",
+    "poster_url": "co-vo-ti-hon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258865",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32330809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T20:19:39.000Z"
+    },
+    "_id": "692ead4fca27378366af81b0",
+    "name": "Mộ Tư Từ",
+    "slug": "mo-tu-tu",
+    "origin_name": "Love Beyond the Grave",
+    "thumb_url": "mo-tu-tu-thumb.jpg",
+    "poster_url": "mo-tu-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313732",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40289654",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T20:15:40.000Z"
+    },
+    "_id": "69d7241141d6bb2c3150f2cf",
+    "name": "Tin Đồn Tình Yêu",
+    "slug": "tin-don-tinh-yeu",
+    "origin_name": "Scandal love",
+    "thumb_url": "tin-don-tinh-yeu-thumb.jpg",
+    "poster_url": "tin-don-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T20:15:27.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "298849",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T19:57:39.000Z"
+    },
+    "_id": "69a12fda4ea2111da8bf4850",
+    "name": "Con Tôi Hẹn Hò (Phần 2)",
+    "slug": "con-toi-hen-ho-phan-2",
+    "origin_name": "When Our Kids Fall In Love",
+    "thumb_url": "con-toi-hen-ho-phan-2-thumb.jpg",
+    "poster_url": "con-toi-hen-ho-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282902",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T17:19:38.000Z"
+    },
+    "_id": "69cd0970eea244e3e8ba91fc",
+    "name": "Anh Vũ",
+    "slug": "anh-vu-2026",
+    "origin_name": "Unpredictable",
+    "thumb_url": "anh-vu-2026-thumb.jpg",
+    "poster_url": "anh-vu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T17:19:25.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "227371",
+      "season": 3,
+      "vote_average": 7.2,
+      "vote_count": 194
+    },
+    "imdb": {
+      "id": "tt14494938",
+      "vote_average": 5.7,
+      "vote_count": 6025
+    },
+    "modified": {
+      "time": "2026-04-16T16:41:06.000Z"
+    },
+    "_id": "69df5f1e4a74b3cede0c7c71",
+    "name": "Danh tính giả (Phần 3)",
+    "slug": "danh-tinh-gia-phan-3",
+    "origin_name": "Fake Profile (Season 3)",
+    "thumb_url": "danh-tinh-gia-phan-3-thumb.jpg",
+    "poster_url": "danh-tinh-gia-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316973",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40356933",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T16:32:22.000Z"
+    },
+    "_id": "69e08b67db41bcecb8dfe120",
+    "name": "Bồ Công Anh",
+    "slug": "bo-cong-anh",
+    "origin_name": "Dandelion",
+    "thumb_url": "bo-cong-anh-thumb.jpg",
+    "poster_url": "bo-cong-anh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317219",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T14:12:13.000Z"
+    },
+    "_id": "69db44ff6d4243e068ed8c79",
+    "name": "Cung Nữ Này Không Mấy Bình Tĩnh",
+    "slug": "cung-nu-nay-khong-may-binh-tinh",
+    "origin_name": "This Palace Maid Isn't Very Calm",
+    "thumb_url": "cung-nu-nay-khong-may-binh-tinh-thumb.jpg",
+    "poster_url": "cung-nu-nay-khong-may-binh-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318831",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41511423",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T14:12:00.000Z"
+    },
+    "_id": "69df39664a74b3cede0c70ce",
+    "name": "Tôi Là Triệu Ngô Địch: Khởi Động Lại",
+    "slug": "toi-la-trieu-ngo-dich-khoi-dong-lai",
+    "origin_name": "My Name is Zhao Wudi: Starting Over",
+    "thumb_url": "toi-la-trieu-ngo-dich-khoi-dong-lai-thumb-1776323519173.jpg",
+    "poster_url": "toi-la-trieu-ngo-dich-khoi-dong-lai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254701",
+      "season": 1,
+      "vote_average": 6.1,
+      "vote_count": 31
+    },
+    "imdb": {
+      "id": "tt32386301",
+      "vote_average": 6.6,
+      "vote_count": 150
+    },
+    "modified": {
+      "time": "2026-04-16T13:54:48.000Z"
+    },
+    "_id": "69e071532b874d6bfb699d7a",
+    "name": "Atomic: Chuyến Xe Sinh Tử",
+    "slug": "atomic-chuyen-xe-sinh-tu",
+    "origin_name": "Atomic",
+    "thumb_url": "atomic-chuyen-xe-sinh-tu-thumb.jpg",
+    "poster_url": "atomic-chuyen-xe-sinh-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318543",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41423551",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T12:01:55.000Z"
+    },
+    "_id": "69e06d4331aa2678f8c86718",
+    "name": "Ký Ức Không Gian",
+    "slug": "ky-uc-khong-gian",
+    "origin_name": "The Lost Memories",
+    "thumb_url": "ky-uc-khong-gian-thumb.jpg",
+    "poster_url": "ky-uc-khong-gian-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1512207",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt32267711",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T11:47:49.000Z"
+    },
+    "_id": "69e069f34a74b3cede0cc89a",
+    "name": "Rufus: Thủy Quái Học Bơi",
+    "slug": "rufus-thuy-quai-hoc-boi",
+    "origin_name": "Rufus: The Sea Serpent Who Couldn't Swim",
+    "thumb_url": "rufus-thuy-quai-hoc-boi-thumb.jpg",
+    "poster_url": "rufus-thuy-quai-hoc-boi-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "677558",
+      "season": null,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt13518550",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T11:46:45.000Z"
+    },
+    "_id": "69e069b37e5a0662d4df484b",
+    "name": "Cá Voi Nhỏ Chu Du Đại Dương",
+    "slug": "ca-voi-nho-chu-du-dai-duong",
+    "origin_name": "The Last Whale Singer",
+    "thumb_url": "ca-voi-nho-chu-du-dai-duong-thumb.jpg",
+    "poster_url": "ca-voi-nho-chu-du-dai-duong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1418297",
+      "season": null,
+      "vote_average": 5.2,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39064608",
+      "vote_average": 6.3,
+      "vote_count": 39
+    },
+    "modified": {
+      "time": "2026-04-16T11:42:13.000Z"
+    },
+    "_id": "69e0687e4a74b3cede0cc7f2",
+    "name": "Phi Vụ Cuối Cùng",
+    "slug": "phi-vu-cuoi-cungg",
+    "origin_name": "The Last Shot",
+    "thumb_url": "phi-vu-cuoi-cungg-thumb.jpg",
+    "poster_url": "phi-vu-cuoi-cungg-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1205916",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt36591554",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T11:41:07.000Z"
+    },
+    "_id": "69e06861377c8aaad54174d3",
+    "name": "Ta Khon: Quỷ Đội Lốt Người",
+    "slug": "ta-khon-quy-doi-lot-nguoi",
+    "origin_name": "Ta Khon : The Cursed Mask",
+    "thumb_url": "ta-khon-quy-doi-lot-nguoi-thumb.jpg",
+    "poster_url": "ta-khon-quy-doi-lot-nguoi-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1139636",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T11:40:42.000Z"
+    },
+    "_id": "69e067ff91cc1b96d586bbc7",
+    "name": "Phương pháp diễn xuất",
+    "slug": "phuong-phap-dien-xuat",
+    "origin_name": "Method Acting",
+    "thumb_url": "phuong-phap-dien-xuat-thumb.jpg",
+    "poster_url": "phuong-phap-dien-xuat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1543151",
+      "season": null,
+      "vote_average": 1,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-16T11:38:26.000Z"
+    },
+    "_id": "69e0675593c48ff6bfe95a3c",
+    "name": "Quỷ Dữ Từ Luyện Ngục",
+    "slug": "quy-du-tu-luyen-nguc",
+    "origin_name": "King Keaw",
+    "thumb_url": "quy-du-tu-luyen-nguc-thumb.jpg",
+    "poster_url": "quy-du-tu-luyen-nguc-poster.jpg",
+    "year": 2026
+  }
+]
