@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278573",
+      "season": 1,
+      "vote_average": 9.1,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt39333617",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T23:08:02.000Z"
+    },
+    "_id": "69d8f14d7e5a0662d4dd2f64",
+    "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+    "slug": "phu-nhan-dai-quan-the-ky-21",
+    "origin_name": "Perfect Crown",
+    "thumb_url": "phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+    "poster_url": "phu-nhan-dai-quan-the-ky-21-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289424",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36732944",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T22:36:13.000Z"
+    },
+    "_id": "69e3a4edf616ee3807d9403c",
+    "name": "Cuộc Chiến Trong Chúng Ta",
+    "slug": "cuoc-chien-trong-chung-ta",
+    "origin_name": "We Are All Trying Here",
+    "thumb_url": "cuoc-chien-trong-chung-ta-thumb.jpg",
+    "poster_url": "cuoc-chien-trong-chung-ta-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287114",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36626289",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T22:05:31.000Z"
+    },
+    "_id": "69bd06b8f65d22d617b6ceda",
+    "name": "The Water 4 Elements: Dòng Sông Mưu Mẹo",
+    "slug": "the-water-4-elements-dong-song-muu-meo",
+    "origin_name": "The Water",
+    "thumb_url": "the-water-4-elements-dong-song-muu-meo-thumb.jpg",
+    "poster_url": "the-water-4-elements-dong-song-muu-meo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281010",
+      "season": 1,
+      "vote_average": 7.8,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt39837101",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T22:05:18.000Z"
+    },
+    "_id": "69abb1c2f063d23bbbd03d3e",
+    "name": "Luật Sư Bóng Ma",
+    "slug": "luat-su-bong-ma",
+    "origin_name": "Phantom Lawyer",
+    "thumb_url": "luat-su-bong-ma-thumb.jpg",
+    "poster_url": "luat-su-bong-ma-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1659087",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt40891145",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T22:04:08.000Z"
+    },
+    "_id": "69e39d6893c48ff6bfead2a8",
+    "name": "180",
+    "slug": "180",
+    "origin_name": "180",
+    "thumb_url": "180-thumb.jpg",
+    "poster_url": "180-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "310935",
+      "season": 1,
+      "vote_average": 8.04,
+      "vote_count": 25
+    },
+    "imdb": {
+      "id": "tt39366412",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T22:03:23.000Z"
+    },
+    "_id": "69ac4709e263b2a94620cb0d",
+    "name": "Cô Gái Đến Từ Hư Vô: Tái Khởi Động",
+    "slug": "co-gai-den-tu-hu-vo-tai-khoi-dong",
+    "origin_name": "Girl from Nowhere: The Reset",
+    "thumb_url": "co-gai-den-tu-hu-vo-tai-khoi-dong-thumb.jpg",
+    "poster_url": "co-gai-den-tu-hu-vo-tai-khoi-dong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T19:11:11.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T17:18:58.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T17:18:28.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211358",
+      "season": 1,
+      "vote_average": 7.784,
+      "vote_count": 215
+    },
+    "imdb": {
+      "id": "tt1640719",
+      "vote_average": 7.2,
+      "vote_count": 20870
+    },
+    "modified": {
+      "time": "2026-04-18T16:18:43.000Z"
+    },
+    "_id": "69cb7a5e458948c679afe323",
+    "name": "Bi Kịch Dưới Chân Cầu",
+    "slug": "bi-kich-duoi-chan-cau",
+    "origin_name": "Under the Bridge",
+    "thumb_url": "bi-kich-duoi-chan-cau-thumb.jpg",
+    "poster_url": "bi-kich-duoi-chan-cau-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258932",
+      "season": 3,
+      "vote_average": 7.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T15:42:18.000Z"
+    },
+    "_id": "69e3398b31aa2678f8c99a1b",
+    "name": "Hương Vị Của Biển (Phần 3)",
+    "slug": "huong-vi-cua-bien-phan-3",
+    "origin_name": "Fresh off the Sea (Season 3)",
+    "thumb_url": "huong-vi-cua-bien-phan-3-thumb.jpg",
+    "poster_url": "huong-vi-cua-bien-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1511057",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 10
+    },
+    "imdb": {
+      "id": "tt37540875",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T15:14:28.000Z"
+    },
+    "_id": "69e338dc377c8aaad542aceb",
+    "name": "Bạn Cùng Phòng",
+    "slug": "ban-cung-phong-2026",
+    "origin_name": "Roommates",
+    "thumb_url": "ban-cung-phong-2026-thumb.jpg",
+    "poster_url": "ban-cung-phong-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124101",
+      "season": 5,
+      "vote_average": 7.421,
+      "vote_count": 329
+    },
+    "imdb": {
+      "id": "tt11815682",
+      "vote_average": 8.2,
+      "vote_count": 60819
+    },
+    "modified": {
+      "time": "2026-04-18T15:14:21.000Z"
+    },
+    "_id": "69dba5ff15072466ace9ef7a",
+    "name": "Huyền Thoại Làng Hài (Phần 5)",
+    "slug": "huyen-thoai-lang-hai-phan-5",
+    "origin_name": "Hacks (Season 5)",
+    "thumb_url": "huyen-thoai-lang-hai-phan-5-thumb.jpg",
+    "poster_url": "huyen-thoai-lang-hai-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296232",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39229727",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T14:53:44.000Z"
+    },
+    "_id": "69d5e08d93c48ff6bfe68daa",
+    "name": "Trái Đất Đóng Băng",
+    "slug": "trai-dat-dong-bang",
+    "origin_name": "SNOWBALL EARTH",
+    "thumb_url": "trai-dat-dong-bang-thumb.jpg",
+    "poster_url": "trai-dat-dong-bang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "56570",
+      "season": 8,
+      "vote_average": 8.176,
+      "vote_count": 2806
+    },
+    "imdb": {
+      "id": "tt3006802",
+      "vote_average": 8.3,
+      "vote_count": 199573
+    },
+    "modified": {
+      "time": "2026-04-18T14:53:33.000Z"
+    },
+    "_id": "69b4da44b06c99c722fca67d",
+    "name": "Người Ngoại Tộc (Phần 8)",
+    "slug": "nguoi-ngoai-toc-phan-8",
+    "origin_name": "Outlander (Season 8)",
+    "thumb_url": "nguoi-ngoai-toc-phan-8-thumb.jpg",
+    "poster_url": "nguoi-ngoai-toc-phan-8-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1292695",
+      "season": null,
+      "vote_average": 6.552,
+      "vote_count": 134
+    },
+    "imdb": {
+      "id": "tt31728330",
+      "vote_average": 6.5,
+      "vote_count": 8025
+    },
+    "modified": {
+      "time": "2026-04-18T14:51:17.000Z"
+    },
+    "_id": "69b381364da3bf6eb341317d",
+    "name": "Chúng Sẽ Đoạt Mạng",
+    "slug": "chung-se-doat-mang",
+    "origin_name": "They Will Kill You",
+    "thumb_url": "chung-se-doat-mang-thumb.jpg",
+    "poster_url": "chung-se-doat-mang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "980431",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt18259538",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T14:45:52.000Z"
+    },
+    "_id": "69df0f79e53e6a47ad5a61d4",
+    "name": "Huyền Thoại Aang: Tiết Khí Sư Cuối Cùng",
+    "slug": "huyen-thoai-aang-tiet-khi-su-cuoi-cung",
+    "origin_name": "Avatar: Aang, The Last Airbender",
+    "thumb_url": "huyen-thoai-aang-tiet-khi-su-cuoi-cung-thumb.jpg",
+    "poster_url": "huyen-thoai-aang-tiet-khi-su-cuoi-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290700",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T14:39:54.000Z"
+    },
+    "_id": "69e1c722f616ee3807d82950",
+    "name": "Giải Mã Trọng Án",
+    "slug": "giai-ma-trong-an",
+    "origin_name": "Case X Decoded",
+    "thumb_url": "giai-ma-trong-an-thumb.jpg",
+    "poster_url": "giai-ma-trong-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "217838",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34934110",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T14:38:18.000Z"
+    },
+    "_id": "69c75361eea244e3e8b93ab3",
+    "name": "Love Upon A Time: Duyên Kiếp Bên Người",
+    "slug": "love-upon-a-time-duyen-kiep-ben-nguoi",
+    "origin_name": "Love Upon a Time",
+    "thumb_url": "love-upon-a-time-duyen-kiep-ben-nguoi-thumb.jpg",
+    "poster_url": "love-upon-a-time-duyen-kiep-ben-nguoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312583",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39452164",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T14:36:04.000Z"
+    },
+    "_id": "69d09f12f937c3b5a11d24b6",
+    "name": "Người Yêu Miền Quê",
+    "slug": "nguoi-yeu-mien-que",
+    "origin_name": "Hometown Romance",
+    "thumb_url": "nguoi-yeu-mien-que-thumb.jpg",
+    "poster_url": "nguoi-yeu-mien-que-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "82684",
+      "season": 4,
+      "vote_average": 8.398,
+      "vote_count": 865
+    },
+    "imdb": {
+      "id": "tt9054364",
+      "vote_average": 8,
+      "vote_count": 22072
+    },
+    "modified": {
+      "time": "2026-04-18T14:30:39.000Z"
+    },
+    "_id": "69d5e11f7e5a0662d4dc7c5f",
+    "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
+    "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
+    "origin_name": "That Time I Got Reincarnated as a Slime (Season 4)",
+    "thumb_url": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
+    "poster_url": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282158",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-18T14:28:33.000Z"
+    },
+    "_id": "69800ed8da6ce23e8e97b912",
+    "name": "Trạch Thiên Ký",
+    "slug": "trach-thien-ky-2026",
+    "origin_name": "Fighter of the Destiny 3D",
+    "thumb_url": "trach-thien-ky-2026-thumb.jpg",
+    "poster_url": "trach-thien-ky-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "220850",
+      "season": 1,
+      "vote_average": 8.6,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt28210907",
+      "vote_average": 8.6,
+      "vote_count": 124
+    },
+    "modified": {
+      "time": "2026-04-18T14:28:04.000Z"
+    },
+    "_id": "69042d90b234f5d94935f1ca",
+    "name": "Luyện Khí Mười Vạn Năm",
+    "slug": "luyen-khi-muoi-van-nam",
+    "origin_name": "One Hundred Thousand Years of Qi Refining",
+    "thumb_url": "luyen-khi-muoi-van-nam-thumb.jpg",
+    "poster_url": "luyen-khi-muoi-van-nam-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "223911",
+      "season": 1,
+      "vote_average": 8.8,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt27432264",
+      "vote_average": 8.6,
+      "vote_count": 727
+    },
+    "modified": {
+      "time": "2026-04-18T14:27:45.000Z"
+    },
+    "_id": "65711707efed8b7739873bf4",
+    "name": "Tiên Nghịch",
+    "slug": "tien-nghich",
+    "origin_name": "Renegade Immortal",
+    "thumb_url": "tien-nghich-thumb.jpg",
+    "poster_url": "tien-nghich-poster.jpg",
+    "year": 2023
+  }
+]
