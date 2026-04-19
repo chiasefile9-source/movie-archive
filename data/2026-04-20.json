@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124364",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 2553
+    },
+    "imdb": {
+      "id": "tt9813792",
+      "vote_average": 7.8,
+      "vote_count": 173600
+    },
+    "modified": {
+      "time": "2026-04-19T23:17:22.000Z"
+    },
+    "_id": "69e4fb962b874d6bfb6bbee5",
+    "name": "Thị Trấn Ác Mộng (Phần 4)",
+    "slug": "thi-tran-ac-mong-phan-4",
+    "origin_name": "FROM (Season 4)",
+    "thumb_url": "thi-tran-ac-mong-phan-4-thumb.jpg",
+    "poster_url": "thi-tran-ac-mong-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315704",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41455696",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T23:02:01.000Z"
+    },
+    "_id": "69e4f979da7d8940685e7409",
+    "name": "Thầy Tatsuki Quá Dễ Tính",
+    "slug": "thay-tatsuki-qua-de-tinh",
+    "origin_name": "Tatsuki: Too Kind for School",
+    "thumb_url": "thay-tatsuki-qua-de-tinh-thumb.jpg",
+    "poster_url": "thay-tatsuki-qua-de-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "218896",
+      "season": 3,
+      "vote_average": 7.372,
+      "vote_count": 149
+    },
+    "imdb": {
+      "id": "tt15441160",
+      "vote_average": 7.5,
+      "vote_count": 10971
+    },
+    "modified": {
+      "time": "2026-04-19T22:47:25.000Z"
+    },
+    "_id": "69e4f90be53e6a47ad5ce99c",
+    "name": "Nữ Luật Sư Lidia Poët (Phần 3)",
+    "slug": "nu-luat-su-lidia-poet-phan-3",
+    "origin_name": "The Law According to Lidia Poët (Season 3)",
+    "thumb_url": "nu-luat-su-lidia-poet-phan-3-thumb.jpg",
+    "poster_url": "nu-luat-su-lidia-poet-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311871",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T22:45:29.000Z"
+    },
+    "_id": "69e4a9db6d4243e068f1056b",
+    "name": "Anh Em Nhà Tagusari",
+    "slug": "tagusari-bros",
+    "origin_name": "TAGUSARI bros.",
+    "thumb_url": "tagusari-bros-thumb.jpg",
+    "poster_url": "tagusari-bros-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274556",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 20
+    },
+    "imdb": {
+      "id": "tt34063491",
+      "vote_average": 7.1,
+      "vote_count": 2560
+    },
+    "modified": {
+      "time": "2026-04-19T22:40:06.000Z"
+    },
+    "_id": "68dcc5953e261817af05a0df",
+    "name": "Thành Phố Xa Xôi",
+    "slug": "thanh-pho-xa-xoi",
+    "origin_name": "Far Away",
+    "thumb_url": "thanh-pho-xa-xoi-thumb.jpg",
+    "poster_url": "thanh-pho-xa-xoi-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289424",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36732944",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T22:28:36.000Z"
+    },
+    "_id": "69e3a4edf616ee3807d9403c",
+    "name": "Cuộc Chiến Trong Chúng Ta",
+    "slug": "cuoc-chien-trong-chung-ta",
+    "origin_name": "We Are All Trying Here",
+    "thumb_url": "cuoc-chien-trong-chung-ta-thumb.jpg",
+    "poster_url": "cuoc-chien-trong-chung-ta-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297557",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39123043",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T22:24:10.000Z"
+    },
+    "_id": "69dc96fb41d6bb2c31526006",
+    "name": "Hắc Miêu Và Lớp Học Phù Thủy",
+    "slug": "hac-mieu-va-lop-hoc-phu-thuy",
+    "origin_name": "The Classroom of a Black Cat and a Witch",
+    "thumb_url": "hac-mieu-va-lop-hoc-phu-thuy-thumb.jpg",
+    "poster_url": "hac-mieu-va-lop-hoc-phu-thuy-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T22:19:23.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T17:19:50.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289624",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31501042",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T17:19:01.000Z"
+    },
+    "_id": "69d770a4a54286c41ba2b17a",
+    "name": "Tám Nghìn Dặm Đường Mây Và Trăng",
+    "slug": "tam-nghin-dam-duong-may-va-trang",
+    "origin_name": "Echoes of a Thousand Moons",
+    "thumb_url": "tam-nghin-dam-duong-may-va-trang-thumb.jpg",
+    "poster_url": "tam-nghin-dam-duong-may-va-trang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T17:04:47.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275902",
+      "season": 1,
+      "vote_average": 7.818,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt38631545",
+      "vote_average": 7.9,
+      "vote_count": 100
+    },
+    "modified": {
+      "time": "2026-04-19T16:25:24.000Z"
+    },
+    "_id": "6963808e988d934ea9e3c5ea",
+    "name": "Kaya-chan Không Hề Đáng Sợ",
+    "slug": "kaya-chan-khong-dang-so",
+    "origin_name": "Kaya-chan Isn't Scary",
+    "thumb_url": "kaya-chan-khong-dang-so-thumb.jpg",
+    "poster_url": "kaya-chan-khong-dang-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1353583",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31033173",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T16:17:18.000Z"
+    },
+    "_id": "69e49aa22b874d6bfb6b8982",
+    "name": "Khát Vọng Tình Thân",
+    "slug": "khat-vong-tinh-than",
+    "origin_name": "Waterdrop",
+    "thumb_url": "khat-vong-tinh-than-thumb.jpg",
+    "poster_url": "khat-vong-tinh-than-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "245842",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 97
+    },
+    "imdb": {
+      "id": "tt31889371",
+      "vote_average": 7.5,
+      "vote_count": 3554
+    },
+    "modified": {
+      "time": "2026-04-19T16:14:26.000Z"
+    },
+    "_id": "69dbac0741d6bb2c315221e7",
+    "name": "Wistoria: Trượng và Kiếm (Phần 2)",
+    "slug": "wistoria-truong-va-kiem-phan-2",
+    "origin_name": "Wistoria: Wand and Sword (Season 2)",
+    "thumb_url": "wistoria-truong-va-kiem-phan-2-thumb.jpg",
+    "poster_url": "wistoria-truong-va-kiem-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "213326",
+      "season": 2,
+      "vote_average": 8.1,
+      "vote_count": 58
+    },
+    "imdb": {
+      "id": "tt23132598",
+      "vote_average": 6.4,
+      "vote_count": 612
+    },
+    "modified": {
+      "time": "2026-04-19T16:12:29.000Z"
+    },
+    "_id": "69e493fc4e2efe728847d230",
+    "name": "Nữ Vương Trùm Cuối Tàn Độc Căn Nguyên Của Mọi Thảm Kịch Sẽ Dốc Sức Vì Người Dân (Phần 2)",
+    "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
+    "origin_name": "The Most Heretical Last Boss Queen: From Villainess to Savior (Season 2)",
+    "thumb_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-thumb.jpg",
+    "poster_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "65942",
+      "season": 4,
+      "vote_average": 7.8,
+      "vote_count": 598
+    },
+    "imdb": {
+      "id": "tt5607616",
+      "vote_average": 8.1,
+      "vote_count": 38414
+    },
+    "modified": {
+      "time": "2026-04-19T16:12:01.000Z"
+    },
+    "_id": "69e49396748ca16f085fb60a",
+    "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác (Phần 4)",
+    "slug": "rezero-−-bat-dau-o-the-gioi-khac-phan-4",
+    "origin_name": "Re:ZERO -Starting Life in Another World- Season 4",
+    "thumb_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-thumb.jpg",
+    "poster_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316544",
+      "season": 1,
+      "vote_average": 6.438,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt37041367",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T16:01:57.000Z"
+    },
+    "_id": "69e4710f15072466aced2d59",
+    "name": "Ronaldinho: Độc nhất vô nhị",
+    "slug": "ronaldinho-doc-nhat-vo-nhi",
+    "origin_name": "Ronaldinho: The One and Only",
+    "thumb_url": "ronaldinho-doc-nhat-vo-nhi-thumb.jpg",
+    "poster_url": "ronaldinho-doc-nhat-vo-nhi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1623125",
+      "season": null,
+      "vote_average": 8.6,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt39314348",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T16:01:36.000Z"
+    },
+    "_id": "69e470c54e2efe728847bbf2",
+    "name": "Hành Trình Của Khỉ Đột – Qua Giọng Kể David Attenborough",
+    "slug": "hanh-trinh-cua-khi-dot-qua-giong-ke-david-attenborough",
+    "origin_name": "A Gorilla Story: Told by David Attenborough",
+    "thumb_url": "hanh-trinh-cua-khi-dot-qua-giong-ke-david-attenborough-thumb.jpg",
+    "poster_url": "hanh-trinh-cua-khi-dot-qua-giong-ke-david-attenborough-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "154526",
+      "season": 3,
+      "vote_average": 8.2,
+      "vote_count": 33
+    },
+    "imdb": {
+      "id": "tt28299608",
+      "vote_average": 7.3,
+      "vote_count": 694
+    },
+    "modified": {
+      "time": "2026-04-19T15:53:48.000Z"
+    },
+    "_id": "69e46939cec790794bf6c1bb",
+    "name": "MF GHOST (Phần 3)",
+    "slug": "mf-ghost-phan-3",
+    "origin_name": "MF GHOST (Season 3)",
+    "thumb_url": "mf-ghost-phan-3-thumb.jpg",
+    "poster_url": "mf-ghost-phan-3-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "154526",
+      "season": 2,
+      "vote_average": 8.2,
+      "vote_count": 33
+    },
+    "imdb": {
+      "id": "tt28299608",
+      "vote_average": 7.3,
+      "vote_count": 694
+    },
+    "modified": {
+      "time": "2026-04-19T15:53:05.000Z"
+    },
+    "_id": "69e4682dda7d8940685e1fb7",
+    "name": "MF GHOST (Phần 2)",
+    "slug": "mf-ghost",
+    "origin_name": "MF GHOST (Season 2)",
+    "thumb_url": "mf-ghost-thumb.jpg",
+    "poster_url": "mf-ghost-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319599",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T15:31:30.000Z"
+    },
+    "_id": "69e4847031aa2678f8ca4219",
+    "name": "Tẫn Hoa Duyên",
+    "slug": "tan-hoa-duyen",
+    "origin_name": "Embers of Love",
+    "thumb_url": "tan-hoa-duyen-thumb.jpg",
+    "poster_url": "tan-hoa-duyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "218137",
+      "season": 4,
+      "vote_average": 6.7,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt17050700",
+      "vote_average": 8,
+      "vote_count": 4785
+    },
+    "modified": {
+      "time": "2026-04-19T15:31:10.000Z"
+    },
+    "_id": "69e483fe7e5a0662d4e1278f",
+    "name": "Full Swing: Những Tay Golf Chuyên Nghiệp (Phần 4)",
+    "slug": "full-swing-nhung-tay-golf-chuyen-nghiep-phan-4",
+    "origin_name": "Full Swing (Season 4)",
+    "thumb_url": "full-swing-nhung-tay-golf-chuyen-nghiep-phan-4-thumb.jpg",
+    "poster_url": "full-swing-nhung-tay-golf-chuyen-nghiep-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1280300",
+      "season": null,
+      "vote_average": 4.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt1776340",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T14:40:03.000Z"
+    },
+    "_id": "69e478ed15072466aced31d0",
+    "name": "Kẻ Huýt Sáo",
+    "slug": "ke-huyt-sao",
+    "origin_name": "The Whistler",
+    "thumb_url": "ke-huyt-sao-thumb.jpg",
+    "poster_url": "ke-huyt-sao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317219",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40962427",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-19T14:25:20.000Z"
+    },
+    "_id": "69db44ff6d4243e068ed8c79",
+    "name": "Cung Nữ Này Không Mấy Bình Tĩnh",
+    "slug": "cung-nu-nay-khong-may-binh-tinh",
+    "origin_name": "This Palace Maid Isn't Very Calm",
+    "thumb_url": "cung-nu-nay-khong-may-binh-tinh-thumb.jpg",
+    "poster_url": "cung-nu-nay-khong-may-binh-tinh-poster.jpg",
+    "year": 2026
+  }
+]
