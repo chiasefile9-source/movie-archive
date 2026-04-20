@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "37854",
+      "season": 1,
+      "vote_average": 8.7,
+      "vote_count": 5216
+    },
+    "imdb": {
+      "id": "tt0388629",
+      "vote_average": 9,
+      "vote_count": 341535
+    },
+    "modified": {
+      "time": "2026-04-20T23:49:20.000Z"
+    },
+    "_id": "6220e66e8481266c5b7f154f",
+    "name": "Đảo Hải Tặc",
+    "origin_name": "One Piece (Luffy)",
+    "thumb_url": "one-piece-thumb.jpg",
+    "slug": "one-piece",
+    "year": 1999,
+    "poster_url": "one-piece-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278174",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35006947",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T23:36:46.000Z"
+    },
+    "_id": "69afbabc124287e0825f6b36",
+    "name": "Girl Rules",
+    "slug": "girl-rules",
+    "origin_name": "Girl Rules",
+    "thumb_url": "girl-rules-thumb.jpg",
+    "poster_url": "girl-rules-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281965",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39695941",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T23:34:14.000Z"
+    },
+    "_id": "69b7bd3a0a0114095c81ade4",
+    "name": "Giấc Mơ Điên Rồ",
+    "slug": "giac-mo-dien-ro",
+    "origin_name": "Mad Concrete Dreams",
+    "thumb_url": "giac-mo-dien-ro-thumb.jpg",
+    "poster_url": "giac-mo-dien-ro-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "987470",
+      "season": null,
+      "vote_average": 6.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt21983828",
+      "vote_average": 6.9,
+      "vote_count": 91
+    },
+    "modified": {
+      "time": "2026-04-20T23:29:50.000Z"
+    },
+    "_id": "69e6547e15072466acee0f35",
+    "name": "Không Bông Tuyết Nào Trong Sạch",
+    "slug": "khong-bong-tuyet-nao-trong-sach",
+    "origin_name": "The Woman in the White Car",
+    "thumb_url": "khong-bong-tuyet-nao-trong-sach-thumb.jpg",
+    "poster_url": "khong-bong-tuyet-nao-trong-sach-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292121",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39245629",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T23:28:57.000Z"
+    },
+    "_id": "69e5dda82b874d6bfb6c1986",
+    "name": "Bù Nhìn Bóng Đêm",
+    "slug": "bu-nhin-bong-dem",
+    "origin_name": "The Scarecrow",
+    "thumb_url": "bu-nhin-bong-dem-thumb.jpg",
+    "poster_url": "bu-nhin-bong-dem-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318675",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41459843",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T22:14:46.000Z"
+    },
+    "_id": "69e642e241d6bb2c31563097",
+    "name": "Tâm Nhuyễn Đích Thần",
+    "slug": "tam-nhuyen-dich-than",
+    "origin_name": "Soft-Hearted God",
+    "thumb_url": "tam-nhuyen-dich-than-thumb.jpg",
+    "poster_url": "tam-nhuyen-dich-than-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289219",
+      "season": 1,
+      "vote_average": 7.613,
+      "vote_count": 40
+    },
+    "imdb": {
+      "id": "tt36594331",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T22:11:51.000Z"
+    },
+    "_id": "69da18d7db41bcecb8de0412",
+    "name": "Cuộc Chiến Ngân Hà: Maul - Chúa Tể Bóng Tối (Phần 1)",
+    "slug": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi",
+    "origin_name": "Star Wars: Maul - Shadow Lord",
+    "thumb_url": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi-thumb.jpg",
+    "poster_url": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "128995",
+      "season": 3,
+      "vote_average": 7.8,
+      "vote_count": 59
+    },
+    "imdb": {
+      "id": "tt14596630",
+      "vote_average": 8.1,
+      "vote_count": 2836
+    },
+    "modified": {
+      "time": "2026-04-20T20:00:01.000Z"
+    },
+    "_id": "69bd063ef063d23bbbd48d45",
+    "name": "Các Tế Bào Của Yumi (Phần 3)",
+    "slug": "cac-te-bao-cua-yumi-phan-3",
+    "origin_name": "Yumi's Cells (Season 3)",
+    "thumb_url": "cac-te-bao-cua-yumi-phan-3-thumb.jpg",
+    "poster_url": "cac-te-bao-cua-yumi-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T19:57:44.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290700",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T18:35:34.000Z"
+    },
+    "_id": "69e1c722f616ee3807d82950",
+    "name": "Giải Mã Trọng Án",
+    "slug": "giai-ma-trong-an",
+    "origin_name": "Case X Decoded",
+    "thumb_url": "giai-ma-trong-an-thumb.jpg",
+    "poster_url": "giai-ma-trong-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "39209",
+      "season": 2,
+      "vote_average": 7.4,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt6350332",
+      "vote_average": 7.8,
+      "vote_count": 14
+    },
+    "modified": {
+      "time": "2026-04-20T18:20:03.000Z"
+    },
+    "_id": "69e60bdff616ee3807da58f8",
+    "name": "Phi Hổ (Phần 2)",
+    "slug": "phi-ho-phan-2",
+    "origin_name": "Tiger Cubs (Season 2)",
+    "thumb_url": "phi-ho-phan-2-thumb.jpg",
+    "poster_url": "phi-ho-phan-2-poster.jpg",
+    "year": 2014
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "753092",
+      "season": null,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T18:16:14.000Z"
+    },
+    "_id": "69e60ae091cc1b96d5894de1",
+    "name": "Một Chuyện Tình Nơi Công Xưởng",
+    "slug": "mot-chuyen-tinh-noi-cong-xuong",
+    "origin_name": "Punch-Drunk Love",
+    "thumb_url": "mot-chuyen-tinh-noi-cong-xuong-thumb.jpg",
+    "poster_url": "mot-chuyen-tinh-noi-cong-xuong-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1031388",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt27999306",
+      "vote_average": 0,
+      "vote_count": 120
+    },
+    "modified": {
+      "time": "2026-04-20T18:15:19.000Z"
+    },
+    "_id": "69e60611006591e10817ae35",
+    "name": "Bùa Hình Nhân",
+    "slug": "bua-hinh-nhan",
+    "origin_name": "Hoon Payon",
+    "thumb_url": "bua-hinh-nhan-thumb.jpg",
+    "poster_url": "bua-hinh-nhan-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T17:24:31.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278157",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34930070",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T17:15:16.000Z"
+    },
+    "_id": "6981c3f9988d934ea9e63a57",
+    "name": "Tình yêu đích thực sau hôn nhân",
+    "slug": "tinh-yeu-dich-thuc-sau-hon-nhan",
+    "origin_name": "My Romance Scammer",
+    "thumb_url": "tinh-yeu-dich-thuc-sau-hon-nhan-thumb.jpg",
+    "poster_url": "tinh-yeu-dich-thuc-sau-hon-nhan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T17:14:56.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287344",
+      "season": 1,
+      "vote_average": 6.7,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt38629393",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T16:27:26.000Z"
+    },
+    "_id": "69a402dada6ce23e8ea149e2",
+    "name": "Cẩm Nang Yêu",
+    "slug": "cam-nang-yeu",
+    "origin_name": "The Practical Guide to Love",
+    "thumb_url": "cam-nang-yeu-thumb.jpg",
+    "poster_url": "cam-nang-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311991",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39385315",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T15:53:16.000Z"
+    },
+    "_id": "69e5e863b692c7b208d3a120",
+    "name": "Funny AF with Kevin Hart",
+    "slug": "funny-af-with-kevin-hart",
+    "origin_name": "Funny AF with Kevin Hart",
+    "thumb_url": "funny-af-with-kevin-hart-thumb.jpg",
+    "poster_url": "funny-af-with-kevin-hart-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202297",
+      "season": 4,
+      "vote_average": 8.076,
+      "vote_count": 164
+    },
+    "imdb": {
+      "id": "tt16098700",
+      "vote_average": 7.1,
+      "vote_count": 16438
+    },
+    "modified": {
+      "time": "2026-04-20T14:38:50.000Z"
+    },
+    "_id": "693a839b8e1195b71e9271a9",
+    "name": "Vùng Đất Lửa (Phần 4)",
+    "slug": "fire-country-phan-4",
+    "origin_name": "Fire Country (Season 4)",
+    "thumb_url": "fire-country-phan-4-thumb.jpg",
+    "poster_url": "fire-country-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317219",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40962427",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T14:06:24.000Z"
+    },
+    "_id": "69db44ff6d4243e068ed8c79",
+    "name": "Cung Nữ Này Không Mấy Bình Tĩnh",
+    "slug": "cung-nu-nay-khong-may-binh-tinh",
+    "origin_name": "This Palace Maid Isn't Very Calm",
+    "thumb_url": "cung-nu-nay-khong-may-binh-tinh-thumb.jpg",
+    "poster_url": "cung-nu-nay-khong-may-binh-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318831",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41511423",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T14:06:05.000Z"
+    },
+    "_id": "69df39664a74b3cede0c70ce",
+    "name": "Tôi Là Triệu Ngô Địch: Khởi Động Lại",
+    "slug": "toi-la-trieu-ngo-dich-khoi-dong-lai",
+    "origin_name": "My Name is Zhao Wudi: Starting Over",
+    "thumb_url": "toi-la-trieu-ngo-dich-khoi-dong-lai-thumb-1776323519173.jpg",
+    "poster_url": "toi-la-trieu-ngo-dich-khoi-dong-lai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295434",
+      "season": 1,
+      "vote_average": 9.3,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt37532884",
+      "vote_average": 8.2,
+      "vote_count": 104
+    },
+    "modified": {
+      "time": "2026-04-20T13:28:38.000Z"
+    },
+    "_id": "68d273e85c81ed0050c53bce",
+    "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
+    "slug": "hiep-si-mat-na-zeztz",
+    "origin_name": "Kamen Rider ZEZTZ",
+    "thumb_url": "hiep-si-mat-na-zeztz-thumb.jpg",
+    "poster_url": "hiep-si-mat-na-zeztz-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "122612",
+      "season": 1,
+      "vote_average": 9.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt34882755",
+      "vote_average": 0,
+      "vote_count": 10
+    },
+    "modified": {
+      "time": "2026-04-20T13:27:17.000Z"
+    },
+    "_id": "68e4ba284f7493692abb949c",
+    "name": "Vạn Giới Độc Tôn",
+    "slug": "van-gioi-doc-ton",
+    "origin_name": "Ten Thousand Worlds",
+    "thumb_url": "van-gioi-doc-ton-thumb.jpg",
+    "poster_url": "van-gioi-doc-ton-poster.jpg",
+    "year": 2021
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "107116",
+      "season": 1,
+      "vote_average": 7.4,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-20T13:27:02.000Z"
+    },
+    "_id": "62d841c00376e41264b61afa",
+    "name": "Vô Thượng Thần Đế",
+    "origin_name": "Supreme God Emperor",
+    "thumb_url": "vo-thuong-than-de-thumb.jpg",
+    "poster_url": "vo-thuong-than-de-poster.jpg",
+    "slug": "vo-thuong-than-de",
+    "year": 2020
+  }
+]
