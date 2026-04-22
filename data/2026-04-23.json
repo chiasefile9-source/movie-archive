@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "307602",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39375564",
+      "vote_average": 4.5,
+      "vote_count": 19
+    },
+    "modified": {
+      "time": "2026-04-23T00:19:30.000Z"
+    },
+    "_id": "69bc1529ccc6cea268841d51",
+    "name": "Công Thức Tình Yêu",
+    "slug": "cong-thuc-tinh-yeu",
+    "origin_name": "Recipe For Love",
+    "thumb_url": "cong-thuc-tinh-yeu-thumb.jpg",
+    "poster_url": "cong-thuc-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254701",
+      "season": 1,
+      "vote_average": 6.1,
+      "vote_count": 31
+    },
+    "imdb": {
+      "id": "tt32386301",
+      "vote_average": 6.6,
+      "vote_count": 150
+    },
+    "modified": {
+      "time": "2026-04-22T23:36:21.000Z"
+    },
+    "_id": "69e071532b874d6bfb699d7a",
+    "name": "Atomic: Chuyến Xe Sinh Tử",
+    "slug": "atomic-chuyen-xe-sinh-tu",
+    "origin_name": "Atomic",
+    "thumb_url": "atomic-chuyen-xe-sinh-tu-thumb.jpg",
+    "poster_url": "atomic-chuyen-xe-sinh-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72976",
+      "season": 5,
+      "vote_average": 6.6,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt16444020",
+      "vote_average": 7.4,
+      "vote_count": 74
+    },
+    "modified": {
+      "time": "2026-04-22T22:13:50.000Z"
+    },
+    "_id": "69dfcfeb41d6bb2c315360fb",
+    "name": "Nhịp Đập Trái Tim (Phần 5)",
+    "slug": "nhip-dap-trai-tim-phan-5",
+    "origin_name": "Heart Signal (Season 5)",
+    "thumb_url": "nhip-dap-trai-tim-phan-5-thumb.jpg",
+    "poster_url": "nhip-dap-trai-tim-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387440",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-22T21:41:45.000Z"
+    },
+    "_id": "69e8a475db41bcecb8e33fb6",
+    "name": "Hôm Nay Lại Bán Hết",
+    "slug": "hom-nay-lai-ban-het",
+    "origin_name": "Sold Out on You",
+    "thumb_url": "hom-nay-lai-ban-het-thumb.jpg",
+    "poster_url": "hom-nay-lai-ban-het-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "244189",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt40389354",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-22T21:02:09.000Z"
+    },
+    "_id": "69c6027ef063d23bbbd6882b",
+    "name": "Hướng Về Sao Băng Cầu Nguyện",
+    "slug": "huong-ve-sao-bang-cau-nguyen",
+    "origin_name": "Wishing Upon the Shooting Stars",
+    "thumb_url": "huong-ve-sao-bang-cau-nguyen-thumb.jpg",
+    "poster_url": "huong-ve-sao-bang-cau-nguyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313732",
+      "season": 1,
+      "vote_average": 4,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40289654",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-22T21:00:54.000Z"
+    },
+    "_id": "69d7241141d6bb2c3150f2cf",
+    "name": "Tin Đồn Tình Yêu",
+    "slug": "tin-don-tinh-yeu",
+    "origin_name": "Scandal love",
+    "thumb_url": "tin-don-tinh-yeu-thumb.jpg",
+    "poster_url": "tin-don-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72517",
+      "season": 4,
+      "vote_average": 8.405,
+      "vote_count": 766
+    },
+    "imdb": {
+      "id": "tt7263328",
+      "vote_average": 7.7,
+      "vote_count": 20411
+    },
+    "modified": {
+      "time": "2026-04-22T21:00:40.000Z"
+    },
+    "_id": "69cde6c8400bf394bd970fda",
+    "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+    "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+    "origin_name": "Classroom of the Elite (Season 4)",
+    "thumb_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+    "poster_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-22T21:00:24.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-22T17:38:25.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-22T17:32:19.000Z"
+    },
+    "_id": "69e888e4377c8aaad544daf3",
+    "name": "Bà Bầu Chạy Trốn",
+    "slug": "ba-bau-chay-tron-short-drama",
+    "origin_name": "Bà Bầu Chạy Trốn",
+    "thumb_url": "ba-bau-chay-tron-short-drama-thumb.jpg",
+    "poster_url": "ba-bau-chay-tron-short-drama-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-22T17:32:16.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1337985",
+      "season": null,
+      "vote_average": 7.7,
+      "vote_count": 12
+    },
+    "imdb": {
+      "id": "tt33253688",
+      "vote_average": 6.7,
+      "vote_count": 414
+    },
+    "modified": {
+      "time": "2026-04-22T16:26:55.000Z"
+    },
+    "_id": "69e8945d16bc1b4174f65f26",
+    "name": "Cảnh đồi mờ xám",
+    "slug": "canh-doi-mo-xam",
+    "origin_name": "A Pale View of Hills",
+    "thumb_url": "canh-doi-mo-xam-thumb.jpg",
+    "poster_url": "canh-doi-mo-xam-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1297446",
+      "season": null,
+      "vote_average": 6.565,
+      "vote_count": 23
+    },
+    "imdb": {
+      "id": "tt32490110",
+      "vote_average": 5.9,
+      "vote_count": 1411
+    },
+    "modified": {
+      "time": "2026-04-22T16:22:12.000Z"
+    },
+    "_id": "69e893324a74b3cede102f4d",
+    "name": "Slanted",
+    "slug": "slanted",
+    "origin_name": "Slanted",
+    "thumb_url": "slanted-thumb.jpg",
+    "poster_url": "slanted-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1084577",
+      "season": null,
+      "vote_average": 5.662,
+      "vote_count": 99
+    },
+    "imdb": {
+      "id": "tt26735622",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-22T16:19:05.000Z"
+    },
+    "_id": "69e89287cec790794bf85a7b",
+    "name": "Balls Up",
+    "slug": "balls-up",
+    "origin_name": "Balls Up",
+    "thumb_url": "balls-up-thumb.jpg",
+    "poster_url": "balls-up-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1010755",
+      "season": null,
+      "vote_average": 5.625,
+      "vote_count": 112
+    },
+    "imdb": {
+      "id": "tt28682323",
+      "vote_average": 4.1,
+      "vote_count": 5027
+    },
+    "modified": {
+      "time": "2026-04-22T16:13:19.000Z"
+    },
+    "_id": "69e59e034e2efe7288484805",
+    "name": "Sát Nhân Giấu Mặt: Chương 3",
+    "slug": "sat-nhan-giau-mat-chuong-3",
+    "origin_name": "The Strangers: Chapter 3",
+    "thumb_url": "sat-nhan-giau-mat-chuong-3-thumb.jpg",
+    "poster_url": "sat-nhan-giau-mat-chuong-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1101179",
+      "season": null,
+      "vote_average": 8.7,
+      "vote_count": 10
+    },
+    "imdb": {
+      "id": "tt35450663",
+      "vote_average": 0,
+      "vote_count": 37
+    },
+    "modified": {
+      "time": "2026-04-22T16:12:57.000Z"
+    },
+    "_id": "69e59e8bf616ee3807da250c",
+    "name": "Unreachable",
+    "slug": "unreachable",
+    "origin_name": "Unreachable",
+    "thumb_url": "unreachable-thumb.jpg",
+    "poster_url": "unreachable-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "616803",
+      "season": null,
+      "vote_average": 6.694,
+      "vote_count": 443
+    },
+    "imdb": {
+      "id": "tt10081762",
+      "vote_average": 6.1,
+      "vote_count": 6211
+    },
+    "modified": {
+      "time": "2026-04-22T16:12:25.000Z"
+    },
+    "_id": "69e59fb6482e09b4282547e0",
+    "name": "Cuộc Chiến Dưới Đáy Đại Dương",
+    "slug": "cuoc-chien-duoi-day-dai-duong",
+    "origin_name": "Breaking Surface",
+    "thumb_url": "cuoc-chien-duoi-day-dai-duong-thumb.jpg",
+    "poster_url": "cuoc-chien-duoi-day-dai-duong-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "15767",
+      "season": null,
+      "vote_average": 7.064,
+      "vote_count": 358
+    },
+    "imdb": {
+      "id": "tt0399102",
+      "vote_average": 6.3,
+      "vote_count": 10580
+    },
+    "modified": {
+      "time": "2026-04-22T16:11:53.000Z"
+    },
+    "_id": "69e5a00c482e09b428254825",
+    "name": "Godzilla: Final Wars",
+    "slug": "godzilla-final-wars",
+    "origin_name": "Godzilla: Final Wars",
+    "thumb_url": "godzilla-final-wars-thumb.jpg",
+    "poster_url": "godzilla-final-wars-poster.jpg",
+    "year": 2004
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "11678",
+      "season": null,
+      "vote_average": 5.999,
+      "vote_count": 1125
+    },
+    "imdb": {
+      "id": "tt0190865",
+      "vote_average": 6,
+      "vote_count": 67868
+    },
+    "modified": {
+      "time": "2026-04-22T16:03:36.000Z"
+    },
+    "_id": "69e8862ca54286c41ba88b3a",
+    "name": "Bão Tuyết",
+    "slug": "gioi-han-doc",
+    "origin_name": "Vertical Limit",
+    "thumb_url": "gioi-han-doc-thumb.jpg",
+    "poster_url": "gioi-han-doc-poster.jpg",
+    "year": 2000
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "638423",
+      "season": null,
+      "vote_average": 7.3,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt11585882",
+      "vote_average": 6.3,
+      "vote_count": 202
+    },
+    "modified": {
+      "time": "2026-04-22T15:30:20.000Z"
+    },
+    "_id": "69e8871a16bc1b4174f65900",
+    "name": "Lời Tố Cáo Ngờ Vực",
+    "slug": "loi-to-cao-ngo-vuc",
+    "origin_name": "An Old Lady",
+    "thumb_url": "loi-to-cao-ngo-vuc-thumb.jpg",
+    "poster_url": "loi-to-cao-ngo-vuc-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "611291",
+      "season": null,
+      "vote_average": 8.336,
+      "vote_count": 456
+    },
+    "imdb": {
+      "id": "tt10545076",
+      "vote_average": 8.4,
+      "vote_count": 2943
+    },
+    "modified": {
+      "time": "2026-04-22T15:24:02.000Z"
+    },
+    "_id": "69e8859dcec790794bf85435",
+    "name": "Mang Tâm Hồn: Bộ Phim",
+    "slug": "mang-tam-hon-bo-phim",
+    "origin_name": "Bring the Soul: The Movie",
+    "thumb_url": "mang-tam-hon-bo-phim-thumb.jpg",
+    "poster_url": "mang-tam-hon-bo-phim-poster.jpg",
+    "year": 2019
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "761053",
+      "season": null,
+      "vote_average": 8.354,
+      "vote_count": 1078
+    },
+    "imdb": {
+      "id": "tt13535456",
+      "vote_average": 6.5,
+      "vote_count": 1517
+    },
+    "modified": {
+      "time": "2026-04-22T15:23:10.000Z"
+    },
+    "_id": "69e8856b006591e108187dad",
+    "name": "Giáo Sư Gabriel: Phần 3",
+    "slug": "giao-su-gabriel-phan-3",
+    "origin_name": "Gabriel's Inferno: Part III",
+    "thumb_url": "giao-su-gabriel-phan-3-thumb.jpg",
+    "poster_url": "giao-su-gabriel-phan-3-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "724089",
+      "season": null,
+      "vote_average": 8.4,
+      "vote_count": 1543
+    },
+    "imdb": {
+      "id": "tt13535454",
+      "vote_average": 6.4,
+      "vote_count": 1578
+    },
+    "modified": {
+      "time": "2026-04-22T15:22:34.000Z"
+    },
+    "_id": "69e885472b874d6bfb6cf892",
+    "name": "Giáo Sư Gabriel: Phần 2",
+    "slug": "giao-su-gabriel-phan-2",
+    "origin_name": "Gabriel's Inferno: Part II",
+    "thumb_url": "giao-su-gabriel-phan-2-thumb.jpg",
+    "poster_url": "giao-su-gabriel-phan-2-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "770156",
+      "season": null,
+      "vote_average": 8.369,
+      "vote_count": 354
+    },
+    "imdb": {
+      "id": "tt11916254",
+      "vote_average": 7.1,
+      "vote_count": 1985
+    },
+    "modified": {
+      "time": "2026-04-22T15:21:23.000Z"
+    },
+    "_id": "69e884ff4e2efe7288494b34",
+    "name": "Lucy Shimmers và Hoàng tử Hòa bình",
+    "slug": "lucy-shimmers-va-hoang-tu-hoa-binh",
+    "origin_name": "Lucy Shimmers and the Prince of Peace",
+    "thumb_url": "lucy-shimmers-va-hoang-tu-hoa-binh-thumb.jpg",
+    "poster_url": "lucy-shimmers-va-hoang-tu-hoa-binh-poster.jpg",
+    "year": 2020
+  }
+]
