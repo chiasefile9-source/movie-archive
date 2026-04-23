@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303076",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39073388",
+      "vote_average": 0,
+      "vote_count": 17
+    },
+    "modified": {
+      "time": "2026-04-24T00:45:28.000Z"
+    },
+    "_id": "6947a82897c71dcd0d63982e",
+    "name": "Người Đàn Ông Đầu Tiên",
+    "slug": "nguoi-dan-ong-dau-tien",
+    "origin_name": "First Man",
+    "thumb_url": "nguoi-dan-ong-dau-tien-thumb.jpg",
+    "poster_url": "nguoi-dan-ong-dau-tien-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211288",
+      "season": 3,
+      "vote_average": 7.511,
+      "vote_count": 266
+    },
+    "imdb": {
+      "id": "tt13875494",
+      "vote_average": 7.1,
+      "vote_count": 27678
+    },
+    "modified": {
+      "time": "2026-04-23T22:21:06.000Z"
+    },
+    "_id": "68f9f11ea2d805aecaf99b2e",
+    "name": "Tracker (Phần 3)",
+    "slug": "tracker-phan-3",
+    "origin_name": "Tracker (Season 3)",
+    "thumb_url": "tracker-phan-3-thumb-1761239638607.jpg",
+    "poster_url": "tracker-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "298849",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T21:49:25.000Z"
+    },
+    "_id": "69a12fda4ea2111da8bf4850",
+    "name": "Con Tôi Hẹn Hò (Phần 2)",
+    "slug": "con-toi-hen-ho-phan-2",
+    "origin_name": "When Our Kids Fall In Love",
+    "thumb_url": "con-toi-hen-ho-phan-2-thumb.jpg",
+    "poster_url": "con-toi-hen-ho-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387440",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T20:53:57.000Z"
+    },
+    "_id": "69e8a475db41bcecb8e33fb6",
+    "name": "Hôm Nay Lại Bán Hết",
+    "slug": "hom-nay-lai-ban-het",
+    "origin_name": "Sold Out on You",
+    "thumb_url": "hom-nay-lai-ban-het-thumb.jpg",
+    "poster_url": "hom-nay-lai-ban-het-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313732",
+      "season": 1,
+      "vote_average": 4,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40289654",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T19:59:21.000Z"
+    },
+    "_id": "69d7241141d6bb2c3150f2cf",
+    "name": "Tin Đồn Tình Yêu",
+    "slug": "tin-don-tinh-yeu",
+    "origin_name": "Scandal love",
+    "thumb_url": "tin-don-tinh-yeu-thumb.jpg",
+    "poster_url": "tin-don-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T19:59:10.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T17:21:44.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T17:21:28.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315172",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41863606",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T17:07:41.000Z"
+    },
+    "_id": "69e9ef6af0f815b666161eb7",
+    "name": "Vũ Điệu Tình Thù",
+    "slug": "vu-dieu-tinh-thu",
+    "origin_name": "The Bangkok Red Opera",
+    "thumb_url": "vu-dieu-tinh-thu-thumb.jpg",
+    "poster_url": "vu-dieu-tinh-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "240150",
+      "season": 2,
+      "vote_average": 8.125,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt33378111",
+      "vote_average": 0,
+      "vote_count": 53
+    },
+    "modified": {
+      "time": "2026-04-23T14:59:47.000Z"
+    },
+    "_id": "69474097ae6f0c1fdf32f4bd",
+    "name": "Fourever You (Phần 2)",
+    "slug": "fourever-you-phan-2",
+    "origin_name": "Fourever You (Season 2)",
+    "thumb_url": "fourever-you-phan-2-thumb.jpg",
+    "poster_url": "fourever-you-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "204490",
+      "season": 2,
+      "vote_average": 6.6,
+      "vote_count": 133
+    },
+    "imdb": {
+      "id": "tt21088136",
+      "vote_average": 7.1,
+      "vote_count": 13056
+    },
+    "modified": {
+      "time": "2026-04-23T14:58:39.000Z"
+    },
+    "_id": "69e9ca1216bc1b4174f6ae69",
+    "name": "Hồ Sơ Tội Phạm (Phần 2)",
+    "slug": "ho-so-toi-pham-phan-2",
+    "origin_name": "Criminal Record (Season 2)",
+    "thumb_url": "ho-so-toi-pham-phan-2-thumb.jpg",
+    "poster_url": "ho-so-toi-pham-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1531924",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt35265182",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T14:38:02.000Z"
+    },
+    "_id": "69e9cc5a91cc1b96d58a70d0",
+    "name": "Qifarah",
+    "slug": "qifarah",
+    "origin_name": "Qifarah",
+    "thumb_url": "qifarah-thumb.jpg",
+    "poster_url": "qifarah-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124003",
+      "season": 1,
+      "vote_average": 8.4,
+      "vote_count": 23
+    },
+    "imdb": {
+      "id": "tt14986786",
+      "vote_average": 8.3,
+      "vote_count": 816
+    },
+    "modified": {
+      "time": "2026-04-23T14:04:38.000Z"
+    },
+    "_id": "625c61c8941a26e421dc5d16",
+    "name": "Thế Giới Hoàn Mỹ",
+    "origin_name": "Perfect World",
+    "thumb_url": "the-gioi-hoan-my-thumb.jpg",
+    "slug": "the-gioi-hoan-my",
+    "year": 2021,
+    "poster_url": "the-gioi-hoan-my-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259537",
+      "season": 2,
+      "vote_average": 8.6,
+      "vote_count": 24
+    },
+    "imdb": {
+      "id": "tt33132245",
+      "vote_average": 8.1,
+      "vote_count": 174
+    },
+    "modified": {
+      "time": "2026-04-23T14:04:22.000Z"
+    },
+    "_id": "694cb94a458948c67998aa33",
+    "name": "Kiếm Lai (Phần 2)",
+    "slug": "kiem-lai-phan-2",
+    "origin_name": "Sword of Coming (Season 2)",
+    "thumb_url": "kiem-lai-phan-2-thumb.jpg",
+    "poster_url": "kiem-lai-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318831",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41511423",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T13:58:13.000Z"
+    },
+    "_id": "69df39664a74b3cede0c70ce",
+    "name": "Tôi Là Triệu Ngô Địch: Khởi Động Lại",
+    "slug": "toi-la-trieu-ngo-dich-khoi-dong-lai",
+    "origin_name": "My Name is Zhao Wudi: Starting Over",
+    "thumb_url": "toi-la-trieu-ngo-dich-khoi-dong-lai-thumb-1776323519173.jpg",
+    "poster_url": "toi-la-trieu-ngo-dich-khoi-dong-lai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317219",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40962427",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T13:57:57.000Z"
+    },
+    "_id": "69db44ff6d4243e068ed8c79",
+    "name": "Cung Nữ Này Không Mấy Bình Tĩnh",
+    "slug": "cung-nu-nay-khong-may-binh-tinh",
+    "origin_name": "This Palace Maid Isn't Very Calm",
+    "thumb_url": "cung-nu-nay-khong-may-binh-tinh-thumb.jpg",
+    "poster_url": "cung-nu-nay-khong-may-binh-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318543",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41423551",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T13:56:21.000Z"
+    },
+    "_id": "69e06d4331aa2678f8c86718",
+    "name": "Ký Ức Không Gian",
+    "slug": "ky-uc-khong-gian",
+    "origin_name": "The Lost Memories",
+    "thumb_url": "ky-uc-khong-gian-thumb.jpg",
+    "poster_url": "ky-uc-khong-gian-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "262848",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt31631142",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T13:55:51.000Z"
+    },
+    "_id": "69e99f352b874d6bfb6d4132",
+    "name": "Ngoại đạo",
+    "slug": "ngoai-dao",
+    "origin_name": "Unchosen",
+    "thumb_url": "ngoai-dao-thumb.jpg",
+    "poster_url": "ngoai-dao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "247704",
+      "season": 2,
+      "vote_average": 7.116,
+      "vote_count": 108
+    },
+    "imdb": {
+      "id": "tt23897504",
+      "vote_average": 7.1,
+      "vote_count": 11287
+    },
+    "modified": {
+      "time": "2026-04-23T13:47:30.000Z"
+    },
+    "_id": "69d7d7a06d4243e068ecb61a",
+    "name": "Chuyến Bay Đêm (Phần 2)",
+    "slug": "chuyen-bay-dem-phan-2",
+    "origin_name": "Red Eye (Season 2)",
+    "thumb_url": "chuyen-bay-dem-phan-2-thumb.jpg",
+    "poster_url": "chuyen-bay-dem-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1447032",
+      "season": null,
+      "vote_average": 5.6,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt36795341",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T12:09:11.000Z"
+    },
+    "_id": "69e99eaab692c7b208d4c318",
+    "name": "Kẻ Cứu Rỗi",
+    "slug": "ke-cuu-roi",
+    "origin_name": "The Favor",
+    "thumb_url": "ke-cuu-roi-thumb.jpg",
+    "poster_url": "ke-cuu-roi-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300131",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39443399",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T12:08:52.000Z"
+    },
+    "_id": "69da6f99f616ee3807d610b1",
+    "name": "KILL BLUE",
+    "slug": "kill-blue",
+    "origin_name": "KILL BLUE",
+    "thumb_url": "kill-blue-thumb.jpg",
+    "poster_url": "kill-blue-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295357",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt29106483",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T12:06:28.000Z"
+    },
+    "_id": "69d9fecf4a74b3cede0aecd7",
+    "name": "Huyền Thoại Quyền Pháp Bắc Đẩu",
+    "slug": "huyen-thoai-quyen-phap-bac-dau",
+    "origin_name": "Fist of the North Star: HOKUTO NO KEN",
+    "thumb_url": "huyen-thoai-quyen-phap-bac-dau-thumb.jpg",
+    "poster_url": "huyen-thoai-quyen-phap-bac-dau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259819",
+      "season": 1,
+      "vote_average": 8.593,
+      "vote_count": 27
+    },
+    "imdb": {
+      "id": "tt33086804",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T12:05:32.000Z"
+    },
+    "_id": "69b8cad6b06c99c722fdbb43",
+    "name": "Cự Kê Chiến Ký",
+    "slug": "cu-ke-chien-ky",
+    "origin_name": "Rooster Fighter",
+    "thumb_url": "cu-ke-chien-ky-thumb.jpg",
+    "poster_url": "cu-ke-chien-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320321",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-23T11:59:49.000Z"
+    },
+    "_id": "69e9a52d6d4243e068f2b891",
+    "name": "Hôm Nay Cũng Đang Giải Cứu Thế Giới",
+    "slug": "hom-nay-cung-dang-giai-cuu-the-gioi",
+    "origin_name": "Another Day Saving the World",
+    "thumb_url": "hom-nay-cung-dang-giai-cuu-the-gioi-thumb.jpg",
+    "poster_url": "hom-nay-cung-dang-giai-cuu-the-gioi-poster.jpg",
+    "year": 2026
+  }
+]
