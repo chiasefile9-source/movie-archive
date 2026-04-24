@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "285838",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt36104233",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T23:59:53.000Z"
+    },
+    "_id": "69eb27e24a74b3cede10ef6e",
+    "name": "Điều Ước Đoạt Mạng",
+    "slug": "dieu-uoc-doat-mang",
+    "origin_name": "If Wishes Could Kill",
+    "thumb_url": "dieu-uoc-doat-mang-thumb.jpg",
+    "poster_url": "dieu-uoc-doat-mang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T23:59:38.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254701",
+      "season": 1,
+      "vote_average": 6.1,
+      "vote_count": 31
+    },
+    "imdb": {
+      "id": "tt32386301",
+      "vote_average": 6.6,
+      "vote_count": 150
+    },
+    "modified": {
+      "time": "2026-04-24T23:53:51.000Z"
+    },
+    "_id": "69e071532b874d6bfb699d7a",
+    "name": "Atomic: Chuyến Xe Sinh Tử",
+    "slug": "atomic-chuyen-xe-sinh-tu",
+    "origin_name": "Atomic",
+    "thumb_url": "atomic-chuyen-xe-sinh-tu-thumb.jpg",
+    "poster_url": "atomic-chuyen-xe-sinh-tu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278573",
+      "season": 1,
+      "vote_average": 9.1,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt39333617",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T23:50:23.000Z"
+    },
+    "_id": "69d8f14d7e5a0662d4dd2f64",
+    "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+    "slug": "phu-nhan-dai-quan-the-ky-21",
+    "origin_name": "Perfect Crown",
+    "thumb_url": "phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+    "poster_url": "phu-nhan-dai-quan-the-ky-21-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314784",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt41090249",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T23:11:25.000Z"
+    },
+    "_id": "69e2471341d6bb2c315422e6",
+    "name": "Giá Trị Tuyệt Đối Của Lãng Mạn",
+    "slug": "gia-tri-tuyet-doi-cua-lang-man",
+    "origin_name": "Absolute Value of Romance",
+    "thumb_url": "gia-tri-tuyet-doi-cua-lang-man-thumb.jpg",
+    "poster_url": "gia-tri-tuyet-doi-cua-lang-man-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "307624",
+      "season": 1,
+      "vote_average": 9.2,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt40586090",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T22:42:24.000Z"
+    },
+    "_id": "69be8cc5b06c99c722ff4329",
+    "name": "Tết Thiếu Nhi của Sơ Tam",
+    "slug": "tet-thieu-nhi-cua-so-tam",
+    "origin_name": "Sammy's Children's Day",
+    "thumb_url": "tet-thieu-nhi-cua-so-tam-thumb.jpg",
+    "poster_url": "tet-thieu-nhi-cua-so-tam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "73036",
+      "season": 2,
+      "vote_average": 8.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt4546444",
+      "vote_average": 8.2,
+      "vote_count": 38
+    },
+    "modified": {
+      "time": "2026-04-24T22:23:51.000Z"
+    },
+    "_id": "69eb8aff482e09b42827280a",
+    "name": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
+    "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
+    "origin_name": "Chef & My Fridge (Season 2)",
+    "thumb_url": "cham-soc-tu-lanh-cua-toi-nhe-phan-2-thumb.jpg",
+    "poster_url": "cham-soc-tu-lanh-cua-toi-nhe-phan-2-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "291602",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37094954",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T22:19:52.000Z"
+    },
+    "_id": "69eb8a10da7d894068609364",
+    "name": "Hạ Mạt Sơ Kiến",
+    "slug": "ha-mat-so-kien",
+    "origin_name": "Last Summer",
+    "thumb_url": "ha-mat-so-kien-thumb.jpg",
+    "poster_url": "ha-mat-so-kien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315172",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41863606",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T18:31:17.000Z"
+    },
+    "_id": "69e9ef6af0f815b666161eb7",
+    "name": "Vũ Điệu Tình Thù",
+    "slug": "vu-dieu-tinh-thu",
+    "origin_name": "The Bangkok Red Opera",
+    "thumb_url": "vu-dieu-tinh-thu-thumb.jpg",
+    "poster_url": "vu-dieu-tinh-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T17:08:56.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "224263",
+      "season": 1,
+      "vote_average": 6.7,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt27486290",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T17:03:53.000Z"
+    },
+    "_id": "69eb28eef0f815b666168323",
+    "name": "Cậu bé mất tích: Chuyện năm 85",
+    "slug": "cau-be-mat-tich-chuyen-nam-85",
+    "origin_name": "Stranger Things: Tales from '85",
+    "thumb_url": "cau-be-mat-tich-chuyen-nam-85-thumb.jpg",
+    "poster_url": "cau-be-mat-tich-chuyen-nam-85-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "79744",
+      "season": 8,
+      "vote_average": 8.537,
+      "vote_count": 3108
+    },
+    "imdb": {
+      "id": "tt7587890",
+      "vote_average": 8,
+      "vote_count": 120183
+    },
+    "modified": {
+      "time": "2026-04-24T15:47:49.000Z"
+    },
+    "_id": "6966276b4da3bf6eb331cdd6",
+    "name": "Lính Mới (Phần 8)",
+    "slug": "linh-moi-phan-8",
+    "origin_name": "The Rookie (Season 8)",
+    "thumb_url": "linh-moi-phan-8-thumb.jpg",
+    "poster_url": "linh-moi-phan-8-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287978",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37031059",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T15:26:12.000Z"
+    },
+    "_id": "69eaf0e791cc1b96d58aceb1",
+    "name": "Điệp Vụ Giáo Viên",
+    "slug": "truot",
+    "origin_name": "Flunked",
+    "thumb_url": "truot-thumb.jpg",
+    "poster_url": "truot-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302877",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41755722",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T15:24:05.000Z"
+    },
+    "_id": "69eb252515072466acef7d80",
+    "name": "Giấy Ngắn Tình Dài",
+    "slug": "giay-ngan-tinh-dai",
+    "origin_name": "Remittance Letter",
+    "thumb_url": "giay-ngan-tinh-dai-thumb.jpg",
+    "poster_url": "giay-ngan-tinh-dai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1318447",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt16431404",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T15:23:08.000Z"
+    },
+    "_id": "69eb286cf616ee3807dbee5c",
+    "name": "Săn Mồi",
+    "slug": "san-moi-2026",
+    "origin_name": "Apex",
+    "thumb_url": "san-moi-2026-thumb.jpg",
+    "poster_url": "san-moi-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "284000",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T15:06:49.000Z"
+    },
+    "_id": "69e1c6346d4243e068ef6f34",
+    "name": "Kẻ Thù Chung Giường",
+    "slug": "ke-thu-chung-giuong",
+    "origin_name": "Reverse",
+    "thumb_url": "ke-thu-chung-giuong-thumb.jpg",
+    "poster_url": "ke-thu-chung-giuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290700",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T15:06:30.000Z"
+    },
+    "_id": "69e1c722f616ee3807d82950",
+    "name": "Giải Mã Trọng Án",
+    "slug": "giai-ma-trong-an",
+    "origin_name": "Case X Decoded",
+    "thumb_url": "giai-ma-trong-an-thumb.jpg",
+    "poster_url": "giai-ma-trong-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "250220",
+      "season": 1,
+      "vote_average": 7.714,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt31909098",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T15:06:16.000Z"
+    },
+    "_id": "69d899c9db41bcecb8dda433",
+    "name": "Cô Vợ Tí Hon",
+    "slug": "co-vo-ti-hon",
+    "origin_name": "The Miniature Wife",
+    "thumb_url": "co-vo-ti-hon-thumb.jpg",
+    "poster_url": "co-vo-ti-hon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290230",
+      "season": 1,
+      "vote_average": 4.2,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt36742714",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T15:06:01.000Z"
+    },
+    "_id": "69eaf1a993c48ff6bfed7459",
+    "name": "Santita",
+    "slug": "santita",
+    "origin_name": "Santita",
+    "thumb_url": "santita-thumb.jpg",
+    "poster_url": "santita-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124101",
+      "season": 5,
+      "vote_average": 7.421,
+      "vote_count": 329
+    },
+    "imdb": {
+      "id": "tt11815682",
+      "vote_average": 8.2,
+      "vote_count": 60819
+    },
+    "modified": {
+      "time": "2026-04-24T15:05:31.000Z"
+    },
+    "_id": "69dba5ff15072466ace9ef7a",
+    "name": "Huyền Thoại Làng Hài (Phần 5)",
+    "slug": "huyen-thoai-lang-hai-phan-5",
+    "origin_name": "Hacks (Season 5)",
+    "thumb_url": "huyen-thoai-lang-hai-phan-5-thumb.jpg",
+    "poster_url": "huyen-thoai-lang-hai-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "244623",
+      "season": 2,
+      "vote_average": 7.2,
+      "vote_count": 118
+    },
+    "imdb": {
+      "id": "tt14879018",
+      "vote_average": 7.3,
+      "vote_count": 23456
+    },
+    "modified": {
+      "time": "2026-04-24T14:49:34.000Z"
+    },
+    "_id": "69eaf164b692c7b208d5325b",
+    "name": "Running Point (Phần 2)",
+    "slug": "running-point-phan-2",
+    "origin_name": "Running Point (Season 2)",
+    "thumb_url": "running-point-phan-2-thumb.jpg",
+    "poster_url": "running-point-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318880",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41508977",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T14:35:52.000Z"
+    },
+    "_id": "69eaf07be53e6a47ad5ee0fd",
+    "name": "Hulk Hogan: Real American",
+    "slug": "hulk-hogan-real-american",
+    "origin_name": "Hulk Hogan: Real American",
+    "thumb_url": "hulk-hogan-real-american-thumb.jpg",
+    "poster_url": "hulk-hogan-real-american-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "990204",
+      "season": null,
+      "vote_average": 4.75,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt28419896",
+      "vote_average": 4.5,
+      "vote_count": 1122
+    },
+    "modified": {
+      "time": "2026-04-24T14:25:51.000Z"
+    },
+    "_id": "69eb1afcb692c7b208d53e5c",
+    "name": "Rác Đường Phố",
+    "slug": "rac-duong-pho",
+    "origin_name": "Street Trash",
+    "thumb_url": "rac-duong-pho-thumb.jpg",
+    "poster_url": "rac-duong-pho-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1662432",
+      "season": null,
+      "vote_average": 7.7,
+      "vote_count": 26
+    },
+    "imdb": {
+      "id": "tt41368989",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-24T14:23:02.000Z"
+    },
+    "_id": "69eb1a50b3a3583bbbb2f966",
+    "name": "Finding Harry: The Craft Behind the Magic",
+    "slug": "finding-harry-the-craft-behind-the-magic",
+    "origin_name": "Finding Harry: The Craft Behind the Magic",
+    "thumb_url": "finding-harry-the-craft-behind-the-magic-thumb.jpg",
+    "poster_url": "finding-harry-the-craft-behind-the-magic-poster.jpg",
+    "year": 2026
+  }
+]
