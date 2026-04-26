@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315704",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41455696",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T21:31:35.000Z"
+    },
+    "_id": "69e4f979da7d8940685e7409",
+    "name": "Thầy Tatsuki Quá Dễ Tính",
+    "slug": "thay-tatsuki-qua-de-tinh",
+    "origin_name": "Tatsuki: Too Kind for School",
+    "thumb_url": "thay-tatsuki-qua-de-tinh-thumb.jpg",
+    "poster_url": "thay-tatsuki-qua-de-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "86031",
+      "season": 4,
+      "vote_average": 8.533,
+      "vote_count": 1642
+    },
+    "imdb": {
+      "id": "tt9679542",
+      "vote_average": 8.1,
+      "vote_count": 41263
+    },
+    "modified": {
+      "time": "2026-04-26T21:25:58.000Z"
+    },
+    "_id": "6780ddf7af10fecdaf87d209",
+    "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
+    "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
+    "origin_name": "Dr. STONE (Season 4)",
+    "thumb_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
+    "poster_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T21:13:16.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T21:13:00.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T21:12:45.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124364",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 2553
+    },
+    "imdb": {
+      "id": "tt9813792",
+      "vote_average": 7.8,
+      "vote_count": 173600
+    },
+    "modified": {
+      "time": "2026-04-26T19:41:08.000Z"
+    },
+    "_id": "69e4fb962b874d6bfb6bbee5",
+    "name": "Thị Trấn Ác Mộng (Phần 4)",
+    "slug": "thi-tran-ac-mong-phan-4",
+    "origin_name": "FROM (Season 4)",
+    "thumb_url": "thi-tran-ac-mong-phan-4-thumb.jpg",
+    "poster_url": "thi-tran-ac-mong-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295357",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt29106483",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T16:18:07.000Z"
+    },
+    "_id": "69d9fecf4a74b3cede0aecd7",
+    "name": "Huyền Thoại Quyền Pháp Bắc Đẩu",
+    "slug": "huyen-thoai-quyen-phap-bac-dau",
+    "origin_name": "Fist of the North Star: HOKUTO NO KEN",
+    "thumb_url": "huyen-thoai-quyen-phap-bac-dau-thumb.jpg",
+    "poster_url": "huyen-thoai-quyen-phap-bac-dau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296232",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39229727",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T16:17:55.000Z"
+    },
+    "_id": "69d5e08d93c48ff6bfe68daa",
+    "name": "Trái Đất Đóng Băng",
+    "slug": "trai-dat-dong-bang",
+    "origin_name": "SNOWBALL EARTH",
+    "thumb_url": "trai-dat-dong-bang-thumb.jpg",
+    "poster_url": "trai-dat-dong-bang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306121",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39026840",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T16:17:44.000Z"
+    },
+    "_id": "69d9fe91db41bcecb8ddf777",
+    "name": "Giọt Rượu Thần Thánh",
+    "slug": "giot-ruou-than-thanh-anime",
+    "origin_name": "The Drops of God",
+    "thumb_url": "giot-ruou-than-thanh-anime-thumb.jpg",
+    "poster_url": "giot-ruou-than-thanh-anime-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1359916",
+      "season": null,
+      "vote_average": 8.1,
+      "vote_count": 12
+    },
+    "imdb": {
+      "id": "tt33477484",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T15:38:18.000Z"
+    },
+    "_id": "69edc744006591e10819fa89",
+    "name": "5 Centimet Trên Giây",
+    "slug": "5-centimet-tren-giay-2025",
+    "origin_name": "5 Centimeters per Second",
+    "thumb_url": "5-centimet-tren-giay-2025-thumb.jpg",
+    "poster_url": "5-centimet-tren-giay-2025-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1366906",
+      "season": null,
+      "vote_average": 6.143,
+      "vote_count": 14
+    },
+    "imdb": {
+      "id": "tt33303521",
+      "vote_average": 5.1,
+      "vote_count": 417
+    },
+    "modified": {
+      "time": "2026-04-26T15:38:06.000Z"
+    },
+    "_id": "69edc689cec790794bf9d04d",
+    "name": "Khu Khép Kín",
+    "slug": "khu-khep-kin",
+    "origin_name": "The Gates",
+    "thumb_url": "khu-khep-kin-thumb.jpg",
+    "poster_url": "khu-khep-kin-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1422052",
+      "season": null,
+      "vote_average": 5.8,
+      "vote_count": 54
+    },
+    "imdb": {
+      "id": "tt35521703",
+      "vote_average": 0,
+      "vote_count": 43
+    },
+    "modified": {
+      "time": "2026-04-26T15:26:48.000Z"
+    },
+    "_id": "69edc6fa41d6bb2c31585ac4",
+    "name": "Hậu Duệ",
+    "slug": "hau-due-2026",
+    "origin_name": "Descendent",
+    "thumb_url": "hau-due-2026-thumb.jpg",
+    "poster_url": "hau-due-2026-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317219",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40962427",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T14:58:53.000Z"
+    },
+    "_id": "69db44ff6d4243e068ed8c79",
+    "name": "Cung Nữ Này Không Mấy Bình Tĩnh",
+    "slug": "cung-nu-nay-khong-may-binh-tinh",
+    "origin_name": "This Palace Maid Isn't Very Calm",
+    "thumb_url": "cung-nu-nay-khong-may-binh-tinh-thumb.jpg",
+    "poster_url": "cung-nu-nay-khong-may-binh-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211358",
+      "season": 1,
+      "vote_average": 7.784,
+      "vote_count": 215
+    },
+    "imdb": {
+      "id": "tt1640719",
+      "vote_average": 7.2,
+      "vote_count": 20870
+    },
+    "modified": {
+      "time": "2026-04-26T13:27:23.000Z"
+    },
+    "_id": "69cb7a5e458948c679afe323",
+    "name": "Bi Kịch Dưới Chân Cầu",
+    "slug": "bi-kich-duoi-chan-cau",
+    "origin_name": "Under the Bridge",
+    "thumb_url": "bi-kich-duoi-chan-cau-thumb.jpg",
+    "poster_url": "bi-kich-duoi-chan-cau-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318434",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41386309",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T11:33:21.000Z"
+    },
+    "_id": "69e05ef4748ca16f085dcbcc",
+    "name": "Cứ Thế Mà Gặp Em",
+    "slug": "cu-the-ma-gap-em",
+    "origin_name": "Just to Meet You",
+    "thumb_url": "cu-the-ma-gap-em-thumb.jpg",
+    "poster_url": "cu-the-ma-gap-em-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319810",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41822140",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T11:33:09.000Z"
+    },
+    "_id": "69e32daa91cc1b96d587e559",
+    "name": "Lật Ngược Cuộc Đời",
+    "slug": "lat-nguoc-cuoc-doi",
+    "origin_name": "Turning Life Around",
+    "thumb_url": "lat-nguoc-cuoc-doi-thumb.jpg",
+    "poster_url": "lat-nguoc-cuoc-doi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318840",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T11:32:38.000Z"
+    },
+    "_id": "69e84a9d006591e10818674d",
+    "name": "Có Một Lá Thư Gửi Từ Thành Phố Cảng",
+    "slug": "co-mot-la-thu-gui-tu-thanh-pho-cang",
+    "origin_name": "Echoes of Gang City",
+    "thumb_url": "co-mot-la-thu-gui-tu-thanh-pho-cang-thumb.jpg",
+    "poster_url": "co-mot-la-thu-gui-tu-thanh-pho-cang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316390",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40609424",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T11:32:20.000Z"
+    },
+    "_id": "69ed94ca748ca16f08629e99",
+    "name": "Pháo Hoa",
+    "slug": "phao-hoa",
+    "origin_name": "Fireworks",
+    "thumb_url": "phao-hoa-thumb.jpg",
+    "poster_url": "phao-hoa-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "288659",
+      "season": 1,
+      "vote_average": 7.25,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39267868",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T10:06:28.000Z"
+    },
+    "_id": "69cbf9dfb06c99c722022664",
+    "name": "Sứ Giả Bốn Mùa - Vũ Điệu Mùa Xuân",
+    "slug": "su-gia-bon-mua-vu-dieu-mua-xuan",
+    "origin_name": "Agents of the Four Seasons",
+    "thumb_url": "su-gia-bon-mua-vu-dieu-mua-xuan-thumb.jpg",
+    "poster_url": "su-gia-bon-mua-vu-dieu-mua-xuan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "260463",
+      "season": 1,
+      "vote_average": 9.077,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt37532356",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T10:06:09.000Z"
+    },
+    "_id": "69d1cc78da6ce23e8eac3148",
+    "name": "Song Mệnh Cõi Hoàng Tuyền",
+    "slug": "song-menh-coi-hoang-tuyen",
+    "origin_name": "Daemons of the Shadow Realm",
+    "thumb_url": "song-menh-coi-hoang-tuyen-thumb.jpg",
+    "poster_url": "song-menh-coi-hoang-tuyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314669",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38813790",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T09:57:44.000Z"
+    },
+    "_id": "69b7bc804da3bf6eb3425225",
+    "name": "Bác Sĩ Shin",
+    "slug": "bac-si-shin",
+    "origin_name": "Doctor Shin",
+    "thumb_url": "bac-si-shin-thumb.jpg",
+    "poster_url": "bac-si-shin-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311650",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40529147",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T09:49:57.000Z"
+    },
+    "_id": "69d0d35ff65d22d617bb4255",
+    "name": "Đời Cải Thảo",
+    "slug": "doi-cai-thao",
+    "origin_name": "Cabbage Your Life",
+    "thumb_url": "doi-cai-thao-thumb.jpg",
+    "poster_url": "doi-cai-thao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289424",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36732944",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-26T09:37:20.000Z"
+    },
+    "_id": "69e3a4edf616ee3807d9403c",
+    "name": "Cuộc Chiến Trong Chúng Ta",
+    "slug": "cuoc-chien-trong-chung-ta",
+    "origin_name": "We Are All Trying Here",
+    "thumb_url": "cuoc-chien-trong-chung-ta-thumb.jpg",
+    "poster_url": "cuoc-chien-trong-chung-ta-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303076",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39073388",
+      "vote_average": 0,
+      "vote_count": 17
+    },
+    "modified": {
+      "time": "2026-04-26T00:37:45.000Z"
+    },
+    "_id": "6947a82897c71dcd0d63982e",
+    "name": "Người Đàn Ông Đầu Tiên",
+    "slug": "nguoi-dan-ong-dau-tien",
+    "origin_name": "First Man",
+    "thumb_url": "nguoi-dan-ong-dau-tien-thumb.jpg",
+    "poster_url": "nguoi-dan-ong-dau-tien-poster.jpg",
+    "year": 2025
+  }
+]
