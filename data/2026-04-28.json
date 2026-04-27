@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1444384",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt37241360",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T23:17:54.000Z"
+    },
+    "_id": "69cccb251d0b515454b97cff",
+    "name": "Tình Người Duyên Ma: Nhắm Mak Yêu Luôn",
+    "slug": "tinh-nguoi-duyen-ma-nham-mak-yeu-luon",
+    "origin_name": "Nak Loves Mak Sooo Much!",
+    "thumb_url": "tinh-nguoi-duyen-ma-nham-mak-yeu-luon-thumb.jpg",
+    "poster_url": "tinh-nguoi-duyen-ma-nham-mak-yeu-luon-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T23:17:35.000Z"
+    },
+    "_id": "69ef895b482e09b428283e20",
+    "name": "Tỏa Sáng Vì Yêu",
+    "slug": "toa-sang-vi-yeu",
+    "origin_name": "Shine for Love",
+    "thumb_url": "toa-sang-vi-yeu-thumb.jpg",
+    "poster_url": "toa-sang-vi-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319604",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41756558",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T23:15:02.000Z"
+    },
+    "_id": "69ef8786b692c7b208d6740f",
+    "name": "Nữ Đế",
+    "slug": "nu-de",
+    "origin_name": "Ascent of an Empress",
+    "thumb_url": "nu-de-thumb.jpg",
+    "poster_url": "nu-de-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300529",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38337374",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T23:14:03.000Z"
+    },
+    "_id": "69ef8b4be53e6a47ad6026e1",
+    "name": "Thẳng Lối Xuống Địa Ngục",
+    "slug": "thang-loi-xuong-dia-nguc",
+    "origin_name": "Straight to Hell",
+    "thumb_url": "thang-loi-xuong-dia-nguc-thumb.jpg",
+    "poster_url": "thang-loi-xuong-dia-nguc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1420952",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt35496209",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T23:11:23.000Z"
+    },
+    "_id": "69ef8aab16bc1b4174f85095",
+    "name": "Mắt Nhắm Mắt Mở",
+    "slug": "mat-nham-mat-mo",
+    "origin_name": "Close The Eye To See",
+    "thumb_url": "mat-nham-mat-mo-thumb.jpg",
+    "poster_url": "mat-nham-mat-mo-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T22:58:47.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320672",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T22:03:17.000Z"
+    },
+    "_id": "69ef7884b692c7b208d66f6a",
+    "name": "Dục Vọng Thầm Kín",
+    "slug": "duc-vong-tham-kin",
+    "origin_name": "Whisper of Desire",
+    "thumb_url": "duc-vong-tham-kin-thumb.jpg",
+    "poster_url": "duc-vong-tham-kin-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "745332",
+      "season": null,
+      "vote_average": 3.9,
+      "vote_count": 15
+    },
+    "imdb": {
+      "id": "tt11385670",
+      "vote_average": 4.3,
+      "vote_count": 374
+    },
+    "modified": {
+      "time": "2026-04-27T21:59:07.000Z"
+    },
+    "_id": "69ef798441d6bb2c3158d276",
+    "name": "Mật Ngọt Xa Hoa",
+    "slug": "mat-ngot-xa-hoa",
+    "origin_name": "Her Deadly Sugar Daddy",
+    "thumb_url": "mat-ngot-xa-hoa-thumb.jpg",
+    "poster_url": "mat-ngot-xa-hoa-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289219",
+      "season": 1,
+      "vote_average": 7.613,
+      "vote_count": 40
+    },
+    "imdb": {
+      "id": "tt36594331",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T21:53:58.000Z"
+    },
+    "_id": "69da18d7db41bcecb8de0412",
+    "name": "Cuộc Chiến Ngân Hà: Maul - Chúa Tể Bóng Tối (Phần 1)",
+    "slug": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi",
+    "origin_name": "Star Wars: Maul - Shadow Lord",
+    "thumb_url": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi-thumb.jpg",
+    "poster_url": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278174",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35006947",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T21:51:52.000Z"
+    },
+    "_id": "69afbabc124287e0825f6b36",
+    "name": "Girl Rules",
+    "slug": "girl-rules",
+    "origin_name": "Girl Rules",
+    "thumb_url": "girl-rules-thumb.jpg",
+    "poster_url": "girl-rules-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292121",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39245629",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T21:51:37.000Z"
+    },
+    "_id": "69e5dda82b874d6bfb6c1986",
+    "name": "Bù Nhìn Bóng Đêm",
+    "slug": "bu-nhin-bong-dem",
+    "origin_name": "The Scarecrow",
+    "thumb_url": "bu-nhin-bong-dem-thumb.jpg",
+    "poster_url": "bu-nhin-bong-dem-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "128995",
+      "season": 3,
+      "vote_average": 7.8,
+      "vote_count": 59
+    },
+    "imdb": {
+      "id": "tt14596630",
+      "vote_average": 8.1,
+      "vote_count": 2836
+    },
+    "modified": {
+      "time": "2026-04-27T20:10:59.000Z"
+    },
+    "_id": "69bd063ef063d23bbbd48d45",
+    "name": "Các Tế Bào Của Yumi (Phần 3)",
+    "slug": "cac-te-bao-cua-yumi-phan-3",
+    "origin_name": "Yumi's Cells (Season 3)",
+    "thumb_url": "cac-te-bao-cua-yumi-phan-3-thumb.jpg",
+    "poster_url": "cac-te-bao-cua-yumi-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320411",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41988433",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T17:57:32.000Z"
+    },
+    "_id": "69ecf4d5006591e10819c630",
+    "name": "Lưỡi Dao Trong Tay",
+    "slug": "luoi-dao-trong-tay",
+    "origin_name": "Within the Grip",
+    "thumb_url": "luoi-dao-trong-tay-thumb.jpg",
+    "poster_url": "luoi-dao-trong-tay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "878608",
+      "season": null,
+      "vote_average": 6.8,
+      "vote_count": 53
+    },
+    "imdb": {
+      "id": "tt29002950",
+      "vote_average": 7.3,
+      "vote_count": 2040
+    },
+    "modified": {
+      "time": "2026-04-27T17:50:08.000Z"
+    },
+    "_id": "692e9b33c11c49e014ad29e2",
+    "name": "Thời Đại Cuồng Dã",
+    "slug": "thoi-dai-cuong-da",
+    "origin_name": "Resurrection",
+    "thumb_url": "thoi-dai-cuong-da-thumb.jpg",
+    "poster_url": "thoi-dai-cuong-da-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T17:43:58.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T17:43:45.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T17:42:17.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1677550",
+      "season": null,
+      "vote_average": 7.75,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt41973417",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T13:52:51.000Z"
+    },
+    "_id": "69eee5b5cec790794bfa1eac",
+    "name": "KillTonyMania",
+    "slug": "killtonymania",
+    "origin_name": "KillTonyMania",
+    "thumb_url": "killtonymania-thumb.jpg",
+    "poster_url": "killtonymania-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314787",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39971895",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T13:52:31.000Z"
+    },
+    "_id": "69dca0746d4243e068edf2d5",
+    "name": "Running Man Thái Lan",
+    "slug": "running-man-thai-lan",
+    "origin_name": "Running Man Thailand",
+    "thumb_url": "running-man-thai-lan-thumb.jpg",
+    "poster_url": "running-man-thai-lan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311871",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T13:52:04.000Z"
+    },
+    "_id": "69e4a9db6d4243e068f1056b",
+    "name": "Anh Em Nhà Tagusari",
+    "slug": "tagusari-bros",
+    "origin_name": "TAGUSARI bros.",
+    "thumb_url": "tagusari-bros-thumb.jpg",
+    "poster_url": "tagusari-bros-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290856",
+      "season": 1,
+      "vote_average": 7.076,
+      "vote_count": 119
+    },
+    "imdb": {
+      "id": "tt36849871",
+      "vote_average": 6,
+      "vote_count": 7720
+    },
+    "modified": {
+      "time": "2026-04-27T13:48:55.000Z"
+    },
+    "_id": "69aa268c400bf394bd8ea526",
+    "name": "Lực Lượng Marshals",
+    "slug": "marshals",
+    "origin_name": "Marshals",
+    "thumb_url": "marshals-thumb.jpg",
+    "poster_url": "marshals-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1642474",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T12:31:53.000Z"
+    },
+    "_id": "69eeec7af0f815b666178ac8",
+    "name": "Điệp Ảnh Truy Tung",
+    "slug": "diep-anh-truy-tung",
+    "origin_name": "In The Name Of The Father",
+    "thumb_url": "diep-anh-truy-tung-thumb.jpg",
+    "poster_url": "diep-anh-truy-tung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1638188",
+      "season": null,
+      "vote_average": 4,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T12:08:09.000Z"
+    },
+    "_id": "69eeebf7482e09b428281426",
+    "name": "Tôi Là Kẻ Nằm Vùng",
+    "slug": "toi-la-ke-nam-vung",
+    "origin_name": "I'm Undercover",
+    "thumb_url": "toi-la-ke-nam-vung-thumb.jpg",
+    "poster_url": "toi-la-ke-nam-vung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1677967",
+      "season": null,
+      "vote_average": 4,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-27T12:07:05.000Z"
+    },
+    "_id": "69eeec1f377c8aaad546a86b",
+    "name": "Liêu Trai: Mỹ Nhân Thủ",
+    "slug": "lieu-trai-my-nhan-thu",
+    "origin_name": "The Enchanting Cranium Mystery",
+    "thumb_url": "lieu-trai-my-nhan-thu-thumb.jpg",
+    "poster_url": "lieu-trai-my-nhan-thu-poster.jpg",
+    "year": 2026
+  }
+]
