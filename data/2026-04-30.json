@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303076",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39073388",
+      "vote_average": 0,
+      "vote_count": 17
+    },
+    "modified": {
+      "time": "2026-04-30T00:34:30.000Z"
+    },
+    "_id": "6947a82897c71dcd0d63982e",
+    "name": "Người Đàn Ông Đầu Tiên",
+    "slug": "nguoi-dan-ong-dau-tien",
+    "origin_name": "First Man",
+    "thumb_url": "nguoi-dan-ong-dau-tien-thumb.jpg",
+    "poster_url": "nguoi-dan-ong-dau-tien-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72976",
+      "season": 5,
+      "vote_average": 6.6,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt16444020",
+      "vote_average": 7.4,
+      "vote_count": 74
+    },
+    "modified": {
+      "time": "2026-04-29T23:41:02.000Z"
+    },
+    "_id": "69dfcfeb41d6bb2c315360fb",
+    "name": "Nhịp Đập Trái Tim (Phần 5)",
+    "slug": "nhip-dap-trai-tim-phan-5",
+    "origin_name": "Heart Signal (Season 5)",
+    "thumb_url": "nhip-dap-trai-tim-phan-5-thumb.jpg",
+    "poster_url": "nhip-dap-trai-tim-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289560",
+      "season": 1,
+      "vote_average": 8.1,
+      "vote_count": 39
+    },
+    "imdb": {
+      "id": "tt35515227",
+      "vote_average": 0,
+      "vote_count": 24
+    },
+    "modified": {
+      "time": "2026-04-29T23:22:43.000Z"
+    },
+    "_id": "69f09c434a74b3cede1263a3",
+    "name": "CIA (Phần 1)",
+    "slug": "cia-phan-1",
+    "origin_name": "CIA",
+    "thumb_url": "cia-phan-1-thumb.jpg",
+    "poster_url": "cia-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387440",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T23:13:25.000Z"
+    },
+    "_id": "69e8a475db41bcecb8e33fb6",
+    "name": "Hôm Nay Lại Bán Hết",
+    "slug": "hom-nay-lai-ban-het",
+    "origin_name": "Sold Out on You",
+    "thumb_url": "hom-nay-lai-ban-het-thumb.jpg",
+    "poster_url": "hom-nay-lai-ban-het-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "65942",
+      "season": 4,
+      "vote_average": 7.8,
+      "vote_count": 598
+    },
+    "imdb": {
+      "id": "tt5607616",
+      "vote_average": 8.1,
+      "vote_count": 38414
+    },
+    "modified": {
+      "time": "2026-04-29T23:12:28.000Z"
+    },
+    "_id": "69e49396748ca16f085fb60a",
+    "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác (Phần 4)",
+    "slug": "rezero-−-bat-dau-o-the-gioi-khac-phan-4",
+    "origin_name": "Re:ZERO -Starting Life in Another World- Season 4",
+    "thumb_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-thumb.jpg",
+    "poster_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "304820",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39122552",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T23:12:16.000Z"
+    },
+    "_id": "69da0326377c8aaad53f9816",
+    "name": "Để xổng mất là cá to, nhưng cá tôi câu được lại còn to hơn",
+    "slug": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
+    "origin_name": "Always a Catch!",
+    "thumb_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-thumb.jpg",
+    "poster_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "245318",
+      "season": 1,
+      "vote_average": 7.438,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt31137273",
+      "vote_average": 6.9,
+      "vote_count": 742
+    },
+    "modified": {
+      "time": "2026-04-29T23:12:03.000Z"
+    },
+    "_id": "69df658b93c48ff6bfe91299",
+    "name": "Rắc Rối Tiền Bạc Của Margo",
+    "slug": "rac-roi-tien-bac-cua-margo",
+    "origin_name": "Margo's Got Money Troubles",
+    "thumb_url": "rac-roi-tien-bac-cua-margo-thumb.jpg",
+    "poster_url": "rac-roi-tien-bac-cua-margo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "108181",
+      "season": 1,
+      "vote_average": 5.912,
+      "vote_count": 34
+    },
+    "imdb": {
+      "id": "tt31937954",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T23:07:24.000Z"
+    },
+    "_id": "69c352a7b06c99c7220029e6",
+    "name": "Những Người Phụ Nữ Không Hoàn Hảo",
+    "slug": "nhung-nguoi-phu-nu-khong-hoan-hao",
+    "origin_name": "Imperfect Women",
+    "thumb_url": "nhung-nguoi-phu-nu-khong-hoan-hao-thumb.jpg",
+    "poster_url": "nhung-nguoi-phu-nu-khong-hoan-hao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "270476",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt33332385",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T23:06:53.000Z"
+    },
+    "_id": "69f1ad2591cc1b96d58cb1e2",
+    "name": "Bí Ẩn Thị Trấn Widow's Bay",
+    "slug": "bi-an-thi-tran-widows-bay",
+    "origin_name": "Widow's Bay",
+    "thumb_url": "bi-an-thi-tran-widows-bay-thumb.jpg",
+    "poster_url": "bi-an-thi-tran-widows-bay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "204490",
+      "season": 2,
+      "vote_average": 6.6,
+      "vote_count": 133
+    },
+    "imdb": {
+      "id": "tt21088136",
+      "vote_average": 7.1,
+      "vote_count": 13056
+    },
+    "modified": {
+      "time": "2026-04-29T23:06:27.000Z"
+    },
+    "_id": "69e9ca1216bc1b4174f6ae69",
+    "name": "Hồ Sơ Tội Phạm (Phần 2)",
+    "slug": "ho-so-toi-pham-phan-2",
+    "origin_name": "Criminal Record (Season 2)",
+    "thumb_url": "ho-so-toi-pham-phan-2-thumb.jpg",
+    "poster_url": "ho-so-toi-pham-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278113",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37253311",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T21:43:47.000Z"
+    },
+    "_id": "69f1f2ed4e2efe72884c0047",
+    "name": "Vùng Đất Vàng",
+    "slug": "vung-dat-vang",
+    "origin_name": "Gold Land",
+    "thumb_url": "vung-dat-vang-thumb.jpg",
+    "poster_url": "vung-dat-vang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319339",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T21:17:05.000Z"
+    },
+    "_id": "69f212dddb41bcecb8e5f5de",
+    "name": "6 Người Ế Ở Chung Nhà",
+    "slug": "6-nguoi-e-o-chung-nha",
+    "origin_name": "Six Singles Under One Roof",
+    "thumb_url": "6-nguoi-e-o-chung-nha-thumb.jpg",
+    "poster_url": "6-nguoi-e-o-chung-nha-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "244189",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt40389354",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T20:35:47.000Z"
+    },
+    "_id": "69c6027ef063d23bbbd6882b",
+    "name": "Hướng Về Sao Băng Cầu Nguyện",
+    "slug": "huong-ve-sao-bang-cau-nguyen",
+    "origin_name": "Wishing Upon the Shooting Stars",
+    "thumb_url": "huong-ve-sao-bang-cau-nguyen-thumb.jpg",
+    "poster_url": "huong-ve-sao-bang-cau-nguyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72517",
+      "season": 4,
+      "vote_average": 8.405,
+      "vote_count": 766
+    },
+    "imdb": {
+      "id": "tt7263328",
+      "vote_average": 7.7,
+      "vote_count": 20411
+    },
+    "modified": {
+      "time": "2026-04-29T20:33:21.000Z"
+    },
+    "_id": "69cde6c8400bf394bd970fda",
+    "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+    "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+    "origin_name": "Classroom of the Elite (Season 4)",
+    "thumb_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+    "poster_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313732",
+      "season": 1,
+      "vote_average": 4,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40289654",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T20:31:49.000Z"
+    },
+    "_id": "69d7241141d6bb2c3150f2cf",
+    "name": "Tin Đồn Tình Yêu",
+    "slug": "tin-don-tinh-yeu",
+    "origin_name": "Scandal love",
+    "thumb_url": "tin-don-tinh-yeu-thumb.jpg",
+    "poster_url": "tin-don-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T20:31:29.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321040",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41114612",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T20:29:44.000Z"
+    },
+    "_id": "69f207c8f616ee3807dde3e2",
+    "name": "Bóng Ma Hạnh Phúc",
+    "slug": "bong-ma-hanh-phuc",
+    "origin_name": "Bong Ma Hanh Phuc",
+    "thumb_url": "bong-ma-hanh-phuc-thumb.jpg",
+    "poster_url": "bong-ma-hanh-phuc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254498",
+      "season": 1,
+      "vote_average": 8.667,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt31701210",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T17:40:13.000Z"
+    },
+    "_id": "69f1e00d377c8aaad5478701",
+    "name": "Hắc Dạ Cáo Bạch",
+    "slug": "hac-da-cao-bach",
+    "origin_name": "Light to the Night",
+    "thumb_url": "hac-da-cao-bach-thumb.jpg",
+    "poster_url": "hac-da-cao-bach-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T17:38:39.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T17:37:21.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316832",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt40822983",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T17:30:01.000Z"
+    },
+    "_id": "69f194e9377c8aaad54767d8",
+    "name": "Anh Trai Của Tôi Là Nhân Ngưu",
+    "slug": "anh-trai-cua-toi-la-nhan-nguu",
+    "origin_name": "My Brother the Minotaur",
+    "thumb_url": "anh-trai-cua-toi-la-nhan-nguu-thumb.jpg",
+    "poster_url": "anh-trai-cua-toi-la-nhan-nguu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211288",
+      "season": 3,
+      "vote_average": 7.511,
+      "vote_count": 266
+    },
+    "imdb": {
+      "id": "tt13875494",
+      "vote_average": 7.1,
+      "vote_count": 27678
+    },
+    "modified": {
+      "time": "2026-04-29T16:42:37.000Z"
+    },
+    "_id": "68f9f11ea2d805aecaf99b2e",
+    "name": "Tracker (Phần 3)",
+    "slug": "tracker-phan-3",
+    "origin_name": "Tracker (Season 3)",
+    "thumb_url": "tracker-phan-3-thumb-1761239638607.jpg",
+    "poster_url": "tracker-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "76479",
+      "season": 5,
+      "vote_average": 8.4,
+      "vote_count": 11884
+    },
+    "imdb": {
+      "id": "tt1190634",
+      "vote_average": 8.6,
+      "vote_count": 853757
+    },
+    "modified": {
+      "time": "2026-04-29T14:57:17.000Z"
+    },
+    "_id": "695f5290f063d23bbbc21c06",
+    "name": "The Boys (Phần 5)",
+    "slug": "the-boys-phan-5",
+    "origin_name": "The Boys (Season 5)",
+    "thumb_url": "the-boys-phan-5-thumb-1775624659696.jpg",
+    "poster_url": "the-boys-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283853",
+      "season": 1,
+      "vote_average": 3.941,
+      "vote_count": 17
+    },
+    "imdb": {
+      "id": "tt35677100",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-29T14:20:57.000Z"
+    },
+    "_id": "69d90e6f41d6bb2c31517329",
+    "name": "Privilèges",
+    "slug": "privileges",
+    "origin_name": "Privileges",
+    "thumb_url": "privileges-thumb.jpg",
+    "poster_url": "privileges-poster.jpg",
+    "year": 2026
+  }
+]
