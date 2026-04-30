@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "307624",
+      "season": 1,
+      "vote_average": 9.2,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt40586090",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T21:25:23.000Z"
+    },
+    "_id": "69be8cc5b06c99c722ff4329",
+    "name": "Tết Thiếu Nhi của Sơ Tam",
+    "slug": "tet-thieu-nhi-cua-so-tam",
+    "origin_name": "Sammy's Children's Day",
+    "thumb_url": "tet-thieu-nhi-cua-so-tam-thumb.jpg",
+    "poster_url": "tet-thieu-nhi-cua-so-tam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "298849",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T20:15:27.000Z"
+    },
+    "_id": "69a12fda4ea2111da8bf4850",
+    "name": "Con Tôi Hẹn Hò (Phần 2)",
+    "slug": "con-toi-hen-ho-phan-2",
+    "origin_name": "When Our Kids Fall In Love",
+    "thumb_url": "con-toi-hen-ho-phan-2-thumb.jpg",
+    "poster_url": "con-toi-hen-ho-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T18:40:28.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313732",
+      "season": 1,
+      "vote_average": 4,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40289654",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T18:38:01.000Z"
+    },
+    "_id": "69d7241141d6bb2c3150f2cf",
+    "name": "Tin Đồn Tình Yêu",
+    "slug": "tin-don-tinh-yeu",
+    "origin_name": "Scandal love",
+    "thumb_url": "tin-don-tinh-yeu-thumb.jpg",
+    "poster_url": "tin-don-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T18:37:48.000Z"
+    },
+    "_id": "692d3ccd23fadd3d6c355e56",
+    "name": "Scandal Chốn Công Sở",
+    "slug": "scandal-chon-cong-so-short-drama",
+    "origin_name": "Office Scandal",
+    "thumb_url": "scandal-chon-cong-so-short-drama-thumb.jpg",
+    "poster_url": "scandal-chon-cong-so-short-drama-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "273129",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32740239",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T18:36:21.000Z"
+    },
+    "_id": "690d76b10227bea8ed75feec",
+    "name": "Tình Yêu Không Có Cổ Tích",
+    "slug": "爱情没有神话",
+    "origin_name": "Lady Liberty",
+    "thumb_url": "爱情没有神话-thumb-1777438872628.jpg",
+    "poster_url": "爱情没有神话-poster-1777438873773.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "223386",
+      "season": 1,
+      "vote_average": 1,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt27331527",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T18:17:49.000Z"
+    },
+    "_id": "69f335f86d4243e068f59edc",
+    "name": "Người Đỡ Đạn",
+    "slug": "nguoi-do-dan-2026",
+    "origin_name": "Man on Fire",
+    "thumb_url": "nguoi-do-dan-2026-thumb.jpg",
+    "poster_url": "nguoi-do-dan-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318262",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41082351",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T18:06:51.000Z"
+    },
+    "_id": "69f2db40e53e6a47ad613b37",
+    "name": "Tôi Có Nên Lấy Kẻ Sát Nhân?",
+    "slug": "toi-co-nen-lay-ke-sat-nhan",
+    "origin_name": "Should I Marry A Murderer?",
+    "thumb_url": "toi-co-nen-lay-ke-sat-nhan-thumb.jpg",
+    "poster_url": "toi-co-nen-lay-ke-sat-nhan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321040",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41114612",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T17:38:52.000Z"
+    },
+    "_id": "69f207c8f616ee3807dde3e2",
+    "name": "Bóng Ma Hạnh Phúc",
+    "slug": "bong-ma-hanh-phuc",
+    "origin_name": "Bong Ma Hanh Phuc",
+    "thumb_url": "bong-ma-hanh-phuc-thumb.jpg",
+    "poster_url": "bong-ma-hanh-phuc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1321179",
+      "season": null,
+      "vote_average": 6.9,
+      "vote_count": 10
+    },
+    "imdb": {
+      "id": "tt38626703",
+      "vote_average": 0,
+      "vote_count": 75
+    },
+    "modified": {
+      "time": "2026-04-30T17:37:09.000Z"
+    },
+    "_id": "69e06654da7d8940685c5109",
+    "name": "Dưới Bóng Điện Hạ",
+    "slug": "duoi-bong-dien-ha",
+    "origin_name": "The King's Warden",
+    "thumb_url": "duoi-bong-dien-ha-thumb.jpg",
+    "poster_url": "duoi-bong-dien-ha-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "6782",
+      "season": 1,
+      "vote_average": 8.197,
+      "vote_count": 595
+    },
+    "imdb": {
+      "id": "tt0795256",
+      "vote_average": 6.6,
+      "vote_count": 5226
+    },
+    "modified": {
+      "time": "2026-04-30T17:21:53.000Z"
+    },
+    "_id": "69f31904db41bcecb8e6566b",
+    "name": "Pucca (Phần 1)",
+    "slug": "pucca-phan-1",
+    "origin_name": "Pucca (Season 1)",
+    "thumb_url": "pucca-phan-1-thumb.jpg",
+    "poster_url": "pucca-phan-1-poster.jpg",
+    "year": 2006
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "94404",
+      "season": 2,
+      "vote_average": 8.3,
+      "vote_count": 395
+    },
+    "imdb": {
+      "id": "tt11147852",
+      "vote_average": 8,
+      "vote_count": 14145
+    },
+    "modified": {
+      "time": "2026-04-30T17:16:57.000Z"
+    },
+    "_id": "69cde57fb06c99c722027faa",
+    "name": "Dị thú ma đô (Phần 2)",
+    "slug": "di-thu-ma-do-phan-2",
+    "origin_name": "Dorohedoro (Season 2)",
+    "thumb_url": "di-thu-ma-do-phan-2-thumb.jpg",
+    "poster_url": "di-thu-ma-do-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T17:14:05.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T17:13:16.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "240641",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 51
+    },
+    "imdb": {
+      "id": "tt32178571",
+      "vote_average": 6.2,
+      "vote_count": 1125
+    },
+    "modified": {
+      "time": "2026-04-30T17:10:57.000Z"
+    },
+    "_id": "69f32ab1b692c7b208d7a740",
+    "name": "Nina Của Đất Nước Ngàn Sao",
+    "slug": "nina-cua-dat-nuoc-ngan-sao",
+    "origin_name": "Nina the Starry Bride",
+    "thumb_url": "nina-cua-dat-nuoc-ngan-sao-thumb.jpg",
+    "poster_url": "nina-cua-dat-nuoc-ngan-sao-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1383731",
+      "season": null,
+      "vote_average": 6.476,
+      "vote_count": 42
+    },
+    "imdb": {
+      "id": "tt34471850",
+      "vote_average": 5.3,
+      "vote_count": 807
+    },
+    "modified": {
+      "time": "2026-04-30T17:10:42.000Z"
+    },
+    "_id": "69f32aa2006591e1081baaa0",
+    "name": "Người bảo vệ",
+    "slug": "nguoi-bao-ve-2026",
+    "origin_name": "Protector",
+    "thumb_url": "nguoi-bao-ve-2026-thumb.jpg",
+    "poster_url": "nguoi-bao-ve-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "6782",
+      "season": 2,
+      "vote_average": 8.197,
+      "vote_count": 595
+    },
+    "imdb": {
+      "id": "tt0795256",
+      "vote_average": 6.6,
+      "vote_count": 5226
+    },
+    "modified": {
+      "time": "2026-04-30T15:56:04.000Z"
+    },
+    "_id": "69f319224e2efe72884c6f49",
+    "name": "Pucca (Phần 2)",
+    "slug": "pucca-phan-2",
+    "origin_name": "Pucca (Season 2)",
+    "thumb_url": "pucca-phan-2-thumb.jpg",
+    "poster_url": "pucca-phan-2-poster.jpg",
+    "year": 2008
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "79744",
+      "season": 8,
+      "vote_average": 8.537,
+      "vote_count": 3108
+    },
+    "imdb": {
+      "id": "tt7587890",
+      "vote_average": 8,
+      "vote_count": 120183
+    },
+    "modified": {
+      "time": "2026-04-30T12:33:27.000Z"
+    },
+    "_id": "6966276b4da3bf6eb331cdd6",
+    "name": "Lính Mới (Phần 8)",
+    "slug": "linh-moi-phan-8",
+    "origin_name": "The Rookie (Season 8)",
+    "thumb_url": "linh-moi-phan-8-thumb.jpg",
+    "poster_url": "linh-moi-phan-8-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320672",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T12:05:32.000Z"
+    },
+    "_id": "69ef7884b692c7b208d66f6a",
+    "name": "Dục Vọng Thầm Kín",
+    "slug": "duc-vong-tham-kin",
+    "origin_name": "Whisper of Desire",
+    "thumb_url": "duc-vong-tham-kin-thumb.jpg",
+    "poster_url": "duc-vong-tham-kin-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315494",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T11:46:25.000Z"
+    },
+    "_id": "69eae81d482e09b42826f8a5",
+    "name": "Reborn",
+    "slug": "reborn",
+    "origin_name": "Reborn",
+    "thumb_url": "reborn-thumb.jpg",
+    "poster_url": "reborn-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "285205",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 25
+    },
+    "imdb": {
+      "id": "tt32491422",
+      "vote_average": 7.6,
+      "vote_count": 3453
+    },
+    "modified": {
+      "time": "2026-04-30T11:33:35.000Z"
+    },
+    "_id": "69f2db9f91cc1b96d58d251c",
+    "name": "Bí mật triệu đô (Phần 2)",
+    "slug": "bi-mat-trieu-do-phan-2",
+    "origin_name": "Million Dollar Secret (Season 2)",
+    "thumb_url": "bi-mat-trieu-do-phan-2-thumb.jpg",
+    "poster_url": "bi-mat-trieu-do-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274671",
+      "season": 2,
+      "vote_average": 6.8,
+      "vote_count": 49
+    },
+    "imdb": {
+      "id": "tt34119820",
+      "vote_average": 5.8,
+      "vote_count": 3103
+    },
+    "modified": {
+      "time": "2026-04-30T11:29:24.000Z"
+    },
+    "_id": "69cdf6070a0114095c86cb06",
+    "name": "Vị vua mạnh nhất làm gì ở kiếp thứ hai? (Phần 2)",
+    "slug": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2",
+    "origin_name": "The Beginning After the End (Season 2)",
+    "thumb_url": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2-thumb.jpg",
+    "poster_url": "vi-vua-manh-nhat-lam-gi-o-kiep-thu-hai-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315172",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41863606",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T11:25:28.000Z"
+    },
+    "_id": "69e9ef6af0f815b666161eb7",
+    "name": "Vũ Điệu Tình Thù",
+    "slug": "vu-dieu-tinh-thu",
+    "origin_name": "The Bangkok Red Opera",
+    "thumb_url": "vu-dieu-tinh-thu-thumb.jpg",
+    "poster_url": "vu-dieu-tinh-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "285415",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40966716",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-04-30T11:24:29.000Z"
+    },
+    "_id": "69eee2d391cc1b96d58be177",
+    "name": "Mê Hoặc",
+    "slug": "me-hoac",
+    "origin_name": "Fascination",
+    "thumb_url": "me-hoac-thumb.jpg",
+    "poster_url": "me-hoac-poster.jpg",
+    "year": 2026
+  }
+]
