@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314784",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt41090249",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T00:50:29.000Z"
+    },
+    "_id": "69e2471341d6bb2c315422e6",
+    "name": "Giá Trị Tuyệt Đối Của Lãng Mạn",
+    "slug": "gia-tri-tuyet-doi-cua-lang-man",
+    "origin_name": "Absolute Value of Romance",
+    "thumb_url": "gia-tri-tuyet-doi-cua-lang-man-thumb.jpg",
+    "poster_url": "gia-tri-tuyet-doi-cua-lang-man-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278573",
+      "season": 1,
+      "vote_average": 9.1,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt39333617",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T23:19:29.000Z"
+    },
+    "_id": "69d8f14d7e5a0662d4dd2f64",
+    "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+    "slug": "phu-nhan-dai-quan-the-ky-21",
+    "origin_name": "Perfect Crown",
+    "thumb_url": "phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+    "poster_url": "phu-nhan-dai-quan-the-ky-21-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289560",
+      "season": 1,
+      "vote_average": 8.1,
+      "vote_count": 39
+    },
+    "imdb": {
+      "id": "tt35515227",
+      "vote_average": 0,
+      "vote_count": 24
+    },
+    "modified": {
+      "time": "2026-05-01T22:10:38.000Z"
+    },
+    "_id": "69f09c434a74b3cede1263a3",
+    "name": "CIA (Phần 1)",
+    "slug": "cia-phan-1",
+    "origin_name": "CIA",
+    "thumb_url": "cia-phan-1-thumb.jpg",
+    "poster_url": "cia-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278850",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38856645",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T20:07:54.000Z"
+    },
+    "_id": "69eee82b748ca16f0862fc03",
+    "name": "Love of Silom",
+    "slug": "love-silom",
+    "origin_name": "Love of Silom",
+    "thumb_url": "รักแห่งสีลม-thumb.jpg",
+    "poster_url": "รักแห่งสีลม-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T18:40:29.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "273129",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32740239",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T18:38:41.000Z"
+    },
+    "_id": "690d76b10227bea8ed75feec",
+    "name": "Tình Yêu Không Có Cổ Tích",
+    "slug": "爱情没有神话",
+    "origin_name": "Lady Liberty",
+    "thumb_url": "爱情没有神话-thumb-1777438872628.jpg",
+    "poster_url": "爱情没有神话-poster-1777438873773.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320954",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T18:33:39.000Z"
+    },
+    "_id": "69f488d815072466acf26c06",
+    "name": "Tình Yêu Như Tuyết Trên Đỉnh Thiên Sơn",
+    "slug": "tinh-yeu-nhu-tuyet-tren-dinh-thien-son",
+    "origin_name": "Millennium Love",
+    "thumb_url": "tinh-yeu-nhu-tuyet-tren-dinh-thien-son-thumb.jpg",
+    "poster_url": "tinh-yeu-nhu-tuyet-tren-dinh-thien-son-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319604",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41756558",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T18:20:56.000Z"
+    },
+    "_id": "69ef8786b692c7b208d6740f",
+    "name": "Nữ Đế",
+    "slug": "nu-de",
+    "origin_name": "Ascent of an Empress",
+    "thumb_url": "nu-de-thumb.jpg",
+    "poster_url": "nu-de-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T18:05:40.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278894",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34903771",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T18:05:29.000Z"
+    },
+    "_id": "69d5d574748ca16f085b0087",
+    "name": "Băng Hồ Trọng Sinh",
+    "slug": "bang-ho-trong-sinh",
+    "origin_name": "Rebirth",
+    "thumb_url": "bang-ho-trong-sinh-thumb.jpg",
+    "poster_url": "bang-ho-trong-sinh-poster-1775621506761.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T17:59:29.000Z"
+    },
+    "_id": "69f487916d4243e068f61e30",
+    "name": "Bắt Sóng Tình Duyên",
+    "slug": "bat-song-tinh-duyen",
+    "origin_name": "Rak Rak - Sense of Love",
+    "thumb_url": "bat-song-tinh-duyen-thumb.jpg",
+    "poster_url": "bat-song-tinh-duyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T17:57:42.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "87917",
+      "season": 5,
+      "vote_average": 7.738,
+      "vote_count": 901
+    },
+    "imdb": {
+      "id": "tt7772588",
+      "vote_average": 8.1,
+      "vote_count": 84321
+    },
+    "modified": {
+      "time": "2026-05-01T14:28:25.000Z"
+    },
+    "_id": "69c64b534da3bf6eb345b5c0",
+    "name": "Cuộc Chiến Không Gian (Phần 5)",
+    "slug": "cuoc-chien-khong-gianphan-5",
+    "origin_name": "For All Mankind (Season 5)",
+    "thumb_url": "cuoc-chien-khong-gianphan-5-thumb.jpg",
+    "poster_url": "cuoc-chien-khong-gianphan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202411",
+      "season": 2,
+      "vote_average": 7.705,
+      "vote_count": 1155
+    },
+    "imdb": {
+      "id": "tt17220216",
+      "vote_average": 7,
+      "vote_count": 54000
+    },
+    "modified": {
+      "time": "2026-05-01T14:28:10.000Z"
+    },
+    "_id": "69a255c81d0b515454af0815",
+    "name": "Monarch: Thế Giới Quái Thú (Phần 2)",
+    "slug": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2",
+    "origin_name": "Monarch: Legacy of Monsters (Season 2)",
+    "thumb_url": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-thumb.jpg",
+    "poster_url": "monarch-the-gioi-quai-thu-monarch-legacy-of-monsters-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241609",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 189
+    },
+    "imdb": {
+      "id": "tt30459041",
+      "vote_average": 7.7,
+      "vote_count": 47480
+    },
+    "modified": {
+      "time": "2026-05-01T14:27:36.000Z"
+    },
+    "_id": "69d74fed91cc1b96d584364e",
+    "name": "Bạn Bè & Hàng Xóm (Phần 2)",
+    "slug": "ban-be-and-hang-xom-phan-2",
+    "origin_name": "Your Friends & Neighbors (Season 2)",
+    "thumb_url": "ban-be-and-hang-xom-phan-2-thumb.jpg",
+    "poster_url": "ban-be-and-hang-xom-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290700",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T14:27:13.000Z"
+    },
+    "_id": "69e1c722f616ee3807d82950",
+    "name": "Giải Mã Trọng Án",
+    "slug": "giai-ma-trong-an",
+    "origin_name": "Case X Decoded",
+    "thumb_url": "giai-ma-trong-an-thumb.jpg",
+    "poster_url": "giai-ma-trong-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124101",
+      "season": 5,
+      "vote_average": 7.421,
+      "vote_count": 329
+    },
+    "imdb": {
+      "id": "tt11815682",
+      "vote_average": 8.2,
+      "vote_count": 60819
+    },
+    "modified": {
+      "time": "2026-05-01T14:03:54.000Z"
+    },
+    "_id": "69dba5ff15072466ace9ef7a",
+    "name": "Huyền Thoại Làng Hài (Phần 5)",
+    "slug": "huyen-thoai-lang-hai-phan-5",
+    "origin_name": "Hacks (Season 5)",
+    "thumb_url": "huyen-thoai-lang-hai-phan-5-thumb.jpg",
+    "poster_url": "huyen-thoai-lang-hai-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "235808",
+      "season": 2,
+      "vote_average": 9.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T13:42:23.000Z"
+    },
+    "_id": "699fce70f65d22d617aeecbd",
+    "name": "Tu La Võ Thần (Phần 2)",
+    "slug": "tu-la-vo-than-phan-2",
+    "origin_name": "Martial God Asura (Season 2)",
+    "thumb_url": "tu-la-vo-than-phan-2-thumb.jpg",
+    "poster_url": "tu-la-vo-than-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202297",
+      "season": 4,
+      "vote_average": 8.076,
+      "vote_count": 164
+    },
+    "imdb": {
+      "id": "tt16098700",
+      "vote_average": 7.1,
+      "vote_count": 16438
+    },
+    "modified": {
+      "time": "2026-05-01T11:58:38.000Z"
+    },
+    "_id": "693a839b8e1195b71e9271a9",
+    "name": "Vùng Đất Lửa (Phần 4)",
+    "slug": "fire-country-phan-4",
+    "origin_name": "Fire Country (Season 4)",
+    "thumb_url": "fire-country-phan-4-thumb.jpg",
+    "poster_url": "fire-country-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241948",
+      "season": 4,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30797164",
+      "vote_average": 0,
+      "vote_count": 20
+    },
+    "modified": {
+      "time": "2026-05-01T11:29:27.000Z"
+    },
+    "_id": "69f41d12db41bcecb8e6b9a5",
+    "name": "Bebefinn (Phần 4)",
+    "slug": "bebefinn-phan-4",
+    "origin_name": "Bebefinn (Season 4)",
+    "thumb_url": "bebefinn-phan-4-thumb.jpg",
+    "poster_url": "bebefinn-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241948",
+      "season": 3,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30797164",
+      "vote_average": 0,
+      "vote_count": 20
+    },
+    "modified": {
+      "time": "2026-05-01T11:29:09.000Z"
+    },
+    "_id": "69f41c6a4a74b3cede13b065",
+    "name": "Bebefinn (Phần 3)",
+    "slug": "bebefinn-phan-3",
+    "origin_name": "Bebefinn (Season 3)",
+    "thumb_url": "bebefinn-phan-3-thumb.jpg",
+    "poster_url": "bebefinn-phan-3-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241948",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30797164",
+      "vote_average": 0,
+      "vote_count": 20
+    },
+    "modified": {
+      "time": "2026-05-01T11:28:52.000Z"
+    },
+    "_id": "69f41c3cdb41bcecb8e6b8e6",
+    "name": "Bebefinn (Phần 2)",
+    "slug": "bebefinn-phan-2",
+    "origin_name": "Bebefinn (Season 2)",
+    "thumb_url": "bebefinn-phan-2-thumb.jpg",
+    "poster_url": "bebefinn-phan-2-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241948",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30797164",
+      "vote_average": 0,
+      "vote_count": 20
+    },
+    "modified": {
+      "time": "2026-05-01T11:28:34.000Z"
+    },
+    "_id": "69f41c1ff616ee3807deabc5",
+    "name": "Bebefinn (Phần 1)",
+    "slug": "bebefinn-phan-1",
+    "origin_name": "Bebefinn (Season 1)",
+    "thumb_url": "bebefinn-phan-1-thumb.jpg",
+    "poster_url": "bebefinn-phan-1-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319810",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41822140",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-01T11:27:58.000Z"
+    },
+    "_id": "69e32daa91cc1b96d587e559",
+    "name": "Lật Ngược Cuộc Đời",
+    "slug": "lat-nguoc-cuoc-doi",
+    "origin_name": "Turning Life Around",
+    "thumb_url": "lat-nguoc-cuoc-doi-thumb.jpg",
+    "poster_url": "lat-nguoc-cuoc-doi-poster.jpg",
+    "year": 2026
+  }
+]
