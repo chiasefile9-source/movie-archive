@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297640",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39010903",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T23:04:03.000Z"
+    },
+    "_id": "69ecebe9748ca16f08627461",
+    "name": "Thanh Tra Bí Mật",
+    "slug": "thanh-tra-bi-mat",
+    "origin_name": "Filing for Love",
+    "thumb_url": "thanh-tra-bi-mat-thumb.jpg",
+    "poster_url": "thanh-tra-bi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278573",
+      "season": 1,
+      "vote_average": 9.1,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt39333617",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T22:13:17.000Z"
+    },
+    "_id": "69d8f14d7e5a0662d4dd2f64",
+    "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+    "slug": "phu-nhan-dai-quan-the-ky-21",
+    "origin_name": "Perfect Crown",
+    "thumb_url": "phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+    "poster_url": "phu-nhan-dai-quan-the-ky-21-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281010",
+      "season": 1,
+      "vote_average": 7.8,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt39837101",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T22:00:03.000Z"
+    },
+    "_id": "69abb1c2f063d23bbbd03d3e",
+    "name": "Luật Sư Bóng Ma",
+    "slug": "luat-su-bong-ma",
+    "origin_name": "Phantom Lawyer",
+    "thumb_url": "luat-su-bong-ma-thumb.jpg",
+    "poster_url": "luat-su-bong-ma-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287114",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36626289",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T21:59:45.000Z"
+    },
+    "_id": "69bd06b8f65d22d617b6ceda",
+    "name": "The Water 4 Elements: Dòng Sông Mưu Mẹo",
+    "slug": "the-water-4-elements-dong-song-muu-meo",
+    "origin_name": "The Water",
+    "thumb_url": "the-water-4-elements-dong-song-muu-meo-thumb.jpg",
+    "poster_url": "the-water-4-elements-dong-song-muu-meo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306640",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39048555",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T21:45:43.000Z"
+    },
+    "_id": "69f60e1391cc1b96d58e5b60",
+    "name": "Những Bông Hoa Ác",
+    "slug": "nhung-bong-hoa-ac",
+    "origin_name": "The Flowers of Evil",
+    "thumb_url": "nhung-bong-hoa-ac-thumb.jpg",
+    "poster_url": "nhung-bong-hoa-ac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T21:06:27.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "273129",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32740239",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T21:06:04.000Z"
+    },
+    "_id": "690d76b10227bea8ed75feec",
+    "name": "Tình Yêu Không Có Cổ Tích",
+    "slug": "爱情没有神话",
+    "origin_name": "Lady Liberty",
+    "thumb_url": "爱情没有神话-thumb-1777438872628.jpg",
+    "poster_url": "爱情没有神话-poster-1777438873773.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T21:05:51.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "91801",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 285
+    },
+    "imdb": {
+      "id": "tt11034066",
+      "vote_average": 7.6,
+      "vote_count": 3317
+    },
+    "modified": {
+      "time": "2026-05-02T18:52:59.000Z"
+    },
+    "_id": "69d1d78e32adc86a1e86e515",
+    "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
+    "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
+    "origin_name": "Welcome to Demon School! Iruma-kun (Season 4)",
+    "thumb_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-thumb.jpg",
+    "poster_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T18:52:33.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "253391",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt32268630",
+      "vote_average": 6.6,
+      "vote_count": 2842
+    },
+    "modified": {
+      "time": "2026-05-02T17:03:09.000Z"
+    },
+    "_id": "694b47ecb06c99c722eaa29f",
+    "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
+    "slug": "canh-sat-truong-vung-que-phan-1",
+    "origin_name": "Sheriff Country",
+    "thumb_url": "canh-sat-truong-vung-que-phan-1-thumb.jpg",
+    "poster_url": "canh-sat-truong-vung-que-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1368535",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt33830021",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T16:28:11.000Z"
+    },
+    "_id": "69119d68b963c11102995e92",
+    "name": "Năm Của Anh, Ngày Của Em",
+    "slug": "nam-cua-anh-ngay-cua-em",
+    "origin_name": "Measure in Love",
+    "thumb_url": "nam-cua-anh-ngay-cua-em-thumb.jpg",
+    "poster_url": "nam-cua-anh-ngay-cua-em-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1632933",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T13:11:53.000Z"
+    },
+    "_id": "69f593f2b3a3583bbbb654d2",
+    "name": "Nhà Mình Đi Thôi",
+    "slug": "nha-minh-di-thoi",
+    "origin_name": "Tripping With My Family",
+    "thumb_url": "nha-minh-di-thoi-thumb.jpg",
+    "poster_url": "nha-minh-di-thoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1491902",
+      "season": null,
+      "vote_average": 6.6,
+      "vote_count": 75
+    },
+    "imdb": {
+      "id": "tt29538620",
+      "vote_average": 4.5,
+      "vote_count": 433
+    },
+    "modified": {
+      "time": "2026-05-02T13:07:27.000Z"
+    },
+    "_id": "69f5949fcec790794bfc6f85",
+    "name": "Phát Súng Cuối Cùng",
+    "slug": "phat-sung-cuoi-cung-2026",
+    "origin_name": "Bang",
+    "thumb_url": "phat-sung-cuoi-cung-2026-thumb.jpg",
+    "poster_url": "phat-sung-cuoi-cung-2026-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1383731",
+      "season": null,
+      "vote_average": 6.476,
+      "vote_count": 42
+    },
+    "imdb": {
+      "id": "tt34471850",
+      "vote_average": 5.3,
+      "vote_count": 807
+    },
+    "modified": {
+      "time": "2026-05-02T11:43:59.000Z"
+    },
+    "_id": "69f32aa2006591e1081baaa0",
+    "name": "Người bảo vệ",
+    "slug": "nguoi-bao-ve-2026",
+    "origin_name": "Protector",
+    "thumb_url": "nguoi-bao-ve-2026-thumb.jpg",
+    "poster_url": "nguoi-bao-ve-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297730",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T11:32:49.000Z"
+    },
+    "_id": "69eae7a46d4243e068f32044",
+    "name": "DREAM STAGE",
+    "slug": "dream-stage",
+    "origin_name": "DREAM STAGE",
+    "thumb_url": "dream-stage-thumb.jpg",
+    "poster_url": "dream-stage-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283158",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40659363",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T11:17:16.000Z"
+    },
+    "_id": "69f18f5d41d6bb2c31596c88",
+    "name": "Nhân Gian Kinh Hồng Khách",
+    "slug": "nhan-gian-kinh-hong-khach",
+    "origin_name": "A Lover in the Mortal World",
+    "thumb_url": "nhan-gian-kinh-hong-khach-thumb.jpg",
+    "poster_url": "nhan-gian-kinh-hong-khach-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "220850",
+      "season": 1,
+      "vote_average": 8.6,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt28210907",
+      "vote_average": 8.6,
+      "vote_count": 124
+    },
+    "modified": {
+      "time": "2026-05-02T11:16:32.000Z"
+    },
+    "_id": "69042d90b234f5d94935f1ca",
+    "name": "Luyện Khí Mười Vạn Năm",
+    "slug": "luyen-khi-muoi-van-nam",
+    "origin_name": "One Hundred Thousand Years of Qi Refining",
+    "thumb_url": "luyen-khi-muoi-van-nam-thumb.jpg",
+    "poster_url": "luyen-khi-muoi-van-nam-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319810",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41822140",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T11:15:54.000Z"
+    },
+    "_id": "69e32daa91cc1b96d587e559",
+    "name": "Lật Ngược Cuộc Đời",
+    "slug": "lat-nguoc-cuoc-doi",
+    "origin_name": "Turning Life Around",
+    "thumb_url": "lat-nguoc-cuoc-doi-thumb.jpg",
+    "poster_url": "lat-nguoc-cuoc-doi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318840",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T11:15:41.000Z"
+    },
+    "_id": "69e84a9d006591e10818674d",
+    "name": "Có Một Lá Thư Gửi Từ Thành Phố Cảng",
+    "slug": "co-mot-la-thu-gui-tu-thanh-pho-cang",
+    "origin_name": "Echoes of Gang City",
+    "thumb_url": "co-mot-la-thu-gui-tu-thanh-pho-cang-thumb.jpg",
+    "poster_url": "co-mot-la-thu-gui-tu-thanh-pho-cang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316390",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40609424",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T11:15:28.000Z"
+    },
+    "_id": "69ed94ca748ca16f08629e99",
+    "name": "Pháo Hoa",
+    "slug": "phao-hoa",
+    "origin_name": "Fireworks",
+    "thumb_url": "phao-hoa-thumb.jpg",
+    "poster_url": "phao-hoa-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "294462",
+      "season": 2,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T11:13:49.000Z"
+    },
+    "_id": "69f18f8316bc1b4174f8e13b",
+    "name": "Rể Hiền (Phần 2)",
+    "slug": "re-hien-phan-2",
+    "origin_name": "Royal Upstart (Season 2)",
+    "thumb_url": "re-hien-phan-2-thumb.jpg",
+    "poster_url": "re-hien-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "285415",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40966716",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-02T11:13:30.000Z"
+    },
+    "_id": "69eee2d391cc1b96d58be177",
+    "name": "Mê Hoặc",
+    "slug": "me-hoac",
+    "origin_name": "Fascination",
+    "thumb_url": "me-hoac-thumb.jpg",
+    "poster_url": "me-hoac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "545339",
+      "season": null,
+      "vote_average": 7,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt0311411",
+      "vote_average": 3.8,
+      "vote_count": 452
+    },
+    "modified": {
+      "time": "2026-05-02T11:09:47.000Z"
+    },
+    "_id": "69f57908f616ee3807df3607",
+    "name": "Cuộc cách mạng",
+    "slug": "cuoc-cach-mangg",
+    "origin_name": "Kranti",
+    "thumb_url": "cuoc-cach-mangg-thumb.jpg",
+    "poster_url": "cuoc-cach-mangg-poster.jpg",
+    "year": 2002
+  }
+]
