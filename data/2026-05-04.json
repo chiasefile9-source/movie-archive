@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274556",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 20
+    },
+    "imdb": {
+      "id": "tt34063491",
+      "vote_average": 7.1,
+      "vote_count": 2560
+    },
+    "modified": {
+      "time": "2026-05-03T23:30:11.000Z"
+    },
+    "_id": "68dcc5953e261817af05a0df",
+    "name": "Thành Phố Xa Xôi",
+    "slug": "thanh-pho-xa-xoi",
+    "origin_name": "Far Away",
+    "thumb_url": "thanh-pho-xa-xoi-thumb.jpg",
+    "poster_url": "thanh-pho-xa-xoi-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-03T22:56:41.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-03T22:54:00.000Z"
+    },
+    "_id": "69f487916d4243e068f61e30",
+    "name": "Bắt Sóng Tình Duyên",
+    "slug": "bat-song-tinh-duyen",
+    "origin_name": "Rak Rak - Sense of Love",
+    "thumb_url": "bat-song-tinh-duyen-thumb.jpg",
+    "poster_url": "bat-song-tinh-duyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297640",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39010903",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-03T22:50:42.000Z"
+    },
+    "_id": "69ecebe9748ca16f08627461",
+    "name": "Thanh Tra Bí Mật",
+    "slug": "thanh-tra-bi-mat",
+    "origin_name": "Filing for Love",
+    "thumb_url": "thanh-tra-bi-mat-thumb.jpg",
+    "poster_url": "thanh-tra-bi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "273129",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32740239",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-03T22:49:47.000Z"
+    },
+    "_id": "690d76b10227bea8ed75feec",
+    "name": "Tình Yêu Không Có Cổ Tích",
+    "slug": "爱情没有神话",
+    "origin_name": "Lady Liberty",
+    "thumb_url": "爱情没有神话-thumb-1777438872628.jpg",
+    "poster_url": "爱情没有神话-poster-1777438873773.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-03T22:49:24.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258932",
+      "season": 3,
+      "vote_average": 7.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-03T22:46:59.000Z"
+    },
+    "_id": "69e3398b31aa2678f8c99a1b",
+    "name": "Hương Vị Của Biển (Phần 3)",
+    "slug": "huong-vi-cua-bien-phan-3",
+    "origin_name": "Fresh off the Sea (Season 3)",
+    "thumb_url": "huong-vi-cua-bien-phan-3-thumb.jpg",
+    "poster_url": "huong-vi-cua-bien-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254498",
+      "season": 1,
+      "vote_average": 8.667,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt31701210",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-03T22:46:38.000Z"
+    },
+    "_id": "69f1e00d377c8aaad5478701",
+    "name": "Hắc Dạ Cáo Bạch",
+    "slug": "hac-da-cao-bach",
+    "origin_name": "Light to the Night",
+    "thumb_url": "hac-da-cao-bach-thumb.jpg",
+    "poster_url": "hac-da-cao-bach-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124364",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 2553
+    },
+    "imdb": {
+      "id": "tt9813792",
+      "vote_average": 7.8,
+      "vote_count": 173600
+    },
+    "modified": {
+      "time": "2026-05-03T21:31:11.000Z"
+    },
+    "_id": "69e4fb962b874d6bfb6bbee5",
+    "name": "Thị Trấn Ác Mộng (Phần 4)",
+    "slug": "thi-tran-ac-mong-phan-4",
+    "origin_name": "FROM (Season 4)",
+    "thumb_url": "thi-tran-ac-mong-phan-4-thumb.jpg",
+    "poster_url": "thi-tran-ac-mong-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "204247",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt10536868",
+      "vote_average": 0,
+      "vote_count": 27
+    },
+    "modified": {
+      "time": "2026-05-03T20:41:17.000Z"
+    },
+    "_id": "69f6ca92377c8aaad54953c6",
+    "name": "Angry Birds: Vũ Trụ Sáng Tạo (Phần 1)",
+    "slug": "angry-birds-makerspace-phan-1",
+    "origin_name": "Angry Birds MakerSpace (Season 1)",
+    "thumb_url": "angry-birds-makerspace-phan-1-thumb.jpg",
+    "poster_url": "angry-birds-makerspace-phan-1-poster.jpg",
+    "year": 2019
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "204247",
+      "season": 2,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt10536868",
+      "vote_average": 5.6,
+      "vote_count": 27
+    },
+    "modified": {
+      "time": "2026-05-03T20:40:52.000Z"
+    },
+    "_id": "69f6cae0748ca16f0865b03a",
+    "name": "Angry Birds: Vũ Trụ Sáng Tạo (Phần 2)",
+    "slug": "angry-birds-vu-tru-sang-tao-phan-2",
+    "origin_name": "Angry Birds Makerspace (Season 2)",
+    "thumb_url": "angry-birds-vu-tru-sang-tao-phan-2-thumb.jpg",
+    "poster_url": "angry-birds-vu-tru-sang-tao-phan-2-poster.jpg",
+    "year": 2019
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "204247",
+      "season": 3,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt10536868",
+      "vote_average": 5.6,
+      "vote_count": 27
+    },
+    "modified": {
+      "time": "2026-05-03T20:40:27.000Z"
+    },
+    "_id": "69f6cc22b3a3583bbbb6b74a",
+    "name": "Angry Birds: Vũ Trụ Sáng Tạo (Phần 3)",
+    "slug": "angry-birds-vu-tru-sang-tao-phan-3",
+    "origin_name": "Angry Birds Makerspace (Season 3)",
+    "thumb_url": "angry-birds-vu-tru-sang-tao-phan-3-thumb.jpg",
+    "poster_url": "angry-birds-vu-tru-sang-tao-phan-3-poster.jpg",
+    "year": 2019
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "2322",
+      "season": null,
+      "vote_average": 6.915,
+      "vote_count": 1047
+    },
+    "imdb": {
+      "id": "tt0105435",
+      "vote_average": 7.1,
+      "vote_count": 67631
+    },
+    "modified": {
+      "time": "2026-05-03T20:39:41.000Z"
+    },
+    "_id": "69f6c943748ca16f0865af6a",
+    "name": "Những Kẻ Đột Nhập",
+    "slug": "nhung-ke-dot-nhap",
+    "origin_name": "Sneakers",
+    "thumb_url": "nhung-ke-dot-nhap-thumb.jpg",
+    "poster_url": "nhung-ke-dot-nhap-poster.jpg",
+    "year": 1992
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "245842",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 97
+    },
+    "imdb": {
+      "id": "tt31889371",
+      "vote_average": 7.5,
+      "vote_count": 3554
+    },
+    "modified": {
+      "time": "2026-05-03T17:57:44.000Z"
+    },
+    "_id": "69dbac0741d6bb2c315221e7",
+    "name": "Wistoria: Trượng và Kiếm (Phần 2)",
+    "slug": "wistoria-truong-va-kiem-phan-2",
+    "origin_name": "Wistoria: Wand and Sword (Season 2)",
+    "thumb_url": "wistoria-truong-va-kiem-phan-2-thumb.jpg",
+    "poster_url": "wistoria-truong-va-kiem-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1493859",
+      "season": null,
+      "vote_average": 6.382,
+      "vote_count": 93
+    },
+    "imdb": {
+      "id": "tt37209937",
+      "vote_average": 5.8,
+      "vote_count": 5788
+    },
+    "modified": {
+      "time": "2026-05-03T17:55:32.000Z"
+    },
+    "_id": "69f7299db3a3583bbbb6d6fa",
+    "name": "Pizza Phê Pha",
+    "slug": "pizza-phe-pha",
+    "origin_name": "Pizza Movie",
+    "thumb_url": "pizza-phe-pha-thumb.jpg",
+    "poster_url": "pizza-phe-pha-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-03T17:43:09.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1464533",
+      "season": null,
+      "vote_average": 8.438,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt38525288",
+      "vote_average": 0,
+      "vote_count": 157
+    },
+    "modified": {
+      "time": "2026-05-03T17:42:57.000Z"
+    },
+    "_id": "69f726b1da7d8940686450f2",
+    "name": "Bộc Đạn",
+    "slug": "boc-dan",
+    "origin_name": "Suzuki=Bakudan",
+    "thumb_url": "boc-dan-thumb.jpg",
+    "poster_url": "boc-dan-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258842",
+      "season": 1,
+      "vote_average": 7.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt32974250",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-03T17:41:19.000Z"
+    },
+    "_id": "69f7264f006591e1081d1d83",
+    "name": "Kinh Doanh Táo Bạo",
+    "slug": "kinh-doanh-tao-bao",
+    "origin_name": "Naughty Business",
+    "thumb_url": "kinh-doanh-tao-bao-thumb.jpg",
+    "poster_url": "kinh-doanh-tao-bao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "298026",
+      "season": 1,
+      "vote_average": 8.1,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt40370555",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-03T17:38:41.000Z"
+    },
+    "_id": "69f725b14a74b3cede14c6df",
+    "name": "Hoàng Tử Lưu Đày",
+    "slug": "hoang-tu-luu-day",
+    "origin_name": "Release that Witch",
+    "thumb_url": "hoang-tu-luu-day-thumb.jpg",
+    "poster_url": "hoang-tu-luu-day-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "110181",
+      "season": 1,
+      "vote_average": 7.6,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt20769560",
+      "vote_average": 0,
+      "vote_count": 131
+    },
+    "modified": {
+      "time": "2026-05-03T11:40:04.000Z"
+    },
+    "_id": "68e4bc4d69d7b4696cc59469",
+    "name": "Võ Thần Chúa Tể",
+    "slug": "vo-than-chua-te",
+    "origin_name": "Martial Master",
+    "thumb_url": "vo-than-chua-te-thumb.jpg",
+    "poster_url": "vo-than-chua-te-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "198182",
+      "season": 1,
+      "vote_average": 8.8,
+      "vote_count": 28
+    },
+    "imdb": {
+      "id": "tt19902148",
+      "vote_average": 7,
+      "vote_count": 1273
+    },
+    "modified": {
+      "time": "2026-05-03T11:39:42.000Z"
+    },
+    "_id": "62a1a4ae7a956fb5db030134",
+    "name": "Thần Ấn Vương Toạ",
+    "origin_name": "Throne of Seal",
+    "thumb_url": "than-an-vuong-toa-thumb.jpg",
+    "poster_url": "than-an-vuong-toa-poster.jpg",
+    "slug": "than-an-vuong-toa",
+    "year": 2022
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "79481",
+      "season": 5,
+      "vote_average": 8.2,
+      "vote_count": 57
+    },
+    "imdb": {
+      "id": "tt12409194",
+      "vote_average": 8.7,
+      "vote_count": 2938
+    },
+    "modified": {
+      "time": "2026-05-03T11:39:14.000Z"
+    },
+    "_id": "644f757ed95ac616c32b8c56",
+    "name": "Đấu Phá Thương Khung Ngoại Truyện",
+    "slug": "dau-pha-thuong-khung-ngoai-truyen",
+    "origin_name": "Fights Break Sphere S5",
+    "thumb_url": "dau-pha-thuong-khung-ngoai-truyen-thumb.jpg",
+    "poster_url": "dau-pha-thuong-khung-ngoai-truyen-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "228429",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt28022382",
+      "vote_average": 8.1,
+      "vote_count": 432
+    },
+    "modified": {
+      "time": "2026-05-03T11:38:45.000Z"
+    },
+    "_id": "6496778689254768d75ee8e3",
+    "name": "Đấu La Đại Lục 2: Tuyệt Thế Đường Môn",
+    "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
+    "origin_name": "Soul Land 2: The Peerless Tang Clan",
+    "thumb_url": "dau-la-dai-luc-2-tuyet-the-duong-mon-thumb.jpg",
+    "poster_url": "dau-la-dai-luc-2-tuyet-the-duong-mon-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "256783",
+      "season": 2,
+      "vote_average": 8.9,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt32881130",
+      "vote_average": 0,
+      "vote_count": 46
+    },
+    "modified": {
+      "time": "2026-05-03T11:38:17.000Z"
+    },
+    "_id": "6975c133400bf394bd82ba12",
+    "name": "Còn Ra Thể Thống Gì Nữa? (Phần 2)",
+    "slug": "con-ra-the-thong-gi-nua-phan-2",
+    "origin_name": "How Dare You!? (Season 2)",
+    "thumb_url": "con-ra-the-thong-gi-nua-phan-2-thumb.jpg",
+    "poster_url": "con-ra-the-thong-gi-nua-phan-2-poster.jpg",
+    "year": 2026
+  }
+]
