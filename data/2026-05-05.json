@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T00:18:55.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289219",
+      "season": 1,
+      "vote_average": 7.613,
+      "vote_count": 40
+    },
+    "imdb": {
+      "id": "tt36594331",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T21:42:42.000Z"
+    },
+    "_id": "69da18d7db41bcecb8de0412",
+    "name": "Cuộc Chiến Ngân Hà: Maul - Chúa Tể Bóng Tối (Phần 1)",
+    "slug": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi",
+    "origin_name": "Star Wars: Maul - Shadow Lord",
+    "thumb_url": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi-thumb.jpg",
+    "poster_url": "cuoc-chien-ngan-ha-maul-chua-te-bong-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "433681",
+      "season": null,
+      "vote_average": 7.1,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt6398190",
+      "vote_average": 5.8,
+      "vote_count": 88
+    },
+    "modified": {
+      "time": "2026-05-04T21:00:19.000Z"
+    },
+    "_id": "69f89dbaf616ee3807e064c0",
+    "name": "Chuyện Tình Rừng Xanh",
+    "slug": "chuyen-tinh-rung-xanh",
+    "origin_name": "Romancing The Jungle",
+    "thumb_url": "chuyen-tinh-rung-xanh-thumb.jpg",
+    "poster_url": "",
+    "year": 2017
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "11283",
+      "season": null,
+      "vote_average": 6.688,
+      "vote_count": 3210
+    },
+    "imdb": {
+      "id": "tt0396752",
+      "vote_average": 6.6,
+      "vote_count": 90583
+    },
+    "modified": {
+      "time": "2026-05-04T20:58:57.000Z"
+    },
+    "_id": "69f89f8c2b874d6bfb7235dc",
+    "name": "Bảo Mẫu Phù Thủy",
+    "slug": "bao-mau-phu-thuy",
+    "origin_name": "Nanny McPhee",
+    "thumb_url": "bao-mau-phu-thuy-thumb.jpg",
+    "poster_url": "bao-mau-phu-thuy-poster.jpg",
+    "year": 2005
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1386531",
+      "season": null,
+      "vote_average": 3.7,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt34006483",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T20:48:45.000Z"
+    },
+    "_id": "69f89f36006591e1081dbe53",
+    "name": "Tiếng Chuông Tình Yêu",
+    "slug": "tieng-chuong-tinh-yeu",
+    "origin_name": "Jingle All the Way to Love",
+    "thumb_url": "tieng-chuong-tinh-yeu-thumb.jpg",
+    "poster_url": "tieng-chuong-tinh-yeu-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "273129",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32740239",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T20:27:13.000Z"
+    },
+    "_id": "690d76b10227bea8ed75feec",
+    "name": "Tình Yêu Không Có Cổ Tích",
+    "slug": "爱情没有神话",
+    "origin_name": "Lady Liberty",
+    "thumb_url": "爱情没有神话-thumb-1777438872628.jpg",
+    "poster_url": "爱情没有神话-poster-1777438873773.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "128995",
+      "season": 3,
+      "vote_average": 7.8,
+      "vote_count": 59
+    },
+    "imdb": {
+      "id": "tt14596630",
+      "vote_average": 8.1,
+      "vote_count": 2836
+    },
+    "modified": {
+      "time": "2026-05-04T19:35:55.000Z"
+    },
+    "_id": "69bd063ef063d23bbbd48d45",
+    "name": "Các Tế Bào Của Yumi (Phần 3)",
+    "slug": "cac-te-bao-cua-yumi-phan-3",
+    "origin_name": "Yumi's Cells (Season 3)",
+    "thumb_url": "cac-te-bao-cua-yumi-phan-3-thumb.jpg",
+    "poster_url": "cac-te-bao-cua-yumi-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272432",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32592348",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T17:38:42.000Z"
+    },
+    "_id": "69f86f7f15072466acf3cfc2",
+    "name": "Tội Phạm IQ Thấp",
+    "slug": "toi-pham-iq-thap",
+    "origin_name": "Born with Luck",
+    "thumb_url": "toi-pham-iq-thap-thumb.jpg",
+    "poster_url": "toi-pham-iq-thap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T17:38:23.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T17:12:32.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290856",
+      "season": 1,
+      "vote_average": 7.076,
+      "vote_count": 119
+    },
+    "imdb": {
+      "id": "tt36849871",
+      "vote_average": 6,
+      "vote_count": 7720
+    },
+    "modified": {
+      "time": "2026-05-04T17:07:22.000Z"
+    },
+    "_id": "69aa268c400bf394bd8ea526",
+    "name": "Lực Lượng Marshals",
+    "slug": "marshals",
+    "origin_name": "Marshals",
+    "thumb_url": "marshals-thumb.jpg",
+    "poster_url": "marshals-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311858",
+      "season": 1,
+      "vote_average": 6.6,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt34273502",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T17:01:10.000Z"
+    },
+    "_id": "69f8560b93c48ff6bff1cbd7",
+    "name": "Tù Nhân",
+    "slug": "tu-nhan-2026",
+    "origin_name": "Prisoner",
+    "thumb_url": "tu-nhan-2026-thumb.jpg",
+    "poster_url": "tu-nhan-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1999",
+      "season": 3,
+      "vote_average": 7.3,
+      "vote_count": 63
+    },
+    "imdb": {
+      "id": "tt0434672",
+      "vote_average": 8.1,
+      "vote_count": 8207
+    },
+    "modified": {
+      "time": "2026-05-04T17:00:45.000Z"
+    },
+    "_id": "69cde89b32adc86a1e8601a7",
+    "name": "The Comeback (Phần 3)",
+    "slug": "the-comeback-phan-3",
+    "origin_name": "The Comeback (Season 3)",
+    "thumb_url": "the-comeback-phan-3-thumb.jpg",
+    "poster_url": "the-comeback-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1239198",
+      "season": null,
+      "vote_average": 5.25,
+      "vote_count": 14
+    },
+    "imdb": {
+      "id": "tt31116965",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T15:59:19.000Z"
+    },
+    "_id": "69f85fe7b3a3583bbbb748c8",
+    "name": "Señorita yêu dấu của tôi",
+    "slug": "senorita-yeu-dau-cua-toi",
+    "origin_name": "My Dearest Señorita",
+    "thumb_url": "senorita-yeu-dau-cua-toi-thumb.jpg",
+    "poster_url": "senorita-yeu-dau-cua-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1418297",
+      "season": null,
+      "vote_average": 5.2,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39064608",
+      "vote_average": 6.3,
+      "vote_count": 39
+    },
+    "modified": {
+      "time": "2026-05-04T15:18:13.000Z"
+    },
+    "_id": "69e0687e4a74b3cede0cc7f2",
+    "name": "Phi Vụ Cuối Cùng",
+    "slug": "phi-vu-cuoi-cungg",
+    "origin_name": "The Last Shot",
+    "thumb_url": "phi-vu-cuoi-cungg-thumb.jpg",
+    "poster_url": "phi-vu-cuoi-cungg-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1547056",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38590754",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T15:17:49.000Z"
+    },
+    "_id": "69f83fd116bc1b4174fb542c",
+    "name": "The Last Beergin",
+    "slug": "the-last-beergin",
+    "origin_name": "The Last Beergin",
+    "thumb_url": "the-last-beergin-thumb.jpg",
+    "poster_url": "the-last-beergin-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "390930",
+      "season": null,
+      "vote_average": 6.8,
+      "vote_count": 70
+    },
+    "imdb": {
+      "id": "tt4042994",
+      "vote_average": 6.8,
+      "vote_count": 3020
+    },
+    "modified": {
+      "time": "2026-05-04T15:00:56.000Z"
+    },
+    "_id": "69f8523416bc1b4174fb5cce",
+    "name": "If Cats Disappeared from the World",
+    "slug": "if-cats-disappeared-from-the-world",
+    "origin_name": "If Cats Disappeared from the World",
+    "thumb_url": "if-cats-disappeared-from-the-world-thumb.jpg",
+    "poster_url": "if-cats-disappeared-from-the-world-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "66171",
+      "season": null,
+      "vote_average": 5.95,
+      "vote_count": 20
+    },
+    "imdb": {
+      "id": "tt0084256",
+      "vote_average": 5.9,
+      "vote_count": 383
+    },
+    "modified": {
+      "time": "2026-05-04T14:59:03.000Z"
+    },
+    "_id": "69f851c516bc1b4174fb5c67",
+    "name": "Dương Quá Và Tiểu Long Nữ",
+    "slug": "duong-qua-va-tieu-long-nu",
+    "origin_name": "Little Dragon Maiden",
+    "thumb_url": "duong-qua-va-tieu-long-nu-thumb.jpg",
+    "poster_url": "duong-qua-va-tieu-long-nu-poster.jpg",
+    "year": 1983
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1199869",
+      "season": null,
+      "vote_average": 5.644,
+      "vote_count": 45
+    },
+    "imdb": {
+      "id": "tt28088571",
+      "vote_average": 4.9,
+      "vote_count": 813
+    },
+    "modified": {
+      "time": "2026-05-04T14:54:39.000Z"
+    },
+    "_id": "69f850bb15072466acf3c499",
+    "name": "Eye for an Eye",
+    "slug": "eye-for-an-eye",
+    "origin_name": "Eye for an Eye",
+    "thumb_url": "eye-for-an-eye-thumb.jpg",
+    "poster_url": "eye-for-an-eye-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1284460",
+      "season": null,
+      "vote_average": 6.4,
+      "vote_count": 110
+    },
+    "imdb": {
+      "id": "tt32275943",
+      "vote_average": 5.9,
+      "vote_count": 3558
+    },
+    "modified": {
+      "time": "2026-05-04T14:51:22.000Z"
+    },
+    "_id": "69f84ff5cec790794bfd5c5c",
+    "name": "Alpha",
+    "slug": "alpha",
+    "origin_name": "Alpha",
+    "thumb_url": "alpha-thumb.jpg",
+    "poster_url": "alpha-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1648678",
+      "season": null,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40233113",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T14:43:20.000Z"
+    },
+    "_id": "69f181dda54286c41bab0cd9",
+    "name": "Orangutan",
+    "slug": "orangutan",
+    "origin_name": "Orangutan",
+    "thumb_url": "orangutan-thumb.jpg",
+    "poster_url": "orangutan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1613798",
+      "season": null,
+      "vote_average": 7.042,
+      "vote_count": 96
+    },
+    "imdb": {
+      "id": "tt37989803",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T14:42:52.000Z"
+    },
+    "_id": "69f17e9cb692c7b208d6ff93",
+    "name": "Venganza",
+    "slug": "venganza",
+    "origin_name": "Vengeance",
+    "thumb_url": "venganza-thumb.jpg",
+    "poster_url": "venganza-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "85552",
+      "season": 3,
+      "vote_average": 8.282,
+      "vote_count": 10402
+    },
+    "imdb": {
+      "id": "tt8772296",
+      "vote_average": 8.2,
+      "vote_count": 297928
+    },
+    "modified": {
+      "time": "2026-05-04T14:28:03.000Z"
+    },
+    "_id": "69df1bc8006591e10814bd8c",
+    "name": "Lâng Lâng (Phần 3)",
+    "slug": "lang-lang-phan-3",
+    "origin_name": "Euphoria (Season 3)",
+    "thumb_url": "lang-lang-phan-3-thumb.jpg",
+    "poster_url": "lang-lang-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259819",
+      "season": 1,
+      "vote_average": 8.593,
+      "vote_count": 27
+    },
+    "imdb": {
+      "id": "tt33086804",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-04T14:27:20.000Z"
+    },
+    "_id": "69b8cad6b06c99c722fdbb43",
+    "name": "Cự Kê Chiến Ký",
+    "slug": "cu-ke-chien-ky",
+    "origin_name": "Rooster Fighter",
+    "thumb_url": "cu-ke-chien-ky-thumb.jpg",
+    "poster_url": "cu-ke-chien-ky-poster.jpg",
+    "year": 2026
+  }
+]
