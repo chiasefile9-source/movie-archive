@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "307602",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39375564",
+      "vote_average": 4.5,
+      "vote_count": 19
+    },
+    "modified": {
+      "time": "2026-05-06T00:13:59.000Z"
+    },
+    "_id": "69bc1529ccc6cea268841d51",
+    "name": "Công Thức Tình Yêu",
+    "slug": "cong-thuc-tinh-yeu",
+    "origin_name": "Recipe For Love",
+    "thumb_url": "cong-thuc-tinh-yeu-thumb.jpg",
+    "poster_url": "cong-thuc-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313735",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40529758",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T00:13:27.000Z"
+    },
+    "_id": "69f9f093b692c7b208da50df",
+    "name": "Những Ngày Hạnh Phúc Của Chúng Ta",
+    "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+    "origin_name": "Our Happy Days",
+    "thumb_url": "nhung-ngay-hanh-phuc-cua-chung-ta-thumb.jpg",
+    "poster_url": "nhung-ngay-hanh-phuc-cua-chung-ta-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289560",
+      "season": 1,
+      "vote_average": 8.1,
+      "vote_count": 39
+    },
+    "imdb": {
+      "id": "tt35515227",
+      "vote_average": 0,
+      "vote_count": 24
+    },
+    "modified": {
+      "time": "2026-05-05T23:48:08.000Z"
+    },
+    "_id": "69f09c434a74b3cede1263a3",
+    "name": "CIA (Phần 1)",
+    "slug": "cia-phan-1",
+    "origin_name": "CIA",
+    "thumb_url": "cia-phan-1-thumb.jpg",
+    "poster_url": "cia-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "301944",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt39122769",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T23:30:27.000Z"
+    },
+    "_id": "69d5dfb315072466ace88b55",
+    "name": "Mai Mối Cho Độc Sư",
+    "slug": "mai-moi-cho-doc-su",
+    "origin_name": "Marriage Toxin",
+    "thumb_url": "mai-moi-cho-doc-su-thumb.jpg",
+    "poster_url": "mai-moi-cho-doc-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292121",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39245629",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T23:29:20.000Z"
+    },
+    "_id": "69e5dda82b874d6bfb6c1986",
+    "name": "Bù Nhìn Bóng Đêm",
+    "slug": "bu-nhin-bong-dem",
+    "origin_name": "The Scarecrow",
+    "thumb_url": "bu-nhin-bong-dem-thumb.jpg",
+    "poster_url": "bu-nhin-bong-dem-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T23:25:25.000Z"
+    },
+    "_id": "69f9646ae53e6a47ad63d170",
+    "name": "Nhịp Điệu Thù Hận",
+    "slug": "nhip-dieu-thu-han",
+    "origin_name": "The Rhythm of Revenge",
+    "thumb_url": "nhip-dieu-thu-han-thumb.jpg",
+    "poster_url": "nhip-dieu-thu-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "213326",
+      "season": 2,
+      "vote_average": 8.1,
+      "vote_count": 58
+    },
+    "imdb": {
+      "id": "tt23132598",
+      "vote_average": 6.4,
+      "vote_count": 612
+    },
+    "modified": {
+      "time": "2026-05-05T23:06:20.000Z"
+    },
+    "_id": "69e493fc4e2efe728847d230",
+    "name": "Nữ Vương Trùm Cuối Tàn Độc Căn Nguyên Của Mọi Thảm Kịch Sẽ Dốc Sức Vì Người Dân (Phần 2)",
+    "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
+    "origin_name": "The Most Heretical Last Boss Queen: From Villainess to Savior (Season 2)",
+    "thumb_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-thumb.jpg",
+    "poster_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1325734",
+      "season": null,
+      "vote_average": 7.036,
+      "vote_count": 418
+    },
+    "imdb": {
+      "id": "tt33071426",
+      "vote_average": 7.5,
+      "vote_count": 26572
+    },
+    "modified": {
+      "time": "2026-05-05T22:32:20.000Z"
+    },
+    "_id": "69e06575377c8aaad54172f8",
+    "name": "Cú Sốc",
+    "slug": "cu-soc",
+    "origin_name": "The Drama",
+    "thumb_url": "cu-soc-thumb.jpg",
+    "poster_url": "cu-soc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "293697",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39122671",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T21:58:42.000Z"
+    },
+    "_id": "69df6411377c8aaad5412ad8",
+    "name": "Tôi muốn chấm dứt trò chơi tình yêu này",
+    "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
+    "origin_name": "I Want to End This Love Game",
+    "thumb_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-thumb.jpg",
+    "poster_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319339",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T21:52:40.000Z"
+    },
+    "_id": "69f212dddb41bcecb8e5f5de",
+    "name": "6 Người Ế Ở Chung Nhà",
+    "slug": "6-nguoi-e-o-chung-nha",
+    "origin_name": "Six Singles Under One Roof",
+    "thumb_url": "6-nguoi-e-o-chung-nha-thumb.jpg",
+    "poster_url": "6-nguoi-e-o-chung-nha-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321492",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T20:57:18.000Z"
+    },
+    "_id": "69f9f73a006591e1081e5a12",
+    "name": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+    "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+    "origin_name": "Unplanned Trip: Limited Edition",
+    "thumb_url": "chuyen-di-ngau-hung-ban-gioi-han-thumb.jpg",
+    "poster_url": "chuyen-di-ngau-hung-ban-gioi-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "73036",
+      "season": 2,
+      "vote_average": 8.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt4546444",
+      "vote_average": 8.2,
+      "vote_count": 38
+    },
+    "modified": {
+      "time": "2026-05-05T20:55:13.000Z"
+    },
+    "_id": "69eb8aff482e09b42827280a",
+    "name": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
+    "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
+    "origin_name": "Chef & My Fridge (Season 2)",
+    "thumb_url": "cham-soc-tu-lanh-cua-toi-nhe-phan-2-thumb.jpg",
+    "poster_url": "cham-soc-tu-lanh-cua-toi-nhe-phan-2-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281231",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35288198",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T20:42:23.000Z"
+    },
+    "_id": "69ddbf5f748ca16f085d0742",
+    "name": "Mật Ngữ Kỷ",
+    "slug": "mat-ngu-ky",
+    "origin_name": "The Epoch of Miyu",
+    "thumb_url": "mat-ngu-ky-thumb.jpg",
+    "poster_url": "mat-ngu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "21762",
+      "season": 3,
+      "vote_average": 7.5,
+      "vote_count": 172
+    },
+    "imdb": {
+      "id": "tt1416765",
+      "vote_average": 8.3,
+      "vote_count": 43537
+    },
+    "modified": {
+      "time": "2026-05-05T19:38:48.000Z"
+    },
+    "_id": "69f973ea748ca16f0866dddb",
+    "name": "Làm cha mẹ (Phần 3)",
+    "slug": "lam-cha-me-phan-3",
+    "origin_name": "Parenthood (Season 3)",
+    "thumb_url": "lam-cha-me-phan-3-thumb.jpg",
+    "poster_url": "lam-cha-me-phan-3-poster.jpg",
+    "year": 2011
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "21762",
+      "season": 2,
+      "vote_average": 7.5,
+      "vote_count": 172
+    },
+    "imdb": {
+      "id": "tt1416765",
+      "vote_average": 8.3,
+      "vote_count": 43537
+    },
+    "modified": {
+      "time": "2026-05-05T19:38:14.000Z"
+    },
+    "_id": "69f973c091cc1b96d58fc2e9",
+    "name": "Làm cha mẹ (Phần 2)",
+    "slug": "lam-cha-me-phan-2",
+    "origin_name": "Parenthood (Season 2)",
+    "thumb_url": "lam-cha-me-phan-2-thumb.jpg",
+    "poster_url": "lam-cha-me-phan-2-poster.jpg",
+    "year": 2010
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1624613",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39444813",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T19:37:38.000Z"
+    },
+    "_id": "69f970ce4a74b3cede15d0c1",
+    "name": "Lainey Wilson: Linh hồn nhạc đồng quê",
+    "slug": "lainey-wilson-linh-hon-nhac-dong-que",
+    "origin_name": "Lainey Wilson: Keepin' Country Cool",
+    "thumb_url": "lainey-wilson-linh-hon-nhac-dong-que-thumb.jpg",
+    "poster_url": "lainey-wilson-linh-hon-nhac-dong-que-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1472638",
+      "season": null,
+      "vote_average": 6.3,
+      "vote_count": 455
+    },
+    "imdb": {
+      "id": "tt38350059",
+      "vote_average": 6.4,
+      "vote_count": 2705
+    },
+    "modified": {
+      "time": "2026-05-05T19:37:10.000Z"
+    },
+    "_id": "69f971947e5a0662d4e850c7",
+    "name": "Con đường đúng đắn",
+    "slug": "con-duong-dung-dan",
+    "origin_name": "Buen Camino",
+    "thumb_url": "con-duong-dung-dan-thumb.jpg",
+    "poster_url": "con-duong-dung-dan-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "21259",
+      "season": null,
+      "vote_average": 6.4,
+      "vote_count": 138
+    },
+    "imdb": {
+      "id": "tt0086429",
+      "vote_average": 6.9,
+      "vote_count": 7406
+    },
+    "modified": {
+      "time": "2026-05-05T19:36:52.000Z"
+    },
+    "_id": "69f972c42b874d6bfb729eb4",
+    "name": "Chúc thư",
+    "slug": "chuc-thu",
+    "origin_name": "Testament",
+    "thumb_url": "chuc-thu-thumb.jpg",
+    "poster_url": "chuc-thu-poster.jpg",
+    "year": 1983
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1641966",
+      "season": null,
+      "vote_average": 6.2,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt40224422",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T19:36:25.000Z"
+    },
+    "_id": "69f9713091cc1b96d58fc171",
+    "name": "Bí mật giới thể thao: Phát súng ở Hawthorne Hill",
+    "slug": "bi-mat-gioi-the-thao-phat-sung-o-hawthorne-hill",
+    "origin_name": "Untold: The Shooting at Hawthorne Hill",
+    "thumb_url": "bi-mat-gioi-the-thao-phat-sung-o-hawthorne-hill-thumb.jpg",
+    "poster_url": "bi-mat-gioi-the-thao-phat-sung-o-hawthorne-hill-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272432",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32592348",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T18:29:48.000Z"
+    },
+    "_id": "69f86f7f15072466acf3cfc2",
+    "name": "Tội Phạm IQ Thấp",
+    "slug": "toi-pham-iq-thap",
+    "origin_name": "Born with Luck",
+    "thumb_url": "toi-pham-iq-thap-thumb.jpg",
+    "poster_url": "toi-pham-iq-thap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T17:53:46.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278868",
+      "season": 1,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34896451",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T17:28:18.000Z"
+    },
+    "_id": "69e211ba748ca16f085e500b",
+    "name": "Phạm Vi 800m",
+    "slug": "pham-vi-800m",
+    "origin_name": "Eight Hundred",
+    "thumb_url": "pham-vi-800m-thumb.jpg",
+    "poster_url": "pham-vi-800m-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1661439",
+      "season": null,
+      "vote_average": 6.417,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt41559856",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-05T15:32:57.000Z"
+    },
+    "_id": "69f9ab31e53e6a47ad63f032",
+    "name": "Yiya Murano: Tử thần trong tách trà",
+    "slug": "yiya-murano-tu-than-trong-tach-tra",
+    "origin_name": "Yiya Murano: Death at Tea Time",
+    "thumb_url": "yiya-murano-tu-than-trong-tach-tra-thumb.jpg",
+    "poster_url": "yiya-murano-tu-than-trong-tach-tra-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1284460",
+      "season": null,
+      "vote_average": 6.4,
+      "vote_count": 110
+    },
+    "imdb": {
+      "id": "tt32275943",
+      "vote_average": 5.9,
+      "vote_count": 3558
+    },
+    "modified": {
+      "time": "2026-05-05T15:32:56.000Z"
+    },
+    "_id": "69f84ff5cec790794bfd5c5c",
+    "name": "Alpha",
+    "slug": "alpha",
+    "origin_name": "Alpha",
+    "thumb_url": "alpha-thumb.jpg",
+    "poster_url": "alpha-poster.jpg",
+    "year": 2025
+  }
+]
