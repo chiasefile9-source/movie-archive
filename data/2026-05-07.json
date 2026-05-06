@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72976",
+      "season": 5,
+      "vote_average": 6.6,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt16444020",
+      "vote_average": 7.4,
+      "vote_count": 74
+    },
+    "modified": {
+      "time": "2026-05-06T23:57:36.000Z"
+    },
+    "_id": "69dfcfeb41d6bb2c315360fb",
+    "name": "Nhịp Đập Trái Tim (Phần 5)",
+    "slug": "nhip-dap-trai-tim-phan-5",
+    "origin_name": "Heart Signal (Season 5)",
+    "thumb_url": "nhip-dap-trai-tim-phan-5-thumb.jpg",
+    "poster_url": "nhip-dap-trai-tim-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318006",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41732861",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T23:06:15.000Z"
+    },
+    "_id": "69dfb02615072466aceb2819",
+    "name": "Hình Phạt Vì Yêu Em",
+    "slug": "hinh-phat-vi-yeu-em",
+    "origin_name": "Love's Shattered Reflections",
+    "thumb_url": "hinh-phat-vi-yeu-em-thumb.jpg",
+    "poster_url": "hinh-phat-vi-yeu-em-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "94404",
+      "season": 2,
+      "vote_average": 8.3,
+      "vote_count": 395
+    },
+    "imdb": {
+      "id": "tt11147852",
+      "vote_average": 8,
+      "vote_count": 14145
+    },
+    "modified": {
+      "time": "2026-05-06T23:03:47.000Z"
+    },
+    "_id": "69cde57fb06c99c722027faa",
+    "name": "Dị thú ma đô (Phần 2)",
+    "slug": "di-thu-ma-do-phan-2",
+    "origin_name": "Dorohedoro (Season 2)",
+    "thumb_url": "di-thu-ma-do-phan-2-thumb.jpg",
+    "poster_url": "di-thu-ma-do-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "65942",
+      "season": 4,
+      "vote_average": 7.8,
+      "vote_count": 598
+    },
+    "imdb": {
+      "id": "tt5607616",
+      "vote_average": 8.1,
+      "vote_count": 38414
+    },
+    "modified": {
+      "time": "2026-05-06T23:02:12.000Z"
+    },
+    "_id": "69e49396748ca16f085fb60a",
+    "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác (Phần 4)",
+    "slug": "rezero-−-bat-dau-o-the-gioi-khac-phan-4",
+    "origin_name": "Re:ZERO -Starting Life in Another World- Season 4",
+    "thumb_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-thumb.jpg",
+    "poster_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "304820",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39122552",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T23:01:08.000Z"
+    },
+    "_id": "69da0326377c8aaad53f9816",
+    "name": "Để xổng mất là cá to, nhưng cá tôi câu được lại còn to hơn",
+    "slug": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
+    "origin_name": "Always a Catch!",
+    "thumb_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-thumb.jpg",
+    "poster_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387440",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T22:56:37.000Z"
+    },
+    "_id": "69e8a475db41bcecb8e33fb6",
+    "name": "Hôm Nay Lại Bán Hết",
+    "slug": "hom-nay-lai-ban-het",
+    "origin_name": "Sold Out on You",
+    "thumb_url": "hom-nay-lai-ban-het-thumb.jpg",
+    "poster_url": "hom-nay-lai-ban-het-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T20:17:41.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "852113",
+      "season": null,
+      "vote_average": 6.4,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt15476398",
+      "vote_average": 6.1,
+      "vote_count": 97
+    },
+    "modified": {
+      "time": "2026-05-06T20:15:10.000Z"
+    },
+    "_id": "69fb3eb5377c8aaad54b1b60",
+    "name": "Lý Thuyết Kính Vỡ",
+    "slug": "ly-thuyet-kinh-vo",
+    "origin_name": "The Broken Glass Theory",
+    "thumb_url": "ly-thuyet-kinh-vo-thumb.jpg",
+    "poster_url": "ly-thuyet-kinh-vo-poster.jpg",
+    "year": 2021
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "244189",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt40389354",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T20:09:57.000Z"
+    },
+    "_id": "69c6027ef063d23bbbd6882b",
+    "name": "Hướng Về Sao Băng Cầu Nguyện",
+    "slug": "huong-ve-sao-bang-cau-nguyen",
+    "origin_name": "Wishing Upon the Shooting Stars",
+    "thumb_url": "huong-ve-sao-bang-cau-nguyen-thumb.jpg",
+    "poster_url": "huong-ve-sao-bang-cau-nguyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272432",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32592348",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T20:04:46.000Z"
+    },
+    "_id": "69f86f7f15072466acf3cfc2",
+    "name": "Tội Phạm IQ Thấp",
+    "slug": "toi-pham-iq-thap",
+    "origin_name": "Born with Luck",
+    "thumb_url": "toi-pham-iq-thap-thumb.jpg",
+    "poster_url": "toi-pham-iq-thap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289708",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34992884",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T20:04:17.000Z"
+    },
+    "_id": "69fabdb041d6bb2c315cfb32",
+    "name": "Tình Ca Kashgar",
+    "slug": "tinh-ca-kashgar",
+    "origin_name": "Bloom Life",
+    "thumb_url": "tinh-ca-kashgar-thumb.jpg",
+    "poster_url": "tinh-ca-kashgar-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313732",
+      "season": 1,
+      "vote_average": 4,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40289654",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T20:04:01.000Z"
+    },
+    "_id": "69d7241141d6bb2c3150f2cf",
+    "name": "Tin Đồn Tình Yêu",
+    "slug": "tin-don-tinh-yeu",
+    "origin_name": "Scandal love",
+    "thumb_url": "tin-don-tinh-yeu-thumb.jpg",
+    "poster_url": "tin-don-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72517",
+      "season": 4,
+      "vote_average": 8.405,
+      "vote_count": 766
+    },
+    "imdb": {
+      "id": "tt7263328",
+      "vote_average": 7.7,
+      "vote_count": 20411
+    },
+    "modified": {
+      "time": "2026-05-06T20:03:24.000Z"
+    },
+    "_id": "69cde6c8400bf394bd970fda",
+    "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+    "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+    "origin_name": "Classroom of the Elite (Season 4)",
+    "thumb_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+    "poster_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1661439",
+      "season": null,
+      "vote_average": 6.417,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt41559856",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T19:34:19.000Z"
+    },
+    "_id": "69f9ab31e53e6a47ad63f032",
+    "name": "Yiya Murano: Tử thần trong tách trà",
+    "slug": "yiya-murano-tu-than-trong-tach-tra",
+    "origin_name": "Yiya Murano: Death at Tea Time",
+    "thumb_url": "yiya-murano-tu-than-trong-tach-tra-thumb.jpg",
+    "poster_url": "yiya-murano-tu-than-trong-tach-tra-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "21762",
+      "season": 6,
+      "vote_average": 7.5,
+      "vote_count": 172
+    },
+    "imdb": {
+      "id": "tt1416765",
+      "vote_average": 8.3,
+      "vote_count": 43537
+    },
+    "modified": {
+      "time": "2026-05-06T19:33:58.000Z"
+    },
+    "_id": "69f9737e7e5a0662d4e851fb",
+    "name": "Làm cha mẹ (Phần 6)",
+    "slug": "parenthood-phan-6",
+    "origin_name": "Parenthood (Season 6)",
+    "thumb_url": "parenthood-phan-6-thumb.jpg",
+    "poster_url": "parenthood-phan-6-poster.jpg",
+    "year": 2014
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "21762",
+      "season": 5,
+      "vote_average": 7.5,
+      "vote_count": 172
+    },
+    "imdb": {
+      "id": "tt1416765",
+      "vote_average": 8.3,
+      "vote_count": 43537
+    },
+    "modified": {
+      "time": "2026-05-06T19:31:58.000Z"
+    },
+    "_id": "69f974567e5a0662d4e85289",
+    "name": "Làm cha mẹ (Phần 5)",
+    "slug": "lam-cha-me-phan-5",
+    "origin_name": "Parenthood (Season 5)",
+    "thumb_url": "lam-cha-me-phan-5-thumb.jpg",
+    "poster_url": "lam-cha-me-phan-5-poster.jpg",
+    "year": 2013
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "21762",
+      "season": 4,
+      "vote_average": 7.5,
+      "vote_count": 172
+    },
+    "imdb": {
+      "id": "tt1416765",
+      "vote_average": 8.3,
+      "vote_count": 43537
+    },
+    "modified": {
+      "time": "2026-05-06T19:31:24.000Z"
+    },
+    "_id": "69f9743e006591e1081e2916",
+    "name": "Làm cha mẹ (Phần 4)",
+    "slug": "lam-cha-me-phan-4",
+    "origin_name": "Parenthood (Season 4)",
+    "thumb_url": "lam-cha-me-phan-4-thumb.jpg",
+    "poster_url": "lam-cha-me-phan-4-poster.jpg",
+    "year": 2012
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1651233",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt40660080",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T19:30:54.000Z"
+    },
+    "_id": "69f9676cb692c7b208da1c55",
+    "name": "Con Rể",
+    "slug": "con-re",
+    "origin_name": "Son-in-Law",
+    "thumb_url": "con-re-thumb.jpg",
+    "poster_url": "con-re-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278113",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37253311",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T18:31:08.000Z"
+    },
+    "_id": "69f1f2ed4e2efe72884c0047",
+    "name": "Vùng Đất Vàng",
+    "slug": "vung-dat-vang",
+    "origin_name": "Gold Land",
+    "thumb_url": "vung-dat-vang-thumb.jpg",
+    "poster_url": "vung-dat-vang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202555",
+      "season": 2,
+      "vote_average": 8.03,
+      "vote_count": 751
+    },
+    "imdb": {
+      "id": "tt18923754",
+      "vote_average": 8.1,
+      "vote_count": 95737
+    },
+    "modified": {
+      "time": "2026-05-06T16:51:09.000Z"
+    },
+    "_id": "69c39efcf65d22d617b84ba1",
+    "name": "Daredevil: Tái Xuất (Phần 2)",
+    "slug": "daredevil-tai-xuat-phan-2",
+    "origin_name": "Daredevil: Born Again (Season 2)",
+    "thumb_url": "daredevil-tai-xuat-phan-2-thumb.jpg",
+    "poster_url": "daredevil-tai-xuat-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "76479",
+      "season": 5,
+      "vote_average": 8.4,
+      "vote_count": 11884
+    },
+    "imdb": {
+      "id": "tt1190634",
+      "vote_average": 8.6,
+      "vote_count": 853757
+    },
+    "modified": {
+      "time": "2026-05-06T16:04:16.000Z"
+    },
+    "_id": "695f5290f063d23bbbc21c06",
+    "name": "The Boys (Phần 5)",
+    "slug": "the-boys-phan-5",
+    "origin_name": "The Boys (Season 5)",
+    "thumb_url": "the-boys-phan-5-thumb-1775624659696.jpg",
+    "poster_url": "the-boys-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202297",
+      "season": 4,
+      "vote_average": 8.076,
+      "vote_count": 164
+    },
+    "imdb": {
+      "id": "tt16098700",
+      "vote_average": 7.1,
+      "vote_count": 16438
+    },
+    "modified": {
+      "time": "2026-05-06T12:26:57.000Z"
+    },
+    "_id": "693a839b8e1195b71e9271a9",
+    "name": "Vùng Đất Lửa (Phần 4)",
+    "slug": "fire-country-phan-4",
+    "origin_name": "Fire Country (Season 4)",
+    "thumb_url": "fire-country-phan-4-thumb.jpg",
+    "poster_url": "fire-country-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303076",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39073388",
+      "vote_average": 0,
+      "vote_count": 17
+    },
+    "modified": {
+      "time": "2026-05-06T12:07:51.000Z"
+    },
+    "_id": "6947a82897c71dcd0d63982e",
+    "name": "Người Đàn Ông Đầu Tiên",
+    "slug": "nguoi-dan-ong-dau-tien",
+    "origin_name": "First Man",
+    "thumb_url": "nguoi-dan-ong-dau-tien-thumb.jpg",
+    "poster_url": "nguoi-dan-ong-dau-tien-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "235808",
+      "season": 2,
+      "vote_average": 9.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-06T11:19:16.000Z"
+    },
+    "_id": "699fce70f65d22d617aeecbd",
+    "name": "Tu La Võ Thần (Phần 2)",
+    "slug": "tu-la-vo-than-phan-2",
+    "origin_name": "Martial God Asura (Season 2)",
+    "thumb_url": "tu-la-vo-than-phan-2-thumb.jpg",
+    "poster_url": "tu-la-vo-than-phan-2-poster.jpg",
+    "year": 2026
+  }
+]
