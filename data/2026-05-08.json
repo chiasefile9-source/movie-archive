@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303076",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39073388",
+      "vote_average": 0,
+      "vote_count": 17
+    },
+    "modified": {
+      "time": "2026-05-08T00:46:46.000Z"
+    },
+    "_id": "6947a82897c71dcd0d63982e",
+    "name": "Người Đàn Ông Đầu Tiên",
+    "slug": "nguoi-dan-ong-dau-tien",
+    "origin_name": "First Man",
+    "thumb_url": "nguoi-dan-ong-dau-tien-thumb.jpg",
+    "poster_url": "nguoi-dan-ong-dau-tien-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "114922",
+      "season": 2,
+      "vote_average": 6.828,
+      "vote_count": 490
+    },
+    "imdb": {
+      "id": "tt9794044",
+      "vote_average": 6.2,
+      "vote_count": 37316
+    },
+    "modified": {
+      "time": "2026-05-08T00:36:23.000Z"
+    },
+    "_id": "69fc509893c48ff6bff34ebd",
+    "name": "Citadel (Phần 2)",
+    "slug": "citadel-phan-2",
+    "origin_name": "Citadel (Season 2)",
+    "thumb_url": "citadel-phan-2-thumb.jpg",
+    "poster_url": "citadel-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315172",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41863606",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T21:43:15.000Z"
+    },
+    "_id": "69e9ef6af0f815b666161eb7",
+    "name": "Vũ Điệu Tình Thù",
+    "slug": "vu-dieu-tinh-thu",
+    "origin_name": "The Bangkok Red Opera",
+    "thumb_url": "vu-dieu-tinh-thu-thumb.jpg",
+    "poster_url": "vu-dieu-tinh-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387440",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T21:35:56.000Z"
+    },
+    "_id": "69e8a475db41bcecb8e33fb6",
+    "name": "Hôm Nay Lại Bán Hết",
+    "slug": "hom-nay-lai-ban-het",
+    "origin_name": "Sold Out on You",
+    "thumb_url": "hom-nay-lai-ban-het-thumb.jpg",
+    "poster_url": "hom-nay-lai-ban-het-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274556",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 20
+    },
+    "imdb": {
+      "id": "tt34063491",
+      "vote_average": 7.1,
+      "vote_count": 2560
+    },
+    "modified": {
+      "time": "2026-05-07T21:30:08.000Z"
+    },
+    "_id": "68dcc5953e261817af05a0df",
+    "name": "Thành Phố Xa Xôi",
+    "slug": "thanh-pho-xa-xoi",
+    "origin_name": "Far Away",
+    "thumb_url": "thanh-pho-xa-xoi-thumb.jpg",
+    "poster_url": "thanh-pho-xa-xoi-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289708",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34992884",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T20:51:10.000Z"
+    },
+    "_id": "69fabdb041d6bb2c315cfb32",
+    "name": "Tình Ca Kashgar",
+    "slug": "tinh-ca-kashgar",
+    "origin_name": "Bloom Life",
+    "thumb_url": "tinh-ca-kashgar-thumb.jpg",
+    "poster_url": "tinh-ca-kashgar-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313732",
+      "season": 1,
+      "vote_average": 4,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40289654",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T20:49:53.000Z"
+    },
+    "_id": "69d7241141d6bb2c3150f2cf",
+    "name": "Tin Đồn Tình Yêu",
+    "slug": "tin-don-tinh-yeu",
+    "origin_name": "Scandal love",
+    "thumb_url": "tin-don-tinh-yeu-thumb.jpg",
+    "poster_url": "tin-don-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4608",
+      "season": 4,
+      "vote_average": 7.492,
+      "vote_count": 787
+    },
+    "imdb": {
+      "id": "tt0496424",
+      "vote_average": 8.3,
+      "vote_count": 137477
+    },
+    "modified": {
+      "time": "2026-05-07T20:48:32.000Z"
+    },
+    "_id": "69fc06456d4243e068f8e142",
+    "name": "30 Rock (Phần 4)",
+    "slug": "30-rock-phan-4",
+    "origin_name": "30 Rock (Season 4)",
+    "thumb_url": "30-rock-phan-4-thumb.jpg",
+    "poster_url": "30-rock-phan-4-poster.jpg",
+    "year": 2009
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4608",
+      "season": 3,
+      "vote_average": 7.492,
+      "vote_count": 787
+    },
+    "imdb": {
+      "id": "tt0496424",
+      "vote_average": 8.3,
+      "vote_count": 137477
+    },
+    "modified": {
+      "time": "2026-05-07T20:48:08.000Z"
+    },
+    "_id": "69fc062b7e5a0662d4e921e5",
+    "name": "30 Rock (Phần 3)",
+    "slug": "30-rock-phan-3",
+    "origin_name": "30 Rock (Season 3)",
+    "thumb_url": "30-rock-phan-3-thumb.jpg",
+    "poster_url": "30-rock-phan-3-poster.jpg",
+    "year": 2008
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4608",
+      "season": 2,
+      "vote_average": 7.492,
+      "vote_count": 787
+    },
+    "imdb": {
+      "id": "tt0496424",
+      "vote_average": 8.3,
+      "vote_count": 137477
+    },
+    "modified": {
+      "time": "2026-05-07T20:47:36.000Z"
+    },
+    "_id": "69fc061531aa2678f8d23e59",
+    "name": "30 Rock (Phần 2)",
+    "slug": "30-rock-phan-2",
+    "origin_name": "30 Rock (Season 2)",
+    "thumb_url": "30-rock-phan-2-thumb.jpg",
+    "poster_url": "30-rock-phan-2-poster.jpg",
+    "year": 2007
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4608",
+      "season": 1,
+      "vote_average": 7.492,
+      "vote_count": 787
+    },
+    "imdb": {
+      "id": "tt0496424",
+      "vote_average": 8.3,
+      "vote_count": 137477
+    },
+    "modified": {
+      "time": "2026-05-07T20:47:15.000Z"
+    },
+    "_id": "69fc05f241d6bb2c315d5c2d",
+    "name": "30 Rock (Phần 1)",
+    "slug": "30-rock-phan-1",
+    "origin_name": "30 Rock (Season 1)",
+    "thumb_url": "30-rock-phan-1-thumb.jpg",
+    "poster_url": "30-rock-phan-1-poster.jpg",
+    "year": 2006
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "307624",
+      "season": 1,
+      "vote_average": 9.2,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt40586090",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T19:29:30.000Z"
+    },
+    "_id": "69be8cc5b06c99c722ff4329",
+    "name": "Tết Thiếu Nhi của Sơ Tam",
+    "slug": "tet-thieu-nhi-cua-so-tam",
+    "origin_name": "Sammy's Children's Day",
+    "thumb_url": "tet-thieu-nhi-cua-so-tam-thumb.jpg",
+    "poster_url": "tet-thieu-nhi-cua-so-tam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T18:30:32.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272432",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32592348",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T18:30:04.000Z"
+    },
+    "_id": "69f86f7f15072466acf3cfc2",
+    "name": "Tội Phạm IQ Thấp",
+    "slug": "toi-pham-iq-thap",
+    "origin_name": "Born with Luck",
+    "thumb_url": "toi-pham-iq-thap-thumb.jpg",
+    "poster_url": "toi-pham-iq-thap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "262280",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt33265765",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T16:34:45.000Z"
+    },
+    "_id": "69fc4654b692c7b208db0525",
+    "name": "Legends",
+    "slug": "legends",
+    "origin_name": "Legends",
+    "thumb_url": "legends-thumb.jpg",
+    "poster_url": "legends-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1207162",
+      "season": null,
+      "vote_average": 5.7,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt25868520",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T16:31:41.000Z"
+    },
+    "_id": "69fc5bfa93c48ff6bff35321",
+    "name": "Rise of the Conqueror",
+    "slug": "rise-of-the-conqueror",
+    "origin_name": "Rise of the Conqueror",
+    "thumb_url": "rise-of-the-conqueror-thumb.jpg",
+    "poster_url": "rise-of-the-conqueror-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1364137",
+      "season": null,
+      "vote_average": 4.3,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt31689648",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T16:29:55.000Z"
+    },
+    "_id": "69fc5b91a54286c41baf1dd3",
+    "name": "Bàn tay bẩn",
+    "slug": "ban-tay-ban",
+    "origin_name": "Dirty Hands",
+    "thumb_url": "ban-tay-ban-thumb.jpg",
+    "poster_url": "ban-tay-ban-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1630423",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39749979",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T16:26:59.000Z"
+    },
+    "_id": "69fc45f2482e09b4282cced0",
+    "name": "Sát Thủ Yêu Dấu",
+    "slug": "sat-thu-yeu-dau",
+    "origin_name": "My Dearest Assassin",
+    "thumb_url": "sat-thu-yeu-dau-thumb.jpg",
+    "poster_url": "sat-thu-yeu-dau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314833",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T16:26:44.000Z"
+    },
+    "_id": "69f99266b692c7b208da30eb",
+    "name": "Hành Trình Quay Về Bên Nhau",
+    "slug": "hanh-trinh-quay-ve-ben-nhau",
+    "origin_name": "A Journey Back to Us",
+    "thumb_url": "hanh-trinh-quay-ve-ben-nhau-thumb.jpg",
+    "poster_url": "hanh-trinh-quay-ve-ben-nhau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1146058",
+      "season": null,
+      "vote_average": 5.9,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt12824390",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T16:26:38.000Z"
+    },
+    "_id": "69fc5acb41d6bb2c315d7474",
+    "name": "Cá Con Cau Có",
+    "slug": "ca-con-cau-co",
+    "origin_name": "The Pout-Pout Fish",
+    "thumb_url": "ca-con-cau-co-thumb.jpg",
+    "poster_url": "ca-con-cau-co-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1459612",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36957240",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T16:25:01.000Z"
+    },
+    "_id": "69fc5a64b692c7b208db0b41",
+    "name": "Mavka. The True Myth",
+    "slug": "mavka-the-true-myth",
+    "origin_name": "Mavka. The True Myth",
+    "thumb_url": "mavka-the-true-myth-thumb.jpg",
+    "poster_url": "mavka-the-true-myth-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1414413",
+      "season": null,
+      "vote_average": 6.382,
+      "vote_count": 17
+    },
+    "imdb": {
+      "id": "tt32394984",
+      "vote_average": 5,
+      "vote_count": 181
+    },
+    "modified": {
+      "time": "2026-05-07T16:14:49.000Z"
+    },
+    "_id": "69faa347f0f815b6661bca19",
+    "name": "Brothers Under Fire",
+    "slug": "brothers-under-fire",
+    "origin_name": "Brothers Under Fire",
+    "thumb_url": "brothers-under-fire-thumb.jpg",
+    "poster_url": "brothers-under-fire-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1423251",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt31593809",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T16:14:16.000Z"
+    },
+    "_id": "69faa3f9b3a3583bbbb84816",
+    "name": "Biker",
+    "slug": "biker",
+    "origin_name": "Biker",
+    "thumb_url": "biker-thumb.jpg",
+    "poster_url": "biker-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "949536",
+      "season": null,
+      "vote_average": 6.111,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt18212138",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-07T16:13:41.000Z"
+    },
+    "_id": "69fc57c16d4243e068f8f89d",
+    "name": "Kill Code",
+    "slug": "kill-code",
+    "origin_name": "Kill Code",
+    "thumb_url": "kill-code-thumb.jpg",
+    "poster_url": "kill-code-poster.jpg",
+    "year": 2026
+  }
+]
