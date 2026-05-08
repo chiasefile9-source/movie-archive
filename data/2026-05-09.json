@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278113",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37253311",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T23:14:36.000Z"
+    },
+    "_id": "69f1f2ed4e2efe72884c0047",
+    "name": "Vùng Đất Vàng",
+    "slug": "vung-dat-vang",
+    "origin_name": "Gold Land",
+    "thumb_url": "vung-dat-vang-thumb.jpg",
+    "poster_url": "vung-dat-vang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278573",
+      "season": 1,
+      "vote_average": 9.1,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt39333617",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T23:04:18.000Z"
+    },
+    "_id": "69d8f14d7e5a0662d4dd2f64",
+    "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+    "slug": "phu-nhan-dai-quan-the-ky-21",
+    "origin_name": "Perfect Crown",
+    "thumb_url": "phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+    "poster_url": "phu-nhan-dai-quan-the-ky-21-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "294462",
+      "season": 2,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T20:07:14.000Z"
+    },
+    "_id": "69f18f8316bc1b4174f8e13b",
+    "name": "Rể Hiền (Phần 2)",
+    "slug": "re-hien-phan-2",
+    "origin_name": "Royal Upstart (Season 2)",
+    "thumb_url": "re-hien-phan-2-thumb.jpg",
+    "poster_url": "re-hien-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "81700",
+      "season": 4,
+      "vote_average": 6.2,
+      "vote_count": 17
+    },
+    "imdb": {
+      "id": "tt6581428",
+      "vote_average": 6.8,
+      "vote_count": 603
+    },
+    "modified": {
+      "time": "2026-05-08T18:43:50.000Z"
+    },
+    "_id": "69fc08b86d4243e068f8e25a",
+    "name": "Booba (Phần 4)",
+    "slug": "buba-phan-4",
+    "origin_name": "Booba (Season 4)",
+    "thumb_url": "buba-phan-4-thumb.jpg",
+    "poster_url": "buba-phan-4-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261615",
+      "season": 4,
+      "vote_average": 7.7,
+      "vote_count": 87
+    },
+    "imdb": {
+      "id": "tt29494111",
+      "vote_average": 7.1,
+      "vote_count": 2095
+    },
+    "modified": {
+      "time": "2026-05-08T18:42:54.000Z"
+    },
+    "_id": "69fc082af616ee3807e1a0ee",
+    "name": "Đố kị (Phần 4)",
+    "slug": "do-ki-phan-4",
+    "origin_name": "Envious (Season 4)",
+    "thumb_url": "do-ki-phan-4-thumb.jpg",
+    "poster_url": "do-ki-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261615",
+      "season": 3,
+      "vote_average": 7.7,
+      "vote_count": 87
+    },
+    "imdb": {
+      "id": "tt29494111",
+      "vote_average": 7.1,
+      "vote_count": 2095
+    },
+    "modified": {
+      "time": "2026-05-08T18:42:36.000Z"
+    },
+    "_id": "69fc0816377c8aaad54b5164",
+    "name": "Đố kị (Phần 3)",
+    "slug": "do-ki-phan-3",
+    "origin_name": "Envious (Season 3)",
+    "thumb_url": "do-ki-phan-3-thumb.jpg",
+    "poster_url": "do-ki-phan-3-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4608",
+      "season": 7,
+      "vote_average": 7.492,
+      "vote_count": 787
+    },
+    "imdb": {
+      "id": "tt0496424",
+      "vote_average": 8.3,
+      "vote_count": 137477
+    },
+    "modified": {
+      "time": "2026-05-08T18:41:15.000Z"
+    },
+    "_id": "69fc0689006591e1081efb4f",
+    "name": "30 Rock (Phần 7)",
+    "slug": "30-rock-phan-7",
+    "origin_name": "30 Rock (Season 7)",
+    "thumb_url": "30-rock-phan-7-thumb.jpg",
+    "poster_url": "30-rock-phan-7-poster.jpg",
+    "year": 2012
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4608",
+      "season": 6,
+      "vote_average": 7.492,
+      "vote_count": 787
+    },
+    "imdb": {
+      "id": "tt0496424",
+      "vote_average": 8.3,
+      "vote_count": 137477
+    },
+    "modified": {
+      "time": "2026-05-08T18:40:43.000Z"
+    },
+    "_id": "69fc067191cc1b96d5909327",
+    "name": "30 Rock (Phần 6)",
+    "slug": "30-rock-phan-6",
+    "origin_name": "30 Rock (Season 6)",
+    "thumb_url": "30-rock-phan-6-thumb.jpg",
+    "poster_url": "30-rock-phan-6-poster.jpg",
+    "year": 2012
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4608",
+      "season": 5,
+      "vote_average": 7.492,
+      "vote_count": 787
+    },
+    "imdb": {
+      "id": "tt0496424",
+      "vote_average": 8.3,
+      "vote_count": 137477
+    },
+    "modified": {
+      "time": "2026-05-08T18:40:16.000Z"
+    },
+    "_id": "69fc065af616ee3807e1a035",
+    "name": "30 Rock (Phần 5)",
+    "slug": "30-rock-phan-5",
+    "origin_name": "30 Rock (Season 5)",
+    "thumb_url": "30-rock-phan-5-thumb.jpg",
+    "poster_url": "30-rock-phan-5-poster.jpg",
+    "year": 2010
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320411",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41988433",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T17:48:23.000Z"
+    },
+    "_id": "69ecf4d5006591e10819c630",
+    "name": "Lưỡi Dao Trong Tay",
+    "slug": "luoi-dao-trong-tay",
+    "origin_name": "Within the Grip",
+    "thumb_url": "luoi-dao-trong-tay-thumb.jpg",
+    "poster_url": "luoi-dao-trong-tay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272432",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32592348",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T17:44:33.000Z"
+    },
+    "_id": "69f86f7f15072466acf3cfc2",
+    "name": "Tội Phạm IQ Thấp",
+    "slug": "toi-pham-iq-thap",
+    "origin_name": "Born with Luck",
+    "thumb_url": "toi-pham-iq-thap-thumb.jpg",
+    "poster_url": "toi-pham-iq-thap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "114922",
+      "season": 2,
+      "vote_average": 6.828,
+      "vote_count": 490
+    },
+    "imdb": {
+      "id": "tt9794044",
+      "vote_average": 6.2,
+      "vote_count": 37316
+    },
+    "modified": {
+      "time": "2026-05-08T17:36:53.000Z"
+    },
+    "_id": "69fc509893c48ff6bff34ebd",
+    "name": "Citadel (Phần 2)",
+    "slug": "citadel-phan-2",
+    "origin_name": "Citadel (Season 2)",
+    "thumb_url": "citadel-phan-2-thumb.jpg",
+    "poster_url": "citadel-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T17:35:10.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283952",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt36758636",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T14:44:52.000Z"
+    },
+    "_id": "69f6caf9e53e6a47ad62ae1c",
+    "name": "Lương Trần Mỹ Cẩm",
+    "slug": "luong-tran-my-cam",
+    "origin_name": "A Splendid Match",
+    "thumb_url": "luong-tran-my-cam-thumb.jpg",
+    "poster_url": "luong-tran-my-cam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318840",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T14:44:35.000Z"
+    },
+    "_id": "69e84a9d006591e10818674d",
+    "name": "Có Một Lá Thư Gửi Từ Thành Phố Cảng",
+    "slug": "co-mot-la-thu-gui-tu-thanh-pho-cang",
+    "origin_name": "Echoes of Gang City",
+    "thumb_url": "co-mot-la-thu-gui-tu-thanh-pho-cang-thumb.jpg",
+    "poster_url": "co-mot-la-thu-gui-tu-thanh-pho-cang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316390",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40609424",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T14:44:21.000Z"
+    },
+    "_id": "69ed94ca748ca16f08629e99",
+    "name": "Pháo Hoa",
+    "slug": "phao-hoa",
+    "origin_name": "Fireworks",
+    "thumb_url": "phao-hoa-thumb.jpg",
+    "poster_url": "phao-hoa-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316675",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40727461",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T14:42:31.000Z"
+    },
+    "_id": "69fabe477e5a0662d4e8c1da",
+    "name": "Mặt Chẳng Theo Lòng",
+    "slug": "mat-chang-theo-long",
+    "origin_name": "The Double Game",
+    "thumb_url": "mat-chang-theo-long-thumb.jpg",
+    "poster_url": "mat-chang-theo-long-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "79744",
+      "season": 8,
+      "vote_average": 8.537,
+      "vote_count": 3108
+    },
+    "imdb": {
+      "id": "tt7587890",
+      "vote_average": 8,
+      "vote_count": 120183
+    },
+    "modified": {
+      "time": "2026-05-08T11:54:28.000Z"
+    },
+    "_id": "6966276b4da3bf6eb331cdd6",
+    "name": "Lính Mới (Phần 8)",
+    "slug": "linh-moi-phan-8",
+    "origin_name": "The Rookie (Season 8)",
+    "thumb_url": "linh-moi-phan-8-thumb.jpg",
+    "poster_url": "linh-moi-phan-8-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283158",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40659363",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T11:09:17.000Z"
+    },
+    "_id": "69f18f5d41d6bb2c31596c88",
+    "name": "Nhân Gian Kinh Hồng Khách",
+    "slug": "nhan-gian-kinh-hong-khach",
+    "origin_name": "A Lover in the Mortal World",
+    "thumb_url": "nhan-gian-kinh-hong-khach-thumb.jpg",
+    "poster_url": "nhan-gian-kinh-hong-khach-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309044",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt27097227",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T10:57:54.000Z"
+    },
+    "_id": "69843f824ea2111da8b72fb3",
+    "name": "Món Quà Của Kluay",
+    "slug": "mon-qua-cua-kluay",
+    "origin_name": "The Gift",
+    "thumb_url": "mon-qua-cua-kluay-thumb.jpg",
+    "poster_url": "mon-qua-cua-kluay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "86031",
+      "season": 4,
+      "vote_average": 8.533,
+      "vote_count": 1642
+    },
+    "imdb": {
+      "id": "tt9679542",
+      "vote_average": 8.1,
+      "vote_count": 41263
+    },
+    "modified": {
+      "time": "2026-05-08T10:57:43.000Z"
+    },
+    "_id": "6780ddf7af10fecdaf87d209",
+    "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
+    "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
+    "origin_name": "Dr. STONE (Season 4)",
+    "thumb_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
+    "poster_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283428",
+      "season": 1,
+      "vote_average": 8.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt39123061",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T10:57:25.000Z"
+    },
+    "_id": "69cfc54f54ca9185bbbf9f80",
+    "name": "Bức Tường Băng",
+    "slug": "buc-tuong-bang",
+    "origin_name": "The Ramparts of Ice",
+    "thumb_url": "buc-tuong-bang-thumb.jpg",
+    "poster_url": "buc-tuong-bang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39122702",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T10:54:12.000Z"
+    },
+    "_id": "69da038fda7d8940685a73d3",
+    "name": "Lại Bị Giết Nữa À, Thưa Thám Tử?",
+    "slug": "lai-co-an-mang-nua-roi-thua-tham-tu",
+    "origin_name": "Killed Again, Mr. Detective.",
+    "thumb_url": "lai-co-an-mang-nua-roi-thua-tham-tu-thumb.jpg",
+    "poster_url": "lai-co-an-mang-nua-roi-thua-tham-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259844",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-08T10:54:00.000Z"
+    },
+    "_id": "6902db510ffdad56a3512b84",
+    "name": "Linh Vũ Đại Lục",
+    "slug": "linh-vu-dai-luc",
+    "origin_name": "Legend of Lingwu Continent",
+    "thumb_url": "linh-vu-dai-luc-thumb.jpg",
+    "poster_url": "linh-vu-dai-luc-poster.jpg",
+    "year": 2024
+  }
+]
