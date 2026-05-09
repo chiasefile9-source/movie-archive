@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303143",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38828946",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T00:07:51.000Z"
+    },
+    "_id": "69eedaa9377c8aaad5469e53",
+    "name": "Kẻ Thù Hoàng Gia Của Tôi",
+    "slug": "ke-thu-hoang-gia-cua-toi",
+    "origin_name": "My Royal Nemesis",
+    "thumb_url": "ke-thu-hoang-gia-cua-toi-thumb.jpg",
+    "poster_url": "ke-thu-hoang-gia-cua-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289424",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36732944",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T00:07:01.000Z"
+    },
+    "_id": "69e3a4edf616ee3807d9403c",
+    "name": "Cuộc Chiến Trong Chúng Ta",
+    "slug": "cuoc-chien-trong-chung-ta",
+    "origin_name": "We Are All Trying Here",
+    "thumb_url": "cuoc-chien-trong-chung-ta-thumb.jpg",
+    "poster_url": "cuoc-chien-trong-chung-ta-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1292415",
+      "season": null,
+      "vote_average": 6.7,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt7708226",
+      "vote_average": 6.2,
+      "vote_count": 246
+    },
+    "modified": {
+      "time": "2026-05-10T00:06:34.000Z"
+    },
+    "_id": "69ff699a482e09b4282d6fb3",
+    "name": "Đấu võ sinh tử",
+    "slug": "dau-vo-sinh-tu-2026",
+    "origin_name": "Beast",
+    "thumb_url": "dau-vo-sinh-tu-2026-thumb.jpg",
+    "poster_url": "dau-vo-sinh-tu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "288659",
+      "season": 1,
+      "vote_average": 7.25,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39267868",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T23:43:08.000Z"
+    },
+    "_id": "69cbf9dfb06c99c722022664",
+    "name": "Sứ Giả Bốn Mùa - Vũ Điệu Mùa Xuân",
+    "slug": "su-gia-bon-mua-vu-dieu-mua-xuan",
+    "origin_name": "Agents of the Four Seasons",
+    "thumb_url": "su-gia-bon-mua-vu-dieu-mua-xuan-thumb.jpg",
+    "poster_url": "su-gia-bon-mua-vu-dieu-mua-xuan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287114",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36626289",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T23:26:52.000Z"
+    },
+    "_id": "69bd06b8f65d22d617b6ceda",
+    "name": "The Water 4 Elements: Dòng Sông Mưu Mẹo",
+    "slug": "the-water-4-elements-dong-song-muu-meo",
+    "origin_name": "The Water",
+    "thumb_url": "the-water-4-elements-dong-song-muu-meo-thumb.jpg",
+    "poster_url": "the-water-4-elements-dong-song-muu-meo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309043",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21310096",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T23:26:35.000Z"
+    },
+    "_id": "69f9622693c48ff6bff25e1a",
+    "name": "Yêu Được Chưa",
+    "slug": "yeu-duoc-chua",
+    "origin_name": "Let's Begin Again",
+    "thumb_url": "yeu-duoc-chua-thumb.jpg",
+    "poster_url": "yeu-duoc-chua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "260463",
+      "season": 1,
+      "vote_average": 9.077,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt37532356",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T23:26:20.000Z"
+    },
+    "_id": "69d1cc78da6ce23e8eac3148",
+    "name": "Song Mệnh Cõi Hoàng Tuyền",
+    "slug": "song-menh-coi-hoang-tuyen",
+    "origin_name": "Daemons of the Shadow Realm",
+    "thumb_url": "song-menh-coi-hoang-tuyen-thumb.jpg",
+    "poster_url": "song-menh-coi-hoang-tuyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300131",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39443399",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T23:26:05.000Z"
+    },
+    "_id": "69da6f99f616ee3807d610b1",
+    "name": "KILL BLUE",
+    "slug": "kill-blue",
+    "origin_name": "KILL BLUE",
+    "thumb_url": "kill-blue-thumb.jpg",
+    "poster_url": "kill-blue-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297438",
+      "season": 1,
+      "vote_average": 8.667,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt38797595",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T23:25:47.000Z"
+    },
+    "_id": "69d5e020e53e6a47ad57f86c",
+    "name": "Chuyện Kể Của Akane",
+    "slug": "chuyen-ke-cua-akane",
+    "origin_name": "Akane-banashi",
+    "thumb_url": "chuyen-ke-cua-akane-thumb.jpg",
+    "poster_url": "chuyen-ke-cua-akane-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297640",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39010903",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T23:04:36.000Z"
+    },
+    "_id": "69ecebe9748ca16f08627461",
+    "name": "Thanh Tra Bí Mật",
+    "slug": "thanh-tra-bi-mat",
+    "origin_name": "Filing for Love",
+    "thumb_url": "thanh-tra-bi-mat-thumb.jpg",
+    "poster_url": "thanh-tra-bi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278573",
+      "season": 1,
+      "vote_average": 9.1,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt39333617",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T22:59:17.000Z"
+    },
+    "_id": "69d8f14d7e5a0662d4dd2f64",
+    "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+    "slug": "phu-nhan-dai-quan-the-ky-21",
+    "origin_name": "Perfect Crown",
+    "thumb_url": "phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+    "poster_url": "phu-nhan-dai-quan-the-ky-21-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306118",
+      "season": 1,
+      "vote_average": 9.438,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt39013436",
+      "vote_average": 6.5,
+      "vote_count": 971
+    },
+    "modified": {
+      "time": "2026-05-09T20:06:26.000Z"
+    },
+    "_id": "6947d108da6ce23e8e932ab7",
+    "name": "Ranh Giới Định Mệnh",
+    "slug": "ranh-gioi-dinh-menh",
+    "origin_name": "Bound by Fate",
+    "thumb_url": "ranh-gioi-dinh-menh-thumb.jpg",
+    "poster_url": "ranh-gioi-dinh-menh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "271548",
+      "season": 1,
+      "vote_average": 5.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt33349183",
+      "vote_average": 5.5,
+      "vote_count": 1098
+    },
+    "modified": {
+      "time": "2026-05-09T18:40:32.000Z"
+    },
+    "_id": "67ff8c12bee774075c03e8cb",
+    "name": "Những Mảnh Đời Vô Định",
+    "slug": "nhung-manh-doi-vo-dinh",
+    "origin_name": "The Stranded",
+    "thumb_url": "nhung-manh-doi-vo-dinh-thumb.jpg",
+    "poster_url": "nhung-manh-doi-vo-dinh-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "91801",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 285
+    },
+    "imdb": {
+      "id": "tt11034066",
+      "vote_average": 7.6,
+      "vote_count": 3317
+    },
+    "modified": {
+      "time": "2026-05-09T18:04:26.000Z"
+    },
+    "_id": "69d1d78e32adc86a1e86e515",
+    "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
+    "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
+    "origin_name": "Welcome to Demon School! Iruma-kun (Season 4)",
+    "thumb_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-thumb.jpg",
+    "poster_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272432",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32592348",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T17:22:19.000Z"
+    },
+    "_id": "69f86f7f15072466acf3cfc2",
+    "name": "Tội Phạm IQ Thấp",
+    "slug": "toi-pham-iq-thap",
+    "origin_name": "Born with Luck",
+    "thumb_url": "toi-pham-iq-thap-thumb.jpg",
+    "poster_url": "toi-pham-iq-thap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T17:21:37.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1058872",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt22939030",
+      "vote_average": 5.9,
+      "vote_count": 513
+    },
+    "modified": {
+      "time": "2026-05-09T17:06:45.000Z"
+    },
+    "_id": "69ff03e4db41bcecb8ea4195",
+    "name": "Tai Nạn Nhỏ Rắc Rối Lớn",
+    "slug": "tai-nan-nho-rac-roi-lon",
+    "origin_name": "Almost Entirely a Slight Disaster",
+    "thumb_url": "tai-nan-nho-rac-roi-lon-thumb.jpg",
+    "poster_url": "tai-nan-nho-rac-roi-lon-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "56570",
+      "season": 8,
+      "vote_average": 8.176,
+      "vote_count": 2806
+    },
+    "imdb": {
+      "id": "tt3006802",
+      "vote_average": 8.3,
+      "vote_count": 199573
+    },
+    "modified": {
+      "time": "2026-05-09T16:47:09.000Z"
+    },
+    "_id": "69b4da44b06c99c722fca67d",
+    "name": "Người Ngoại Tộc (Phần 8)",
+    "slug": "nguoi-ngoai-toc-phan-8",
+    "origin_name": "Outlander (Season 8)",
+    "thumb_url": "nguoi-ngoai-toc-phan-8-thumb.jpg",
+    "poster_url": "nguoi-ngoai-toc-phan-8-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1330021",
+      "season": null,
+      "vote_average": 8.4,
+      "vote_count": 15
+    },
+    "imdb": {
+      "id": "tt33100314",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T16:46:52.000Z"
+    },
+    "_id": "69fefd8716bc1b4174fd5ccf",
+    "name": "Kỷ vật vô giá",
+    "slug": "ky-vat-vo-gia",
+    "origin_name": "Remarkably Bright Creatures",
+    "thumb_url": "ky-vat-vo-gia-thumb.jpg",
+    "poster_url": "ky-vat-vo-gia-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "5852",
+      "season": null,
+      "vote_average": 6.067,
+      "vote_count": 473
+    },
+    "imdb": {
+      "id": "tt0225071",
+      "vote_average": 5.7,
+      "vote_count": 25945
+    },
+    "modified": {
+      "time": "2026-05-09T16:46:34.000Z"
+    },
+    "_id": "69fefdd2e53e6a47ad653c07",
+    "name": "Cặp mắt thiên thần",
+    "slug": "cap-mat-thien-than",
+    "origin_name": "Angel Eyes",
+    "thumb_url": "cap-mat-thien-than-thumb.jpg",
+    "poster_url": "cap-mat-thien-than-poster.jpg",
+    "year": 2001
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1364137",
+      "season": null,
+      "vote_average": 4.3,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt31689648",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T16:10:59.000Z"
+    },
+    "_id": "69fc5b91a54286c41baf1dd3",
+    "name": "Bàn tay bẩn",
+    "slug": "ban-tay-ban",
+    "origin_name": "Dirty Hands",
+    "thumb_url": "ban-tay-ban-thumb.jpg",
+    "poster_url": "ban-tay-ban-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1459612",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36957240",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T16:10:23.000Z"
+    },
+    "_id": "69fc5a64b692c7b208db0b41",
+    "name": "Mavka. The True Myth",
+    "slug": "mavka-the-true-myth",
+    "origin_name": "Mavka. The True Myth",
+    "thumb_url": "mavka-the-true-myth-thumb.jpg",
+    "poster_url": "mavka-the-true-myth-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1207162",
+      "season": null,
+      "vote_average": 5.7,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt25868520",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T16:09:48.000Z"
+    },
+    "_id": "69fc5bfa93c48ff6bff35321",
+    "name": "Rise of the Conqueror",
+    "slug": "rise-of-the-conqueror",
+    "origin_name": "Rise of the Conqueror",
+    "thumb_url": "rise-of-the-conqueror-thumb.jpg",
+    "poster_url": "rise-of-the-conqueror-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1146058",
+      "season": null,
+      "vote_average": 5.9,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt12824390",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-09T16:09:21.000Z"
+    },
+    "_id": "69fc5acb41d6bb2c315d7474",
+    "name": "Cá Con Cau Có",
+    "slug": "ca-con-cau-co",
+    "origin_name": "The Pout-Pout Fish",
+    "thumb_url": "ca-con-cau-co-thumb.jpg",
+    "poster_url": "ca-con-cau-co-poster.jpg",
+    "year": 2026
+  }
+]
