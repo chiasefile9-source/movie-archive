@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "253391",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt32268630",
+      "vote_average": 6.6,
+      "vote_count": 2842
+    },
+    "modified": {
+      "time": "2026-05-10T22:27:28.000Z"
+    },
+    "_id": "694b47ecb06c99c722eaa29f",
+    "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
+    "slug": "canh-sat-truong-vung-que-phan-1",
+    "origin_name": "Sheriff Country",
+    "thumb_url": "canh-sat-truong-vung-que-phan-1-thumb.jpg",
+    "poster_url": "canh-sat-truong-vung-que-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315438",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42022518",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T20:24:59.000Z"
+    },
+    "_id": "69f963cb91cc1b96d58fbb89",
+    "name": "LOVED ONE",
+    "slug": "loved-one",
+    "origin_name": "LOVED ONE",
+    "thumb_url": "loved-one-thumb.jpg",
+    "poster_url": "loved-one-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T20:23:54.000Z"
+    },
+    "_id": "6a006f6141d6bb2c315e433d",
+    "name": "Griya",
+    "slug": "griya",
+    "origin_name": "Griya",
+    "thumb_url": "griya-thumb.jpg",
+    "poster_url": "griya-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "245842",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 97
+    },
+    "imdb": {
+      "id": "tt31889371",
+      "vote_average": 7.5,
+      "vote_count": 3554
+    },
+    "modified": {
+      "time": "2026-05-10T20:23:22.000Z"
+    },
+    "_id": "69dbac0741d6bb2c315221e7",
+    "name": "Wistoria: Trượng và Kiếm (Phần 2)",
+    "slug": "wistoria-truong-va-kiem-phan-2",
+    "origin_name": "Wistoria: Wand and Sword (Season 2)",
+    "thumb_url": "wistoria-truong-va-kiem-phan-2-thumb.jpg",
+    "poster_url": "wistoria-truong-va-kiem-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306118",
+      "season": 1,
+      "vote_average": 9.438,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt39013436",
+      "vote_average": 6.5,
+      "vote_count": 971
+    },
+    "modified": {
+      "time": "2026-05-10T18:49:45.000Z"
+    },
+    "_id": "6947d108da6ce23e8e932ab7",
+    "name": "Ranh Giới Định Mệnh",
+    "slug": "ranh-gioi-dinh-menh",
+    "origin_name": "Bound by Fate",
+    "thumb_url": "ranh-gioi-dinh-menh-thumb.jpg",
+    "poster_url": "ranh-gioi-dinh-menh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272432",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32592348",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T18:48:14.000Z"
+    },
+    "_id": "69f86f7f15072466acf3cfc2",
+    "name": "Tội Phạm IQ Thấp",
+    "slug": "toi-pham-iq-thap",
+    "origin_name": "Born with Luck",
+    "thumb_url": "toi-pham-iq-thap-thumb.jpg",
+    "poster_url": "toi-pham-iq-thap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1292415",
+      "season": null,
+      "vote_average": 6.7,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt7708226",
+      "vote_average": 6.2,
+      "vote_count": 246
+    },
+    "modified": {
+      "time": "2026-05-10T18:45:03.000Z"
+    },
+    "_id": "69ff699a482e09b4282d6fb3",
+    "name": "Đấu võ sinh tử",
+    "slug": "dau-vo-sinh-tu-2026",
+    "origin_name": "Beast",
+    "thumb_url": "dau-vo-sinh-tu-2026-thumb.jpg",
+    "poster_url": "dau-vo-sinh-tu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T18:38:44.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124364",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 2553
+    },
+    "imdb": {
+      "id": "tt9813792",
+      "vote_average": 7.8,
+      "vote_count": 173600
+    },
+    "modified": {
+      "time": "2026-05-10T17:29:21.000Z"
+    },
+    "_id": "69e4fb962b874d6bfb6bbee5",
+    "name": "Thị Trấn Ác Mộng (Phần 4)",
+    "slug": "thi-tran-ac-mong-phan-4",
+    "origin_name": "FROM (Season 4)",
+    "thumb_url": "thi-tran-ac-mong-phan-4-thumb.jpg",
+    "poster_url": "thi-tran-ac-mong-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "65282",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 18
+    },
+    "imdb": {
+      "id": "tt11058644",
+      "vote_average": 7.6,
+      "vote_count": 3944
+    },
+    "modified": {
+      "time": "2026-05-10T14:33:47.000Z"
+    },
+    "_id": "62e210c5425c8969e5d579b6",
+    "name": "Tôi Sống Một Mình",
+    "origin_name": "I Live Alone",
+    "thumb_url": "toi-song-mot-minh-thumb.jpg",
+    "poster_url": "toi-song-mot-minh-poster.jpg",
+    "slug": "toi-song-mot-minh",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "288088",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41568021",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T14:33:07.000Z"
+    },
+    "_id": "6a0021fe93c48ff6bff40fc8",
+    "name": "Lưỡng Tâm Bất Nghi",
+    "slug": "luong-tam-bat-nghi",
+    "origin_name": "No Doubt in Us",
+    "thumb_url": "luong-tam-bat-nghi-thumb.jpg",
+    "poster_url": "luong-tam-bat-nghi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "91121",
+      "season": 1,
+      "vote_average": 7.4,
+      "vote_count": 21
+    },
+    "imdb": {
+      "id": "tt15334046",
+      "vote_average": 7.4,
+      "vote_count": 421
+    },
+    "modified": {
+      "time": "2026-05-10T13:11:29.000Z"
+    },
+    "_id": "685b522911ae6766a74ed39c",
+    "name": "Bạn Chơi Thế Nào?",
+    "slug": "ban-choi-the-nao",
+    "origin_name": "How Do You Play?",
+    "thumb_url": "ban-choi-the-nao-thumb.jpg",
+    "poster_url": "ban-choi-the-nao-poster.jpg",
+    "year": 2019
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "30801",
+      "season": 4,
+      "vote_average": 7.1,
+      "vote_count": 29
+    },
+    "imdb": {
+      "id": "tt3247300",
+      "vote_average": 8.2,
+      "vote_count": 298
+    },
+    "modified": {
+      "time": "2026-05-10T13:10:27.000Z"
+    },
+    "_id": "686e71b010265ba3d6bcaffd",
+    "name": "2 Ngày 1 Đêm (Phần 4)",
+    "slug": "2-ngay-1-dem-phan-4",
+    "origin_name": "2 Days and 1 Night (Season 4)",
+    "thumb_url": "2-ngay-1-dem-phan-4-thumb.jpg",
+    "poster_url": "2-ngay-1-dem-phan-4-poster.jpg",
+    "year": 2019
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306640",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39048555",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T13:09:54.000Z"
+    },
+    "_id": "69f60e1391cc1b96d58e5b60",
+    "name": "Những Bông Hoa Ác",
+    "slug": "nhung-bong-hoa-ac",
+    "origin_name": "The Flowers of Evil",
+    "thumb_url": "nhung-bong-hoa-ac-thumb.jpg",
+    "poster_url": "nhung-bong-hoa-ac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "291602",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37094954",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T13:09:31.000Z"
+    },
+    "_id": "69eb8a10da7d894068609364",
+    "name": "Hạ Mạt Sơ Kiến",
+    "slug": "ha-mat-so-kien",
+    "origin_name": "Last Summer",
+    "thumb_url": "ha-mat-so-kien-thumb.jpg",
+    "poster_url": "ha-mat-so-kien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320411",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41988433",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T12:25:10.000Z"
+    },
+    "_id": "69ecf4d5006591e10819c630",
+    "name": "Lưỡi Dao Trong Tay",
+    "slug": "luoi-dao-trong-tay",
+    "origin_name": "Within the Grip",
+    "thumb_url": "luoi-dao-trong-tay-thumb.jpg",
+    "poster_url": "luoi-dao-trong-tay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202297",
+      "season": 4,
+      "vote_average": 8.076,
+      "vote_count": 164
+    },
+    "imdb": {
+      "id": "tt16098700",
+      "vote_average": 7.1,
+      "vote_count": 16438
+    },
+    "modified": {
+      "time": "2026-05-10T11:39:37.000Z"
+    },
+    "_id": "693a839b8e1195b71e9271a9",
+    "name": "Vùng Đất Lửa (Phần 4)",
+    "slug": "fire-country-phan-4",
+    "origin_name": "Fire Country (Season 4)",
+    "thumb_url": "fire-country-phan-4-thumb.jpg",
+    "poster_url": "fire-country-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316675",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40727461",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T11:11:40.000Z"
+    },
+    "_id": "69fabe477e5a0662d4e8c1da",
+    "name": "Mặt Chẳng Theo Lòng",
+    "slug": "mat-chang-theo-long",
+    "origin_name": "The Double Game",
+    "thumb_url": "mat-chang-theo-long-thumb.jpg",
+    "poster_url": "mat-chang-theo-long-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "294462",
+      "season": 2,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T11:11:25.000Z"
+    },
+    "_id": "69f18f8316bc1b4174f8e13b",
+    "name": "Rể Hiền (Phần 2)",
+    "slug": "re-hien-phan-2",
+    "origin_name": "Royal Upstart (Season 2)",
+    "thumb_url": "re-hien-phan-2-thumb.jpg",
+    "poster_url": "re-hien-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283952",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt36758636",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T11:11:05.000Z"
+    },
+    "_id": "69f6caf9e53e6a47ad62ae1c",
+    "name": "Lương Trần Mỹ Cẩm",
+    "slug": "luong-tran-my-cam",
+    "origin_name": "A Splendid Match",
+    "thumb_url": "luong-tran-my-cam-thumb.jpg",
+    "poster_url": "luong-tran-my-cam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318840",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-10T11:10:32.000Z"
+    },
+    "_id": "69e84a9d006591e10818674d",
+    "name": "Có Một Lá Thư Gửi Từ Thành Phố Cảng",
+    "slug": "co-mot-la-thu-gui-tu-thanh-pho-cang",
+    "origin_name": "Echoes of Gang City",
+    "thumb_url": "co-mot-la-thu-gui-tu-thanh-pho-cang-thumb.jpg",
+    "poster_url": "co-mot-la-thu-gui-tu-thanh-pho-cang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "228429",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt28022382",
+      "vote_average": 8.1,
+      "vote_count": 432
+    },
+    "modified": {
+      "time": "2026-05-10T10:12:36.000Z"
+    },
+    "_id": "6496778689254768d75ee8e3",
+    "name": "Đấu La Đại Lục 2: Tuyệt Thế Đường Môn",
+    "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
+    "origin_name": "Soul Land 2: The Peerless Tang Clan",
+    "thumb_url": "dau-la-dai-luc-2-tuyet-the-duong-mon-thumb.jpg",
+    "poster_url": "dau-la-dai-luc-2-tuyet-the-duong-mon-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "79481",
+      "season": 5,
+      "vote_average": 8.2,
+      "vote_count": 57
+    },
+    "imdb": {
+      "id": "tt12409194",
+      "vote_average": 8.7,
+      "vote_count": 2938
+    },
+    "modified": {
+      "time": "2026-05-10T10:12:14.000Z"
+    },
+    "_id": "644f757ed95ac616c32b8c56",
+    "name": "Đấu Phá Thương Khung Ngoại Truyện",
+    "slug": "dau-pha-thuong-khung-ngoai-truyen",
+    "origin_name": "Fights Break Sphere S5",
+    "thumb_url": "dau-pha-thuong-khung-ngoai-truyen-thumb.jpg",
+    "poster_url": "dau-pha-thuong-khung-ngoai-truyen-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "256783",
+      "season": 2,
+      "vote_average": 8.9,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt32881130",
+      "vote_average": 0,
+      "vote_count": 46
+    },
+    "modified": {
+      "time": "2026-05-10T10:11:27.000Z"
+    },
+    "_id": "6975c133400bf394bd82ba12",
+    "name": "Còn Ra Thể Thống Gì Nữa? (Phần 2)",
+    "slug": "con-ra-the-thong-gi-nua-phan-2",
+    "origin_name": "How Dare You!? (Season 2)",
+    "thumb_url": "con-ra-the-thong-gi-nua-phan-2-thumb.jpg",
+    "poster_url": "con-ra-the-thong-gi-nua-phan-2-poster.jpg",
+    "year": 2026
+  }
+]
