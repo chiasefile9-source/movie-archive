@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292121",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39245629",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T22:22:31.000Z"
+    },
+    "_id": "69e5dda82b874d6bfb6c1986",
+    "name": "Bù Nhìn Bóng Đêm",
+    "slug": "bu-nhin-bong-dem",
+    "origin_name": "The Scarecrow",
+    "thumb_url": "bu-nhin-bong-dem-thumb.jpg",
+    "poster_url": "bu-nhin-bong-dem-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278174",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35006947",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T22:22:02.000Z"
+    },
+    "_id": "69afbabc124287e0825f6b36",
+    "name": "Girl Rules",
+    "slug": "girl-rules",
+    "origin_name": "Girl Rules",
+    "thumb_url": "girl-rules-thumb.jpg",
+    "poster_url": "girl-rules-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "116600",
+      "season": 2,
+      "vote_average": 5.9,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt7082442",
+      "vote_average": 7,
+      "vote_count": 1822
+    },
+    "modified": {
+      "time": "2026-05-11T20:13:03.000Z"
+    },
+    "_id": "6a01a393f0f815b6661d5a32",
+    "name": "Mọi người đều rất ổn (Phần 2)",
+    "slug": "everyone-is-doing-great-phan-2",
+    "origin_name": "Everyone Is Doing Great (Season 2)",
+    "thumb_url": "everyone-is-doing-great-phan-2-thumb.jpg",
+    "poster_url": "everyone-is-doing-great-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "116600",
+      "season": 1,
+      "vote_average": 5.9,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt7082442",
+      "vote_average": 7,
+      "vote_count": 1822
+    },
+    "modified": {
+      "time": "2026-05-11T20:12:10.000Z"
+    },
+    "_id": "6a01a33cf0f815b6661d5a09",
+    "name": "Mọi người đều rất ổn (Phần 1)",
+    "slug": "moi-nguoi-deu-rat-on-phan-1",
+    "origin_name": "Everyone Is Doing Great (Season 1)",
+    "thumb_url": "moi-nguoi-deu-rat-on-phan-1-thumb.jpg",
+    "poster_url": "moi-nguoi-deu-rat-on-phan-1-poster.jpg",
+    "year": 2021
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289708",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34992884",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T19:41:44.000Z"
+    },
+    "_id": "69fabdb041d6bb2c315cfb32",
+    "name": "Tình Ca Kashgar",
+    "slug": "tinh-ca-kashgar",
+    "origin_name": "Bloom Life",
+    "thumb_url": "tinh-ca-kashgar-thumb.jpg",
+    "poster_url": "tinh-ca-kashgar-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297640",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39010903",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T18:24:09.000Z"
+    },
+    "_id": "69ecebe9748ca16f08627461",
+    "name": "Thanh Tra Bí Mật",
+    "slug": "thanh-tra-bi-mat",
+    "origin_name": "Filing for Love",
+    "thumb_url": "thanh-tra-bi-mat-thumb.jpg",
+    "poster_url": "thanh-tra-bi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272432",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32592348",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T17:34:37.000Z"
+    },
+    "_id": "69f86f7f15072466acf3cfc2",
+    "name": "Tội Phạm IQ Thấp",
+    "slug": "toi-pham-iq-thap",
+    "origin_name": "Born with Luck",
+    "thumb_url": "toi-pham-iq-thap-thumb.jpg",
+    "poster_url": "toi-pham-iq-thap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T17:30:15.000Z"
+    },
+    "_id": "69f487916d4243e068f61e30",
+    "name": "Bắt Sóng Tình Duyên",
+    "slug": "bat-song-tinh-duyen",
+    "origin_name": "Rak Rak - Sense of Love",
+    "thumb_url": "bat-song-tinh-duyen-thumb.jpg",
+    "poster_url": "bat-song-tinh-duyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T17:28:18.000Z"
+    },
+    "_id": "692eb4b61cd57516cf6313d9",
+    "name": "Giai Ngẫu Thiên Thành",
+    "slug": "giai-ngau-thien-thanh",
+    "origin_name": "Fate Chooses You",
+    "thumb_url": "giai-ngau-thien-thanh-thumb.jpg",
+    "poster_url": "giai-ngau-thien-thanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "372754",
+      "season": null,
+      "vote_average": 8.281,
+      "vote_count": 438
+    },
+    "imdb": {
+      "id": "tt5526028",
+      "vote_average": 7.7,
+      "vote_count": 4398
+    },
+    "modified": {
+      "time": "2026-05-11T16:51:10.000Z"
+    },
+    "_id": "6a01a68c93c48ff6bff46528",
+    "name": "Dou kyu sei – Bạn cùng lớp",
+    "slug": "dou-kyu-sei-ban-cung-lop",
+    "origin_name": "Dou kyu sei – Classmates",
+    "thumb_url": "dou-kyu-sei-ban-cung-lop-thumb.jpg",
+    "poster_url": "dou-kyu-sei-ban-cung-lop-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "644479",
+      "season": null,
+      "vote_average": 8.3,
+      "vote_count": 513
+    },
+    "imdb": {
+      "id": "tt5869370",
+      "vote_average": 7.1,
+      "vote_count": 745
+    },
+    "modified": {
+      "time": "2026-05-11T16:50:34.000Z"
+    },
+    "_id": "6a01a66016bc1b4174fdf682",
+    "name": "Dành riêng cho người yêu cũ của tôi",
+    "slug": "danh-rieng-cho-nguoi-yeu-cu-cua-toi",
+    "origin_name": "Dedicated to my ex",
+    "thumb_url": "danh-rieng-cho-nguoi-yeu-cu-cua-toi-thumb.jpg",
+    "poster_url": "danh-rieng-cho-nguoi-yeu-cu-cua-toi-poster.jpg",
+    "year": 2019
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "42269",
+      "season": null,
+      "vote_average": 8.287,
+      "vote_count": 644
+    },
+    "imdb": {
+      "id": "tt0075793",
+      "vote_average": 8,
+      "vote_count": 7829
+    },
+    "modified": {
+      "time": "2026-05-11T16:50:00.000Z"
+    },
+    "_id": "6a01a62941d6bb2c315e86d2",
+    "name": "Chúng tôi yêu thương nhau rất nhiều.",
+    "slug": "chung-toi-yeu-thuong-nhau-rat-nhieu",
+    "origin_name": "We All Loved Each Other So Much",
+    "thumb_url": "chung-toi-yeu-thuong-nhau-rat-nhieu-thumb.jpg",
+    "poster_url": "chung-toi-yeu-thuong-nhau-rat-nhieu-poster.jpg",
+    "year": 1974
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "533514",
+      "season": null,
+      "vote_average": 8.292,
+      "vote_count": 506
+    },
+    "imdb": {
+      "id": "tt8652818",
+      "vote_average": 8.3,
+      "vote_count": 13914
+    },
+    "modified": {
+      "time": "2026-05-11T16:48:51.000Z"
+    },
+    "_id": "6a01a60015072466acf65e47",
+    "name": "Búp Bê Ký Ức: Hồi Ức Không Quên",
+    "slug": "bup-be-ky-uc-hoi-uc-khong-quen",
+    "origin_name": "Violet Evergarden: The Movie",
+    "thumb_url": "bup-be-ky-uc-hoi-uc-khong-quen-thumb.jpg",
+    "poster_url": "bup-be-ky-uc-hoi-uc-khong-quen-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "10494",
+      "season": null,
+      "vote_average": 8.3,
+      "vote_count": 3157
+    },
+    "imdb": {
+      "id": "tt0156887",
+      "vote_average": 8,
+      "vote_count": 119036
+    },
+    "modified": {
+      "time": "2026-05-11T16:48:13.000Z"
+    },
+    "_id": "6a01a5da91cc1b96d591bc55",
+    "name": "Màu Xanh Ảo Giác",
+    "slug": "mau-xanh-ao-giac",
+    "origin_name": "Perfect Blue",
+    "thumb_url": "mau-xanh-ao-giac-thumb.jpg",
+    "poster_url": "mau-xanh-ao-giac-poster.jpg",
+    "year": 1998
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "24128",
+      "season": null,
+      "vote_average": 8.328,
+      "vote_count": 360
+    },
+    "imdb": {
+      "id": "tt0088178",
+      "vote_average": 8.7,
+      "vote_count": 23621
+    },
+    "modified": {
+      "time": "2026-05-11T16:45:40.000Z"
+    },
+    "_id": "6a01a542da7d8940686757cb",
+    "name": "Đừng có ý nghĩa nữa",
+    "slug": "dung-co-y-nghia-nua",
+    "origin_name": "Stop Making Sense",
+    "thumb_url": "dung-co-y-nghia-nua-thumb.jpg",
+    "poster_url": "dung-co-y-nghia-nua-poster.jpg",
+    "year": 1984
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1542261",
+      "season": null,
+      "vote_average": 7.5,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt38201958",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T16:44:35.000Z"
+    },
+    "_id": "6a01a50041d6bb2c315e8633",
+    "name": "Doraemon: Phiên bản mới - Nobita Và Lâu Đài Dưới Đáy Biển",
+    "slug": "doraemon-phien-ban-moi-nobita-va-lau-dai-duoi-day-bien",
+    "origin_name": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
+    "thumb_url": "doraemon-phien-ban-moi-nobita-va-lau-dai-duoi-day-bien-thumb.jpg",
+    "poster_url": "doraemon-phien-ban-moi-nobita-va-lau-dai-duoi-day-bien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1368314",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt33763941",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T16:44:11.000Z"
+    },
+    "_id": "6a01a4e8b3a3583bbbb9dc69",
+    "name": "Khách",
+    "slug": "khach",
+    "origin_name": "Passenger",
+    "thumb_url": "khach-thumb.jpg",
+    "poster_url": "khach-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1102883",
+      "season": null,
+      "vote_average": 5.3,
+      "vote_count": 22
+    },
+    "imdb": {
+      "id": "tt27200708",
+      "vote_average": 4,
+      "vote_count": 563
+    },
+    "modified": {
+      "time": "2026-05-11T16:43:39.000Z"
+    },
+    "_id": "6a01a4c691cc1b96d591bbb8",
+    "name": "Hào Quang Trở Lại",
+    "slug": "hao-quang-tro-lai",
+    "origin_name": "Mother Mary",
+    "thumb_url": "hao-quang-tro-lai-thumb.jpg",
+    "poster_url": "hao-quang-tro-lai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1228710",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30825738",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T16:42:05.000Z"
+    },
+    "_id": "6a01a444f616ee3807e2cbfd",
+    "name": "Chiến tranh giữa các vì sao: Người Mandalorian và Grogu",
+    "slug": "chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu",
+    "origin_name": "Star Wars: The Mandalorian and Grogu",
+    "thumb_url": "chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu-thumb.jpg",
+    "poster_url": "chien-tranh-giua-cac-vi-sao-nguoi-mandalorian-va-grogu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1430077",
+      "season": null,
+      "vote_average": 6.8,
+      "vote_count": 27
+    },
+    "imdb": {
+      "id": "tt35672862",
+      "vote_average": 7.5,
+      "vote_count": 884
+    },
+    "modified": {
+      "time": "2026-05-11T16:40:39.000Z"
+    },
+    "_id": "6a01a41441d6bb2c315e85a4",
+    "name": "Ba Trợn",
+    "slug": "ba-tron",
+    "origin_name": "Hokum",
+    "thumb_url": "ba-tron-thumb.jpg",
+    "poster_url": "ba-tron-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290856",
+      "season": 1,
+      "vote_average": 7.076,
+      "vote_count": 119
+    },
+    "imdb": {
+      "id": "tt36849871",
+      "vote_average": 6,
+      "vote_count": 7720
+    },
+    "modified": {
+      "time": "2026-05-11T15:26:32.000Z"
+    },
+    "_id": "69aa268c400bf394bd8ea526",
+    "name": "Lực Lượng Marshals",
+    "slug": "marshals",
+    "origin_name": "Marshals",
+    "thumb_url": "marshals-thumb.jpg",
+    "poster_url": "marshals-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "411052",
+      "season": null,
+      "vote_average": 5.9,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt5514846",
+      "vote_average": 6.3,
+      "vote_count": 259
+    },
+    "modified": {
+      "time": "2026-05-11T14:56:11.000Z"
+    },
+    "_id": "6a018b974a74b3cede17c7dc",
+    "name": "Thiên đường trong bóng tối",
+    "slug": "thien-duong-trong-bong-toi",
+    "origin_name": "Heaven in the Dark",
+    "thumb_url": "thien-duong-trong-bong-toi-thumb.jpg",
+    "poster_url": "thien-duong-trong-bong-toi-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1676781",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36304485",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T14:54:30.000Z"
+    },
+    "_id": "6a018b33748ca16f0868d3db",
+    "name": "The Other Half of Me and You",
+    "slug": "the-other-half-of-me-and-you",
+    "origin_name": "The Other Half of Me and You",
+    "thumb_url": "the-other-half-of-me-and-you-thumb.jpg",
+    "poster_url": "the-other-half-of-me-and-you-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1245532",
+      "season": null,
+      "vote_average": 7.9,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt36217308",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-11T14:52:21.000Z"
+    },
+    "_id": "6a018ab293c48ff6bff45ddb",
+    "name": "Someone Like Me",
+    "slug": "someone-like-me",
+    "origin_name": "Someone Like Me",
+    "thumb_url": "someone-like-me-thumb.jpg",
+    "poster_url": "someone-like-me-poster.jpg",
+    "year": 2025
+  }
+]
