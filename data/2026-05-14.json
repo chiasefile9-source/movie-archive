@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "235930",
+      "season": 2,
+      "vote_average": 8.041,
+      "vote_count": 330
+    },
+    "imdb": {
+      "id": "tt15716776",
+      "vote_average": 7.4,
+      "vote_count": 26413
+    },
+    "modified": {
+      "time": "2026-05-13T22:52:42.000Z"
+    },
+    "_id": "6a04821fdb41bcecb8eb6be9",
+    "name": "Devil May Cry (Phần 2)",
+    "slug": "devil-may-cry-phan-2",
+    "origin_name": "Devil May Cry (Season 2)",
+    "thumb_url": "devil-may-cry-phan-2-thumb.jpg",
+    "poster_url": "devil-may-cry-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "65942",
+      "season": 4,
+      "vote_average": 7.8,
+      "vote_count": 598
+    },
+    "imdb": {
+      "id": "tt5607616",
+      "vote_average": 8.1,
+      "vote_count": 38414
+    },
+    "modified": {
+      "time": "2026-05-13T22:51:04.000Z"
+    },
+    "_id": "69e49396748ca16f085fb60a",
+    "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác (Phần 4)",
+    "slug": "rezero-−-bat-dau-o-the-gioi-khac-phan-4",
+    "origin_name": "Re:ZERO -Starting Life in Another World- Season 4",
+    "thumb_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-thumb.jpg",
+    "poster_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1403080",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30827025",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T22:49:43.000Z"
+    },
+    "_id": "69fc1424cec790794bfed07d",
+    "name": "Lần Nữa Đến Bên Em",
+    "slug": "lan-nua-den-ben-em",
+    "origin_name": "Love Beyond Dreams",
+    "thumb_url": "lan-nua-den-ben-em-thumb.jpg",
+    "poster_url": "lan-nua-den-ben-em-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "251883",
+      "season": 3,
+      "vote_average": 7.4,
+      "vote_count": 45
+    },
+    "imdb": {
+      "id": "tt28267514",
+      "vote_average": 6,
+      "vote_count": 21909
+    },
+    "modified": {
+      "time": "2026-05-13T22:47:04.000Z"
+    },
+    "_id": "6a048300f616ee3807e36033",
+    "name": "Cảm ơn, mời người tiếp theo! (Phần 3)",
+    "slug": "cam-on-moi-nguoi-tiep-theo-phan-3",
+    "origin_name": "Thank You, Next (Season 3)",
+    "thumb_url": "cam-on-moi-nguoi-tiep-theo-phan-3-thumb.jpg",
+    "poster_url": "cam-on-moi-nguoi-tiep-theo-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387440",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T20:56:41.000Z"
+    },
+    "_id": "69e8a475db41bcecb8e33fb6",
+    "name": "Hôm Nay Lại Bán Hết",
+    "slug": "hom-nay-lai-ban-het",
+    "origin_name": "Sold Out on You",
+    "thumb_url": "hom-nay-lai-ban-het-thumb.jpg",
+    "poster_url": "hom-nay-lai-ban-het-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259259",
+      "season": 2,
+      "vote_average": 7.75,
+      "vote_count": 34
+    },
+    "imdb": {
+      "id": "tt32932523",
+      "vote_average": 7.2,
+      "vote_count": 3594
+    },
+    "modified": {
+      "time": "2026-05-13T20:55:36.000Z"
+    },
+    "_id": "6a0482d84e2efe72885184a8",
+    "name": "Người yêu cũ tệ nhất (Phần 2)",
+    "slug": "nguoi-yeu-cu-te-nhat-phan-2",
+    "origin_name": "Worst Ex Ever (Season 2)",
+    "thumb_url": "nguoi-yeu-cu-te-nhat-phan-2-thumb.jpg",
+    "poster_url": "nguoi-yeu-cu-te-nhat-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "127865",
+      "season": 2,
+      "vote_average": 7.5,
+      "vote_count": 673
+    },
+    "imdb": {
+      "id": "tt10834220",
+      "vote_average": 7.6,
+      "vote_count": 62470
+    },
+    "modified": {
+      "time": "2026-05-13T20:54:13.000Z"
+    },
+    "_id": "6a048285b692c7b208dcb4ea",
+    "name": "Sát Nhân Hạt Dẻ (Phần 2)",
+    "slug": "sat-nhan-hat-de-phan-2",
+    "origin_name": "The Chestnut Man (Season 2)",
+    "thumb_url": "sat-nhan-hat-de-phan-2-thumb.jpg",
+    "poster_url": "sat-nhan-hat-de-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "270476",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt33332385",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T20:51:45.000Z"
+    },
+    "_id": "69f1ad2591cc1b96d58cb1e2",
+    "name": "Bí Ẩn Thị Trấn Widow's Bay",
+    "slug": "bi-an-thi-tran-widows-bay",
+    "origin_name": "Widow's Bay",
+    "thumb_url": "bi-an-thi-tran-widows-bay-thumb.jpg",
+    "poster_url": "bi-an-thi-tran-widows-bay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314916",
+      "season": 1,
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt35668813",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T20:51:11.000Z"
+    },
+    "_id": "6a03f0fa6d4243e068fa78a7",
+    "name": "Bản Năng Người Mẹ",
+    "slug": "ban-nang-nguoi-me-2026",
+    "origin_name": "Unconditional",
+    "thumb_url": "ban-nang-nguoi-me-2026-thumb.jpg",
+    "poster_url": "ban-nang-nguoi-me-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "245318",
+      "season": 1,
+      "vote_average": 7.438,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt31137273",
+      "vote_average": 6.9,
+      "vote_count": 742
+    },
+    "modified": {
+      "time": "2026-05-13T20:45:04.000Z"
+    },
+    "_id": "69df658b93c48ff6bfe91299",
+    "name": "Rắc Rối Tiền Bạc Của Margo",
+    "slug": "rac-roi-tien-bac-cua-margo",
+    "origin_name": "Margo's Got Money Troubles",
+    "thumb_url": "rac-roi-tien-bac-cua-margo-thumb.jpg",
+    "poster_url": "rac-roi-tien-bac-cua-margo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "204490",
+      "season": 2,
+      "vote_average": 6.6,
+      "vote_count": 133
+    },
+    "imdb": {
+      "id": "tt21088136",
+      "vote_average": 7.1,
+      "vote_count": 13056
+    },
+    "modified": {
+      "time": "2026-05-13T20:40:19.000Z"
+    },
+    "_id": "69e9ca1216bc1b4174f6ae69",
+    "name": "Hồ Sơ Tội Phạm (Phần 2)",
+    "slug": "ho-so-toi-pham-phan-2",
+    "origin_name": "Criminal Record (Season 2)",
+    "thumb_url": "ho-so-toi-pham-phan-2-thumb.jpg",
+    "poster_url": "ho-so-toi-pham-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321749",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42443184",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T20:38:45.000Z"
+    },
+    "_id": "6a02dd63b692c7b208dc5976",
+    "name": "Trốn Không Thoát Tội",
+    "slug": "tron-khong-thoat-toi",
+    "origin_name": "Inevitable Justice",
+    "thumb_url": "tron-khong-thoat-toi-thumb.jpg",
+    "poster_url": "tron-khong-thoat-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272432",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt32592348",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T20:36:46.000Z"
+    },
+    "_id": "69f86f7f15072466acf3cfc2",
+    "name": "Tội Phạm IQ Thấp",
+    "slug": "toi-pham-iq-thap",
+    "origin_name": "Born with Luck",
+    "thumb_url": "toi-pham-iq-thap-thumb.jpg",
+    "poster_url": "toi-pham-iq-thap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T20:31:07.000Z"
+    },
+    "_id": "6a047d1b31aa2678f8d3fd05",
+    "name": "Bố Vợ Tôi Là Mafia",
+    "slug": "bo-vo-toi-la-mafia",
+    "origin_name": "bapa mentuaku mafia",
+    "thumb_url": "bo-vo-toi-la-mafia-thumb.jpg",
+    "poster_url": "bo-vo-toi-la-mafia-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278113",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37253311",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T20:10:28.000Z"
+    },
+    "_id": "69f1f2ed4e2efe72884c0047",
+    "name": "Vùng Đất Vàng",
+    "slug": "vung-dat-vang",
+    "origin_name": "Gold Land",
+    "thumb_url": "vung-dat-vang-thumb.jpg",
+    "poster_url": "vung-dat-vang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "244189",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt40389354",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T20:04:39.000Z"
+    },
+    "_id": "69c6027ef063d23bbbd6882b",
+    "name": "Hướng Về Sao Băng Cầu Nguyện",
+    "slug": "huong-ve-sao-bang-cau-nguyen",
+    "origin_name": "Wishing Upon the Shooting Stars",
+    "thumb_url": "huong-ve-sao-bang-cau-nguyen-thumb.jpg",
+    "poster_url": "huong-ve-sao-bang-cau-nguyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72517",
+      "season": 4,
+      "vote_average": 8.405,
+      "vote_count": 766
+    },
+    "imdb": {
+      "id": "tt7263328",
+      "vote_average": 7.7,
+      "vote_count": 20411
+    },
+    "modified": {
+      "time": "2026-05-13T20:04:21.000Z"
+    },
+    "_id": "69cde6c8400bf394bd970fda",
+    "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+    "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+    "origin_name": "Classroom of the Elite (Season 4)",
+    "thumb_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+    "poster_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1678844",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T19:54:57.000Z"
+    },
+    "_id": "6a0446e941d6bb2c315f0b4b",
+    "name": "Xe buýt: Vụ nổi loạn của bóng đá Pháp",
+    "slug": "xe-buyt-vu-noi-loan-cua-bong-da-phap",
+    "origin_name": "The Bus: A French Football Mutiny",
+    "thumb_url": "xe-buyt-vu-noi-loan-cua-bong-da-phap-thumb.jpg",
+    "poster_url": "xe-buyt-vu-noi-loan-cua-bong-da-phap-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1620034",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39382052",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T19:54:40.000Z"
+    },
+    "_id": "6a0444c693c48ff6bff4e88b",
+    "name": "Marty, cuộc đời ngắn lắm",
+    "slug": "marty-cuoc-doi-ngan-lam",
+    "origin_name": "Marty, Life Is Short",
+    "thumb_url": "marty-cuoc-doi-ngan-lam-thumb.jpg",
+    "poster_url": "marty-cuoc-doi-ngan-lam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321338",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42171045",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T19:54:16.000Z"
+    },
+    "_id": "6a044696db41bcecb8eb5c0f",
+    "name": "Giữa cha và con trai",
+    "slug": "giua-cha-va-con-trai",
+    "origin_name": "Between Father and Son",
+    "thumb_url": "giua-cha-va-con-trai-thumb.jpg",
+    "poster_url": "giua-cha-va-con-trai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "253736",
+      "season": 2,
+      "vote_average": 6,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt32307068",
+      "vote_average": 6.8,
+      "vote_count": 579
+    },
+    "modified": {
+      "time": "2026-05-13T19:53:08.000Z"
+    },
+    "_id": "6a04456f748ca16f08695c89",
+    "name": "Gà trống (Phần 2)",
+    "slug": "ga-trong-phan-2",
+    "origin_name": "Roosters (Season 2)",
+    "thumb_url": "ga-trong-phan-2-thumb.jpg",
+    "poster_url": "ga-trong-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1684240",
+      "season": null,
+      "vote_average": 9.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt41777258",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-13T19:52:24.000Z"
+    },
+    "_id": "6a04451dcec790794b007d08",
+    "name": "Bí mật giới thể thao Anh quốc: Jamie Vardy",
+    "slug": "bi-mat-gioi-the-thao-anh-quoc-jamie-vardy",
+    "origin_name": "Untold UK: Jamie Vardy",
+    "thumb_url": "bi-mat-gioi-the-thao-anh-quoc-jamie-vardy-thumb.jpg",
+    "poster_url": "bi-mat-gioi-the-thao-anh-quoc-jamie-vardy-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "669356",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt1402593",
+      "vote_average": 7.6,
+      "vote_count": 5
+    },
+    "modified": {
+      "time": "2026-05-13T15:40:35.000Z"
+    },
+    "_id": "6a043900e53e6a47ad665507",
+    "name": "You Can't Win",
+    "slug": "you-cant-win",
+    "origin_name": "You Can't Win",
+    "thumb_url": "you-cant-win-thumb.jpg",
+    "poster_url": "you-cant-win-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1527004",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt38533212",
+      "vote_average": 0,
+      "vote_count": 53
+    },
+    "modified": {
+      "time": "2026-05-13T15:34:16.000Z"
+    },
+    "_id": "6a043778db41bcecb8eb574e",
+    "name": "All Shades of Temptation",
+    "slug": "all-shades-of-temptation",
+    "origin_name": "All Shades of Temptation",
+    "thumb_url": "all-shades-of-temptation-thumb.jpg",
+    "poster_url": "all-shades-of-temptation-poster.jpg",
+    "year": 2026
+  }
+]
