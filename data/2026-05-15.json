@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302071",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T21:32:20.000Z"
+    },
+    "_id": "6a05b50715072466acf722f9",
+    "name": "Tường Tự Ký",
+    "slug": "tuong-tu-ky",
+    "origin_name": "Xiang Xu Ji",
+    "thumb_url": "tuong-tu-ky-thumb.jpg",
+    "poster_url": "tuong-tu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387440",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T21:30:21.000Z"
+    },
+    "_id": "69e8a475db41bcecb8e33fb6",
+    "name": "Hôm Nay Lại Bán Hết",
+    "slug": "hom-nay-lai-ban-het",
+    "origin_name": "Sold Out on You",
+    "thumb_url": "hom-nay-lai-ban-het-thumb.jpg",
+    "poster_url": "hom-nay-lai-ban-het-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72976",
+      "season": 5,
+      "vote_average": 6.6,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt16444020",
+      "vote_average": 7.4,
+      "vote_count": 74
+    },
+    "modified": {
+      "time": "2026-05-14T20:41:26.000Z"
+    },
+    "_id": "69dfcfeb41d6bb2c315360fb",
+    "name": "Nhịp Đập Trái Tim (Phần 5)",
+    "slug": "nhip-dap-trai-tim-phan-5",
+    "origin_name": "Heart Signal (Season 5)",
+    "thumb_url": "nhip-dap-trai-tim-phan-5-thumb.jpg",
+    "poster_url": "nhip-dap-trai-tim-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1368337",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt33764258",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T20:12:53.000Z"
+    },
+    "_id": "6a05ca4de53e6a47ad669f9a",
+    "name": "Cuộc phiêu lưu",
+    "slug": "cuoc-phieu-luu",
+    "origin_name": "The Odyssey",
+    "thumb_url": "cuoc-phieu-luu-thumb.jpg",
+    "poster_url": "cuoc-phieu-luu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1352874",
+      "season": null,
+      "vote_average": 5.9,
+      "vote_count": 40
+    },
+    "imdb": {
+      "id": "tt32059878",
+      "vote_average": 0,
+      "vote_count": 71
+    },
+    "modified": {
+      "time": "2026-05-14T20:12:21.000Z"
+    },
+    "_id": "6a05ca307e5a0662d4eb16b9",
+    "name": "Thánh Giá: Máu của Kẻ Trừ Tà",
+    "slug": "thanh-gia-mau-cua-ke-tru-ta",
+    "origin_name": "The Crucifix: Blood of the Exorcist",
+    "thumb_url": "thanh-gia-mau-cua-ke-tru-ta-thumb.jpg",
+    "poster_url": "thanh-gia-mau-cua-ke-tru-ta-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "441168",
+      "season": null,
+      "vote_average": 5.8,
+      "vote_count": 160
+    },
+    "imdb": {
+      "id": "tt6237208",
+      "vote_average": 5.2,
+      "vote_count": 1873
+    },
+    "modified": {
+      "time": "2026-05-14T20:11:18.000Z"
+    },
+    "_id": "6a05c9f341d6bb2c315f5138",
+    "name": "Từ điểm A tuyệt đối đến XXX",
+    "slug": "tu-diem-a-tuyet-doi-den-xxx",
+    "origin_name": "From Straight A's to XXX",
+    "thumb_url": "tu-diem-a-tuyet-doi-den-xxx-thumb.jpg",
+    "poster_url": "tu-diem-a-tuyet-doi-den-xxx-poster.jpg",
+    "year": 2017
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1317448",
+      "season": null,
+      "vote_average": 6.743,
+      "vote_count": 35
+    },
+    "imdb": {
+      "id": "tt34906817",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T20:10:41.000Z"
+    },
+    "_id": "6a05c9cf482e09b4282eb484",
+    "name": "Không có nơi nào để ở một mình",
+    "slug": "khong-co-noi-nao-de-o-mot-minh",
+    "origin_name": "No Place to Be Single",
+    "thumb_url": "khong-co-noi-nao-de-o-mot-minh-thumb.jpg",
+    "poster_url": "khong-co-noi-nao-de-o-mot-minh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1177445",
+      "season": null,
+      "vote_average": 4.5,
+      "vote_count": 10
+    },
+    "imdb": {
+      "id": "tt27480944",
+      "vote_average": 7.4,
+      "vote_count": 59
+    },
+    "modified": {
+      "time": "2026-05-14T20:09:55.000Z"
+    },
+    "_id": "6a05c99db3a3583bbbbaa6f1",
+    "name": "Cannibal Mukbang",
+    "slug": "cannibal-mukbang",
+    "origin_name": "Cannibal Mukbang",
+    "thumb_url": "cannibal-mukbang-thumb.jpg",
+    "poster_url": "cannibal-mukbang-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "458293",
+      "season": null,
+      "vote_average": 6.541,
+      "vote_count": 111
+    },
+    "imdb": {
+      "id": "tt6428912",
+      "vote_average": 6.2,
+      "vote_count": 1816
+    },
+    "modified": {
+      "time": "2026-05-14T20:09:21.000Z"
+    },
+    "_id": "6a05c97d31aa2678f8d434b7",
+    "name": "Michael Jackson: Đi tìm xứ sở Neverland",
+    "slug": "michael-jackson-di-tim-xu-so-neverland",
+    "origin_name": "Michael Jackson: Searching for Neverland",
+    "thumb_url": "michael-jackson-di-tim-xu-so-neverland-thumb.jpg",
+    "poster_url": "michael-jackson-di-tim-xu-so-neverland-poster.jpg",
+    "year": 2017
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "78192",
+      "season": null,
+      "vote_average": 8.075,
+      "vote_count": 159
+    },
+    "imdb": {
+      "id": "tt2113007",
+      "vote_average": 7.2,
+      "vote_count": 1353
+    },
+    "modified": {
+      "time": "2026-05-14T20:08:14.000Z"
+    },
+    "_id": "6a05c93cb3a3583bbbbaa6ac",
+    "name": "Michael Jackson: Cuộc đời của một biểu tượng",
+    "slug": "michael-jackson-cuoc-doi-cua-mot-bieu-tuong",
+    "origin_name": "Michael Jackson: The Life of an Icon",
+    "thumb_url": "michael-jackson-cuoc-doi-cua-mot-bieu-tuong-thumb.jpg",
+    "poster_url": "michael-jackson-cuoc-doi-cua-mot-bieu-tuong-poster.jpg",
+    "year": 2011
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "976912",
+      "season": null,
+      "vote_average": 6.85,
+      "vote_count": 60
+    },
+    "imdb": {
+      "id": "tt13452544",
+      "vote_average": 4.2,
+      "vote_count": 536
+    },
+    "modified": {
+      "time": "2026-05-14T20:07:40.000Z"
+    },
+    "_id": "6a05c914e53e6a47ad669ea6",
+    "name": "Mong muốn đồ họa",
+    "slug": "mong-muon-do-hoa",
+    "origin_name": "Graphic Desires",
+    "thumb_url": "mong-muon-do-hoa-thumb.jpg",
+    "poster_url": "mong-muon-do-hoa-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "440249",
+      "season": null,
+      "vote_average": 5.4,
+      "vote_count": 251
+    },
+    "imdb": {
+      "id": "tt5168832",
+      "vote_average": 5.5,
+      "vote_count": 2886
+    },
+    "modified": {
+      "time": "2026-05-14T20:06:59.000Z"
+    },
+    "_id": "6a05c8d615072466acf72779",
+    "name": "Sau khi phim khiêu dâm kết thúc 2",
+    "slug": "sau-khi-phim-khieu-dam-ket-thuc-2",
+    "origin_name": "After Porn Ends 2",
+    "thumb_url": "sau-khi-phim-khieu-dam-ket-thuc-2-thumb.jpg",
+    "poster_url": "sau-khi-phim-khieu-dam-ket-thuc-2-poster.jpg",
+    "year": 2017
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1235192",
+      "season": null,
+      "vote_average": 5.8,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt27040807",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T20:04:49.000Z"
+    },
+    "_id": "6a05c86e93c48ff6bff52db1",
+    "name": "Thị trấn giun đất",
+    "slug": "thi-tran-giun-dat",
+    "origin_name": "Wormtown",
+    "thumb_url": "thi-tran-giun-dat-thumb.jpg",
+    "poster_url": "thi-tran-giun-dat-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289560",
+      "season": 1,
+      "vote_average": 8.1,
+      "vote_count": 39
+    },
+    "imdb": {
+      "id": "tt35515227",
+      "vote_average": 0,
+      "vote_count": 24
+    },
+    "modified": {
+      "time": "2026-05-14T19:59:58.000Z"
+    },
+    "_id": "69f09c434a74b3cede1263a3",
+    "name": "CIA (Phần 1)",
+    "slug": "cia-phan-1",
+    "origin_name": "CIA",
+    "thumb_url": "cia-phan-1-thumb.jpg",
+    "poster_url": "cia-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "855435",
+      "season": null,
+      "vote_average": 5.1,
+      "vote_count": 26
+    },
+    "imdb": {
+      "id": "tt14619456",
+      "vote_average": 6.5,
+      "vote_count": 1174
+    },
+    "modified": {
+      "time": "2026-05-14T18:44:35.000Z"
+    },
+    "_id": "6a05b5a37e5a0662d4eb1148",
+    "name": "Muôn Mặt Cái Chết",
+    "slug": "muon-mat-cai-chet",
+    "origin_name": "Faces of Death",
+    "thumb_url": "muon-mat-cai-chet-thumb.jpg",
+    "poster_url": "muon-mat-cai-chet-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "258063",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32809226",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T15:50:44.000Z"
+    },
+    "_id": "6a0579a6482e09b4282ea47f",
+    "name": "Bạn Tri Kỷ",
+    "slug": "ban-tri-ky",
+    "origin_name": "Soul Mate",
+    "thumb_url": "ban-tri-ky-thumb.jpg",
+    "poster_url": "ban-tri-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "285807",
+      "season": 1,
+      "vote_average": 6.667,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt36022742",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T15:42:19.000Z"
+    },
+    "_id": "6a0579564e2efe728851aa38",
+    "name": "Tử Thù",
+    "slug": "tu-thu",
+    "origin_name": "Nemesis",
+    "thumb_url": "tu-thu-thumb.jpg",
+    "poster_url": "tu-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T15:36:41.000Z"
+    },
+    "_id": "6a03f735b3a3583bbbba4b5d",
+    "name": "Bổn Huyền Nha Là Phúc Tinh",
+    "slug": "bon-huyen-nha-la-phuc-tinh",
+    "origin_name": "The Crow Princess of Fortune",
+    "thumb_url": "bon-huyen-nha-la-phuc-tinh-thumb.jpg",
+    "poster_url": "bon-huyen-nha-la-phuc-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321749",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42443184",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T14:58:33.000Z"
+    },
+    "_id": "6a02dd63b692c7b208dc5976",
+    "name": "Trốn Không Thoát Tội",
+    "slug": "tron-khong-thoat-toi",
+    "origin_name": "Inevitable Justice",
+    "thumb_url": "tron-khong-thoat-toi-thumb.jpg",
+    "poster_url": "tron-khong-thoat-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254486",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31887969",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T13:37:11.000Z"
+    },
+    "_id": "6a0341a9da7d89406867aaae",
+    "name": "Vũ Lâm Linh",
+    "slug": "vu-lam-linh",
+    "origin_name": "Zhan Zhao Adventures",
+    "thumb_url": "vu-lam-linh-thumb.jpg",
+    "poster_url": "vu-lam-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "75191",
+      "season": 3,
+      "vote_average": 7.346,
+      "vote_count": 970
+    },
+    "imdb": {
+      "id": "tt2708480",
+      "vote_average": 7.8,
+      "vote_count": 61205
+    },
+    "modified": {
+      "time": "2026-05-14T13:34:55.000Z"
+    },
+    "_id": "6a055b84f616ee3807e37ea9",
+    "name": "Chuyện Kinh Hoàng (Phần 3)",
+    "slug": "chuyen-kinh-hoang-phan-3",
+    "origin_name": "The Terror (Season 3)",
+    "thumb_url": "chuyen-kinh-hoang-phan-3-thumb.jpg",
+    "poster_url": "chuyen-kinh-hoang-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1439930",
+      "season": null,
+      "vote_average": 8.576,
+      "vote_count": 225
+    },
+    "imdb": {
+      "id": "tt36042156",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T13:33:30.000Z"
+    },
+    "_id": "6a0569d015072466acf713f3",
+    "name": "Một Chương Trình Đặc Biệt từ Marvel Television - The Punisher: Phát Súng Cuối Cùng",
+    "slug": "mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung",
+    "origin_name": "A Marvel Television Special Presentation - The Punisher: One Last Kill",
+    "thumb_url": "mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung-thumb.jpg",
+    "poster_url": "mot-chuong-trinh-dac-biet-tu-marvel-television-the-punisher-phat-sung-cuoi-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "94404",
+      "season": 2,
+      "vote_average": 8.3,
+      "vote_count": 395
+    },
+    "imdb": {
+      "id": "tt11147852",
+      "vote_average": 8,
+      "vote_count": 14145
+    },
+    "modified": {
+      "time": "2026-05-14T13:27:25.000Z"
+    },
+    "_id": "69cde57fb06c99c722027faa",
+    "name": "Dị thú ma đô (Phần 2)",
+    "slug": "di-thu-ma-do-phan-2",
+    "origin_name": "Dorohedoro (Season 2)",
+    "thumb_url": "di-thu-ma-do-phan-2-thumb.jpg",
+    "poster_url": "di-thu-ma-do-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318006",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41732861",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-14T13:27:08.000Z"
+    },
+    "_id": "69dfb02615072466aceb2819",
+    "name": "Hình Phạt Vì Yêu Em",
+    "slug": "hinh-phat-vi-yeu-em",
+    "origin_name": "Love's Shattered Reflections",
+    "thumb_url": "hinh-phat-vi-yeu-em-thumb.jpg",
+    "poster_url": "hinh-phat-vi-yeu-em-poster.jpg",
+    "year": 2026
+  }
+]
