@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278573",
+      "season": 1,
+      "vote_average": 9.1,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt39333617",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T23:13:34.000Z"
+    },
+    "_id": "69d8f14d7e5a0662d4dd2f64",
+    "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+    "slug": "phu-nhan-dai-quan-the-ky-21",
+    "origin_name": "Perfect Crown",
+    "thumb_url": "phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+    "poster_url": "phu-nhan-dai-quan-the-ky-21-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 4,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-15T22:09:12.000Z"
+    },
+    "_id": "6a06f390482e09b4282eddc0",
+    "name": "Gia đình Heck (Phần 4)",
+    "slug": "gia-dinh-heck-phan-4",
+    "origin_name": "The Middle (Season 4)",
+    "thumb_url": "gia-dinh-heck-phan-4-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-4-poster.jpg",
+    "year": 2012
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 3,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-15T21:57:34.000Z"
+    },
+    "_id": "6a06f374748ca16f0869ccd9",
+    "name": "Gia đình Heck (Phần 3)",
+    "slug": "gia-dinh-heck-phan-3",
+    "origin_name": "The Middle (Season 3)",
+    "thumb_url": "gia-dinh-heck-phan-3-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-3-poster.jpg",
+    "year": 2011
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-15T21:57:09.000Z"
+    },
+    "_id": "6a06f2fadb41bcecb8ebca58",
+    "name": "Gia đình Heck (Phần 2)",
+    "slug": "gia-dinh-heck-phan-2",
+    "origin_name": "The Middle (Season 2)",
+    "thumb_url": "gia-dinh-heck-phan-2-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-2-poster.jpg",
+    "year": 2010
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1584452",
+      "season": null,
+      "vote_average": 7,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39288671",
+      "vote_average": 0,
+      "vote_count": 9
+    },
+    "modified": {
+      "time": "2026-05-15T19:26:20.000Z"
+    },
+    "_id": "6a070cbcda7d894068685098",
+    "name": "Psoty",
+    "slug": "psoty",
+    "origin_name": "Psoty",
+    "thumb_url": "psoty-thumb.jpg",
+    "poster_url": "psoty-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1662317",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40792117",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T17:26:55.000Z"
+    },
+    "_id": "6a06f4ed4e2efe728851e456",
+    "name": "Vụ đụng xe thảm khốc",
+    "slug": "vu-dung-xe-tham-khoc",
+    "origin_name": "The Crash",
+    "thumb_url": "vu-dung-xe-tham-khoc-thumb.jpg",
+    "poster_url": "vu-dung-xe-tham-khoc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 9,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-15T17:23:54.000Z"
+    },
+    "_id": "6a06f41ab692c7b208dd1216",
+    "name": "Gia đình Heck (Phần 9)",
+    "slug": "gia-dinh-heck-phan-9",
+    "origin_name": "The Middle (Season 9)",
+    "thumb_url": "gia-dinh-heck-phan-9-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-9-poster.jpg",
+    "year": 2017
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 8,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-15T17:22:57.000Z"
+    },
+    "_id": "6a06f3ff91cc1b96d592b1cb",
+    "name": "Gia đình Heck (Phần 8)",
+    "slug": "gia-dinh-heck-phan-8",
+    "origin_name": "The Middle (Season 8)",
+    "thumb_url": "gia-dinh-heck-phan-8-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-8-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 7,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-15T17:22:29.000Z"
+    },
+    "_id": "6a06f3e36d4243e068faff3a",
+    "name": "Gia đình Heck (Phần 7)",
+    "slug": "gia-dinh-heck-phan-7",
+    "origin_name": "The Middle (Season 7)",
+    "thumb_url": "gia-dinh-heck-phan-7-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-7-poster.jpg",
+    "year": 2015
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 6,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-15T17:21:59.000Z"
+    },
+    "_id": "6a06f3c4da7d894068684bf7",
+    "name": "Gia đình Heck (Phần 6)",
+    "slug": "gia-dinh-heck-phan-6",
+    "origin_name": "The Middle (Season 6)",
+    "thumb_url": "gia-dinh-heck-phan-6-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-6-poster.jpg",
+    "year": 2014
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 5,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-15T17:21:33.000Z"
+    },
+    "_id": "6a06f3aab3a3583bbbbacfbe",
+    "name": "Gia đình Heck (Phần 5)",
+    "slug": "gia-dinh-heck-phan-5",
+    "origin_name": "The Middle (Season 5)",
+    "thumb_url": "gia-dinh-heck-phan-5-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-5-poster.jpg",
+    "year": 2013
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 1,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-15T17:18:12.000Z"
+    },
+    "_id": "6a06f2e2db41bcecb8ebca42",
+    "name": "Gia đình Heck (Phần 1)",
+    "slug": "gia-dinh-heck-phan-1",
+    "origin_name": "The Middle (Season 1)",
+    "thumb_url": "gia-dinh-heck-phan-1-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-1-poster.jpg",
+    "year": 2009
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1628367",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39664733",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T16:33:55.000Z"
+    },
+    "_id": "6a06d3e415072466acf74a38",
+    "name": "Nghĩa Vụ",
+    "slug": "nghia-vu",
+    "origin_name": "Kartavya",
+    "thumb_url": "nghia-vu-thumb.jpg",
+    "poster_url": "nghia-vu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317379",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38984263",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T16:33:40.000Z"
+    },
+    "_id": "6a069b676d4243e068faef2f",
+    "name": "Good Boys Go to Heaven",
+    "slug": "good-boys-go-to-heaven",
+    "origin_name": "Good Boys Go to Heaven",
+    "thumb_url": "good-boys-go-to-heaven-thumb.jpg",
+    "poster_url": "good-boys-go-to-heaven-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1684226",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T16:33:19.000Z"
+    },
+    "_id": "6a06d4de16bc1b4174fee1f7",
+    "name": "Cô Dâu Của Năm",
+    "slug": "co-dau-cua-nam",
+    "origin_name": "Bride of the Year",
+    "thumb_url": "co-dau-cua-nam-thumb.jpg",
+    "poster_url": "co-dau-cua-nam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259837",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34440854",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T16:32:51.000Z"
+    },
+    "_id": "6a06d46af616ee3807e3b727",
+    "name": "Biệt Đội Siêu Khờ",
+    "slug": "biet-doi-sieu-kho",
+    "origin_name": "The WONDERfools",
+    "thumb_url": "biet-doi-sieu-kho-thumb.jpg",
+    "poster_url": "biet-doi-sieu-kho-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "308014",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42178219",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T16:32:21.000Z"
+    },
+    "_id": "6a06d56ff0f815b6661e47fa",
+    "name": "Berlin và bức họa Người đàn bà và con chồn",
+    "slug": "berlin-va-buc-hoa-nguoi-dan-ba-va-con-chon",
+    "origin_name": "Berlin and the Lady with an Ermine",
+    "thumb_url": "berlin-va-buc-hoa-nguoi-dan-ba-va-con-chon-thumb.jpg",
+    "poster_url": "berlin-va-buc-hoa-nguoi-dan-ba-va-con-chon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321492",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T15:55:24.000Z"
+    },
+    "_id": "69f9f73a006591e1081e5a12",
+    "name": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+    "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+    "origin_name": "Unplanned Trip: Limited Edition",
+    "thumb_url": "chuyen-di-ngau-hung-ban-gioi-han-thumb.jpg",
+    "poster_url": "chuyen-di-ngau-hung-ban-gioi-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "73036",
+      "season": 2,
+      "vote_average": 8.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt4546444",
+      "vote_average": 8.2,
+      "vote_count": 38
+    },
+    "modified": {
+      "time": "2026-05-15T15:55:05.000Z"
+    },
+    "_id": "69eb8aff482e09b42827280a",
+    "name": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
+    "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
+    "origin_name": "Chef & My Fridge (Season 2)",
+    "thumb_url": "cham-soc-tu-lanh-cua-toi-nhe-phan-2-thumb.jpg",
+    "poster_url": "cham-soc-tu-lanh-cua-toi-nhe-phan-2-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319339",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T15:54:39.000Z"
+    },
+    "_id": "69f212dddb41bcecb8e5f5de",
+    "name": "6 Người Ế Ở Chung Nhà",
+    "slug": "6-nguoi-e-o-chung-nha",
+    "origin_name": "Six Singles Under One Roof",
+    "thumb_url": "6-nguoi-e-o-chung-nha-thumb.jpg",
+    "poster_url": "6-nguoi-e-o-chung-nha-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254486",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31887969",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T15:45:54.000Z"
+    },
+    "_id": "6a0341a9da7d89406867aaae",
+    "name": "Vũ Lâm Linh",
+    "slug": "vu-lam-linh",
+    "origin_name": "Zhan Zhao Adventures",
+    "thumb_url": "vu-lam-linh-thumb.jpg",
+    "poster_url": "vu-lam-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321749",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42443184",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-15T15:23:31.000Z"
+    },
+    "_id": "6a02dd63b692c7b208dc5976",
+    "name": "Trốn Không Thoát Tội",
+    "slug": "tron-khong-thoat-toi",
+    "origin_name": "Inevitable Justice",
+    "thumb_url": "tron-khong-thoat-toi-thumb.jpg",
+    "poster_url": "tron-khong-thoat-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241609",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 189
+    },
+    "imdb": {
+      "id": "tt30459041",
+      "vote_average": 7.7,
+      "vote_count": 47480
+    },
+    "modified": {
+      "time": "2026-05-15T15:23:16.000Z"
+    },
+    "_id": "69d74fed91cc1b96d584364e",
+    "name": "Bạn Bè & Hàng Xóm (Phần 2)",
+    "slug": "ban-be-and-hang-xom-phan-2",
+    "origin_name": "Your Friends & Neighbors (Season 2)",
+    "thumb_url": "ban-be-and-hang-xom-phan-2-thumb.jpg",
+    "poster_url": "ban-be-and-hang-xom-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "87917",
+      "season": 5,
+      "vote_average": 7.738,
+      "vote_count": 901
+    },
+    "imdb": {
+      "id": "tt7772588",
+      "vote_average": 8.1,
+      "vote_count": 84321
+    },
+    "modified": {
+      "time": "2026-05-15T15:21:41.000Z"
+    },
+    "_id": "69c64b534da3bf6eb345b5c0",
+    "name": "Cuộc Chiến Không Gian (Phần 5)",
+    "slug": "cuoc-chien-khong-gianphan-5",
+    "origin_name": "For All Mankind (Season 5)",
+    "thumb_url": "cuoc-chien-khong-gianphan-5-thumb.jpg",
+    "poster_url": "cuoc-chien-khong-gianphan-5-poster.jpg",
+    "year": 2026
+  }
+]
