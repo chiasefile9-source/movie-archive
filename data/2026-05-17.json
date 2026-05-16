@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278573",
+      "season": 1,
+      "vote_average": 9.1,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt39333617",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T23:36:57.000Z"
+    },
+    "_id": "69d8f14d7e5a0662d4dd2f64",
+    "name": "Phu Nhân Đại Quân Thế Kỷ 21",
+    "slug": "phu-nhan-dai-quan-the-ky-21",
+    "origin_name": "Perfect Crown",
+    "thumb_url": "phu-nhan-dai-quan-the-ky-21-thumb.jpg",
+    "poster_url": "phu-nhan-dai-quan-the-ky-21-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315172",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41863606",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T23:04:17.000Z"
+    },
+    "_id": "69e9ef6af0f815b666161eb7",
+    "name": "Vũ Điệu Tình Thù",
+    "slug": "vu-dieu-tinh-thu",
+    "origin_name": "The Bangkok Red Opera",
+    "thumb_url": "vu-dieu-tinh-thu-thumb.jpg",
+    "poster_url": "vu-dieu-tinh-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283952",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt36758636",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T23:02:44.000Z"
+    },
+    "_id": "69f6caf9e53e6a47ad62ae1c",
+    "name": "Lương Trần Mỹ Cẩm",
+    "slug": "luong-tran-my-cam",
+    "origin_name": "A Splendid Match",
+    "thumb_url": "luong-tran-my-cam-thumb.jpg",
+    "poster_url": "luong-tran-my-cam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302074",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 23
+    },
+    "imdb": {
+      "id": "tt37063558",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T22:52:53.000Z"
+    },
+    "_id": "6a068dc8b3a3583bbbbabd15",
+    "name": "Thám Tử R.J. Decker",
+    "slug": "rj-decker",
+    "origin_name": "R.J. Decker",
+    "thumb_url": "rj-decker-thumb.jpg",
+    "poster_url": "rj-decker-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 7,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-16T22:27:40.000Z"
+    },
+    "_id": "6a06f3e36d4243e068faff3a",
+    "name": "Gia đình Heck (Phần 7)",
+    "slug": "gia-dinh-heck-phan-7",
+    "origin_name": "The Middle (Season 7)",
+    "thumb_url": "gia-dinh-heck-phan-7-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-7-poster.jpg",
+    "year": 2015
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254486",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31887969",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T21:56:19.000Z"
+    },
+    "_id": "6a0341a9da7d89406867aaae",
+    "name": "Vũ Lâm Linh",
+    "slug": "vu-lam-linh",
+    "origin_name": "Zhan Zhao Adventures",
+    "thumb_url": "vu-lam-linh-thumb.jpg",
+    "poster_url": "vu-lam-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 6,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-16T21:20:12.000Z"
+    },
+    "_id": "6a06f3c4da7d894068684bf7",
+    "name": "Gia đình Heck (Phần 6)",
+    "slug": "gia-dinh-heck-phan-6",
+    "origin_name": "The Middle (Season 6)",
+    "thumb_url": "gia-dinh-heck-phan-6-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-6-poster.jpg",
+    "year": 2014
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 5,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-16T21:19:52.000Z"
+    },
+    "_id": "6a06f3aab3a3583bbbbacfbe",
+    "name": "Gia đình Heck (Phần 5)",
+    "slug": "gia-dinh-heck-phan-5",
+    "origin_name": "The Middle (Season 5)",
+    "thumb_url": "gia-dinh-heck-phan-5-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-5-poster.jpg",
+    "year": 2013
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312583",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39452164",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T21:01:06.000Z"
+    },
+    "_id": "69d09f12f937c3b5a11d24b6",
+    "name": "Người Yêu Miền Quê",
+    "slug": "nguoi-yeu-mien-que",
+    "origin_name": "Hometown Romance",
+    "thumb_url": "nguoi-yeu-mien-que-thumb.jpg",
+    "poster_url": "nguoi-yeu-mien-que-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "217838",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34934110",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T20:57:36.000Z"
+    },
+    "_id": "69c75361eea244e3e8b93ab3",
+    "name": "Love Upon A Time: Duyên Kiếp Bên Người",
+    "slug": "love-upon-a-time-duyen-kiep-ben-nguoi",
+    "origin_name": "Love Upon a Time",
+    "thumb_url": "love-upon-a-time-duyen-kiep-ben-nguoi-thumb.jpg",
+    "poster_url": "love-upon-a-time-duyen-kiep-ben-nguoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296232",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39229727",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T20:57:20.000Z"
+    },
+    "_id": "69d5e08d93c48ff6bfe68daa",
+    "name": "Trái Đất Đóng Băng",
+    "slug": "trai-dat-dong-bang",
+    "origin_name": "SNOWBALL EARTH",
+    "thumb_url": "trai-dat-dong-bang-thumb.jpg",
+    "poster_url": "trai-dat-dong-bang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "82684",
+      "season": 4,
+      "vote_average": 8.398,
+      "vote_count": 865
+    },
+    "imdb": {
+      "id": "tt9054364",
+      "vote_average": 8,
+      "vote_count": 22072
+    },
+    "modified": {
+      "time": "2026-05-16T20:56:57.000Z"
+    },
+    "_id": "69d5e11f7e5a0662d4dc7c5f",
+    "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
+    "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
+    "origin_name": "That Time I Got Reincarnated as a Slime (Season 4)",
+    "thumb_url": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
+    "poster_url": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "107116",
+      "season": 1,
+      "vote_average": 7.4,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T20:56:16.000Z"
+    },
+    "_id": "62d841c00376e41264b61afa",
+    "name": "Vô Thượng Thần Đế",
+    "origin_name": "Supreme God Emperor",
+    "thumb_url": "vo-thuong-than-de-thumb.jpg",
+    "poster_url": "vo-thuong-than-de-poster.jpg",
+    "slug": "vo-thuong-than-de",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "67063",
+      "season": 6,
+      "vote_average": 7,
+      "vote_count": 52
+    },
+    "imdb": {
+      "id": "tt12882132",
+      "vote_average": 6.8,
+      "vote_count": 450
+    },
+    "modified": {
+      "time": "2026-05-16T20:55:52.000Z"
+    },
+    "_id": "695a2015f65d22d617a3e52a",
+    "name": "Người Trên Vạn Người (Phần 6)",
+    "slug": "nguoi-tren-van-nguoi-phan-6",
+    "origin_name": "Hitori No Shita - The Outcast (Season 6)",
+    "thumb_url": "nguoi-tren-van-nguoi-phan-6-thumb.jpg",
+    "poster_url": "nguoi-tren-van-nguoi-phan-6-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282158",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T20:55:34.000Z"
+    },
+    "_id": "69800ed8da6ce23e8e97b912",
+    "name": "Trạch Thiên Ký",
+    "slug": "trach-thien-ky-2026",
+    "origin_name": "Fighter of the Destiny 3D",
+    "thumb_url": "trach-thien-ky-2026-thumb.jpg",
+    "poster_url": "trach-thien-ky-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "223911",
+      "season": 1,
+      "vote_average": 8.8,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt27432264",
+      "vote_average": 8.6,
+      "vote_count": 727
+    },
+    "modified": {
+      "time": "2026-05-16T20:55:20.000Z"
+    },
+    "_id": "65711707efed8b7739873bf4",
+    "name": "Tiên Nghịch",
+    "slug": "tien-nghich",
+    "origin_name": "Renegade Immortal",
+    "thumb_url": "tien-nghich-thumb.jpg",
+    "poster_url": "tien-nghich-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "220850",
+      "season": 1,
+      "vote_average": 8.6,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt28210907",
+      "vote_average": 8.6,
+      "vote_count": 124
+    },
+    "modified": {
+      "time": "2026-05-16T20:54:54.000Z"
+    },
+    "_id": "69042d90b234f5d94935f1ca",
+    "name": "Luyện Khí Mười Vạn Năm",
+    "slug": "luyen-khi-muoi-van-nam",
+    "origin_name": "One Hundred Thousand Years of Qi Refining",
+    "thumb_url": "luyen-khi-muoi-van-nam-thumb.jpg",
+    "poster_url": "luyen-khi-muoi-van-nam-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278850",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38856645",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T20:54:24.000Z"
+    },
+    "_id": "69eee82b748ca16f0862fc03",
+    "name": "Love of Silom",
+    "slug": "love-silom",
+    "origin_name": "Love of Silom",
+    "thumb_url": "รักแห่งสีลม-thumb.jpg",
+    "poster_url": "รักแห่งสีลม-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321965",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T18:54:27.000Z"
+    },
+    "_id": "6a085af3a54286c41bb15805",
+    "name": "Mùa Hè Của Thường Bảo",
+    "slug": "mua-he-cua-thuong-bao",
+    "origin_name": "常宝的夏天",
+    "thumb_url": "mua-he-cua-thuong-bao-thumb.jpg",
+    "poster_url": "mua-he-cua-thuong-bao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316675",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40727461",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T18:52:33.000Z"
+    },
+    "_id": "69fabe477e5a0662d4e8c1da",
+    "name": "Mặt Chẳng Theo Lòng",
+    "slug": "mat-chang-theo-long",
+    "origin_name": "The Double Game",
+    "thumb_url": "mat-chang-theo-long-thumb.jpg",
+    "poster_url": "mat-chang-theo-long-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T18:52:09.000Z"
+    },
+    "_id": "6a03f735b3a3583bbbba4b5d",
+    "name": "Bổn Huyền Nha Là Phúc Tinh",
+    "slug": "bon-huyen-nha-la-phuc-tinh",
+    "origin_name": "The Crow Princess of Fortune",
+    "thumb_url": "bon-huyen-nha-la-phuc-tinh-thumb.jpg",
+    "poster_url": "bon-huyen-nha-la-phuc-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322475",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T18:35:42.000Z"
+    },
+    "_id": "6a08559615072466acf78481",
+    "name": "Người Giữ Đèn Ở Chùa Ký Cốt",
+    "slug": "nguoi-giu-den-o-chua-ky-cot",
+    "origin_name": "LightKeeper of Jigu Temple",
+    "thumb_url": "nguoi-giu-den-o-chua-ky-cot-thumb.jpg",
+    "poster_url": "nguoi-giu-den-o-chua-ky-cot-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "114922",
+      "season": 2,
+      "vote_average": 6.828,
+      "vote_count": 490
+    },
+    "imdb": {
+      "id": "tt9794044",
+      "vote_average": 6.2,
+      "vote_count": 37316
+    },
+    "modified": {
+      "time": "2026-05-16T13:19:21.000Z"
+    },
+    "_id": "69fc509893c48ff6bff34ebd",
+    "name": "Citadel (Phần 2)",
+    "slug": "citadel-phan-2",
+    "origin_name": "Citadel (Season 2)",
+    "thumb_url": "citadel-phan-2-thumb.jpg",
+    "poster_url": "citadel-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314784",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt41090249",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-16T11:43:34.000Z"
+    },
+    "_id": "69e2471341d6bb2c315422e6",
+    "name": "Giá Trị Tuyệt Đối Của Lãng Mạn",
+    "slug": "gia-tri-tuyet-doi-cua-lang-man",
+    "origin_name": "Absolute Value of Romance",
+    "thumb_url": "gia-tri-tuyet-doi-cua-lang-man-thumb.jpg",
+    "poster_url": "gia-tri-tuyet-doi-cua-lang-man-poster.jpg",
+    "year": 2026
+  }
+]
