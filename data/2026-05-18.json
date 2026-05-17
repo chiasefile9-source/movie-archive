@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124364",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 2553
+    },
+    "imdb": {
+      "id": "tt9813792",
+      "vote_average": 7.8,
+      "vote_count": 173600
+    },
+    "modified": {
+      "time": "2026-05-17T23:03:44.000Z"
+    },
+    "_id": "69e4fb962b874d6bfb6bbee5",
+    "name": "Thị Trấn Ác Mộng (Phần 4)",
+    "slug": "thi-tran-ac-mong-phan-4",
+    "origin_name": "FROM (Season 4)",
+    "thumb_url": "thi-tran-ac-mong-phan-4-thumb.jpg",
+    "poster_url": "thi-tran-ac-mong-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T21:49:16.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "34967",
+      "season": 1,
+      "vote_average": 7.1,
+      "vote_count": 1312
+    },
+    "imdb": {
+      "id": "tt1462059",
+      "vote_average": 7.1,
+      "vote_count": 96982
+    },
+    "modified": {
+      "time": "2026-05-17T16:37:52.000Z"
+    },
+    "_id": "6a097fac4e6584edee40c330",
+    "name": "Bầu Trời Sụp Đổ (Phần 1)",
+    "slug": "bau-troi-sup-do-phan-1",
+    "origin_name": "Falling Skies (Season 1)",
+    "thumb_url": "bau-troi-sup-do-phan-1-thumb.jpg",
+    "poster_url": "bau-troi-sup-do-phan-1-poster.jpg",
+    "year": 2011
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "34967",
+      "season": 2,
+      "vote_average": 7.1,
+      "vote_count": 1312
+    },
+    "imdb": {
+      "id": "tt1462059",
+      "vote_average": 7.1,
+      "vote_count": 96982
+    },
+    "modified": {
+      "time": "2026-05-17T16:37:44.000Z"
+    },
+    "_id": "6a097fbd4be02ecfaff49969",
+    "name": "Bầu Trời Sụp Đổ (Phần 2)",
+    "slug": "bau-troi-sup-do-phan-2",
+    "origin_name": "Falling Skies (Season 2)",
+    "thumb_url": "bau-troi-sup-do-phan-2-thumb.jpg",
+    "poster_url": "bau-troi-sup-do-phan-2-poster.jpg",
+    "year": 2012
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "34967",
+      "season": 3,
+      "vote_average": 7.1,
+      "vote_count": 1312
+    },
+    "imdb": {
+      "id": "tt1462059",
+      "vote_average": 7.1,
+      "vote_count": 96982
+    },
+    "modified": {
+      "time": "2026-05-17T16:37:36.000Z"
+    },
+    "_id": "6a097ff912f0391f00d01b65",
+    "name": "Bầu Trời Sụp Đổ (Phần 3)",
+    "slug": "bau-troi-sup-do-phan-3",
+    "origin_name": "Falling Skies (Season 3)",
+    "thumb_url": "bau-troi-sup-do-phan-3-thumb.jpg",
+    "poster_url": "bau-troi-sup-do-phan-3-poster.jpg",
+    "year": 2013
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "34967",
+      "season": 4,
+      "vote_average": 7.1,
+      "vote_count": 1312
+    },
+    "imdb": {
+      "id": "tt1462059",
+      "vote_average": 7.1,
+      "vote_count": 96982
+    },
+    "modified": {
+      "time": "2026-05-17T16:37:26.000Z"
+    },
+    "_id": "6a0980134e6584edee40c379",
+    "name": "Bầu Trời Sụp Đổ (Phần 4)",
+    "slug": "bau-troi-sup-do-phan-4",
+    "origin_name": "Falling Skies (Season 4)",
+    "thumb_url": "bau-troi-sup-do-phan-4-thumb.jpg",
+    "poster_url": "bau-troi-sup-do-phan-4-poster.jpg",
+    "year": 2014
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "34967",
+      "season": 5,
+      "vote_average": 7.1,
+      "vote_count": 1312
+    },
+    "imdb": {
+      "id": "tt1462059",
+      "vote_average": 7.1,
+      "vote_count": 96982
+    },
+    "modified": {
+      "time": "2026-05-17T16:37:18.000Z"
+    },
+    "_id": "6a098028c52ec62c8b1479b5",
+    "name": "Bầu Trời Sụp Đổ (Phần 5)",
+    "slug": "bau-troi-sup-do-phan-5",
+    "origin_name": "Falling Skies (Season 5)",
+    "thumb_url": "bau-troi-sup-do-phan-5-thumb.jpg",
+    "poster_url": "bau-troi-sup-do-phan-5-poster.jpg",
+    "year": 2015
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1464883",
+      "season": null,
+      "vote_average": 7.473,
+      "vote_count": 74
+    },
+    "imdb": {
+      "id": "tt36580119",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T15:40:31.000Z"
+    },
+    "_id": "6a097efd2c0a4eaf2652baf8",
+    "name": "Bánh sinh nhật của Tổng thống",
+    "slug": "banh-sinh-nhat-cua-tong-thong",
+    "origin_name": "The President's Cake",
+    "thumb_url": "banh-sinh-nhat-cua-tong-thong-thumb.jpg",
+    "poster_url": "banh-sinh-nhat-cua-tong-thong-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 1,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-17T15:05:53.000Z"
+    },
+    "_id": "6a06f2e2db41bcecb8ebca42",
+    "name": "Gia đình Heck (Phần 1)",
+    "slug": "gia-dinh-heck-phan-1",
+    "origin_name": "The Middle (Season 1)",
+    "thumb_url": "gia-dinh-heck-phan-1-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-1-poster.jpg",
+    "year": 2009
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321749",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42443184",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T14:03:22.000Z"
+    },
+    "_id": "6a02dd63b692c7b208dc5976",
+    "name": "Trốn Không Thoát Tội",
+    "slug": "tron-khong-thoat-toi",
+    "origin_name": "Inevitable Justice",
+    "thumb_url": "tron-khong-thoat-toi-thumb.jpg",
+    "poster_url": "tron-khong-thoat-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1533029",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39398162",
+      "vote_average": 7,
+      "vote_count": 32
+    },
+    "modified": {
+      "time": "2026-05-17T13:54:09.000Z"
+    },
+    "_id": "6a095954c52ec62c8b147084",
+    "name": "Người thân yêu",
+    "slug": "nguoi-than-yeu",
+    "origin_name": "The Loved One",
+    "thumb_url": "nguoi-than-yeu-thumb.jpg",
+    "poster_url": "nguoi-than-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297438",
+      "season": 1,
+      "vote_average": 8.667,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt38797595",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T13:40:00.000Z"
+    },
+    "_id": "69d5e020e53e6a47ad57f86c",
+    "name": "Chuyện Kể Của Akane",
+    "slug": "chuyen-ke-cua-akane",
+    "origin_name": "Akane-banashi",
+    "thumb_url": "chuyen-ke-cua-akane-thumb.jpg",
+    "poster_url": "chuyen-ke-cua-akane-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309043",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21310096",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T13:39:25.000Z"
+    },
+    "_id": "69f9622693c48ff6bff25e1a",
+    "name": "Yêu Được Chưa",
+    "slug": "yeu-duoc-chua",
+    "origin_name": "Let's Begin Again",
+    "thumb_url": "yeu-duoc-chua-thumb.jpg",
+    "poster_url": "yeu-duoc-chua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289560",
+      "season": 1,
+      "vote_average": 8.1,
+      "vote_count": 39
+    },
+    "imdb": {
+      "id": "tt35515227",
+      "vote_average": 0,
+      "vote_count": 24
+    },
+    "modified": {
+      "time": "2026-05-17T13:33:33.000Z"
+    },
+    "_id": "69f09c434a74b3cede1263a3",
+    "name": "CIA (Phần 1)",
+    "slug": "cia-phan-1",
+    "origin_name": "CIA",
+    "thumb_url": "cia-phan-1-thumb.jpg",
+    "poster_url": "cia-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303143",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38828946",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T13:08:30.000Z"
+    },
+    "_id": "69eedaa9377c8aaad5469e53",
+    "name": "Kẻ Thù Hoàng Gia Của Tôi",
+    "slug": "ke-thu-hoang-gia-cua-toi",
+    "origin_name": "My Royal Nemesis",
+    "thumb_url": "ke-thu-hoang-gia-cua-toi-thumb.jpg",
+    "poster_url": "ke-thu-hoang-gia-cua-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289424",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36732944",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T13:05:21.000Z"
+    },
+    "_id": "69e3a4edf616ee3807d9403c",
+    "name": "Cuộc Chiến Trong Chúng Ta",
+    "slug": "cuoc-chien-trong-chung-ta",
+    "origin_name": "We Are All Trying Here",
+    "thumb_url": "cuoc-chien-trong-chung-ta-thumb.jpg",
+    "poster_url": "cuoc-chien-trong-chung-ta-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300131",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39443399",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T12:57:51.000Z"
+    },
+    "_id": "69da6f99f616ee3807d610b1",
+    "name": "KILL BLUE",
+    "slug": "kill-blue",
+    "origin_name": "KILL BLUE",
+    "thumb_url": "kill-blue-thumb.jpg",
+    "poster_url": "kill-blue-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320512",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T12:56:51.000Z"
+    },
+    "_id": "6a09564412f0391f00d0118f",
+    "name": "Chiếc Kèn Harmonica Sắc Bén",
+    "slug": "chiec-ken-harmonica-sac-ben",
+    "origin_name": "Sharp Harmonica",
+    "thumb_url": "chiec-ken-harmonica-sac-ben-thumb.jpg",
+    "poster_url": "chiec-ken-harmonica-sac-ben-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322018",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T12:51:56.000Z"
+    },
+    "_id": "6a095539416b9186f00d48e2",
+    "name": "Nhất Kiến Nam Kiều",
+    "slug": "nhat-kien-nam-kieu",
+    "origin_name": "The First Sight of Nanyang Overseas Chinese",
+    "thumb_url": "nhat-kien-nam-kieu-thumb.jpg",
+    "poster_url": "nhat-kien-nam-kieu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "248404",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42024186",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T12:51:10.000Z"
+    },
+    "_id": "6a0149ab15072466acf64360",
+    "name": "Your Dear Daddy: Gọi Dad đi Tharn",
+    "slug": "your-dear-daddy-goi-dad-di-tharn",
+    "origin_name": "Your Dear Daddy",
+    "thumb_url": "your-dear-daddy-goi-dad-di-tharn-thumb.jpg",
+    "poster_url": "your-dear-daddy-goi-dad-di-tharn-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297640",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39010903",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T12:48:46.000Z"
+    },
+    "_id": "69ecebe9748ca16f08627461",
+    "name": "Thanh Tra Bí Mật",
+    "slug": "thanh-tra-bi-mat",
+    "origin_name": "Filing for Love",
+    "thumb_url": "thanh-tra-bi-mat-thumb.jpg",
+    "poster_url": "thanh-tra-bi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 8,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-17T12:47:06.000Z"
+    },
+    "_id": "6a06f3ff91cc1b96d592b1cb",
+    "name": "Gia đình Heck (Phần 8)",
+    "slug": "gia-dinh-heck-phan-8",
+    "origin_name": "The Middle (Season 8)",
+    "thumb_url": "gia-dinh-heck-phan-8-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-8-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "1422",
+      "season": 9,
+      "vote_average": 7.6,
+      "vote_count": 736
+    },
+    "imdb": {
+      "id": "tt1442464",
+      "vote_average": 7.7,
+      "vote_count": 59280
+    },
+    "modified": {
+      "time": "2026-05-17T12:46:42.000Z"
+    },
+    "_id": "6a06f41ab692c7b208dd1216",
+    "name": "Gia đình Heck (Phần 9)",
+    "slug": "gia-dinh-heck-phan-9",
+    "origin_name": "The Middle (Season 9)",
+    "thumb_url": "gia-dinh-heck-phan-9-thumb.jpg",
+    "poster_url": "gia-dinh-heck-phan-9-poster.jpg",
+    "year": 2017
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1662317",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40792117",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-17T12:43:33.000Z"
+    },
+    "_id": "6a06f4ed4e2efe728851e456",
+    "name": "Vụ đụng xe thảm khốc",
+    "slug": "vu-dung-xe-tham-khoc",
+    "origin_name": "The Crash",
+    "thumb_url": "vu-dung-xe-tham-khoc-thumb.jpg",
+    "poster_url": "vu-dung-xe-tham-khoc-poster.jpg",
+    "year": 2026
+  }
+]
