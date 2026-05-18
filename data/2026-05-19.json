@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292121",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39245629",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T23:37:14.000Z"
+    },
+    "_id": "69e5dda82b874d6bfb6c1986",
+    "name": "Bù Nhìn Bóng Đêm",
+    "slug": "bu-nhin-bong-dem",
+    "origin_name": "The Scarecrow",
+    "thumb_url": "bu-nhin-bong-dem-thumb.jpg",
+    "poster_url": "bu-nhin-bong-dem-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254486",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31887969",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T23:33:35.000Z"
+    },
+    "_id": "6a0341a9da7d89406867aaae",
+    "name": "Vũ Lâm Linh",
+    "slug": "vu-lam-linh",
+    "origin_name": "Zhan Zhao Adventures",
+    "thumb_url": "vu-lam-linh-thumb.jpg",
+    "poster_url": "vu-lam-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320672",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T23:16:54.000Z"
+    },
+    "_id": "69ef7884b692c7b208d66f6a",
+    "name": "Dục Vọng Thầm Kín",
+    "slug": "duc-vong-tham-kin",
+    "origin_name": "Whisper of Desire",
+    "thumb_url": "duc-vong-tham-kin-thumb.jpg",
+    "poster_url": "duc-vong-tham-kin-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278174",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35006947",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T23:13:00.000Z"
+    },
+    "_id": "69afbabc124287e0825f6b36",
+    "name": "Girl Rules",
+    "slug": "girl-rules",
+    "origin_name": "Girl Rules",
+    "thumb_url": "girl-rules-thumb.jpg",
+    "poster_url": "girl-rules-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321749",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42443184",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T23:10:37.000Z"
+    },
+    "_id": "6a02dd63b692c7b208dc5976",
+    "name": "Trốn Không Thoát Tội",
+    "slug": "tron-khong-thoat-toi",
+    "origin_name": "Inevitable Justice",
+    "thumb_url": "tron-khong-thoat-toi-thumb.jpg",
+    "poster_url": "tron-khong-thoat-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322634",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21402786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T23:05:42.000Z"
+    },
+    "_id": "6a0b20bac52ec62c8b14b334",
+    "name": "Hổ Giấu Vằn",
+    "slug": "ho-giau-van",
+    "origin_name": "Wicked Temptation",
+    "thumb_url": "ho-giau-van-thumb.jpg",
+    "poster_url": "ho-giau-van-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1304313",
+      "season": null,
+      "vote_average": 6.721,
+      "vote_count": 208
+    },
+    "imdb": {
+      "id": "tt32612507",
+      "vote_average": 6.5,
+      "vote_count": 804
+    },
+    "modified": {
+      "time": "2026-05-18T21:31:05.000Z"
+    },
+    "_id": "69e065f416bc1b4174f2f97a",
+    "name": "Một bộ phim của Lee Cronin: Xác ướp",
+    "slug": "xac-uopp",
+    "origin_name": "Lee Cronin's The Mummy",
+    "thumb_url": "xac-uopp-thumb.jpg",
+    "poster_url": "xac-uopp-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302071",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T21:30:44.000Z"
+    },
+    "_id": "6a05b50715072466acf722f9",
+    "name": "Tường Tự Ký",
+    "slug": "tuong-tu-ky",
+    "origin_name": "Xiang Xu Ji",
+    "thumb_url": "tuong-tu-ky-thumb.jpg",
+    "poster_url": "tuong-tu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "299167",
+      "season": 1,
+      "vote_average": 9.171,
+      "vote_count": 38
+    },
+    "imdb": {
+      "id": "tt34991493",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T20:57:31.000Z"
+    },
+    "_id": "6a0b02307544913d492aafe1",
+    "name": "Trang Trại Dutton",
+    "slug": "trang-trai-dutton",
+    "origin_name": "Dutton Ranch",
+    "thumb_url": "trang-trai-dutton-thumb.jpg",
+    "poster_url": "trang-trai-dutton-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T20:03:33.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "298549",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T18:45:13.000Z"
+    },
+    "_id": "6a0a7f8516a695c8bbfd9c5d",
+    "name": "Thariq Ridzuwan: Kho báu của anh",
+    "slug": "thariq-ridzuwan-kho-bau-cua-anh",
+    "origin_name": "Thariq Ridzuwan: His Treasure",
+    "thumb_url": "thariq-ridzuwan-kho-bau-cua-anh-thumb.jpg",
+    "poster_url": "thariq-ridzuwan-kho-bau-cua-anh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "34967",
+      "season": 5,
+      "vote_average": 7.1,
+      "vote_count": 1312
+    },
+    "imdb": {
+      "id": "tt1462059",
+      "vote_average": 7.1,
+      "vote_count": 96982
+    },
+    "modified": {
+      "time": "2026-05-18T18:44:35.000Z"
+    },
+    "_id": "6a098028c52ec62c8b1479b5",
+    "name": "Bầu Trời Sụp Đổ (Phần 5)",
+    "slug": "bau-troi-sup-do-phan-5",
+    "origin_name": "Falling Skies (Season 5)",
+    "thumb_url": "bau-troi-sup-do-phan-5-thumb.jpg",
+    "poster_url": "bau-troi-sup-do-phan-5-poster.jpg",
+    "year": 2015
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "34967",
+      "season": 4,
+      "vote_average": 7.1,
+      "vote_count": 1312
+    },
+    "imdb": {
+      "id": "tt1462059",
+      "vote_average": 7.1,
+      "vote_count": 96982
+    },
+    "modified": {
+      "time": "2026-05-18T18:44:14.000Z"
+    },
+    "_id": "6a0980134e6584edee40c379",
+    "name": "Bầu Trời Sụp Đổ (Phần 4)",
+    "slug": "bau-troi-sup-do-phan-4",
+    "origin_name": "Falling Skies (Season 4)",
+    "thumb_url": "bau-troi-sup-do-phan-4-thumb.jpg",
+    "poster_url": "bau-troi-sup-do-phan-4-poster.jpg",
+    "year": 2014
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "34967",
+      "season": 3,
+      "vote_average": 7.1,
+      "vote_count": 1312
+    },
+    "imdb": {
+      "id": "tt1462059",
+      "vote_average": 7.1,
+      "vote_count": 96982
+    },
+    "modified": {
+      "time": "2026-05-18T18:43:50.000Z"
+    },
+    "_id": "6a097ff912f0391f00d01b65",
+    "name": "Bầu Trời Sụp Đổ (Phần 3)",
+    "slug": "bau-troi-sup-do-phan-3",
+    "origin_name": "Falling Skies (Season 3)",
+    "thumb_url": "bau-troi-sup-do-phan-3-thumb.jpg",
+    "poster_url": "bau-troi-sup-do-phan-3-poster.jpg",
+    "year": 2013
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "34967",
+      "season": 2,
+      "vote_average": 7.1,
+      "vote_count": 1312
+    },
+    "imdb": {
+      "id": "tt1462059",
+      "vote_average": 7.1,
+      "vote_count": 96982
+    },
+    "modified": {
+      "time": "2026-05-18T18:43:30.000Z"
+    },
+    "_id": "6a097fbd4be02ecfaff49969",
+    "name": "Bầu Trời Sụp Đổ (Phần 2)",
+    "slug": "bau-troi-sup-do-phan-2",
+    "origin_name": "Falling Skies (Season 2)",
+    "thumb_url": "bau-troi-sup-do-phan-2-thumb.jpg",
+    "poster_url": "bau-troi-sup-do-phan-2-poster.jpg",
+    "year": 2012
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "34967",
+      "season": 1,
+      "vote_average": 7.1,
+      "vote_count": 1312
+    },
+    "imdb": {
+      "id": "tt1462059",
+      "vote_average": 7.1,
+      "vote_count": 96982
+    },
+    "modified": {
+      "time": "2026-05-18T18:43:11.000Z"
+    },
+    "_id": "6a097fac4e6584edee40c330",
+    "name": "Bầu Trời Sụp Đổ (Phần 1)",
+    "slug": "bau-troi-sup-do-phan-1",
+    "origin_name": "Falling Skies (Season 1)",
+    "thumb_url": "bau-troi-sup-do-phan-1-thumb.jpg",
+    "poster_url": "bau-troi-sup-do-phan-1-poster.jpg",
+    "year": 2011
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1464883",
+      "season": null,
+      "vote_average": 7.473,
+      "vote_count": 74
+    },
+    "imdb": {
+      "id": "tt36580119",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T18:42:49.000Z"
+    },
+    "_id": "6a097efd2c0a4eaf2652baf8",
+    "name": "Bánh sinh nhật của Tổng thống",
+    "slug": "banh-sinh-nhat-cua-tong-thong",
+    "origin_name": "The President's Cake",
+    "thumb_url": "banh-sinh-nhat-cua-tong-thong-thumb.jpg",
+    "poster_url": "banh-sinh-nhat-cua-tong-thong-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "85552",
+      "season": 3,
+      "vote_average": 8.282,
+      "vote_count": 10402
+    },
+    "imdb": {
+      "id": "tt8772296",
+      "vote_average": 8.2,
+      "vote_count": 297928
+    },
+    "modified": {
+      "time": "2026-05-18T16:58:14.000Z"
+    },
+    "_id": "69df1bc8006591e10814bd8c",
+    "name": "Lâng Lâng (Phần 3)",
+    "slug": "lang-lang-phan-3",
+    "origin_name": "Euphoria (Season 3)",
+    "thumb_url": "lang-lang-phan-3-thumb.jpg",
+    "poster_url": "lang-lang-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290856",
+      "season": 1,
+      "vote_average": 7.076,
+      "vote_count": 119
+    },
+    "imdb": {
+      "id": "tt36849871",
+      "vote_average": 6,
+      "vote_count": 7720
+    },
+    "modified": {
+      "time": "2026-05-18T14:16:18.000Z"
+    },
+    "_id": "69aa268c400bf394bd8ea526",
+    "name": "Lực Lượng Marshals",
+    "slug": "marshals",
+    "origin_name": "Marshals",
+    "thumb_url": "marshals-thumb.jpg",
+    "poster_url": "marshals-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283952",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt36758636",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T11:38:07.000Z"
+    },
+    "_id": "69f6caf9e53e6a47ad62ae1c",
+    "name": "Lương Trần Mỹ Cẩm",
+    "slug": "luong-tran-my-cam",
+    "origin_name": "A Splendid Match",
+    "thumb_url": "luong-tran-my-cam-thumb.jpg",
+    "poster_url": "luong-tran-my-cam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297730",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T11:31:45.000Z"
+    },
+    "_id": "69eae7a46d4243e068f32044",
+    "name": "DREAM STAGE",
+    "slug": "dream-stage",
+    "origin_name": "DREAM STAGE",
+    "thumb_url": "dream-stage-thumb.jpg",
+    "poster_url": "dream-stage-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "240150",
+      "season": 2,
+      "vote_average": 8.125,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt33378111",
+      "vote_average": 0,
+      "vote_count": 53
+    },
+    "modified": {
+      "time": "2026-05-18T11:31:30.000Z"
+    },
+    "_id": "69474097ae6f0c1fdf32f4bd",
+    "name": "Fourever You (Phần 2)",
+    "slug": "fourever-you-phan-2",
+    "origin_name": "Fourever You (Season 2)",
+    "thumb_url": "fourever-you-phan-2-thumb.jpg",
+    "poster_url": "fourever-you-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124101",
+      "season": 5,
+      "vote_average": 7.421,
+      "vote_count": 329
+    },
+    "imdb": {
+      "id": "tt11815682",
+      "vote_average": 8.2,
+      "vote_count": 60819
+    },
+    "modified": {
+      "time": "2026-05-18T11:31:16.000Z"
+    },
+    "_id": "69dba5ff15072466ace9ef7a",
+    "name": "Huyền Thoại Làng Hài (Phần 5)",
+    "slug": "huyen-thoai-lang-hai-phan-5",
+    "origin_name": "Hacks (Season 5)",
+    "thumb_url": "huyen-thoai-lang-hai-phan-5-thumb.jpg",
+    "poster_url": "huyen-thoai-lang-hai-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302162",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt39387632",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-18T11:30:55.000Z"
+    },
+    "_id": "6a02de83377c8aaad54cb5d1",
+    "name": "Khúc Ca Linh Hồn Shinsengumi",
+    "slug": "khuc-ca-linh-hon-shinsengumi",
+    "origin_name": "Song of the Samurai - Chapter: Youthful Days in Edo",
+    "thumb_url": "khuc-ca-linh-hon-shinsengumi-thumb.jpg",
+    "poster_url": "khuc-ca-linh-hon-shinsengumi-poster.jpg",
+    "year": 2026
+  }
+]
