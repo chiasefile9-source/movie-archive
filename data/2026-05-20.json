@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "211288",
+      "season": 3,
+      "vote_average": 7.511,
+      "vote_count": 266
+    },
+    "imdb": {
+      "id": "tt13875494",
+      "vote_average": 7.1,
+      "vote_count": 27678
+    },
+    "modified": {
+      "time": "2026-05-19T22:35:28.000Z"
+    },
+    "_id": "68f9f11ea2d805aecaf99b2e",
+    "name": "Tracker (Phần 3)",
+    "slug": "tracker-phan-3",
+    "origin_name": "Tracker (Season 3)",
+    "thumb_url": "tracker-phan-3-thumb-1761239638607.jpg",
+    "poster_url": "tracker-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "213326",
+      "season": 2,
+      "vote_average": 8.1,
+      "vote_count": 58
+    },
+    "imdb": {
+      "id": "tt23132598",
+      "vote_average": 6.4,
+      "vote_count": 612
+    },
+    "modified": {
+      "time": "2026-05-19T21:12:54.000Z"
+    },
+    "_id": "69e493fc4e2efe728847d230",
+    "name": "Nữ Vương Trùm Cuối Tàn Độc Căn Nguyên Của Mọi Thảm Kịch Sẽ Dốc Sức Vì Người Dân (Phần 2)",
+    "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
+    "origin_name": "The Most Heretical Last Boss Queen: From Villainess to Savior (Season 2)",
+    "thumb_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-thumb.jpg",
+    "poster_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T21:06:32.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321749",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42443184",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T17:36:37.000Z"
+    },
+    "_id": "6a02dd63b692c7b208dc5976",
+    "name": "Trốn Không Thoát Tội",
+    "slug": "tron-khong-thoat-toi",
+    "origin_name": "Inevitable Justice",
+    "thumb_url": "tron-khong-thoat-toi-thumb.jpg",
+    "poster_url": "tron-khong-thoat-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295509",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38626513",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T16:03:41.000Z"
+    },
+    "_id": "6a02d864006591e108205d8a",
+    "name": "Huyền Thoại Lính Bếp",
+    "slug": "huyen-thoai-linh-bep",
+    "origin_name": "The Legend of Kitchen Soldier",
+    "thumb_url": "huyen-thoai-linh-bep-thumb.jpg",
+    "poster_url": "huyen-thoai-linh-bep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1592031",
+      "season": null,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T15:19:15.000Z"
+    },
+    "_id": "6a0c0878142ea533b01e8f2c",
+    "name": "Trọng Án Tiền Giả",
+    "slug": "伪钞重案",
+    "origin_name": "The Great Money Robbery",
+    "thumb_url": "伪钞重案-thumb.jpg",
+    "poster_url": "伪钞重案-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321847",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T14:37:47.000Z"
+    },
+    "_id": "6a0c134b12f0391f00d07569",
+    "name": "Tình Yêu Ở Bortala",
+    "slug": "tinh-yeu-o-bortala",
+    "origin_name": "Meeting Myself in Bortala",
+    "thumb_url": "tinh-yeu-o-bortala-thumb.jpg",
+    "poster_url": "tinh-yeu-o-bortala-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "299167",
+      "season": 1,
+      "vote_average": 9.171,
+      "vote_count": 38
+    },
+    "imdb": {
+      "id": "tt34991493",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T14:10:39.000Z"
+    },
+    "_id": "6a0b02307544913d492aafe1",
+    "name": "Trang Trại Dutton",
+    "slug": "trang-trai-dutton",
+    "origin_name": "Dutton Ranch",
+    "thumb_url": "trang-trai-dutton-thumb.jpg",
+    "poster_url": "trang-trai-dutton-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T14:10:25.000Z"
+    },
+    "_id": "6a0beaac1fea2c5da7a54136",
+    "name": "Biệt Đội Tứ Bảo",
+    "slug": "biet-doi-tu-bao-short-drama",
+    "origin_name": "Biệt Đội Tứ Bảo",
+    "thumb_url": "biet-doi-tu-bao-short-drama-thumb.jpg",
+    "poster_url": "biet-doi-tu-bao-short-drama-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302372",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T14:09:45.000Z"
+    },
+    "_id": "6a0be848de5e0f1b85cd25ca",
+    "name": "Ngọc trai trong sương mù",
+    "slug": "ngoc-trai-trong-suong-mu",
+    "origin_name": "Mutiara Dalam Debuan Kabus",
+    "thumb_url": "ngoc-trai-trong-suong-mu-thumb.jpg",
+    "poster_url": "ngoc-trai-trong-suong-mu-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319048",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38973922",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T13:57:26.000Z"
+    },
+    "_id": "6a0c09d62c8b2895cfa470a6",
+    "name": "K-Everything: A CNN Original Series",
+    "slug": "k-everything-a-cnn-original-series",
+    "origin_name": "K-Everything: A CNN Original Series",
+    "thumb_url": "k-everything-a-cnn-original-series-thumb.jpg",
+    "poster_url": "k-everything-a-cnn-original-series-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1663234",
+      "season": null,
+      "vote_average": 1,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40721456",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T13:44:07.000Z"
+    },
+    "_id": "6a0c06aa4e6584edee411ba1",
+    "name": "Pinecone",
+    "slug": "pinecone",
+    "origin_name": "Pinecone",
+    "thumb_url": "pinecone-thumb.jpg",
+    "poster_url": "pinecone-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "931285",
+      "season": null,
+      "vote_average": 7.139,
+      "vote_count": 97
+    },
+    "imdb": {
+      "id": "tt17490712",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T13:39:48.000Z"
+    },
+    "_id": "6a0148426d4243e068f9f11b",
+    "name": "Cuộc Chiến Sinh Tử II",
+    "slug": "cuoc-chien-sinh-tu-ii",
+    "origin_name": "Mortal Kombat II",
+    "thumb_url": "cuoc-chien-sinh-tu-ii-thumb.jpg",
+    "poster_url": "cuoc-chien-sinh-tu-ii-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T13:22:13.000Z"
+    },
+    "_id": "6a0bec2b4be02ecfaff4eb88",
+    "name": "Trời Xanh Trên Mây",
+    "slug": "troi-xanh-tren-may",
+    "origin_name": "Sky Blue Above the Clouds",
+    "thumb_url": "troi-xanh-tren-may-thumb.jpg",
+    "poster_url": "troi-xanh-tren-may-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283952",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt36758636",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T11:51:29.000Z"
+    },
+    "_id": "69f6caf9e53e6a47ad62ae1c",
+    "name": "Lương Trần Mỹ Cẩm",
+    "slug": "luong-tran-my-cam",
+    "origin_name": "A Splendid Match",
+    "thumb_url": "luong-tran-my-cam-thumb.jpg",
+    "poster_url": "luong-tran-my-cam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302071",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T11:42:51.000Z"
+    },
+    "_id": "6a05b50715072466acf722f9",
+    "name": "Tường Tự Ký",
+    "slug": "tuong-tu-ky",
+    "origin_name": "Xiang Xu Ji",
+    "thumb_url": "tuong-tu-ky-thumb.jpg",
+    "poster_url": "tuong-tu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311755",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T11:33:15.000Z"
+    },
+    "_id": "6a09501fa6726df8fd334f65",
+    "name": "Gả Vào Nhà Quyền Quý",
+    "slug": "ga-vao-nha-quyen-quy",
+    "origin_name": "Daughter of Fortune",
+    "thumb_url": "ga-vao-nha-quyen-quy-thumb.jpg",
+    "poster_url": "ga-vao-nha-quyen-quy-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322475",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T11:32:49.000Z"
+    },
+    "_id": "6a08559615072466acf78481",
+    "name": "Người Giữ Đèn Ở Chùa Ký Cốt",
+    "slug": "nguoi-giu-den-o-chua-ky-cot",
+    "origin_name": "LightKeeper of Jigu Temple",
+    "thumb_url": "nguoi-giu-den-o-chua-ky-cot-thumb.jpg",
+    "poster_url": "nguoi-giu-den-o-chua-ky-cot-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "233295",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T11:32:27.000Z"
+    },
+    "_id": "695352d854ca9185bba8155f",
+    "name": "Tiên Kiếm Kỳ Hiệp Truyện 3",
+    "slug": "tien-kiem-ky-hiep-truyen-3",
+    "origin_name": "Sword and Fairy 3",
+    "thumb_url": "tien-kiem-ky-hiep-truyen-3-thumb.jpg",
+    "poster_url": "tien-kiem-ky-hiep-truyen-3-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T11:32:13.000Z"
+    },
+    "_id": "6a03f735b3a3583bbbba4b5d",
+    "name": "Bổn Huyền Nha Là Phúc Tinh",
+    "slug": "bon-huyen-nha-la-phuc-tinh",
+    "origin_name": "The Crow Princess of Fortune",
+    "thumb_url": "bon-huyen-nha-la-phuc-tinh-thumb.jpg",
+    "poster_url": "bon-huyen-nha-la-phuc-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "220850",
+      "season": 1,
+      "vote_average": 8.6,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt28210907",
+      "vote_average": 8.6,
+      "vote_count": 124
+    },
+    "modified": {
+      "time": "2026-05-19T11:31:43.000Z"
+    },
+    "_id": "69042d90b234f5d94935f1ca",
+    "name": "Luyện Khí Mười Vạn Năm",
+    "slug": "luyen-khi-muoi-van-nam",
+    "origin_name": "One Hundred Thousand Years of Qi Refining",
+    "thumb_url": "luyen-khi-muoi-van-nam-thumb.jpg",
+    "poster_url": "luyen-khi-muoi-van-nam-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "122612",
+      "season": 1,
+      "vote_average": 9.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt34882755",
+      "vote_average": 0,
+      "vote_count": 10
+    },
+    "modified": {
+      "time": "2026-05-19T11:31:18.000Z"
+    },
+    "_id": "68e4ba284f7493692abb949c",
+    "name": "Vạn Giới Độc Tôn",
+    "slug": "van-gioi-doc-ton",
+    "origin_name": "Ten Thousand Worlds",
+    "thumb_url": "van-gioi-doc-ton-thumb.jpg",
+    "poster_url": "van-gioi-doc-ton-poster.jpg",
+    "year": 2021
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "110181",
+      "season": 1,
+      "vote_average": 7.6,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt20769560",
+      "vote_average": 0,
+      "vote_count": 131
+    },
+    "modified": {
+      "time": "2026-05-19T11:30:59.000Z"
+    },
+    "_id": "68e4bc4d69d7b4696cc59469",
+    "name": "Võ Thần Chúa Tể",
+    "slug": "vo-than-chua-te",
+    "origin_name": "Martial Master",
+    "thumb_url": "vo-than-chua-te-thumb.jpg",
+    "poster_url": "vo-than-chua-te-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "252788",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-19T11:30:16.000Z"
+    },
+    "_id": "69045e95df2f0059996054c5",
+    "name": "Tuyệt Thế Chiến Hồn",
+    "slug": "tuyet-the-chien-hon",
+    "origin_name": "Peerless Battle Spirit",
+    "thumb_url": "tuyet-the-chien-hon-thumb.jpg",
+    "poster_url": "tuyet-the-chien-hon-poster.jpg",
+    "year": 2024
+  }
+]
