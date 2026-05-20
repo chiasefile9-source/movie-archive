@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306640",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39048555",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T01:53:32.000Z"
+    },
+    "_id": "69f60e1391cc1b96d58e5b60",
+    "name": "Những Bông Hoa Ác",
+    "slug": "nhung-bong-hoa-ac",
+    "origin_name": "The Flowers of Evil",
+    "thumb_url": "nhung-bong-hoa-ac-thumb.jpg",
+    "poster_url": "nhung-bong-hoa-ac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72976",
+      "season": 5,
+      "vote_average": 6.6,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt16444020",
+      "vote_average": 7.4,
+      "vote_count": 74
+    },
+    "modified": {
+      "time": "2026-05-21T01:52:42.000Z"
+    },
+    "_id": "69dfcfeb41d6bb2c315360fb",
+    "name": "Nhịp Đập Trái Tim (Phần 5)",
+    "slug": "nhip-dap-trai-tim-phan-5",
+    "origin_name": "Heart Signal (Season 5)",
+    "thumb_url": "nhip-dap-trai-tim-phan-5-thumb.jpg",
+    "poster_url": "nhip-dap-trai-tim-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "114922",
+      "season": 2,
+      "vote_average": 6.828,
+      "vote_count": 490
+    },
+    "imdb": {
+      "id": "tt9794044",
+      "vote_average": 6.2,
+      "vote_count": 37316
+    },
+    "modified": {
+      "time": "2026-05-20T23:35:48.000Z"
+    },
+    "_id": "69fc509893c48ff6bff34ebd",
+    "name": "Citadel (Phần 2)",
+    "slug": "citadel-phan-2",
+    "origin_name": "Citadel (Season 2)",
+    "thumb_url": "citadel-phan-2-thumb.jpg",
+    "poster_url": "citadel-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "94404",
+      "season": 2,
+      "vote_average": 8.3,
+      "vote_count": 395
+    },
+    "imdb": {
+      "id": "tt11147852",
+      "vote_average": 8,
+      "vote_count": 14145
+    },
+    "modified": {
+      "time": "2026-05-20T22:21:26.000Z"
+    },
+    "_id": "69cde57fb06c99c722027faa",
+    "name": "Dị thú ma đô (Phần 2)",
+    "slug": "di-thu-ma-do-phan-2",
+    "origin_name": "Dorohedoro (Season 2)",
+    "thumb_url": "di-thu-ma-do-phan-2-thumb.jpg",
+    "poster_url": "di-thu-ma-do-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1380291",
+      "season": null,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34378301",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T22:06:02.000Z"
+    },
+    "_id": "6a0dc66f173846d6442bd39e",
+    "name": "Siêu Điệp Viên Jack Ryan: Bóng Ma Chiến Tranh",
+    "slug": "sieu-diep-vien-jack-ryan-bong-ma-chien-tranh",
+    "origin_name": "Tom Clancy's Jack Ryan: Ghost War",
+    "thumb_url": "sieu-diep-vien-jack-ryan-bong-ma-chien-tranh-thumb.jpg",
+    "poster_url": "sieu-diep-vien-jack-ryan-bong-ma-chien-tranh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254486",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31887969",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T21:44:14.000Z"
+    },
+    "_id": "6a0341a9da7d89406867aaae",
+    "name": "Vũ Lâm Linh",
+    "slug": "vu-lam-linh",
+    "origin_name": "Zhan Zhao Adventures",
+    "thumb_url": "vu-lam-linh-thumb.jpg",
+    "poster_url": "vu-lam-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315172",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41863606",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T21:31:25.000Z"
+    },
+    "_id": "69e9ef6af0f815b666161eb7",
+    "name": "Vũ Điệu Tình Thù",
+    "slug": "vu-dieu-tinh-thu",
+    "origin_name": "The Bangkok Red Opera",
+    "thumb_url": "vu-dieu-tinh-thu-thumb.jpg",
+    "poster_url": "vu-dieu-tinh-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "65942",
+      "season": 4,
+      "vote_average": 7.8,
+      "vote_count": 598
+    },
+    "imdb": {
+      "id": "tt5607616",
+      "vote_average": 8.1,
+      "vote_count": 38414
+    },
+    "modified": {
+      "time": "2026-05-20T21:31:11.000Z"
+    },
+    "_id": "69e49396748ca16f085fb60a",
+    "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác (Phần 4)",
+    "slug": "rezero-−-bat-dau-o-the-gioi-khac-phan-4",
+    "origin_name": "Re:ZERO -Starting Life in Another World- Season 4",
+    "thumb_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-thumb.jpg",
+    "poster_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1403080",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30827025",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T21:30:13.000Z"
+    },
+    "_id": "69fc1424cec790794bfed07d",
+    "name": "Lần Nữa Đến Bên Em",
+    "slug": "lan-nua-den-ben-em",
+    "origin_name": "Love Beyond Dreams",
+    "thumb_url": "lan-nua-den-ben-em-thumb.jpg",
+    "poster_url": "lan-nua-den-ben-em-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "244189",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt40389354",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T21:29:53.000Z"
+    },
+    "_id": "69c6027ef063d23bbbd6882b",
+    "name": "Hướng Về Sao Băng Cầu Nguyện",
+    "slug": "huong-ve-sao-bang-cau-nguyen",
+    "origin_name": "Wishing Upon the Shooting Stars",
+    "thumb_url": "huong-ve-sao-bang-cau-nguyen-thumb.jpg",
+    "poster_url": "huong-ve-sao-bang-cau-nguyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387440",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T21:29:10.000Z"
+    },
+    "_id": "69e8a475db41bcecb8e33fb6",
+    "name": "Hôm Nay Lại Bán Hết",
+    "slug": "hom-nay-lai-ban-het",
+    "origin_name": "Sold Out on You",
+    "thumb_url": "hom-nay-lai-ban-het-thumb.jpg",
+    "poster_url": "hom-nay-lai-ban-het-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72517",
+      "season": 4,
+      "vote_average": 8.405,
+      "vote_count": 766
+    },
+    "imdb": {
+      "id": "tt7263328",
+      "vote_average": 7.7,
+      "vote_count": 20411
+    },
+    "modified": {
+      "time": "2026-05-20T21:28:35.000Z"
+    },
+    "_id": "69cde6c8400bf394bd970fda",
+    "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+    "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+    "origin_name": "Classroom of the Elite (Season 4)",
+    "thumb_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+    "poster_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T19:11:02.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322634",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21402786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T18:48:52.000Z"
+    },
+    "_id": "6a0b20bac52ec62c8b14b334",
+    "name": "Hổ Giấu Vằn",
+    "slug": "ho-giau-van",
+    "origin_name": "Wicked Temptation",
+    "thumb_url": "ho-giau-van-thumb.jpg",
+    "poster_url": "ho-giau-van-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320472",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41993588",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T18:40:58.000Z"
+    },
+    "_id": "6a0d7c07142ea533b01ec79d",
+    "name": "Kylie",
+    "slug": "kylie",
+    "origin_name": "Kylie",
+    "thumb_url": "kylie-thumb.jpg",
+    "poster_url": "kylie-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321597",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41559289",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T18:40:37.000Z"
+    },
+    "_id": "6a0d7bb1e14b2140fc6b629b",
+    "name": "Caro tuyệt phẩm",
+    "slug": "carizzma",
+    "origin_name": "Carizzma",
+    "thumb_url": "carizzma-thumb.jpg",
+    "poster_url": "carizzma-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1684244",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41801280",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T18:38:53.000Z"
+    },
+    "_id": "6a0d7cb04be02ecfaff52a37",
+    "name": "Bí mật giới thể thao Anh quốc: Phép màu Istanbul của Liverpool",
+    "slug": "bi-mat-gioi-the-thao-anh-quoc-phep-mau-istanbul-cua-liverpool",
+    "origin_name": "Untold UK: Liverpool's Miracle of Istanbul",
+    "thumb_url": "bi-mat-gioi-the-thao-anh-quoc-phep-mau-istanbul-cua-liverpool-thumb.jpg",
+    "poster_url": "bi-mat-gioi-the-thao-anh-quoc-phep-mau-istanbul-cua-liverpool-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T18:38:37.000Z"
+    },
+    "_id": "6a0d7e666997f14383cbc83d",
+    "name": "Hoắc Phu Nhân Ra Tay",
+    "slug": "hoac-phu-nhan-ra-tay-short-drama",
+    "origin_name": "Hoắc Phu Nhân Ra Tay",
+    "thumb_url": "hoac-phu-nhan-ra-tay-short-drama-thumb.jpg",
+    "poster_url": "hoac-phu-nhan-ra-tay-short-drama-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "299123",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt35890535",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T16:58:13.000Z"
+    },
+    "_id": "6a0d3dfae12218d7285610ec",
+    "name": "Thế Hệ Điểm 10",
+    "slug": "the-he-diem-10",
+    "origin_name": "Generasi: Perfect 10",
+    "thumb_url": "the-he-diem-10-thumb.jpg",
+    "poster_url": "the-he-diem-10-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320462",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T16:24:15.000Z"
+    },
+    "_id": "6a0d7db9142ea533b01ec83b",
+    "name": "Kill It: Slay Tới Bến",
+    "slug": "kill-it-slay-toi-ben",
+    "origin_name": "Kill It: Style Creator War",
+    "thumb_url": "kill-it-slay-toi-ben-thumb.jpg",
+    "poster_url": "kill-it-slay-toi-ben-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1173559",
+      "season": null,
+      "vote_average": 5.778,
+      "vote_count": 18
+    },
+    "imdb": {
+      "id": "tt26349732",
+      "vote_average": 2.5,
+      "vote_count": 232
+    },
+    "modified": {
+      "time": "2026-05-20T16:13:28.000Z"
+    },
+    "_id": "6a0d7b34a432d616e85a3a49",
+    "name": "Địa ngục hiểm ác",
+    "slug": "dia-nguc-hiem-ac",
+    "origin_name": "Insidious Inferno",
+    "thumb_url": "dia-nguc-hiem-ac-thumb.jpg",
+    "poster_url": "dia-nguc-hiem-ac-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "530442",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 105
+    },
+    "imdb": {
+      "id": "tt6997574",
+      "vote_average": 4.4,
+      "vote_count": 3027
+    },
+    "modified": {
+      "time": "2026-05-20T16:05:16.000Z"
+    },
+    "_id": "6a0d79492c8b2895cfa4a697",
+    "name": "Cô giáo của tôi, nỗi ám ảnh của tôi",
+    "slug": "co-giao-cua-toi-noi-am-anh-cua-toi",
+    "origin_name": "My Teacher, My Obsession",
+    "thumb_url": "co-giao-cua-toi-noi-am-anh-cua-toi-thumb.jpg",
+    "poster_url": "co-giao-cua-toi-noi-am-anh-cua-toi-poster.jpg",
+    "year": 2018
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "510657",
+      "season": null,
+      "vote_average": 5.091,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt7945270",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T16:04:29.000Z"
+    },
+    "_id": "6a0d791a6092900b411608e9",
+    "name": "Wellwood",
+    "slug": "wellwood",
+    "origin_name": "Wellwood",
+    "thumb_url": "wellwood-thumb.jpg",
+    "poster_url": "wellwood-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295509",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38626513",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-20T16:01:41.000Z"
+    },
+    "_id": "6a02d864006591e108205d8a",
+    "name": "Huyền Thoại Lính Bếp",
+    "slug": "huyen-thoai-linh-bep",
+    "origin_name": "The Legend of Kitchen Soldier",
+    "thumb_url": "huyen-thoai-linh-bep-thumb.jpg",
+    "poster_url": "huyen-thoai-linh-bep-poster.jpg",
+    "year": 2026
+  }
+]
