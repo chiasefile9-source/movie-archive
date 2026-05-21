@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72976",
+      "season": 5,
+      "vote_average": 6.6,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt16444020",
+      "vote_average": 7.4,
+      "vote_count": 74
+    },
+    "modified": {
+      "time": "2026-05-22T01:25:23.000Z"
+    },
+    "_id": "69dfcfeb41d6bb2c315360fb",
+    "name": "Nhịp Đập Trái Tim (Phần 5)",
+    "slug": "nhip-dap-trai-tim-phan-5",
+    "origin_name": "Heart Signal (Season 5)",
+    "thumb_url": "nhip-dap-trai-tim-phan-5-thumb.jpg",
+    "poster_url": "nhip-dap-trai-tim-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309044",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt27097227",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T23:20:45.000Z"
+    },
+    "_id": "69843f824ea2111da8b72fb3",
+    "name": "Món Quà Của Kluay",
+    "slug": "mon-qua-cua-kluay",
+    "origin_name": "The Gift",
+    "thumb_url": "mon-qua-cua-kluay-thumb.jpg",
+    "poster_url": "mon-qua-cua-kluay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "86031",
+      "season": 4,
+      "vote_average": 8.533,
+      "vote_count": 1642
+    },
+    "imdb": {
+      "id": "tt9679542",
+      "vote_average": 8.1,
+      "vote_count": 41263
+    },
+    "modified": {
+      "time": "2026-05-21T23:19:11.000Z"
+    },
+    "_id": "6780ddf7af10fecdaf87d209",
+    "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
+    "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
+    "origin_name": "Dr. STONE (Season 4)",
+    "thumb_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
+    "poster_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1102883",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 45
+    },
+    "imdb": {
+      "id": "tt27200708",
+      "vote_average": 4,
+      "vote_count": 563
+    },
+    "modified": {
+      "time": "2026-05-21T23:09:26.000Z"
+    },
+    "_id": "6a01a4c691cc1b96d591bbb8",
+    "name": "Mother Mary: Hào Quang Đơn Độc",
+    "slug": "mother-mary-hao-quang-don-doc",
+    "origin_name": "Mother Mary",
+    "thumb_url": "mother-mary-hao-quang-don-doc-thumb-1779333810498.jpg",
+    "poster_url": "mother-mary-hao-quang-don-doc-poster-1779333811679.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254486",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31887969",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T23:09:10.000Z"
+    },
+    "_id": "6a0341a9da7d89406867aaae",
+    "name": "Vũ Lâm Linh",
+    "slug": "vu-lam-linh",
+    "origin_name": "Zhan Zhao Adventures",
+    "thumb_url": "vu-lam-linh-thumb.jpg",
+    "poster_url": "vu-lam-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1063738",
+      "season": null,
+      "vote_average": 3.5,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt26412602",
+      "vote_average": 4.4,
+      "vote_count": 164
+    },
+    "modified": {
+      "time": "2026-05-21T23:08:01.000Z"
+    },
+    "_id": "6a0f2de12c8b2895cfa4f699",
+    "name": "Dục Vọng Bên Sông Trắng",
+    "slug": "duc-vong-ben-song-trang",
+    "origin_name": "White River",
+    "thumb_url": "duc-vong-ben-song-trang-thumb.jpg",
+    "poster_url": "duc-vong-ben-song-trang-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1383247",
+      "season": null,
+      "vote_average": 5.3,
+      "vote_count": 39
+    },
+    "imdb": {
+      "id": "tt35526133",
+      "vote_average": 0,
+      "vote_count": 59
+    },
+    "modified": {
+      "time": "2026-05-21T23:06:42.000Z"
+    },
+    "_id": "6a0f2d92f7f43ec64ef4acc8",
+    "name": "Điệp Viên Số 0",
+    "slug": "diep-vien-so-0",
+    "origin_name": "Agent Zero",
+    "thumb_url": "diep-vien-so-0-thumb.jpg",
+    "poster_url": "diep-vien-so-0-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387440",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T23:01:19.000Z"
+    },
+    "_id": "69e8a475db41bcecb8e33fb6",
+    "name": "Hôm Nay Lại Bán Hết",
+    "slug": "hom-nay-lai-ban-het",
+    "origin_name": "Sold Out on You",
+    "thumb_url": "hom-nay-lai-ban-het-thumb.jpg",
+    "poster_url": "hom-nay-lai-ban-het-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T20:15:04.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "114922",
+      "season": 2,
+      "vote_average": 6.828,
+      "vote_count": 490
+    },
+    "imdb": {
+      "id": "tt9794044",
+      "vote_average": 6.2,
+      "vote_count": 37316
+    },
+    "modified": {
+      "time": "2026-05-21T19:50:48.000Z"
+    },
+    "_id": "69fc509893c48ff6bff34ebd",
+    "name": "Citadel (Phần 2)",
+    "slug": "citadel-phan-2",
+    "origin_name": "Citadel (Season 2)",
+    "thumb_url": "citadel-phan-2-thumb.jpg",
+    "poster_url": "citadel-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321596",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt35636900",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T17:49:41.000Z"
+    },
+    "_id": "6a0ee345416b9186f00e22b1",
+    "name": "James.",
+    "slug": "james",
+    "origin_name": "James.",
+    "thumb_url": "james-thumb.jpg",
+    "poster_url": "james-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34881054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T17:48:31.000Z"
+    },
+    "_id": "6a0ee15d12f0391f00d0eb0b",
+    "name": "WU",
+    "slug": "wu",
+    "origin_name": "WU",
+    "thumb_url": "wu-thumb.jpg",
+    "poster_url": "wu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "224941",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt27557289",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T17:44:36.000Z"
+    },
+    "_id": "6a0ee214a6726df8fd342b5a",
+    "name": "Phiến Quân Tóc Xám",
+    "slug": "phien-quan-toc-xam",
+    "origin_name": "The Boroughs",
+    "thumb_url": "phien-quan-toc-xam-thumb.jpg",
+    "poster_url": "phien-quan-toc-xam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321749",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42443184",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T16:19:21.000Z"
+    },
+    "_id": "6a02dd63b692c7b208dc5976",
+    "name": "Trốn Không Thoát Tội",
+    "slug": "tron-khong-thoat-toi",
+    "origin_name": "Inevitable Justice",
+    "thumb_url": "tron-khong-thoat-toi-thumb.jpg",
+    "poster_url": "tron-khong-thoat-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278113",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37253311",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T14:40:59.000Z"
+    },
+    "_id": "69f1f2ed4e2efe72884c0047",
+    "name": "Vùng Đất Vàng",
+    "slug": "vung-dat-vang",
+    "origin_name": "Gold Land",
+    "thumb_url": "vung-dat-vang-thumb.jpg",
+    "poster_url": "vung-dat-vang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "202297",
+      "season": 4,
+      "vote_average": 8.076,
+      "vote_count": 164
+    },
+    "imdb": {
+      "id": "tt16098700",
+      "vote_average": 7.1,
+      "vote_count": 16438
+    },
+    "modified": {
+      "time": "2026-05-21T12:25:06.000Z"
+    },
+    "_id": "693a839b8e1195b71e9271a9",
+    "name": "Vùng Đất Lửa (Phần 4)",
+    "slug": "fire-country-phan-4",
+    "origin_name": "Fire Country (Season 4)",
+    "thumb_url": "fire-country-phan-4-thumb.jpg",
+    "poster_url": "fire-country-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309208",
+      "season": 1,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T11:34:03.000Z"
+    },
+    "_id": "6a0e7ffe4f61d761f76be31a",
+    "name": "Mặt Trái Của Mất Tích (Bản Thái)",
+    "slug": "mat-trai-cua-mat-tich-ban-thai",
+    "origin_name": "Missing",
+    "thumb_url": "mat-trai-cua-mat-tich-ban-thai-thumb.jpg",
+    "poster_url": "mat-trai-cua-mat-tich-ban-thai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302071",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T11:24:04.000Z"
+    },
+    "_id": "6a05b50715072466acf722f9",
+    "name": "Tường Tự Ký",
+    "slug": "tuong-tu-ky",
+    "origin_name": "Xiang Xu Ji",
+    "thumb_url": "tuong-tu-ky-thumb.jpg",
+    "poster_url": "tuong-tu-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T11:16:53.000Z"
+    },
+    "_id": "69f487916d4243e068f61e30",
+    "name": "Bắt Sóng Tình Duyên",
+    "slug": "bat-song-tinh-duyen",
+    "origin_name": "Rak Rak - Sense of Love",
+    "thumb_url": "bat-song-tinh-duyen-thumb.jpg",
+    "poster_url": "bat-song-tinh-duyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322924",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T11:16:36.000Z"
+    },
+    "_id": "6a0e85096092900b411635b5",
+    "name": "Trói Buộc Bởi Thuỷ Triều",
+    "slug": "troi-buoc-boi-thuy-trieu",
+    "origin_name": "Locked by the Tide",
+    "thumb_url": "troi-buoc-boi-thuy-trieu-thumb.jpg",
+    "poster_url": "troi-buoc-boi-thuy-trieu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316374",
+      "season": 3,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40606760",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T11:16:08.000Z"
+    },
+    "_id": "6a0d34221fea2c5da7a57070",
+    "name": "Minh Châu Kỳ Đàm (Phần 3)",
+    "slug": "minh-chau-ky-dam-phan-3",
+    "origin_name": "The Secret of the Lost Pearl (Season 3)",
+    "thumb_url": "minh-chau-ky-dam-phan-3-thumb.jpg",
+    "poster_url": "minh-chau-ky-dam-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322921",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T11:15:36.000Z"
+    },
+    "_id": "6a0e842d6092900b4116351f",
+    "name": "Vấn Yêu",
+    "slug": "van-yeu",
+    "origin_name": "The Demon's Pursuit",
+    "thumb_url": "van-yeu-thumb.jpg",
+    "poster_url": "van-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283952",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt36758636",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T11:14:53.000Z"
+    },
+    "_id": "69f6caf9e53e6a47ad62ae1c",
+    "name": "Lương Trần Mỹ Cẩm",
+    "slug": "luong-tran-my-cam",
+    "origin_name": "A Splendid Match",
+    "thumb_url": "luong-tran-my-cam-thumb.jpg",
+    "poster_url": "luong-tran-my-cam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322475",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-21T11:14:39.000Z"
+    },
+    "_id": "6a08559615072466acf78481",
+    "name": "Người Giữ Đèn Ở Chùa Ký Cốt",
+    "slug": "nguoi-giu-den-o-chua-ky-cot",
+    "origin_name": "LightKeeper of Jigu Temple",
+    "thumb_url": "nguoi-giu-den-o-chua-ky-cot-thumb.jpg",
+    "poster_url": "nguoi-giu-den-o-chua-ky-cot-poster.jpg",
+    "year": 2026
+  }
+]
