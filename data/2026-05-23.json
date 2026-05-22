@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "253391",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt32268630",
+      "vote_average": 6.6,
+      "vote_count": 2842
+    },
+    "modified": {
+      "time": "2026-05-22T23:55:16.000Z"
+    },
+    "_id": "694b47ecb06c99c722eaa29f",
+    "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
+    "slug": "canh-sat-truong-vung-que-phan-1",
+    "origin_name": "Sheriff Country",
+    "thumb_url": "canh-sat-truong-vung-que-phan-1-thumb.jpg",
+    "poster_url": "canh-sat-truong-vung-que-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T19:32:07.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322634",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21402786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T19:31:38.000Z"
+    },
+    "_id": "6a0b20bac52ec62c8b14b334",
+    "name": "Hổ Giấu Vằn",
+    "slug": "ho-giau-van",
+    "origin_name": "Wicked Temptation",
+    "thumb_url": "ho-giau-van-thumb.jpg",
+    "poster_url": "ho-giau-van-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311871",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T18:49:50.000Z"
+    },
+    "_id": "69e4a9db6d4243e068f1056b",
+    "name": "Anh Em Nhà Tagusari",
+    "slug": "tagusari-bros",
+    "origin_name": "TAGUSARI bros.",
+    "thumb_url": "tagusari-bros-thumb.jpg",
+    "poster_url": "tagusari-bros-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "22414",
+      "season": null,
+      "vote_average": 6.6,
+      "vote_count": 292
+    },
+    "imdb": {
+      "id": "tt0100395",
+      "vote_average": 6.7,
+      "vote_count": 20788
+    },
+    "modified": {
+      "time": "2026-05-22T16:42:35.000Z"
+    },
+    "_id": "6a0ff16c4e6584edee41c613",
+    "name": "Bưu thiếp từ bờ vực",
+    "slug": "buu-thiep-tu-bo-vuc",
+    "origin_name": "Postcards from the Edge",
+    "thumb_url": "buu-thiep-tu-bo-vuc-thumb.jpg",
+    "poster_url": "buu-thiep-tu-bo-vuc-poster.jpg",
+    "year": 1990
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1368881",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34611082",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T15:15:45.000Z"
+    },
+    "_id": "6a1008482c0a4eaf2653c133",
+    "name": "Xin Nhường Phái Đẹp",
+    "slug": "xin-nhuong-phai-dep",
+    "origin_name": "Ladies First",
+    "thumb_url": "xin-nhuong-phai-dep-thumb.jpg",
+    "poster_url": "xin-nhuong-phai-dep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290295",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt14690136",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T15:15:25.000Z"
+    },
+    "_id": "6a1007e51fea2c5da7a5f53f",
+    "name": "Mùa Giao Phối",
+    "slug": "mua-giao-phoi",
+    "origin_name": "Mating Season",
+    "thumb_url": "mua-giao-phoi-thumb.jpg",
+    "poster_url": "mua-giao-phoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322921",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T14:51:36.000Z"
+    },
+    "_id": "6a0e842d6092900b4116351f",
+    "name": "Vấn Yêu",
+    "slug": "van-yeu",
+    "origin_name": "The Demon's Pursuit",
+    "thumb_url": "van-yeu-thumb.jpg",
+    "poster_url": "van-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321802",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T14:49:52.000Z"
+    },
+    "_id": "6a0fd82316a695c8bbfe78db",
+    "name": "Thịnh Đường Kỳ Án",
+    "slug": "thinh-duong-ky-an",
+    "origin_name": "Tang Dynasty Occult Mysteries",
+    "thumb_url": "thinh-duong-ky-an-thumb.jpg",
+    "poster_url": "thinh-duong-ky-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321749",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42443184",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T14:22:51.000Z"
+    },
+    "_id": "6a02dd63b692c7b208dc5976",
+    "name": "Trốn Không Thoát Tội",
+    "slug": "tron-khong-thoat-toi",
+    "origin_name": "Inevitable Justice",
+    "thumb_url": "tron-khong-thoat-toi-thumb.jpg",
+    "poster_url": "tron-khong-thoat-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "75191",
+      "season": 3,
+      "vote_average": 7.346,
+      "vote_count": 970
+    },
+    "imdb": {
+      "id": "tt2708480",
+      "vote_average": 7.8,
+      "vote_count": 61205
+    },
+    "modified": {
+      "time": "2026-05-22T13:18:54.000Z"
+    },
+    "_id": "6a055b84f616ee3807e37ea9",
+    "name": "Chuyện Kinh Hoàng (Phần 3)",
+    "slug": "chuyen-kinh-hoang-phan-3",
+    "origin_name": "The Terror (Season 3)",
+    "thumb_url": "chuyen-kinh-hoang-phan-3-thumb.jpg",
+    "poster_url": "chuyen-kinh-hoang-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "929813",
+      "season": null,
+      "vote_average": 7.7,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt17023860",
+      "vote_average": 7,
+      "vote_count": 103
+    },
+    "modified": {
+      "time": "2026-05-22T13:15:40.000Z"
+    },
+    "_id": "6a0fea7216a695c8bbfe7eab",
+    "name": "Rất Muốn Đến Thế Giới Của Em Để Yêu Em",
+    "slug": "rat-muon-den-the-gioi-cua-em-de-yeu-em",
+    "origin_name": "0.1% World",
+    "thumb_url": "rat-muon-den-the-gioi-cua-em-de-yeu-em-thumb.jpg",
+    "poster_url": "rat-muon-den-the-gioi-cua-em-de-yeu-em-poster.jpg",
+    "year": 2022
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T12:44:46.000Z"
+    },
+    "_id": "6a0fe5e72c0a4eaf2653b8a1",
+    "name": "Nhất Thế Tình Thù",
+    "slug": "nhat-the-tinh-thu-short-drama",
+    "origin_name": "Nhất Thế Tình Thù",
+    "thumb_url": "nhat-the-tinh-thu-short-drama-thumb.jpg",
+    "poster_url": "nhat-the-tinh-thu-short-drama-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T11:58:00.000Z"
+    },
+    "_id": "6a0bec2b4be02ecfaff4eb88",
+    "name": "Trời Xanh Trên Mây",
+    "slug": "troi-xanh-tren-may",
+    "origin_name": "Sky Blue Above the Clouds",
+    "thumb_url": "troi-xanh-tren-may-thumb.jpg",
+    "poster_url": "troi-xanh-tren-may-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "284000",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T11:57:36.000Z"
+    },
+    "_id": "69e1c6346d4243e068ef6f34",
+    "name": "Kẻ Thù Chung Giường",
+    "slug": "ke-thu-chung-giuong",
+    "origin_name": "Reverse",
+    "thumb_url": "ke-thu-chung-giuong-thumb.jpg",
+    "poster_url": "ke-thu-chung-giuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "284969",
+      "season": 1,
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt38646977",
+      "vote_average": 0,
+      "vote_count": 18
+    },
+    "modified": {
+      "time": "2026-05-22T11:36:10.000Z"
+    },
+    "_id": "6966143754ca9185bba99c3f",
+    "name": "Hỏa Thực Điểu: Đội cứu hỏa Borotobi vùng Ushu",
+    "slug": "hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu",
+    "origin_name": "Oedo Fire Slayer -The Legend of Phoenix-",
+    "thumb_url": "hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu-thumb.jpg",
+    "poster_url": "hoa-thuc-dieu-doi-cuu-hoa-borotobi-vung-ushu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1063738",
+      "season": null,
+      "vote_average": 3.5,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt26412602",
+      "vote_average": 4.4,
+      "vote_count": 164
+    },
+    "modified": {
+      "time": "2026-05-22T11:27:13.000Z"
+    },
+    "_id": "6a0f2de12c8b2895cfa4f699",
+    "name": "Dục Vọng Bên Sông Trắng",
+    "slug": "duc-vong-ben-song-trang",
+    "origin_name": "White River",
+    "thumb_url": "duc-vong-ben-song-trang-thumb.jpg",
+    "poster_url": "duc-vong-ben-song-trang-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311755",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T11:08:32.000Z"
+    },
+    "_id": "6a09501fa6726df8fd334f65",
+    "name": "Gả Vào Nhà Quyền Quý",
+    "slug": "ga-vao-nha-quyen-quy",
+    "origin_name": "Daughter of Fortune",
+    "thumb_url": "ga-vao-nha-quyen-quy-thumb.jpg",
+    "poster_url": "ga-vao-nha-quyen-quy-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322475",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T11:07:38.000Z"
+    },
+    "_id": "6a08559615072466acf78481",
+    "name": "Người Giữ Đèn Ở Chùa Ký Cốt",
+    "slug": "nguoi-giu-den-o-chua-ky-cot",
+    "origin_name": "LightKeeper of Jigu Temple",
+    "thumb_url": "nguoi-giu-den-o-chua-ky-cot-thumb.jpg",
+    "poster_url": "nguoi-giu-den-o-chua-ky-cot-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315331",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T11:01:11.000Z"
+    },
+    "_id": "6a0fce831fea2c5da7a5e5da",
+    "name": "Dance of the Lion",
+    "slug": "dance-of-the-lion",
+    "origin_name": "Dance of the Lion",
+    "thumb_url": "dance-of-the-lion-thumb.jpg",
+    "poster_url": "dance-of-the-lion-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283428",
+      "season": 1,
+      "vote_average": 8.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt39123061",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T10:26:16.000Z"
+    },
+    "_id": "69cfc54f54ca9185bbbf9f80",
+    "name": "Bức Tường Băng",
+    "slug": "buc-tuong-bang",
+    "origin_name": "The Ramparts of Ice",
+    "thumb_url": "buc-tuong-bang-thumb.jpg",
+    "poster_url": "buc-tuong-bang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259844",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T10:26:00.000Z"
+    },
+    "_id": "6902db510ffdad56a3512b84",
+    "name": "Linh Vũ Đại Lục",
+    "slug": "linh-vu-dai-luc",
+    "origin_name": "Legend of Lingwu Continent",
+    "thumb_url": "linh-vu-dai-luc-thumb.jpg",
+    "poster_url": "linh-vu-dai-luc-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39122702",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T10:23:23.000Z"
+    },
+    "_id": "69da038fda7d8940685a73d3",
+    "name": "Lại Bị Giết Nữa À, Thưa Thám Tử?",
+    "slug": "lai-co-an-mang-nua-roi-thua-tham-tu",
+    "origin_name": "Killed Again, Mr. Detective.",
+    "thumb_url": "lai-co-an-mang-nua-roi-thua-tham-tu-thumb.jpg",
+    "poster_url": "lai-co-an-mang-nua-roi-thua-tham-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309044",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt27097227",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-22T10:20:25.000Z"
+    },
+    "_id": "69843f824ea2111da8b72fb3",
+    "name": "Món Quà Của Kluay",
+    "slug": "mon-qua-cua-kluay",
+    "origin_name": "The Gift",
+    "thumb_url": "mon-qua-cua-kluay-thumb.jpg",
+    "poster_url": "mon-qua-cua-kluay-poster.jpg",
+    "year": 2026
+  }
+]
