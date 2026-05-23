@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "299167",
+      "season": 1,
+      "vote_average": 9.171,
+      "vote_count": 38
+    },
+    "imdb": {
+      "id": "tt34991493",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-24T00:10:02.000Z"
+    },
+    "_id": "6a0b02307544913d492aafe1",
+    "name": "Trang Trại Dutton",
+    "slug": "trang-trai-dutton",
+    "origin_name": "Dutton Ranch",
+    "thumb_url": "trang-trai-dutton-thumb.jpg",
+    "poster_url": "trang-trai-dutton-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297712",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41962163",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T23:55:12.000Z"
+    },
+    "_id": "6a11a5fb4e6584edee420ab8",
+    "name": "Chuyên Gia Tuổi Trung Niên",
+    "slug": "chuyen-gia-tuoi-trung-nien",
+    "origin_name": "Fifties Professionals",
+    "thumb_url": "chuyen-gia-tuoi-trung-nien-thumb.jpg",
+    "poster_url": "chuyen-gia-tuoi-trung-nien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309043",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21310096",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T22:01:14.000Z"
+    },
+    "_id": "69f9622693c48ff6bff25e1a",
+    "name": "Yêu Được Chưa",
+    "slug": "yeu-duoc-chua",
+    "origin_name": "Let's Begin Again",
+    "thumb_url": "yeu-duoc-chua-thumb.jpg",
+    "poster_url": "yeu-duoc-chua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303143",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38828946",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T22:00:07.000Z"
+    },
+    "_id": "69eedaa9377c8aaad5469e53",
+    "name": "Kẻ Thù Hoàng Gia Của Tôi",
+    "slug": "ke-thu-hoang-gia-cua-toi",
+    "origin_name": "My Royal Nemesis",
+    "thumb_url": "ke-thu-hoang-gia-cua-toi-thumb.jpg",
+    "poster_url": "ke-thu-hoang-gia-cua-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "286069",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt36626294",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:59:03.000Z"
+    },
+    "_id": "6a0a87064f61d761f76b4ada",
+    "name": "Gió Thoảng Tình Theo",
+    "slug": "gio-thoang-tinh-theo",
+    "origin_name": "The Air",
+    "thumb_url": "gio-thoang-tinh-theo-thumb.jpg",
+    "poster_url": "gio-thoang-tinh-theo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300131",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39443399",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:58:40.000Z"
+    },
+    "_id": "69da6f99f616ee3807d610b1",
+    "name": "KILL BLUE",
+    "slug": "kill-blue",
+    "origin_name": "KILL BLUE",
+    "thumb_url": "kill-blue-thumb.jpg",
+    "poster_url": "kill-blue-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314916",
+      "season": 1,
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt35668813",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:52:42.000Z"
+    },
+    "_id": "6a03f0fa6d4243e068fa78a7",
+    "name": "Bản Năng Người Mẹ",
+    "slug": "ban-nang-nguoi-me-2026",
+    "origin_name": "Unconditional",
+    "thumb_url": "ban-nang-nguoi-me-2026-thumb.jpg",
+    "poster_url": "ban-nang-nguoi-me-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1660612",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41269788",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:52:27.000Z"
+    },
+    "_id": "6a0d5b9ef7f43ec64ef455ed",
+    "name": "Wanda Sykes: Legacy",
+    "slug": "wanda-sykes-legacy",
+    "origin_name": "Wanda Sykes: Legacy",
+    "thumb_url": "wanda-sykes-legacy-thumb.jpg",
+    "poster_url": "wanda-sykes-legacy-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241609",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 189
+    },
+    "imdb": {
+      "id": "tt30459041",
+      "vote_average": 7.7,
+      "vote_count": 47480
+    },
+    "modified": {
+      "time": "2026-05-23T21:52:10.000Z"
+    },
+    "_id": "69d74fed91cc1b96d584364e",
+    "name": "Bạn Bè & Hàng Xóm (Phần 2)",
+    "slug": "ban-be-and-hang-xom-phan-2",
+    "origin_name": "Your Friends & Neighbors (Season 2)",
+    "thumb_url": "ban-be-and-hang-xom-phan-2-thumb.jpg",
+    "poster_url": "ban-be-and-hang-xom-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302162",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt39387632",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:51:56.000Z"
+    },
+    "_id": "6a02de83377c8aaad54cb5d1",
+    "name": "Khúc Ca Linh Hồn Shinsengumi",
+    "slug": "khuc-ca-linh-hon-shinsengumi",
+    "origin_name": "Song of the Samurai - Chapter: Youthful Days in Edo",
+    "thumb_url": "khuc-ca-linh-hon-shinsengumi-thumb.jpg",
+    "poster_url": "khuc-ca-linh-hon-shinsengumi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1447971",
+      "season": null,
+      "vote_average": 6.9,
+      "vote_count": 14
+    },
+    "imdb": {
+      "id": "tt36535318",
+      "vote_average": 5.5,
+      "vote_count": 136
+    },
+    "modified": {
+      "time": "2026-05-23T21:51:15.000Z"
+    },
+    "_id": "6a1155c2a432d616e85ae167",
+    "name": "Sự Thức Tỉnh Lặng Thầm",
+    "slug": "su-thuc-tinh-lang-tham",
+    "origin_name": "Scare Out",
+    "thumb_url": "su-thuc-tinh-lang-tham-thumb.jpg",
+    "poster_url": "su-thuc-tinh-lang-tham-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "87917",
+      "season": 5,
+      "vote_average": 7.738,
+      "vote_count": 901
+    },
+    "imdb": {
+      "id": "tt7772588",
+      "vote_average": 8.1,
+      "vote_count": 84321
+    },
+    "modified": {
+      "time": "2026-05-23T21:23:19.000Z"
+    },
+    "_id": "69c64b534da3bf6eb345b5c0",
+    "name": "Cuộc Chiến Không Gian (Phần 5)",
+    "slug": "cuoc-chien-khong-gianphan-5",
+    "origin_name": "For All Mankind (Season 5)",
+    "thumb_url": "cuoc-chien-khong-gianphan-5-thumb.jpg",
+    "poster_url": "cuoc-chien-khong-gianphan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "240150",
+      "season": 2,
+      "vote_average": 8.125,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt33378111",
+      "vote_average": 0,
+      "vote_count": 53
+    },
+    "modified": {
+      "time": "2026-05-23T21:20:23.000Z"
+    },
+    "_id": "69474097ae6f0c1fdf32f4bd",
+    "name": "Fourever You (Phần 2)",
+    "slug": "fourever-you-phan-2",
+    "origin_name": "Fourever You (Season 2)",
+    "thumb_url": "fourever-you-phan-2-thumb.jpg",
+    "poster_url": "fourever-you-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254486",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31887969",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:19:59.000Z"
+    },
+    "_id": "6a0341a9da7d89406867aaae",
+    "name": "Vũ Lâm Linh",
+    "slug": "vu-lam-linh",
+    "origin_name": "Zhan Zhao Adventures",
+    "thumb_url": "vu-lam-linh-thumb.jpg",
+    "poster_url": "vu-lam-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124101",
+      "season": 5,
+      "vote_average": 7.421,
+      "vote_count": 329
+    },
+    "imdb": {
+      "id": "tt11815682",
+      "vote_average": 8.2,
+      "vote_count": 60819
+    },
+    "modified": {
+      "time": "2026-05-23T21:18:38.000Z"
+    },
+    "_id": "69dba5ff15072466ace9ef7a",
+    "name": "Huyền Thoại Làng Hài (Phần 5)",
+    "slug": "huyen-thoai-lang-hai-phan-5",
+    "origin_name": "Hacks (Season 5)",
+    "thumb_url": "huyen-thoai-lang-hai-phan-5-thumb.jpg",
+    "poster_url": "huyen-thoai-lang-hai-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322921",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:11:53.000Z"
+    },
+    "_id": "6a0e842d6092900b4116351f",
+    "name": "Vấn Yêu",
+    "slug": "van-yeu",
+    "origin_name": "The Demon's Pursuit",
+    "thumb_url": "van-yeu-thumb.jpg",
+    "poster_url": "van-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321802",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:09:30.000Z"
+    },
+    "_id": "6a0fd82316a695c8bbfe78db",
+    "name": "Thịnh Đường Kỳ Án",
+    "slug": "thinh-duong-ky-an",
+    "origin_name": "Tang Dynasty Occult Mysteries",
+    "thumb_url": "thinh-duong-ky-an-thumb.jpg",
+    "poster_url": "thinh-duong-ky-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322190",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:08:12.000Z"
+    },
+    "_id": "6a006f6141d6bb2c315e433d",
+    "name": "Griya",
+    "slug": "griya",
+    "origin_name": "Griya",
+    "thumb_url": "griya-thumb.jpg",
+    "poster_url": "griya-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:07:13.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322924",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T21:01:32.000Z"
+    },
+    "_id": "6a0e85096092900b411635b5",
+    "name": "Trói Buộc Bởi Thuỷ Triều",
+    "slug": "troi-buoc-boi-thuy-trieu",
+    "origin_name": "Locked by the Tide",
+    "thumb_url": "troi-buoc-boi-thuy-trieu-thumb.jpg",
+    "poster_url": "troi-buoc-boi-thuy-trieu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "91801",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 285
+    },
+    "imdb": {
+      "id": "tt11034066",
+      "vote_average": 7.6,
+      "vote_count": 3317
+    },
+    "modified": {
+      "time": "2026-05-23T21:00:23.000Z"
+    },
+    "_id": "69d1d78e32adc86a1e86e515",
+    "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
+    "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
+    "origin_name": "Welcome to Demon School! Iruma-kun (Season 4)",
+    "thumb_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-thumb.jpg",
+    "poster_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314784",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt41090249",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T17:10:42.000Z"
+    },
+    "_id": "69e2471341d6bb2c315422e6",
+    "name": "Giá Trị Tuyệt Đối Của Lãng Mạn",
+    "slug": "gia-tri-tuyet-doi-cua-lang-man",
+    "origin_name": "Absolute Value of Romance",
+    "thumb_url": "gia-tri-tuyet-doi-cua-lang-man-thumb.jpg",
+    "poster_url": "gia-tri-tuyet-doi-cua-lang-man-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303295",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42883509",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T16:39:15.000Z"
+    },
+    "_id": "6a1174e612f0391f00d15b9d",
+    "name": "Rực Cháy Giữa Ban Trưa",
+    "slug": "ruc-chay-giua-ban-trua",
+    "origin_name": "Twin Fire Dawn",
+    "thumb_url": "ruc-chay-giua-ban-trua-thumb.jpg",
+    "poster_url": "ruc-chay-giua-ban-trua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289209",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-23T16:36:37.000Z"
+    },
+    "_id": "6a1173d3e14b2140fc6c0f93",
+    "name": "Đại Đường Mê Vụ",
+    "slug": "dai-duong-me-vu",
+    "origin_name": "The Tang Mist",
+    "thumb_url": "dai-duong-me-vu-thumb.jpg",
+    "poster_url": "dai-duong-me-vu-poster.jpg",
+    "year": 2026
+  }
+]
