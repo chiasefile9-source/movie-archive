@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295509",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38626513",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T00:48:49.000Z"
+    },
+    "_id": "6a02d864006591e108205d8a",
+    "name": "Huyền Thoại Lính Bếp",
+    "slug": "huyen-thoai-linh-bep",
+    "origin_name": "The Legend of Kitchen Soldier",
+    "thumb_url": "huyen-thoai-linh-bep-thumb.jpg",
+    "poster_url": "huyen-thoai-linh-bep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "290856",
+      "season": 1,
+      "vote_average": 7.076,
+      "vote_count": 119
+    },
+    "imdb": {
+      "id": "tt36849871",
+      "vote_average": 6,
+      "vote_count": 7720
+    },
+    "modified": {
+      "time": "2026-05-26T00:24:47.000Z"
+    },
+    "_id": "69aa268c400bf394bd8ea526",
+    "name": "Lực Lượng Marshals",
+    "slug": "marshals",
+    "origin_name": "Marshals",
+    "thumb_url": "marshals-thumb.jpg",
+    "poster_url": "marshals-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319600",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T22:30:23.000Z"
+    },
+    "_id": "6a02da417e5a0662d4ea8575",
+    "name": "Xanh Chạm Đáy Trời",
+    "slug": "xanh-cham-day-troi",
+    "origin_name": "Azure Spring",
+    "thumb_url": "xanh-cham-day-troi-thumb.jpg",
+    "poster_url": "xanh-cham-day-troi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254486",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31887969",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T22:30:03.000Z"
+    },
+    "_id": "6a0341a9da7d89406867aaae",
+    "name": "Vũ Lâm Linh",
+    "slug": "vu-lam-linh",
+    "origin_name": "Zhan Zhao Adventures",
+    "thumb_url": "vu-lam-linh-thumb.jpg",
+    "poster_url": "vu-lam-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278174",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35006947",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T22:29:32.000Z"
+    },
+    "_id": "69afbabc124287e0825f6b36",
+    "name": "Girl Rules",
+    "slug": "girl-rules",
+    "origin_name": "Girl Rules",
+    "thumb_url": "girl-rules-thumb.jpg",
+    "poster_url": "girl-rules-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292121",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39245629",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T22:29:16.000Z"
+    },
+    "_id": "69e5dda82b874d6bfb6c1986",
+    "name": "Bù Nhìn Bóng Đêm",
+    "slug": "bu-nhin-bong-dem",
+    "origin_name": "The Scarecrow",
+    "thumb_url": "bu-nhin-bong-dem-thumb.jpg",
+    "poster_url": "bu-nhin-bong-dem-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315331",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T22:02:21.000Z"
+    },
+    "_id": "6a0fce831fea2c5da7a5e5da",
+    "name": "Dance of the Lion",
+    "slug": "dance-of-the-lion",
+    "origin_name": "Dance of the Lion",
+    "thumb_url": "dance-of-the-lion-thumb.jpg",
+    "poster_url": "dance-of-the-lion-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297640",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39010903",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T20:42:19.000Z"
+    },
+    "_id": "69ecebe9748ca16f08627461",
+    "name": "Thanh Tra Bí Mật",
+    "slug": "thanh-tra-bi-mat",
+    "origin_name": "Filing for Love",
+    "thumb_url": "thanh-tra-bi-mat-thumb.jpg",
+    "poster_url": "thanh-tra-bi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T18:55:24.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302074",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 23
+    },
+    "imdb": {
+      "id": "tt37063558",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T18:18:38.000Z"
+    },
+    "_id": "6a068dc8b3a3583bbbbabd15",
+    "name": "Thám Tử R.J. Decker",
+    "slug": "rj-decker",
+    "origin_name": "R.J. Decker",
+    "thumb_url": "rj-decker-thumb.jpg",
+    "poster_url": "rj-decker-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322568",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T18:10:08.000Z"
+    },
+    "_id": "6a14286ba6726df8fd350590",
+    "name": "Trò Chơi Tình Yêu",
+    "slug": "tro-choi-tinh-yeu-2026",
+    "origin_name": "The Love Game",
+    "thumb_url": "tro-choi-tinh-yeu-2026-thumb.jpg",
+    "poster_url": "tro-choi-tinh-yeu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1667408",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T17:09:36.000Z"
+    },
+    "_id": "6a140bf3e14b2140fc6c75a8",
+    "name": "Nữ Vệ Sĩ Vương Bài",
+    "slug": "nu-ve-si-vuong-bai",
+    "origin_name": "Ace Female Bodyguard",
+    "thumb_url": "nu-ve-si-vuong-bai-thumb.jpg",
+    "poster_url": "nu-ve-si-vuong-bai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1691986",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T17:09:25.000Z"
+    },
+    "_id": "6a140cc1f7f43ec64ef5722c",
+    "name": "Kế Hoạch Bình Minh",
+    "slug": "ke-hoach-binh-minh",
+    "origin_name": "DAWN PLAN",
+    "thumb_url": "ke-hoach-binh-minh-thumb.jpg",
+    "poster_url": "ke-hoach-binh-minh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1698215",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T17:09:13.000Z"
+    },
+    "_id": "6a140c43e12218d728572fa7",
+    "name": "Huyến Chiến Thanh Long Trại",
+    "slug": "huyen-chien-thanh-long-trai",
+    "origin_name": "The Final Battle",
+    "thumb_url": "huyen-chien-thanh-long-trai-thumb.jpg",
+    "poster_url": "huyen-chien-thanh-long-trai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1662403",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T17:08:48.000Z"
+    },
+    "_id": "6a140d3b4e6584edee426a4d",
+    "name": "Giới Linh",
+    "slug": "gioi-linh",
+    "origin_name": "JieLing",
+    "thumb_url": "gioi-linh-thumb.jpg",
+    "poster_url": "gioi-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1660900",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T17:08:38.000Z"
+    },
+    "_id": "6a140cfc7544913d492c205b",
+    "name": "Đạo Mộ Đại Án",
+    "slug": "dao-mo-dai-an",
+    "origin_name": "Grave Robbery",
+    "thumb_url": "dao-mo-dai-an-thumb.jpg",
+    "poster_url": "dao-mo-dai-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1667474",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T17:08:27.000Z"
+    },
+    "_id": "6a140c85e14b2140fc6c75f6",
+    "name": "Chiến Đao Đồ Lang 2",
+    "slug": "chien-dao-do-lang-2",
+    "origin_name": "Wolf Hunters 2",
+    "thumb_url": "chien-dao-do-lang-2-thumb.jpg",
+    "poster_url": "chien-dao-do-lang-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1679434",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T17:08:13.000Z"
+    },
+    "_id": "6a140bad4f61d761f76cce61",
+    "name": "Cánh Chim Nhạn Cô Độc",
+    "slug": "canh-chim-nhan-co-doc",
+    "origin_name": "Before Dawn",
+    "thumb_url": "canh-chim-nhan-co-doc-thumb.jpg",
+    "poster_url": "canh-chim-nhan-co-doc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "276188",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34728191",
+      "vote_average": 9.2,
+      "vote_count": 58
+    },
+    "modified": {
+      "time": "2026-05-25T15:39:41.000Z"
+    },
+    "_id": "6a13d3222c0a4eaf265452be",
+    "name": "Shades",
+    "slug": "shades",
+    "origin_name": "Shades",
+    "thumb_url": "shades-thumb.jpg",
+    "poster_url": "shades-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1221942",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T15:35:00.000Z"
+    },
+    "_id": "62550d55b89e109508090858",
+    "name": "Thám Tử Lừng Danh Conan",
+    "origin_name": "Detective Conan",
+    "thumb_url": "tham-tu-lung-danh-conan-thumb.jpg",
+    "slug": "tham-tu-lung-danh-conan",
+    "year": 2005,
+    "poster_url": "tham-tu-lung-danh-conan-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "317056",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42152890",
+      "vote_average": 8.7,
+      "vote_count": 74
+    },
+    "modified": {
+      "time": "2026-05-25T14:56:24.000Z"
+    },
+    "_id": "6a13d305f7f43ec64ef5681b",
+    "name": "Double Helix",
+    "slug": "double-helix",
+    "origin_name": "Double Helix",
+    "thumb_url": "double-helix-thumb.jpg",
+    "poster_url": "double-helix-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323508",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T14:35:33.000Z"
+    },
+    "_id": "6a130febe10cfe56c4994911",
+    "name": "Thần Y Cổ Đại Ở Thành Phố",
+    "slug": "than-y-co-dai-o-thanh-pho",
+    "origin_name": "Divine Doctor",
+    "thumb_url": "than-y-co-dai-o-thanh-pho-thumb.jpg",
+    "poster_url": "than-y-co-dai-o-thanh-pho-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "37854",
+      "season": 1,
+      "vote_average": 8.7,
+      "vote_count": 5216
+    },
+    "imdb": {
+      "id": "tt0388629",
+      "vote_average": 9,
+      "vote_count": 341535
+    },
+    "modified": {
+      "time": "2026-05-25T11:55:16.000Z"
+    },
+    "_id": "6220e66e8481266c5b7f154f",
+    "name": "Đảo Hải Tặc",
+    "origin_name": "One Piece (Luffy)",
+    "thumb_url": "one-piece-thumb.jpg",
+    "slug": "one-piece",
+    "year": 1999,
+    "poster_url": "one-piece-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "107116",
+      "season": 1,
+      "vote_average": 7.4,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-25T11:53:55.000Z"
+    },
+    "_id": "62d841c00376e41264b61afa",
+    "name": "Vô Thượng Thần Đế",
+    "origin_name": "Supreme God Emperor",
+    "thumb_url": "vo-thuong-than-de-thumb.jpg",
+    "poster_url": "vo-thuong-than-de-poster.jpg",
+    "slug": "vo-thuong-than-de",
+    "year": 2020
+  }
+]
