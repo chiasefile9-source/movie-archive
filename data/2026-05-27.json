@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295509",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38626513",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T23:40:09.000Z"
+    },
+    "_id": "6a02d864006591e108205d8a",
+    "name": "Huyền Thoại Lính Bếp",
+    "slug": "huyen-thoai-linh-bep",
+    "origin_name": "The Legend of Kitchen Soldier",
+    "thumb_url": "huyen-thoai-linh-bep-thumb.jpg",
+    "poster_url": "huyen-thoai-linh-bep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T23:36:55.000Z"
+    },
+    "_id": "69cbf7b5458948c679b00b72",
+    "name": "Tình Yêu Phản Bội",
+    "slug": "tinh-yeu-phan-boi",
+    "origin_name": "Wrong Side of the Rainbow",
+    "thumb_url": "tinh-yeu-phan-boi-thumb.jpg",
+    "poster_url": "tinh-yeu-phan-boi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315494",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T23:30:35.000Z"
+    },
+    "_id": "69eae81d482e09b42826f8a5",
+    "name": "Reborn",
+    "slug": "reborn",
+    "origin_name": "Reborn",
+    "thumb_url": "reborn-thumb.jpg",
+    "poster_url": "reborn-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321628",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39379466",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T23:30:22.000Z"
+    },
+    "_id": "69f9646ae53e6a47ad63d170",
+    "name": "Nhịp Điệu Thù Hận",
+    "slug": "nhip-dieu-thu-han",
+    "origin_name": "The Rhythm of Revenge",
+    "thumb_url": "nhip-dieu-thu-han-thumb.jpg",
+    "poster_url": "nhip-dieu-thu-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "293697",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39122671",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T23:11:37.000Z"
+    },
+    "_id": "69df6411377c8aaad5412ad8",
+    "name": "Tôi muốn chấm dứt trò chơi tình yêu này",
+    "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
+    "origin_name": "I Want to End This Love Game",
+    "thumb_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-thumb.jpg",
+    "poster_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "301944",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt39122769",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T23:09:21.000Z"
+    },
+    "_id": "69d5dfb315072466ace88b55",
+    "name": "Mai Mối Cho Độc Sư",
+    "slug": "mai-moi-cho-doc-su",
+    "origin_name": "Marriage Toxin",
+    "thumb_url": "mai-moi-cho-doc-su-thumb.jpg",
+    "poster_url": "mai-moi-cho-doc-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34881054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T23:09:11.000Z"
+    },
+    "_id": "6a0ee15d12f0391f00d0eb0b",
+    "name": "WU",
+    "slug": "wu",
+    "origin_name": "WU",
+    "thumb_url": "wu-thumb.jpg",
+    "poster_url": "wu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292121",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39245629",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T23:06:46.000Z"
+    },
+    "_id": "69e5dda82b874d6bfb6c1986",
+    "name": "Bù Nhìn Bóng Đêm",
+    "slug": "bu-nhin-bong-dem",
+    "origin_name": "The Scarecrow",
+    "thumb_url": "bu-nhin-bong-dem-thumb.jpg",
+    "poster_url": "bu-nhin-bong-dem-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254486",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31887969",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T23:05:48.000Z"
+    },
+    "_id": "6a0341a9da7d89406867aaae",
+    "name": "Vũ Lâm Linh",
+    "slug": "vu-lam-linh",
+    "origin_name": "Zhan Zhao Adventures",
+    "thumb_url": "vu-lam-linh-thumb.jpg",
+    "poster_url": "vu-lam-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "213326",
+      "season": 2,
+      "vote_average": 8.1,
+      "vote_count": 58
+    },
+    "imdb": {
+      "id": "tt23132598",
+      "vote_average": 6.4,
+      "vote_count": 612
+    },
+    "modified": {
+      "time": "2026-05-26T21:08:45.000Z"
+    },
+    "_id": "69e493fc4e2efe728847d230",
+    "name": "Nữ Vương Trùm Cuối Tàn Độc Căn Nguyên Của Mọi Thảm Kịch Sẽ Dốc Sức Vì Người Dân (Phần 2)",
+    "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
+    "origin_name": "The Most Heretical Last Boss Queen: From Villainess to Savior (Season 2)",
+    "thumb_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-thumb.jpg",
+    "poster_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319600",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T21:07:14.000Z"
+    },
+    "_id": "6a02da417e5a0662d4ea8575",
+    "name": "Xanh Chạm Đáy Trời",
+    "slug": "xanh-cham-day-troi",
+    "origin_name": "Azure Spring",
+    "thumb_url": "xanh-cham-day-troi-thumb.jpg",
+    "poster_url": "xanh-cham-day-troi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1639398",
+      "season": null,
+      "vote_average": 8.25,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt32205214",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T19:32:31.000Z"
+    },
+    "_id": "6a1592d4baf8dde7e3ca54b4",
+    "name": "Tâm lý Mexico",
+    "slug": "tam-ly-mexico",
+    "origin_name": "Mexican Psycho",
+    "thumb_url": "tam-ly-mexico-thumb.jpg",
+    "poster_url": "tam-ly-mexico-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "44980",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt0167508",
+      "vote_average": 4.8,
+      "vote_count": 218
+    },
+    "modified": {
+      "time": "2026-05-26T19:31:24.000Z"
+    },
+    "_id": "6a15929a142ea533b020374e",
+    "name": "Không Người Phụ Nữ 2",
+    "slug": "khong-nguoi-phu-nu-2",
+    "origin_name": "Zero Woman 2",
+    "thumb_url": "khong-nguoi-phu-nu-2-thumb.jpg",
+    "poster_url": "khong-nguoi-phu-nu-2-poster.jpg",
+    "year": 1995
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1669050",
+      "season": null,
+      "vote_average": 4.7,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt40541183",
+      "vote_average": 6.7,
+      "vote_count": 43
+    },
+    "modified": {
+      "time": "2026-05-26T19:30:44.000Z"
+    },
+    "_id": "6a159272a6726df8fd35581e",
+    "name": "Tayuan 2",
+    "slug": "tayuan-2",
+    "origin_name": "Tayuan 2",
+    "thumb_url": "tayuan-2-thumb.jpg",
+    "poster_url": "tayuan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1367220",
+      "season": null,
+      "vote_average": 7.4,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt33988385",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T19:30:14.000Z"
+    },
+    "_id": "6a159254a432d616e85ba78a",
+    "name": "Karuppu",
+    "slug": "karuppu",
+    "origin_name": "Karuppu",
+    "thumb_url": "karuppu-thumb.jpg",
+    "poster_url": "karuppu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1371023",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34498111",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T19:28:56.000Z"
+    },
+    "_id": "6a159205de5e0f1b85ced450",
+    "name": "Chand Mera Dil",
+    "slug": "chand-mera-dil",
+    "origin_name": "Chand Mera Dil",
+    "thumb_url": "chand-mera-dil-thumb.jpg",
+    "poster_url": "chand-mera-dil-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T19:01:51.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322634",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21402786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T18:59:31.000Z"
+    },
+    "_id": "6a0b20bac52ec62c8b14b334",
+    "name": "Hổ Giấu Vằn",
+    "slug": "ho-giau-van",
+    "origin_name": "Wicked Temptation",
+    "thumb_url": "ho-giau-van-thumb.jpg",
+    "poster_url": "ho-giau-van-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318167",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387426",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T18:18:55.000Z"
+    },
+    "_id": "6a15819ce10cfe56c499c537",
+    "name": "Jae-seok's B&B Rules!",
+    "slug": "jae-seoks-bandb-rules",
+    "origin_name": "Jae-seok's B&B Rules!",
+    "thumb_url": "jae-seoks-bandb-rules-thumb.jpg",
+    "poster_url": "jae-seoks-bandb-rules-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1318308",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 10
+    },
+    "imdb": {
+      "id": "tt28434143",
+      "vote_average": 6.3,
+      "vote_count": 3036
+    },
+    "modified": {
+      "time": "2026-05-26T16:09:10.000Z"
+    },
+    "_id": "6a156334c52ec62c8b166bb8",
+    "name": "Aaryan",
+    "slug": "aaryan",
+    "origin_name": "Aaryan",
+    "thumb_url": "aaryan-thumb.jpg",
+    "poster_url": "aaryan-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1537690",
+      "season": null,
+      "vote_average": 5.5,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt35712847",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T16:04:15.000Z"
+    },
+    "_id": "6a15620b173846d6442d2818",
+    "name": "Busted Water Pipes",
+    "slug": "busted-water-pipes",
+    "origin_name": "Busted Water Pipes",
+    "thumb_url": "busted-water-pipes-thumb.jpg",
+    "poster_url": "busted-water-pipes-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "21062",
+      "season": null,
+      "vote_average": 5.438,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt0353161",
+      "vote_average": 5.1,
+      "vote_count": 1209
+    },
+    "modified": {
+      "time": "2026-05-26T16:00:41.000Z"
+    },
+    "_id": "6a1561296997f14383cd2695",
+    "name": "Achtung, Fertig, Charlie!",
+    "slug": "achtung-fertig-charlie",
+    "origin_name": "Ready, Steady, Charlie!",
+    "thumb_url": "achtung-fertig-charlie-thumb.jpg",
+    "poster_url": "achtung-fertig-charlie-poster.jpg",
+    "year": 2003
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "253391",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt32268630",
+      "vote_average": 6.6,
+      "vote_count": 2842
+    },
+    "modified": {
+      "time": "2026-05-26T15:30:06.000Z"
+    },
+    "_id": "694b47ecb06c99c722eaa29f",
+    "name": "Cảnh Sát Trưởng Vùng Quê (Phần 1)",
+    "slug": "canh-sat-truong-vung-que-phan-1",
+    "origin_name": "Sheriff Country",
+    "thumb_url": "canh-sat-truong-vung-que-phan-1-thumb.jpg",
+    "poster_url": "canh-sat-truong-vung-que-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315312",
+      "season": 1,
+      "vote_average": 7.7,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt40388379",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-26T14:10:17.000Z"
+    },
+    "_id": "6a15468cbaf8dde7e3ca412b",
+    "name": "Fukami nghịch ngợm ngoài sức tưởng tượng",
+    "slug": "fukami-nghich-ngom-ngoai-suc-tuong-tuong",
+    "origin_name": "Unexpectedly Naughty Fukami",
+    "thumb_url": "fukami-nghich-ngom-ngoai-suc-tuong-tuong-thumb.jpg",
+    "poster_url": "fukami-nghich-ngom-ngoai-suc-tuong-tuong-poster.jpg",
+    "year": 2026
+  }
+]
