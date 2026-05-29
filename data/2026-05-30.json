@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "75191",
+      "season": 3,
+      "vote_average": 7.346,
+      "vote_count": 970
+    },
+    "imdb": {
+      "id": "tt2708480",
+      "vote_average": 7.8,
+      "vote_count": 61205
+    },
+    "modified": {
+      "time": "2026-05-29T23:09:16.000Z"
+    },
+    "_id": "6a055b84f616ee3807e37ea9",
+    "name": "Chuyện Kinh Hoàng (Phần 3)",
+    "slug": "chuyen-kinh-hoang-phan-3",
+    "origin_name": "The Terror (Season 3)",
+    "thumb_url": "chuyen-kinh-hoang-phan-3-thumb.jpg",
+    "poster_url": "chuyen-kinh-hoang-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259878",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt33041431",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T23:06:06.000Z"
+    },
+    "_id": "6a19b96ea6726df8fd363635",
+    "name": "Vought Rising",
+    "slug": "vought-rising",
+    "origin_name": "Vought Rising",
+    "thumb_url": "vought-rising-thumb.jpg",
+    "poster_url": "vought-rising-poster.jpg",
+    "year": 2027
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315704",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41455696",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T23:00:52.000Z"
+    },
+    "_id": "69e4f979da7d8940685e7409",
+    "name": "Thầy Tatsuki Quá Dễ Tính",
+    "slug": "thay-tatsuki-qua-de-tinh",
+    "origin_name": "Tatsuki: Too Kind for School",
+    "thumb_url": "thay-tatsuki-qua-de-tinh-thumb.jpg",
+    "poster_url": "thay-tatsuki-qua-de-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "308260",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39167244",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T23:00:41.000Z"
+    },
+    "_id": "69f95cc7da7d894068654f44",
+    "name": "Trọn Vẹn",
+    "slug": "tron-ven",
+    "origin_name": "Fulfill",
+    "thumb_url": "tron-ven-thumb.jpg",
+    "poster_url": "tron-ven-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292532",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37041010",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T22:59:26.000Z"
+    },
+    "_id": "6a1989f3f7f43ec64ef69ee4",
+    "name": "Brazil 1970: Ngôi sao thứ ba",
+    "slug": "brazil-1970-ngoi-sao-thu-ba",
+    "origin_name": "Brazil '70: The Third Star",
+    "thumb_url": "brazil-1970-ngoi-sao-thu-ba-thumb.jpg",
+    "poster_url": "brazil-1970-ngoi-sao-thu-ba-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "217838",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34934110",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T22:51:14.000Z"
+    },
+    "_id": "69c75361eea244e3e8b93ab3",
+    "name": "Love Upon A Time: Duyên Kiếp Bên Người",
+    "slug": "love-upon-a-time-duyen-kiep-ben-nguoi",
+    "origin_name": "Love Upon a Time",
+    "thumb_url": "love-upon-a-time-duyen-kiep-ben-nguoi-thumb.jpg",
+    "poster_url": "love-upon-a-time-duyen-kiep-ben-nguoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303143",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38828946",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T22:50:56.000Z"
+    },
+    "_id": "69eedaa9377c8aaad5469e53",
+    "name": "Kẻ Thù Hoàng Gia Của Tôi",
+    "slug": "ke-thu-hoang-gia-cua-toi",
+    "origin_name": "My Royal Nemesis",
+    "thumb_url": "ke-thu-hoang-gia-cua-toi-thumb.jpg",
+    "poster_url": "ke-thu-hoang-gia-cua-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296232",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39229727",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T22:50:40.000Z"
+    },
+    "_id": "69d5e08d93c48ff6bfe68daa",
+    "name": "Trái Đất Đóng Băng",
+    "slug": "trai-dat-dong-bang",
+    "origin_name": "SNOWBALL EARTH",
+    "thumb_url": "trai-dat-dong-bang-thumb.jpg",
+    "poster_url": "trai-dat-dong-bang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "82684",
+      "season": 4,
+      "vote_average": 8.398,
+      "vote_count": 865
+    },
+    "imdb": {
+      "id": "tt9054364",
+      "vote_average": 8,
+      "vote_count": 22072
+    },
+    "modified": {
+      "time": "2026-05-29T22:48:30.000Z"
+    },
+    "_id": "69d5e11f7e5a0662d4dc7c5f",
+    "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
+    "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
+    "origin_name": "That Time I Got Reincarnated as a Slime (Season 4)",
+    "thumb_url": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
+    "poster_url": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278850",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38856645",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T20:56:20.000Z"
+    },
+    "_id": "69eee82b748ca16f0862fc03",
+    "name": "Love of Silom",
+    "slug": "love-silom",
+    "origin_name": "Love of Silom",
+    "thumb_url": "รักแห่งสีลม-thumb.jpg",
+    "poster_url": "รักแห่งสีลม-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "254486",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31887969",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T20:54:45.000Z"
+    },
+    "_id": "6a0341a9da7d89406867aaae",
+    "name": "Vũ Lâm Linh",
+    "slug": "vu-lam-linh",
+    "origin_name": "Zhan Zhao Adventures",
+    "thumb_url": "vu-lam-linh-thumb.jpg",
+    "poster_url": "vu-lam-linh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T19:06:34.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322634",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21402786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T18:09:18.000Z"
+    },
+    "_id": "6a0b20bac52ec62c8b14b334",
+    "name": "Hổ Giấu Vằn",
+    "slug": "ho-giau-van",
+    "origin_name": "Wicked Temptation",
+    "thumb_url": "ho-giau-van-thumb.jpg",
+    "poster_url": "ho-giau-van-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "252372",
+      "season": 2,
+      "vote_average": 7.649,
+      "vote_count": 158
+    },
+    "imdb": {
+      "id": "tt30217222",
+      "vote_average": 7.4,
+      "vote_count": 10956
+    },
+    "modified": {
+      "time": "2026-05-29T17:08:08.000Z"
+    },
+    "_id": "6a193f664e6584edee4386dd",
+    "name": "Sát nhân hữu ý (Phần 2)",
+    "slug": "sat-nhan-huu-y-phan-2",
+    "origin_name": "Murder Mindfully (Season 2)",
+    "thumb_url": "sat-nhan-huu-y-phan-2-thumb.jpg",
+    "poster_url": "sat-nhan-huu-y-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241609",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 189
+    },
+    "imdb": {
+      "id": "tt30459041",
+      "vote_average": 7.7,
+      "vote_count": 47480
+    },
+    "modified": {
+      "time": "2026-05-29T15:33:06.000Z"
+    },
+    "_id": "69d74fed91cc1b96d584364e",
+    "name": "Bạn Bè & Hàng Xóm (Phần 2)",
+    "slug": "ban-be-and-hang-xom-phan-2",
+    "origin_name": "Your Friends & Neighbors (Season 2)",
+    "thumb_url": "ban-be-and-hang-xom-phan-2-thumb.jpg",
+    "poster_url": "ban-be-and-hang-xom-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314916",
+      "season": 1,
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt35668813",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T15:32:38.000Z"
+    },
+    "_id": "6a03f0fa6d4243e068fa78a7",
+    "name": "Bản Năng Người Mẹ",
+    "slug": "ban-nang-nguoi-me-2026",
+    "origin_name": "Unconditional",
+    "thumb_url": "ban-nang-nguoi-me-2026-thumb.jpg",
+    "poster_url": "ban-nang-nguoi-me-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "252107",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32140872",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T15:32:25.000Z"
+    },
+    "_id": "6a190a6a4f61d761f76ddb90",
+    "name": "Căn Cứ Star City",
+    "slug": "can-cu-star-city",
+    "origin_name": "Star City",
+    "thumb_url": "can-cu-star-city-thumb.jpg",
+    "poster_url": "can-cu-star-city-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "87917",
+      "season": 5,
+      "vote_average": 7.738,
+      "vote_count": 901
+    },
+    "imdb": {
+      "id": "tt7772588",
+      "vote_average": 8.1,
+      "vote_count": 84321
+    },
+    "modified": {
+      "time": "2026-05-29T15:32:02.000Z"
+    },
+    "_id": "69c64b534da3bf6eb345b5c0",
+    "name": "Cuộc Chiến Không Gian (Phần 5)",
+    "slug": "cuoc-chien-khong-gianphan-5",
+    "origin_name": "For All Mankind (Season 5)",
+    "thumb_url": "cuoc-chien-khong-gianphan-5-thumb.jpg",
+    "poster_url": "cuoc-chien-khong-gianphan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323508",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T14:17:59.000Z"
+    },
+    "_id": "6a130febe10cfe56c4994911",
+    "name": "Thần Y Cổ Đại Ở Thành Phố",
+    "slug": "than-y-co-dai-o-thanh-pho",
+    "origin_name": "Divine Doctor",
+    "thumb_url": "than-y-co-dai-o-thanh-pho-thumb.jpg",
+    "poster_url": "than-y-co-dai-o-thanh-pho-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1531924",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt35265182",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T14:14:29.000Z"
+    },
+    "_id": "69e9cc5a91cc1b96d58a70d0",
+    "name": "Qifarah",
+    "slug": "qifarah",
+    "origin_name": "Qifarah",
+    "thumb_url": "qifarah-thumb.jpg",
+    "poster_url": "qifarah-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323067",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T13:52:30.000Z"
+    },
+    "_id": "6a166e48e12218d72857b634",
+    "name": "Xuân Đằng Đẵng Sắp Tàn",
+    "slug": "xuan-dang-dang-sap-tan",
+    "origin_name": "Shadows of the Late Spring",
+    "thumb_url": "xuan-dang-dang-sap-tan-thumb.jpg",
+    "poster_url": "xuan-dang-dang-sap-tan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302715",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-29T13:45:11.000Z"
+    },
+    "_id": "6a0bec2b4be02ecfaff4eb88",
+    "name": "Trời Xanh Trên Mây",
+    "slug": "troi-xanh-tren-may",
+    "origin_name": "Sky Blue Above the Clouds",
+    "thumb_url": "troi-xanh-tren-may-thumb.jpg",
+    "poster_url": "troi-xanh-tren-may-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "201859",
+      "season": 3,
+      "vote_average": 7,
+      "vote_count": 25
+    },
+    "imdb": {
+      "id": "tt19800744",
+      "vote_average": 7.1,
+      "vote_count": 500
+    },
+    "modified": {
+      "time": "2026-05-29T13:43:18.000Z"
+    },
+    "_id": "6a190bc9a6726df8fd360d29",
+    "name": "Love Class  (Phần 3)",
+    "slug": "love-class-phan-3",
+    "origin_name": "Love Class (Season 3)",
+    "thumb_url": "love-class-phan-3-thumb.jpg",
+    "poster_url": "love-class-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124101",
+      "season": 5,
+      "vote_average": 7.421,
+      "vote_count": 329
+    },
+    "imdb": {
+      "id": "tt11815682",
+      "vote_average": 8.2,
+      "vote_count": 60819
+    },
+    "modified": {
+      "time": "2026-05-29T13:43:03.000Z"
+    },
+    "_id": "69dba5ff15072466ace9ef7a",
+    "name": "Huyền Thoại Làng Hài (Phần 5)",
+    "slug": "huyen-thoai-lang-hai-phan-5",
+    "origin_name": "Hacks (Season 5)",
+    "thumb_url": "huyen-thoai-lang-hai-phan-5-thumb.jpg",
+    "poster_url": "huyen-thoai-lang-hai-phan-5-poster.jpg",
+    "year": 2026
+  }
+]
