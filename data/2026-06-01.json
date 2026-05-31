@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "237748",
+      "season": 2,
+      "vote_average": 7.198,
+      "vote_count": 58
+    },
+    "imdb": {
+      "id": "tt26448526",
+      "vote_average": 7.1,
+      "vote_count": 5370
+    },
+    "modified": {
+      "time": "2026-05-31T23:39:01.000Z"
+    },
+    "_id": "68e87457bc85dba74e70256f",
+    "name": "Tâm Trí Rực Rỡ (Phần 2)",
+    "slug": "tam-tri-ruc-ro-phan-2",
+    "origin_name": "Brilliant Minds (Season 2)",
+    "thumb_url": "tam-tri-ruc-ro-phan-2-thumb.jpg",
+    "poster_url": "tam-tri-ruc-ro-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297712",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41962163",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T20:59:37.000Z"
+    },
+    "_id": "6a11a5fb4e6584edee420ab8",
+    "name": "Chuyên Gia Tuổi Trung Niên",
+    "slug": "chuyen-gia-tuoi-trung-nien",
+    "origin_name": "Fifties Professionals",
+    "thumb_url": "chuyen-gia-tuoi-trung-nien-thumb.jpg",
+    "poster_url": "chuyen-gia-tuoi-trung-nien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T19:11:21.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "245842",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 97
+    },
+    "imdb": {
+      "id": "tt31889371",
+      "vote_average": 7.5,
+      "vote_count": 3554
+    },
+    "modified": {
+      "time": "2026-05-31T19:10:59.000Z"
+    },
+    "_id": "69dbac0741d6bb2c315221e7",
+    "name": "Wistoria: Trượng và Kiếm (Phần 2)",
+    "slug": "wistoria-truong-va-kiem-phan-2",
+    "origin_name": "Wistoria: Wand and Sword (Season 2)",
+    "thumb_url": "wistoria-truong-va-kiem-phan-2-thumb.jpg",
+    "poster_url": "wistoria-truong-va-kiem-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315438",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42022518",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T19:10:40.000Z"
+    },
+    "_id": "69f963cb91cc1b96d58fbb89",
+    "name": "LOVED ONE",
+    "slug": "loved-one",
+    "origin_name": "LOVED ONE",
+    "thumb_url": "loved-one-thumb.jpg",
+    "poster_url": "loved-one-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124364",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 2553
+    },
+    "imdb": {
+      "id": "tt9813792",
+      "vote_average": 7.8,
+      "vote_count": 173600
+    },
+    "modified": {
+      "time": "2026-05-31T18:25:15.000Z"
+    },
+    "_id": "69e4fb962b874d6bfb6bbee5",
+    "name": "Thị Trấn Ác Mộng (Phần 4)",
+    "slug": "thi-tran-ac-mong-phan-4",
+    "origin_name": "FROM (Season 4)",
+    "thumb_url": "thi-tran-ac-mong-phan-4-thumb.jpg",
+    "poster_url": "thi-tran-ac-mong-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323508",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T14:24:54.000Z"
+    },
+    "_id": "6a130febe10cfe56c4994911",
+    "name": "Thần Y Cổ Đại Ở Thành Phố",
+    "slug": "than-y-co-dai-o-thanh-pho",
+    "origin_name": "Divine Doctor",
+    "thumb_url": "than-y-co-dai-o-thanh-pho-thumb.jpg",
+    "poster_url": "than-y-co-dai-o-thanh-pho-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T14:24:41.000Z"
+    },
+    "_id": "6a1a94a81fea2c5da7a7e833",
+    "name": "Tiêu Dao Tứ Công Tử",
+    "slug": "tieu-dao-tu-cong-tu",
+    "origin_name": "The Reborn Young Lord",
+    "thumb_url": "tieu-dao-tu-cong-tu-thumb.jpg",
+    "poster_url": "tieu-dao-tu-cong-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T12:07:09.000Z"
+    },
+    "_id": "6a1bbf64947ce584f1c2968b",
+    "name": "Tán Tỉnh Xong Rồi Chạy",
+    "slug": "tan-tinh-xong-roi-chay-short-drama",
+    "origin_name": "Tán Tỉnh Xong Rồi Chạy",
+    "thumb_url": "tan-tinh-xong-roi-chay-short-drama-thumb.jpg",
+    "poster_url": "tan-tinh-xong-roi-chay-short-drama-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "250908",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T12:03:35.000Z"
+    },
+    "_id": "662224432a74397370918b34",
+    "name": "Phu Quân Đại Nhân Đừng Sợ Thiếp",
+    "slug": "phu-quan-dai-nhan-dung-so-thiep",
+    "origin_name": "The Expect Love",
+    "thumb_url": "phu-quan-dai-nhan-dung-so-thiep-thumb.jpg",
+    "poster_url": "phu-quan-dai-nhan-dung-so-thiep-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T11:51:36.000Z"
+    },
+    "_id": "6a1bb4d34f61d761f76e59ae",
+    "name": "Đệ Nhất Trạng Nguyên",
+    "slug": "de-nhat-trang-nguyen-short-drama",
+    "origin_name": "Đệ Nhất Trạng Nguyên",
+    "thumb_url": "de-nhat-trang-nguyen-short-drama-thumb.jpg",
+    "poster_url": "de-nhat-trang-nguyen-short-drama-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316780",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T11:25:14.000Z"
+    },
+    "_id": "6a17eb1e1fea2c5da7a767df",
+    "name": "Lồng Giam",
+    "slug": "long-giam-2026",
+    "origin_name": "Cage of Shadows",
+    "thumb_url": "long-giam-2026-thumb.jpg",
+    "poster_url": "long-giam-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287641",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982480",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T11:24:55.000Z"
+    },
+    "_id": "6a168242142ea533b0206a19",
+    "name": "Chói Mắt",
+    "slug": "choi-mat",
+    "origin_name": "Dazzling",
+    "thumb_url": "choi-mat-thumb.jpg",
+    "poster_url": "choi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303295",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42883509",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T11:09:19.000Z"
+    },
+    "_id": "6a1174e612f0391f00d15b9d",
+    "name": "Rực Cháy Giữa Ban Trưa",
+    "slug": "ruc-chay-giua-ban-trua",
+    "origin_name": "Twin Fire Dawn",
+    "thumb_url": "ruc-chay-giua-ban-trua-thumb.jpg",
+    "poster_url": "ruc-chay-giua-ban-trua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316374",
+      "season": 3,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40606760",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T11:09:07.000Z"
+    },
+    "_id": "6a0d34221fea2c5da7a57070",
+    "name": "Minh Châu Kỳ Đàm (Phần 3)",
+    "slug": "minh-chau-ky-dam-phan-3",
+    "origin_name": "The Secret of the Lost Pearl (Season 3)",
+    "thumb_url": "minh-chau-ky-dam-phan-3-thumb.jpg",
+    "poster_url": "minh-chau-ky-dam-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289209",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T11:08:53.000Z"
+    },
+    "_id": "6a1173d3e14b2140fc6c0f93",
+    "name": "Đại Đường Mê Vụ",
+    "slug": "dai-duong-me-vu",
+    "origin_name": "The Tang Mist",
+    "thumb_url": "dai-duong-me-vu-thumb.jpg",
+    "poster_url": "dai-duong-me-vu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303572",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T11:08:27.000Z"
+    },
+    "_id": "6a1672c46092900b4117a5cd",
+    "name": "Chào Mừng Trở Lại Kênh Của Tôi",
+    "slug": "chao-mung-tro-lai-kenh-cua-toi",
+    "origin_name": "Life is Elsewhere",
+    "thumb_url": "chao-mung-tro-lai-kenh-cua-toi-thumb.jpg",
+    "poster_url": "chao-mung-tro-lai-kenh-cua-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "263054",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T11:08:05.000Z"
+    },
+    "_id": "6a1a6eb2947ce584f1c2530e",
+    "name": "Qua Muôn Thành Trì Mới Gặp Đúng Người",
+    "slug": "qua-muon-thanh-tri-moi-gap-dung-nguoi",
+    "origin_name": "100 Reasons Not to Be King",
+    "thumb_url": "qua-muon-thanh-tri-moi-gap-dung-nguoi-thumb.jpg",
+    "poster_url": "qua-muon-thanh-tri-moi-gap-dung-nguoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323689",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T10:59:49.000Z"
+    },
+    "_id": "6a166cd26997f14383cd5f94",
+    "name": "Cưới Rồi Mới Động Lòng",
+    "slug": "cuoi-roi-moi-dong-long",
+    "origin_name": "Late to Love",
+    "thumb_url": "cuoi-roi-moi-dong-long-thumb.jpg",
+    "poster_url": "cuoi-roi-moi-dong-long-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322568",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T10:57:18.000Z"
+    },
+    "_id": "6a14286ba6726df8fd350590",
+    "name": "Trò Chơi Tình Yêu",
+    "slug": "tro-choi-tinh-yeu-2026",
+    "origin_name": "The Love Game",
+    "thumb_url": "tro-choi-tinh-yeu-2026-thumb.jpg",
+    "poster_url": "tro-choi-tinh-yeu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "288659",
+      "season": 1,
+      "vote_average": 7.25,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39267868",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T00:19:12.000Z"
+    },
+    "_id": "69cbf9dfb06c99c722022664",
+    "name": "Sứ Giả Bốn Mùa - Vũ Điệu Mùa Xuân",
+    "slug": "su-gia-bon-mua-vu-dieu-mua-xuan",
+    "origin_name": "Agents of the Four Seasons",
+    "thumb_url": "su-gia-bon-mua-vu-dieu-mua-xuan-thumb.jpg",
+    "poster_url": "su-gia-bon-mua-vu-dieu-mua-xuan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297438",
+      "season": 1,
+      "vote_average": 8.667,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt38797595",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T00:18:49.000Z"
+    },
+    "_id": "69d5e020e53e6a47ad57f86c",
+    "name": "Chuyện Kể Của Akane",
+    "slug": "chuyen-ke-cua-akane",
+    "origin_name": "Akane-banashi",
+    "thumb_url": "chuyen-ke-cua-akane-thumb.jpg",
+    "poster_url": "chuyen-ke-cua-akane-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "248404",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42024186",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T00:18:30.000Z"
+    },
+    "_id": "6a0149ab15072466acf64360",
+    "name": "Your Dear Daddy: Gọi Dad đi Tharn",
+    "slug": "your-dear-daddy-goi-dad-di-tharn",
+    "origin_name": "Your Dear Daddy",
+    "thumb_url": "your-dear-daddy-goi-dad-di-tharn-thumb.jpg",
+    "poster_url": "your-dear-daddy-goi-dad-di-tharn-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "260463",
+      "season": 1,
+      "vote_average": 9.077,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt37532356",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-05-31T00:17:10.000Z"
+    },
+    "_id": "69d1cc78da6ce23e8eac3148",
+    "name": "Song Mệnh Cõi Hoàng Tuyền",
+    "slug": "song-menh-coi-hoang-tuyen",
+    "origin_name": "Daemons of the Shadow Realm",
+    "thumb_url": "song-menh-coi-hoang-tuyen-thumb.jpg",
+    "poster_url": "song-menh-coi-hoang-tuyen-poster.jpg",
+    "year": 2026
+  }
+]
