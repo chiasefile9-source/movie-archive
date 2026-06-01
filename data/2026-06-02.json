@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "196950",
+      "season": 1,
+      "vote_average": 8.533,
+      "vote_count": 15
+    },
+    "imdb": {
+      "id": "tt32550889",
+      "vote_average": 0,
+      "vote_count": 19
+    },
+    "modified": {
+      "time": "2026-06-02T00:14:01.000Z"
+    },
+    "_id": "69d4614f400bf394bd986a9d",
+    "name": "Xưởng Phép Thuật",
+    "slug": "xuong-phep-thuat",
+    "origin_name": "Witch Hat Atelier",
+    "thumb_url": "xuong-phep-thuat-thumb.jpg",
+    "poster_url": "xuong-phep-thuat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318011",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T00:13:47.000Z"
+    },
+    "_id": "69cbf7b5458948c679b00b72",
+    "name": "Tình Yêu Phản Bội",
+    "slug": "tinh-yeu-phan-boi",
+    "origin_name": "Wrong Side of the Rainbow",
+    "thumb_url": "tinh-yeu-phan-boi-thumb.jpg",
+    "poster_url": "tinh-yeu-phan-boi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321628",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39379466",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T00:13:29.000Z"
+    },
+    "_id": "69f9646ae53e6a47ad63d170",
+    "name": "Nhịp Điệu Thù Hận",
+    "slug": "nhip-dieu-thu-han",
+    "origin_name": "The Rhythm of Revenge",
+    "thumb_url": "nhip-dieu-thu-han-thumb.jpg",
+    "poster_url": "nhip-dieu-thu-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278174",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35006947",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T23:11:31.000Z"
+    },
+    "_id": "69afbabc124287e0825f6b36",
+    "name": "Girl Rules",
+    "slug": "girl-rules",
+    "origin_name": "Girl Rules",
+    "thumb_url": "girl-rules-thumb.jpg",
+    "poster_url": "girl-rules-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322634",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21402786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T22:44:08.000Z"
+    },
+    "_id": "6a0b20bac52ec62c8b14b334",
+    "name": "Hổ Giấu Vằn",
+    "slug": "ho-giau-van",
+    "origin_name": "Wicked Temptation",
+    "thumb_url": "ho-giau-van-thumb.jpg",
+    "poster_url": "ho-giau-van-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315331",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T22:43:52.000Z"
+    },
+    "_id": "6a0fce831fea2c5da7a5e5da",
+    "name": "Dance of the Lion",
+    "slug": "dance-of-the-lion",
+    "origin_name": "Dance of the Lion",
+    "thumb_url": "dance-of-the-lion-thumb.jpg",
+    "poster_url": "dance-of-the-lion-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T19:53:36.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321492",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T16:16:50.000Z"
+    },
+    "_id": "69f9f73a006591e1081e5a12",
+    "name": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+    "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+    "origin_name": "Unplanned Trip: Limited Edition",
+    "thumb_url": "chuyen-di-ngau-hung-ban-gioi-han-thumb.jpg",
+    "poster_url": "chuyen-di-ngau-hung-ban-gioi-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319339",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T16:16:35.000Z"
+    },
+    "_id": "69f212dddb41bcecb8e5f5de",
+    "name": "6 Người Ế Ở Chung Nhà",
+    "slug": "6-nguoi-e-o-chung-nha",
+    "origin_name": "Six Singles Under One Roof",
+    "thumb_url": "6-nguoi-e-o-chung-nha-thumb.jpg",
+    "poster_url": "6-nguoi-e-o-chung-nha-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "304173",
+      "season": 2,
+      "vote_average": 8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt38810320",
+      "vote_average": 8,
+      "vote_count": 36
+    },
+    "modified": {
+      "time": "2026-06-01T16:16:13.000Z"
+    },
+    "_id": "6a134b446092900b41170441",
+    "name": "Chị Ơi Anh Yêu Em (Phần 2)",
+    "slug": "chi-oi-anh-yeu-em-phan-2",
+    "origin_name": "Mind the Noona Gap (Season 2)",
+    "thumb_url": "chi-oi-anh-yeu-em-phan-2-thumb.jpg",
+    "poster_url": "chi-oi-anh-yeu-em-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297640",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39010903",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T16:15:52.000Z"
+    },
+    "_id": "69ecebe9748ca16f08627461",
+    "name": "Thanh Tra Bí Mật",
+    "slug": "thanh-tra-bi-mat",
+    "origin_name": "Filing for Love",
+    "thumb_url": "thanh-tra-bi-mat-thumb.jpg",
+    "poster_url": "thanh-tra-bi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321885",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T16:15:37.000Z"
+    },
+    "_id": "6a134baf4be02ecfaff6225e",
+    "name": "Tiệm Bánh Bonjour",
+    "slug": "tiem-banh-bonjour",
+    "origin_name": "Bonjour Bakery",
+    "thumb_url": "tiem-banh-bonjour-thumb.jpg",
+    "poster_url": "tiem-banh-bonjour-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T14:20:46.000Z"
+    },
+    "_id": "6a1a94a81fea2c5da7a7e833",
+    "name": "Tiêu Dao Tứ Công Tử",
+    "slug": "tieu-dao-tu-cong-tu",
+    "origin_name": "The Reborn Young Lord",
+    "thumb_url": "tieu-dao-tu-cong-tu-thumb.jpg",
+    "poster_url": "tieu-dao-tu-cong-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323508",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T14:20:32.000Z"
+    },
+    "_id": "6a130febe10cfe56c4994911",
+    "name": "Thần Y Cổ Đại Ở Thành Phố",
+    "slug": "than-y-co-dai-o-thanh-pho",
+    "origin_name": "Divine Doctor",
+    "thumb_url": "than-y-co-dai-o-thanh-pho-thumb.jpg",
+    "poster_url": "than-y-co-dai-o-thanh-pho-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "246461",
+      "season": 1,
+      "vote_average": 6.7,
+      "vote_count": 53
+    },
+    "imdb": {
+      "id": "tt31322085",
+      "vote_average": 7,
+      "vote_count": 3112
+    },
+    "modified": {
+      "time": "2026-06-01T13:42:59.000Z"
+    },
+    "_id": "6a181b93a6726df8fd35e10d",
+    "name": "Sherlock và Con gái",
+    "slug": "sherlock-va-con-gai",
+    "origin_name": "Sherlock & Daughter",
+    "thumb_url": "sherlock-va-con-gai-thumb.jpg",
+    "poster_url": "sherlock-va-con-gai-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322190",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T12:06:14.000Z"
+    },
+    "_id": "6a006f6141d6bb2c315e433d",
+    "name": "Griya",
+    "slug": "griya",
+    "origin_name": "Griya",
+    "thumb_url": "griya-thumb.jpg",
+    "poster_url": "griya-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311871",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T12:05:32.000Z"
+    },
+    "_id": "69e4a9db6d4243e068f1056b",
+    "name": "Anh Em Nhà Tagusari",
+    "slug": "tagusari-bros",
+    "origin_name": "TAGUSARI bros.",
+    "thumb_url": "tagusari-bros-thumb.jpg",
+    "poster_url": "tagusari-bros-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287641",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982480",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T11:58:32.000Z"
+    },
+    "_id": "6a168242142ea533b0206a19",
+    "name": "Chói Mắt",
+    "slug": "choi-mat",
+    "origin_name": "Dazzling",
+    "thumb_url": "choi-mat-thumb.jpg",
+    "poster_url": "choi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295434",
+      "season": 1,
+      "vote_average": 9.3,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt37532884",
+      "vote_average": 8.2,
+      "vote_count": 104
+    },
+    "modified": {
+      "time": "2026-06-01T11:57:21.000Z"
+    },
+    "_id": "68d273e85c81ed0050c53bce",
+    "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
+    "slug": "hiep-si-mat-na-zeztz",
+    "origin_name": "Kamen Rider ZEZTZ",
+    "thumb_url": "hiep-si-mat-na-zeztz-thumb.jpg",
+    "poster_url": "hiep-si-mat-na-zeztz-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316780",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T11:56:43.000Z"
+    },
+    "_id": "6a17eb1e1fea2c5da7a767df",
+    "name": "Lồng Giam",
+    "slug": "long-giam-2026",
+    "origin_name": "Cage of Shadows",
+    "thumb_url": "long-giam-2026-thumb.jpg",
+    "poster_url": "long-giam-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1528577",
+      "season": null,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38934698",
+      "vote_average": 5.9,
+      "vote_count": 49
+    },
+    "modified": {
+      "time": "2026-06-01T11:24:11.000Z"
+    },
+    "_id": "697859d5eea244e3e8a691e9",
+    "name": "Thỏ Ơi!!",
+    "slug": "tho-oi",
+    "origin_name": "Bunnie!",
+    "thumb_url": "tho-oi-thumb.jpg",
+    "poster_url": "tho-oi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1598785",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39635734",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T11:23:06.000Z"
+    },
+    "_id": "6a1d00e6e12218d72858fbef",
+    "name": "Milky☆Subway: Tàu tốc hành thiên hà – Phim điện ảnh",
+    "slug": "milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh",
+    "origin_name": "Milky☆Subway: The Galactic Limited Express - the Movie",
+    "thumb_url": "milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-thumb.jpg",
+    "poster_url": "milky☆subway-tau-toc-hanh-thien-ha-phim-dien-anh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1593924",
+      "season": null,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt36314978",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-01T11:22:19.000Z"
+    },
+    "_id": "6a1d002e947ce584f1c2d45e",
+    "name": "Ảo giác máu",
+    "slug": "pemuja",
+    "origin_name": "Pemuja",
+    "thumb_url": "pemuja-thumb.jpg",
+    "poster_url": "pemuja-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "37854",
+      "season": 1,
+      "vote_average": 8.7,
+      "vote_count": 5216
+    },
+    "imdb": {
+      "id": "tt0388629",
+      "vote_average": 9,
+      "vote_count": 341535
+    },
+    "modified": {
+      "time": "2026-06-01T11:19:28.000Z"
+    },
+    "_id": "6220e66e8481266c5b7f154f",
+    "name": "Đảo Hải Tặc",
+    "origin_name": "One Piece (Luffy)",
+    "thumb_url": "one-piece-thumb.jpg",
+    "slug": "one-piece",
+    "year": 1999,
+    "poster_url": "one-piece-poster.jpg"
+  }
+]
