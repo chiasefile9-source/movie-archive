@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272265",
+      "season": 1,
+      "vote_average": 6.818,
+      "vote_count": 22
+    },
+    "imdb": {
+      "id": "tt35562988",
+      "vote_average": 6.6,
+      "vote_count": 3187
+    },
+    "modified": {
+      "time": "2026-06-03T00:45:10.000Z"
+    },
+    "_id": "6a1e6491a6726df8fd370ed7",
+    "name": "Vị Khách (Phần 1)",
+    "slug": "vi-khach-phan-1",
+    "origin_name": "The Guest",
+    "thumb_url": "vi-khach-phan-1-thumb.jpg",
+    "poster_url": "vi-khach-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34881054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T22:10:11.000Z"
+    },
+    "_id": "6a0ee15d12f0391f00d0eb0b",
+    "name": "WU",
+    "slug": "wu",
+    "origin_name": "WU",
+    "thumb_url": "wu-thumb.jpg",
+    "poster_url": "wu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "301944",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt39122769",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T22:09:59.000Z"
+    },
+    "_id": "69d5dfb315072466ace88b55",
+    "name": "Mai Mối Cho Độc Sư",
+    "slug": "mai-moi-cho-doc-su",
+    "origin_name": "Marriage Toxin",
+    "thumb_url": "mai-moi-cho-doc-su-thumb.jpg",
+    "poster_url": "mai-moi-cho-doc-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "213326",
+      "season": 2,
+      "vote_average": 8.1,
+      "vote_count": 58
+    },
+    "imdb": {
+      "id": "tt23132598",
+      "vote_average": 6.4,
+      "vote_count": 612
+    },
+    "modified": {
+      "time": "2026-06-02T21:03:38.000Z"
+    },
+    "_id": "69e493fc4e2efe728847d230",
+    "name": "Nữ Vương Trùm Cuối Tàn Độc Căn Nguyên Của Mọi Thảm Kịch Sẽ Dốc Sức Vì Người Dân (Phần 2)",
+    "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
+    "origin_name": "The Most Heretical Last Boss Queen: From Villainess to Savior (Season 2)",
+    "thumb_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-thumb.jpg",
+    "poster_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322634",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21402786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T21:03:27.000Z"
+    },
+    "_id": "6a0b20bac52ec62c8b14b334",
+    "name": "Hổ Giấu Vằn",
+    "slug": "ho-giau-van",
+    "origin_name": "Wicked Temptation",
+    "thumb_url": "ho-giau-van-thumb.jpg",
+    "poster_url": "ho-giau-van-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T21:03:17.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287009",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39184653",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T19:48:58.000Z"
+    },
+    "_id": "6a1ed136baf8dde7e3cc2938",
+    "name": "Bác Sĩ Đảo Hoang",
+    "slug": "bac-si-dao-hoang",
+    "origin_name": "Doctor on the Edge",
+    "thumb_url": "bac-si-dao-hoang-thumb.jpg",
+    "poster_url": "bac-si-dao-hoang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323004",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T18:29:14.000Z"
+    },
+    "_id": "6a1e5a474f61d761f76edb20",
+    "name": "Linh Lung Độ",
+    "slug": "linh-lung-do",
+    "origin_name": "Ling Long Du",
+    "thumb_url": "linh-lung-do-thumb.jpg",
+    "poster_url": "linh-lung-do-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "60625",
+      "season": 9,
+      "vote_average": 8.675,
+      "vote_count": 10855
+    },
+    "imdb": {
+      "id": "tt2861424",
+      "vote_average": 9,
+      "vote_count": 692329
+    },
+    "modified": {
+      "time": "2026-06-02T18:20:07.000Z"
+    },
+    "_id": "6a13d0dce12218d7285724c1",
+    "name": "Rick và Morty (Phần 9)",
+    "slug": "rick-va-morty-phan-9",
+    "origin_name": "Rick and Morty (Season 9)",
+    "thumb_url": "rick-va-morty-phan-9-thumb.jpg",
+    "poster_url": "rick-va-morty-phan-9-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318167",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39387426",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T18:19:44.000Z"
+    },
+    "_id": "6a15819ce10cfe56c499c537",
+    "name": "Jae-seok's B&B Rules!",
+    "slug": "jae-seoks-bandb-rules",
+    "origin_name": "Jae-seok's B&B Rules!",
+    "thumb_url": "jae-seoks-bandb-rules-thumb.jpg",
+    "poster_url": "jae-seoks-bandb-rules-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T18:07:16.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316407",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42445481",
+      "vote_average": 8,
+      "vote_count": 7
+    },
+    "modified": {
+      "time": "2026-06-02T17:18:18.000Z"
+    },
+    "_id": "6a1eadea4f61d761f76ef11c",
+    "name": "Lost To You",
+    "slug": "lost-to-you",
+    "origin_name": "Lost To You",
+    "thumb_url": "lost-to-you-thumb.jpg",
+    "poster_url": "lost-to-you-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302074",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 23
+    },
+    "imdb": {
+      "id": "tt37063558",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T17:02:11.000Z"
+    },
+    "_id": "6a068dc8b3a3583bbbbabd15",
+    "name": "Thám Tử R.J. Decker",
+    "slug": "rj-decker",
+    "origin_name": "R.J. Decker",
+    "thumb_url": "rj-decker-thumb.jpg",
+    "poster_url": "rj-decker-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316294",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39380468",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T17:00:53.000Z"
+    },
+    "_id": "6a1e873a2c8b2895cfa7d675",
+    "name": "PAYBACK: Báo Thù",
+    "slug": "payback-bao-thu",
+    "origin_name": "Payback",
+    "thumb_url": "payback-bao-thu-thumb.jpg",
+    "poster_url": "payback-bao-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1662414",
+      "season": null,
+      "vote_average": 6.444,
+      "vote_count": 18
+    },
+    "imdb": {
+      "id": "tt41367695",
+      "vote_average": 5.7,
+      "vote_count": 41
+    },
+    "modified": {
+      "time": "2026-06-02T14:50:29.000Z"
+    },
+    "_id": "6a1e7a442c8b2895cfa7d318",
+    "name": "Chuyến Bay Một Chiều Đến Hollywood Mơ Ước",
+    "slug": "chuyen-bay-mot-chieu-den-hollywood-mo-uoc",
+    "origin_name": "Propeller One-Way Night Coach",
+    "thumb_url": "chuyen-bay-mot-chieu-den-hollywood-mo-uoc-thumb.jpg",
+    "poster_url": "chuyen-bay-mot-chieu-den-hollywood-mo-uoc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1422404",
+      "season": null,
+      "vote_average": 7.9,
+      "vote_count": 12
+    },
+    "imdb": {
+      "id": "tt35521394",
+      "vote_average": 7.3,
+      "vote_count": 172
+    },
+    "modified": {
+      "time": "2026-06-02T14:50:12.000Z"
+    },
+    "_id": "6a1e7ab84f61d761f76ee55e",
+    "name": "Tokyo Taxi",
+    "slug": "tokyo-taxi",
+    "origin_name": "Tokyo Taxi",
+    "thumb_url": "tokyo-taxi-thumb.jpg",
+    "poster_url": "tokyo-taxi-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323508",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T14:35:27.000Z"
+    },
+    "_id": "6a130febe10cfe56c4994911",
+    "name": "Thần Y Cổ Đại Ở Thành Phố",
+    "slug": "than-y-co-dai-o-thanh-pho",
+    "origin_name": "Divine Doctor",
+    "thumb_url": "than-y-co-dai-o-thanh-pho-thumb.jpg",
+    "poster_url": "than-y-co-dai-o-thanh-pho-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "85552",
+      "season": 3,
+      "vote_average": 8.282,
+      "vote_count": 10402
+    },
+    "imdb": {
+      "id": "tt8772296",
+      "vote_average": 8.2,
+      "vote_count": 297928
+    },
+    "modified": {
+      "time": "2026-06-02T14:35:10.000Z"
+    },
+    "_id": "69df1bc8006591e10814bd8c",
+    "name": "Lâng Lâng (Phần 3)",
+    "slug": "lang-lang-phan-3",
+    "origin_name": "Euphoria (Season 3)",
+    "thumb_url": "lang-lang-phan-3-thumb.jpg",
+    "poster_url": "lang-lang-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T14:34:47.000Z"
+    },
+    "_id": "6a1a94a81fea2c5da7a7e833",
+    "name": "Tiêu Dao Tứ Công Tử",
+    "slug": "tieu-dao-tu-cong-tu",
+    "origin_name": "The Reborn Young Lord",
+    "thumb_url": "tieu-dao-tu-cong-tu-thumb.jpg",
+    "poster_url": "tieu-dao-tu-cong-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1390382",
+      "season": null,
+      "vote_average": 5.7,
+      "vote_count": 28
+    },
+    "imdb": {
+      "id": "tt34688195",
+      "vote_average": 6.2,
+      "vote_count": 238
+    },
+    "modified": {
+      "time": "2026-06-02T14:25:12.000Z"
+    },
+    "_id": "6a1e8558f7f43ec64ef78e3a",
+    "name": "Dưới Lớp Hào Quang",
+    "slug": "duoi-lop-hao-quang",
+    "origin_name": "Couture",
+    "thumb_url": "duoi-lop-hao-quang-thumb.jpg",
+    "poster_url": "duoi-lop-hao-quang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "220850",
+      "season": 1,
+      "vote_average": 8.6,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt28210907",
+      "vote_average": 8.6,
+      "vote_count": 124
+    },
+    "modified": {
+      "time": "2026-06-02T13:30:22.000Z"
+    },
+    "_id": "69042d90b234f5d94935f1ca",
+    "name": "Luyện Khí Mười Vạn Năm",
+    "slug": "luyen-khi-muoi-van-nam",
+    "origin_name": "One Hundred Thousand Years of Qi Refining",
+    "thumb_url": "luyen-khi-muoi-van-nam-thumb.jpg",
+    "poster_url": "luyen-khi-muoi-van-nam-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "122612",
+      "season": 1,
+      "vote_average": 9.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt34882755",
+      "vote_average": 0,
+      "vote_count": 10
+    },
+    "modified": {
+      "time": "2026-06-02T13:30:07.000Z"
+    },
+    "_id": "68e4ba284f7493692abb949c",
+    "name": "Vạn Giới Độc Tôn",
+    "slug": "van-gioi-doc-ton",
+    "origin_name": "Ten Thousand Worlds",
+    "thumb_url": "van-gioi-doc-ton-thumb.jpg",
+    "poster_url": "van-gioi-doc-ton-poster.jpg",
+    "year": 2021
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "110181",
+      "season": 1,
+      "vote_average": 7.6,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt20769560",
+      "vote_average": 0,
+      "vote_count": 131
+    },
+    "modified": {
+      "time": "2026-06-02T13:29:51.000Z"
+    },
+    "_id": "68e4bc4d69d7b4696cc59469",
+    "name": "Võ Thần Chúa Tể",
+    "slug": "vo-than-chua-te",
+    "origin_name": "Martial Master",
+    "thumb_url": "vo-than-chua-te-thumb.jpg",
+    "poster_url": "vo-than-chua-te-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "252788",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-02T13:29:30.000Z"
+    },
+    "_id": "69045e95df2f0059996054c5",
+    "name": "Tuyệt Thế Chiến Hồn",
+    "slug": "tuyet-the-chien-hon",
+    "origin_name": "Peerless Battle Spirit",
+    "thumb_url": "tuyet-the-chien-hon-thumb.jpg",
+    "poster_url": "tuyet-the-chien-hon-poster.jpg",
+    "year": 2024
+  }
+]
