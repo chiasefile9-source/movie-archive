@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "304820",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39122552",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T23:04:46.000Z"
+    },
+    "_id": "69da0326377c8aaad53f9816",
+    "name": "Để xổng mất là cá to, nhưng cá tôi câu được lại còn to hơn",
+    "slug": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
+    "origin_name": "Always a Catch!",
+    "thumb_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-thumb.jpg",
+    "poster_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T23:02:02.000Z"
+    },
+    "_id": "6a1ff1b3416b9186f0115422",
+    "name": "Đại Náo Thiếu Lâm Tự",
+    "slug": "dai-nao-thieu-lam-tu",
+    "origin_name": "The Shaolin Temple Boy",
+    "thumb_url": "dai-nao-thieu-lam-tu-thumb.jpg",
+    "poster_url": "dai-nao-thieu-lam-tu-poster.jpg",
+    "year": 2012
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1403080",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30827025",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T23:00:59.000Z"
+    },
+    "_id": "69fc1424cec790794bfed07d",
+    "name": "Lần Nữa Đến Bên Em",
+    "slug": "lan-nua-den-ben-em",
+    "origin_name": "Love Beyond Dreams",
+    "thumb_url": "lan-nua-den-ben-em-thumb.jpg",
+    "poster_url": "lan-nua-den-ben-em-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1694531",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T21:00:17.000Z"
+    },
+    "_id": "6a20330c173846d6442f42d9",
+    "name": "Mesdames Thanh Sắc",
+    "slug": "mesdames-thanh-sac",
+    "origin_name": "Mesdames Thanh Sắc",
+    "thumb_url": "mesdames-thanh-sac-thumb.jpg",
+    "poster_url": "mesdames-thanh-sac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1481097",
+      "season": null,
+      "vote_average": 6.333,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt37534718",
+      "vote_average": 0,
+      "vote_count": 65
+    },
+    "modified": {
+      "time": "2026-06-03T20:58:19.000Z"
+    },
+    "_id": "6a2032f76997f14383cf42cc",
+    "name": "Trường hè, 2001",
+    "slug": "truong-he-2001",
+    "origin_name": "Summer School, 2001",
+    "thumb_url": "truong-he-2001-thumb.jpg",
+    "poster_url": "truong-he-2001-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1575667",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41782670",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T20:57:20.000Z"
+    },
+    "_id": "6a2032be4f61d761f76f36f1",
+    "name": "Lầu Chú Hỏa",
+    "slug": "lau-chu-hoa",
+    "origin_name": "Lau Chu Hoa: The Deadliest Mansion",
+    "thumb_url": "lau-chu-hoa-thumb.jpg",
+    "poster_url": "lau-chu-hoa-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1701849",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42867738",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T20:56:53.000Z"
+    },
+    "_id": "6a2032a11fea2c5da7a8f913",
+    "name": "BTS World Tour ‘Arirang’ tại Busan: Xem trực tiếp",
+    "slug": "bts-world-tour-arirang-tai-busan-xem-truc-tiep",
+    "origin_name": "BTS World Tour ‘Arirang’ in Busan: Live Viewing",
+    "thumb_url": "bts-world-tour-arirang-tai-busan-xem-truc-tiep-thumb.jpg",
+    "poster_url": "bts-world-tour-arirang-tai-busan-xem-truc-tiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1545621",
+      "season": null,
+      "vote_average": 8.6,
+      "vote_count": 9
+    },
+    "imdb": {
+      "id": "tt39123115",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T20:56:03.000Z"
+    },
+    "_id": "6a2032706997f14383cf424e",
+    "name": "Điện Ảnh Conan 29 - Thiên Thần Sa Ngã Trên Xa Lộ",
+    "slug": "dien-anh-conan-29-thien-than-sa-nga-tren-xa-lo",
+    "origin_name": "Detective Conan: Fallen Angel of the Highway",
+    "thumb_url": "dien-anh-conan-29-thien-than-sa-nga-tren-xa-lo-thumb.jpg",
+    "poster_url": "dien-anh-conan-29-thien-than-sa-nga-tren-xa-lo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1315772",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32890033",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T20:55:38.000Z"
+    },
+    "_id": "6a2032586092900b41198778",
+    "name": "Minions & Quái Vật",
+    "slug": "minions-and-quai-vat",
+    "origin_name": "Minions & Monsters",
+    "thumb_url": "minions-and-quai-vat-thumb.jpg",
+    "poster_url": "minions-and-quai-vat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1081003",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt8814476",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T20:55:19.000Z"
+    },
+    "_id": "6a203244e12218d728599456",
+    "name": "Supergirl",
+    "slug": "supergirl",
+    "origin_name": "Supergirl",
+    "thumb_url": "supergirl-thumb.jpg",
+    "poster_url": "supergirl-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1280738",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt33311069",
+      "vote_average": 7.8,
+      "vote_count": 281
+    },
+    "modified": {
+      "time": "2026-06-03T20:54:47.000Z"
+    },
+    "_id": "6a2030474f61d761f76f35a7",
+    "name": "Cơn Thịnh Nộ",
+    "slug": "con-thinh-no",
+    "origin_name": "The Furious",
+    "thumb_url": "con-thinh-no-thumb.jpg",
+    "poster_url": "con-thinh-no-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1083381",
+      "season": null,
+      "vote_average": 6.685,
+      "vote_count": 257
+    },
+    "imdb": {
+      "id": "tt26657236",
+      "vote_average": 7.1,
+      "vote_count": 22376
+    },
+    "modified": {
+      "time": "2026-06-03T20:46:29.000Z"
+    },
+    "_id": "6a2030324e6584edee44d032",
+    "name": "Hậu Phòng Vô Tận",
+    "slug": "hau-phong-vo-tan",
+    "origin_name": "Backrooms",
+    "thumb_url": "hau-phong-vo-tan-thumb.jpg",
+    "poster_url": "hau-phong-vo-tan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315172",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41863606",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T20:42:43.000Z"
+    },
+    "_id": "69e9ef6af0f815b666161eb7",
+    "name": "Vũ Điệu Tình Thù",
+    "slug": "vu-dieu-tinh-thu",
+    "origin_name": "The Bangkok Red Opera",
+    "thumb_url": "vu-dieu-tinh-thu-thumb.jpg",
+    "poster_url": "vu-dieu-tinh-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72517",
+      "season": 4,
+      "vote_average": 8.405,
+      "vote_count": 766
+    },
+    "imdb": {
+      "id": "tt7263328",
+      "vote_average": 7.7,
+      "vote_count": 20411
+    },
+    "modified": {
+      "time": "2026-06-03T20:31:00.000Z"
+    },
+    "_id": "69cde6c8400bf394bd970fda",
+    "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+    "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+    "origin_name": "Classroom of the Elite (Season 4)",
+    "thumb_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+    "poster_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "305079",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40388381",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T20:22:53.000Z"
+    },
+    "_id": "6a0e7b3ba432d616e85a61c5",
+    "name": "Ngoảnh Đầu Lại Lau Nước Mắt Cho Cậu",
+    "slug": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau",
+    "origin_name": "Smile After Tears",
+    "thumb_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-thumb.jpg",
+    "poster_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289147",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T20:20:42.000Z"
+    },
+    "_id": "6a1faba44e6584edee44b65a",
+    "name": "Dẫn Độ Linh Hồn: Mười Năm",
+    "slug": "dan-do-linh-hon-muoi-nam",
+    "origin_name": "The Ferry Man 10th Anniversary",
+    "thumb_url": "dan-do-linh-hon-muoi-nam-thumb.jpg",
+    "poster_url": "dan-do-linh-hon-muoi-nam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T20:19:55.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T20:17:59.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323111",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42873612",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T16:28:12.000Z"
+    },
+    "_id": "6a1ff3aade5e0f1b85d0d9b9",
+    "name": "Michael Jackson: Lời Tuyên Án",
+    "slug": "michael-jackson-loi-tuyen-an",
+    "origin_name": "Michael Jackson: The Verdict",
+    "thumb_url": "michael-jackson-loi-tuyen-an-thumb.jpg",
+    "poster_url": "michael-jackson-loi-tuyen-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1293968",
+      "season": null,
+      "vote_average": 8,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt38119721",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T16:25:42.000Z"
+    },
+    "_id": "6a1ff3144be02ecfaff89539",
+    "name": "Hero's Island",
+    "slug": "heros-island",
+    "origin_name": "Hero's Island",
+    "thumb_url": "heros-island-thumb.jpg",
+    "poster_url": "heros-island-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1122573",
+      "season": null,
+      "vote_average": 6.574,
+      "vote_count": 88
+    },
+    "imdb": {
+      "id": "tt27681354",
+      "vote_average": 6.6,
+      "vote_count": 6178
+    },
+    "modified": {
+      "time": "2026-06-03T16:19:08.000Z"
+    },
+    "_id": "6a1ff18a4be02ecfaff89470",
+    "name": "Trong Vùng Xám",
+    "slug": "trong-vung-xam",
+    "origin_name": "In the Grey",
+    "thumb_url": "trong-vung-xam-thumb.jpg",
+    "poster_url": "trong-vung-xam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1215532",
+      "season": null,
+      "vote_average": 7.4,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt31260224",
+      "vote_average": 0,
+      "vote_count": 13
+    },
+    "modified": {
+      "time": "2026-06-03T16:14:59.000Z"
+    },
+    "_id": "6a1ff090142ea533b022381d",
+    "name": "Chickenhare and the Secret of the Groundhog",
+    "slug": "chickenhare-and-the-secret-of-the-groundhog",
+    "origin_name": "Chickenhare and the Secret of the Groundhog",
+    "thumb_url": "chickenhare-and-the-secret-of-the-groundhog-thumb.jpg",
+    "poster_url": "chickenhare-and-the-secret-of-the-groundhog-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1464374",
+      "season": null,
+      "vote_average": 6.2,
+      "vote_count": 81
+    },
+    "imdb": {
+      "id": "tt31450976",
+      "vote_average": 6.9,
+      "vote_count": 47
+    },
+    "modified": {
+      "time": "2026-06-03T16:10:28.000Z"
+    },
+    "_id": "6a1fef80416b9186f0115315",
+    "name": "Phi Vụ Dưới Đáy Biển",
+    "slug": "phi-vu-duoi-day-bien",
+    "origin_name": "The Tigers",
+    "thumb_url": "phi-vu-duoi-day-bien-thumb.jpg",
+    "poster_url": "phi-vu-duoi-day-bien-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "233291",
+      "season": 1,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt28591181",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-03T14:31:34.000Z"
+    },
+    "_id": "69c64c2a4da3bf6eb345b636",
+    "name": "Sưu Thần Ký",
+    "slug": "suu-than-ky",
+    "origin_name": "In Search of Gods",
+    "thumb_url": "suu-than-ky-thumb.jpg",
+    "poster_url": "suu-than-ky-poster.jpg",
+    "year": 2026
+  }
+]
