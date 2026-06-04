@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319339",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T01:37:56.000Z"
+    },
+    "_id": "69f212dddb41bcecb8e5f5de",
+    "name": "6 Người Ế Ở Chung Nhà",
+    "slug": "6-nguoi-e-o-chung-nha",
+    "origin_name": "Six Singles Under One Roof",
+    "thumb_url": "6-nguoi-e-o-chung-nha-thumb.jpg",
+    "poster_url": "6-nguoi-e-o-chung-nha-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321492",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T01:37:39.000Z"
+    },
+    "_id": "69f9f73a006591e1081e5a12",
+    "name": "Chuyến Đi Ngẫu Hứng: Bản Giới Hạn",
+    "slug": "chuyen-di-ngau-hung-ban-gioi-han",
+    "origin_name": "Unplanned Trip: Limited Edition",
+    "thumb_url": "chuyen-di-ngau-hung-ban-gioi-han-thumb.jpg",
+    "poster_url": "chuyen-di-ngau-hung-ban-gioi-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72976",
+      "season": 5,
+      "vote_average": 6.6,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt16444020",
+      "vote_average": 7.4,
+      "vote_count": 74
+    },
+    "modified": {
+      "time": "2026-06-05T01:37:14.000Z"
+    },
+    "_id": "69dfcfeb41d6bb2c315360fb",
+    "name": "Nhịp Đập Trái Tim (Phần 5)",
+    "slug": "nhip-dap-trai-tim-phan-5",
+    "origin_name": "Heart Signal (Season 5)",
+    "thumb_url": "nhip-dap-trai-tim-phan-5-thumb.jpg",
+    "poster_url": "nhip-dap-trai-tim-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "75191",
+      "season": 3,
+      "vote_average": 7.346,
+      "vote_count": 970
+    },
+    "imdb": {
+      "id": "tt2708480",
+      "vote_average": 7.8,
+      "vote_count": 61205
+    },
+    "modified": {
+      "time": "2026-06-04T23:21:50.000Z"
+    },
+    "_id": "6a055b84f616ee3807e37ea9",
+    "name": "Chuyện Kinh Hoàng (Phần 3)",
+    "slug": "chuyen-kinh-hoang-phan-3",
+    "origin_name": "The Terror (Season 3)",
+    "thumb_url": "chuyen-kinh-hoang-phan-3-thumb.jpg",
+    "poster_url": "chuyen-kinh-hoang-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "275966",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34133054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-04T20:28:28.000Z"
+    },
+    "_id": "6a09d42ae14b2140fc6adcbd",
+    "name": "Gia Nghiệp",
+    "slug": "gia-nghiep",
+    "origin_name": "The Heir",
+    "thumb_url": "gia-nghiep-thumb.jpg",
+    "poster_url": "gia-nghiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323004",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-04T20:23:38.000Z"
+    },
+    "_id": "6a1e5a474f61d761f76edb20",
+    "name": "Linh Lung Độ",
+    "slug": "linh-lung-do",
+    "origin_name": "Ling Long Du",
+    "thumb_url": "linh-lung-do-thumb.jpg",
+    "poster_url": "linh-lung-do-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "246461",
+      "season": 1,
+      "vote_average": 6.7,
+      "vote_count": 53
+    },
+    "imdb": {
+      "id": "tt31322085",
+      "vote_average": 7,
+      "vote_count": 3112
+    },
+    "modified": {
+      "time": "2026-06-04T17:36:47.000Z"
+    },
+    "_id": "6a181b93a6726df8fd35e10d",
+    "name": "Sherlock và Con gái",
+    "slug": "sherlock-va-con-gai",
+    "origin_name": "Sherlock & Daughter",
+    "thumb_url": "sherlock-va-con-gai-thumb.jpg",
+    "poster_url": "sherlock-va-con-gai-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-04T17:22:23.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315596",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39370855",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-04T17:21:55.000Z"
+    },
+    "_id": "6a212f9e2c8b2895cfa84ff4",
+    "name": "Ca Khuya Của Fan",
+    "slug": "ca-khuya-cua-fan",
+    "origin_name": "Night Shift for Cuties",
+    "thumb_url": "ca-khuya-cua-fan-thumb.jpg",
+    "poster_url": "ca-khuya-cua-fan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289147",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-04T17:10:39.000Z"
+    },
+    "_id": "6a1faba44e6584edee44b65a",
+    "name": "Dẫn Độ Linh Hồn: Mười Năm",
+    "slug": "dan-do-linh-hon-muoi-nam",
+    "origin_name": "The Ferry Man 10th Anniversary",
+    "thumb_url": "dan-do-linh-hon-muoi-nam-thumb.jpg",
+    "poster_url": "dan-do-linh-hon-muoi-nam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1215532",
+      "season": null,
+      "vote_average": 7.4,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt31260224",
+      "vote_average": 0,
+      "vote_count": 13
+    },
+    "modified": {
+      "time": "2026-06-04T15:47:32.000Z"
+    },
+    "_id": "6a1ff090142ea533b022381d",
+    "name": "Chickenhare and the Secret of the Groundhog",
+    "slug": "chickenhare-and-the-secret-of-the-groundhog",
+    "origin_name": "Chickenhare and the Secret of the Groundhog",
+    "thumb_url": "chickenhare-and-the-secret-of-the-groundhog-thumb.jpg",
+    "poster_url": "chickenhare-and-the-secret-of-the-groundhog-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1293968",
+      "season": null,
+      "vote_average": 8,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt38119721",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-04T15:46:48.000Z"
+    },
+    "_id": "6a1ff3144be02ecfaff89539",
+    "name": "Hero's Island",
+    "slug": "heros-island",
+    "origin_name": "Hero's Island",
+    "thumb_url": "heros-island-thumb.jpg",
+    "poster_url": "heros-island-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1464374",
+      "season": null,
+      "vote_average": 6.2,
+      "vote_count": 81
+    },
+    "imdb": {
+      "id": "tt31450976",
+      "vote_average": 6.9,
+      "vote_count": 47
+    },
+    "modified": {
+      "time": "2026-06-04T15:46:17.000Z"
+    },
+    "_id": "6a1fef80416b9186f0115315",
+    "name": "Phi Vụ Dưới Đáy Biển",
+    "slug": "phi-vu-duoi-day-bien",
+    "origin_name": "The Tigers",
+    "thumb_url": "phi-vu-duoi-day-bien-thumb.jpg",
+    "poster_url": "phi-vu-duoi-day-bien-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323111",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42873612",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-04T15:44:24.000Z"
+    },
+    "_id": "6a1ff3aade5e0f1b85d0d9b9",
+    "name": "Michael Jackson: Lời Tuyên Án",
+    "slug": "michael-jackson-loi-tuyen-an",
+    "origin_name": "Michael Jackson: The Verdict",
+    "thumb_url": "michael-jackson-loi-tuyen-an-thumb.jpg",
+    "poster_url": "michael-jackson-loi-tuyen-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1693002",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42192165",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-04T15:18:45.000Z"
+    },
+    "_id": "6a2134e1173846d6442f6ea1",
+    "name": "Vụ án mạng Rachel Nickell",
+    "slug": "vu-an-mang-rachel-nickell",
+    "origin_name": "The Murder of Rachel Nickell",
+    "thumb_url": "vu-an-mang-rachel-nickell-thumb.jpg",
+    "poster_url": "vu-an-mang-rachel-nickell-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1693201",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42456008",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-04T15:17:52.000Z"
+    },
+    "_id": "6a21349ade5e0f1b85d110e2",
+    "name": "Poldi",
+    "slug": "poldi",
+    "origin_name": "Poldi",
+    "thumb_url": "poldi-thumb.jpg",
+    "poster_url": "poldi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 9,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-04T14:49:47.000Z"
+    },
+    "_id": "6a212e184be02ecfaff8cba0",
+    "name": "The King of Queens (Phần 9)",
+    "slug": "the-king-of-queens-phan-9",
+    "origin_name": "The King of Queens (Season 9)",
+    "thumb_url": "the-king-of-queens-phan-9-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-9-poster.jpg",
+    "year": 2006
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 8,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-04T14:49:19.000Z"
+    },
+    "_id": "6a212dfd1fea2c5da7a922f6",
+    "name": "The King of Queens (Phần 8)",
+    "slug": "the-king-of-queens-phan-8",
+    "origin_name": "The King of Queens (Season 8)",
+    "thumb_url": "the-king-of-queens-phan-8-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-8-poster.jpg",
+    "year": 2005
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 7,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-04T14:48:39.000Z"
+    },
+    "_id": "6a212dd4947ce584f1c39809",
+    "name": "The King of Queens (Phần 7)",
+    "slug": "the-king-of-queens-phan-7",
+    "origin_name": "The King of Queens (Season 7)",
+    "thumb_url": "the-king-of-queens-phan-7-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-7-poster.jpg",
+    "year": 2004
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 6,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-04T14:48:20.000Z"
+    },
+    "_id": "6a212dc2e12218d72859bf0a",
+    "name": "The King of Queens (Phần 6)",
+    "slug": "the-king-of-queens-phan-6",
+    "origin_name": "The King of Queens (Season 6)",
+    "thumb_url": "the-king-of-queens-phan-6-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-6-poster.jpg",
+    "year": 2003
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 5,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-04T14:47:55.000Z"
+    },
+    "_id": "6a212da86092900b4119b1c0",
+    "name": "The King of Queens (Phần 5)",
+    "slug": "the-king-of-queens-phan-5",
+    "origin_name": "The King of Queens (Season 5)",
+    "thumb_url": "the-king-of-queens-phan-5-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-5-poster.jpg",
+    "year": 2002
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 4,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-04T14:47:33.000Z"
+    },
+    "_id": "6a212d92c52ec62c8b18b14d",
+    "name": "The King of Queens (Phần 4)",
+    "slug": "the-king-of-queens-phan-4",
+    "origin_name": "The King of Queens (Season 4)",
+    "thumb_url": "the-king-of-queens-phan-4-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-4-poster.jpg",
+    "year": 2001
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 3,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-04T14:47:04.000Z"
+    },
+    "_id": "6a212d75f7f43ec64ef8070f",
+    "name": "The King of Queens (Phần 3)",
+    "slug": "the-king-of-queens-phan-3",
+    "origin_name": "The King of Queens (Season 3)",
+    "thumb_url": "the-king-of-queens-phan-3-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-3-poster.jpg",
+    "year": 2000
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 2,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-04T14:45:52.000Z"
+    },
+    "_id": "6a212cf6e10cfe56c49c021f",
+    "name": "The King of Queens (Phần 2)",
+    "slug": "the-king-of-queens-phan-2",
+    "origin_name": "The King of Queens (Season 2)",
+    "thumb_url": "the-king-of-queens-phan-2-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-2-poster.jpg",
+    "year": 1999
+  }
+]
