@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "39072",
+      "season": 1,
+      "vote_average": 6,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T23:28:33.000Z"
+    },
+    "_id": "6a22f931e12218d7285a1541",
+    "name": "Trí Dũng Song Hùng",
+    "slug": "tri-dung-song-hung",
+    "origin_name": "Vigilante Force",
+    "thumb_url": "tri-dung-song-hung-thumb.jpg",
+    "poster_url": "tri-dung-song-hung-poster.jpg",
+    "year": 2003
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "109403",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt0449702",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T23:27:45.000Z"
+    },
+    "_id": "6a22f90112f0391f00d4aaaf",
+    "name": "Đại Đường Danh Thám",
+    "slug": "dai-duong-danh-tham",
+    "origin_name": "The Blood Hounds",
+    "thumb_url": "dai-duong-danh-tham-thumb.jpg",
+    "poster_url": "dai-duong-danh-tham-poster.jpg",
+    "year": 1990
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "80150",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T23:26:53.000Z"
+    },
+    "_id": "6a22f8cde12218d7285a14ff",
+    "name": "Song Hùng Tranh Bá",
+    "slug": "song-hung-tranh-ba",
+    "origin_name": "The Conquest",
+    "thumb_url": "song-hung-tranh-ba-thumb.jpg",
+    "poster_url": "song-hung-tranh-ba-poster.jpg",
+    "year": 2006
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "110080",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt0843231",
+      "vote_average": 7.9,
+      "vote_count": 22
+    },
+    "modified": {
+      "time": "2026-06-05T23:25:45.000Z"
+    },
+    "_id": "6a22f8892c0a4eaf265744a7",
+    "name": "Thiên Sư Kỳ Môn",
+    "slug": "thien-su-ky-mon",
+    "origin_name": "The Fearless Duo",
+    "thumb_url": "thien-su-ky-mon-thumb.jpg",
+    "poster_url": "thien-su-ky-mon-poster.jpg",
+    "year": 1984
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "109842",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T23:24:46.000Z"
+    },
+    "_id": "6a22f84e4be02ecfaff92193",
+    "name": "Xuất Vị Giang Hồ",
+    "slug": "xuat-vi-giang-ho",
+    "origin_name": "Road For The Heroes",
+    "thumb_url": "xuat-vi-giang-ho-thumb.jpg",
+    "poster_url": "xuat-vi-giang-ho-poster.jpg",
+    "year": 1992
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "87579",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt0827807",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T23:23:57.000Z"
+    },
+    "_id": "6a22f81d2c0a4eaf26574462",
+    "name": "Cửu Nguyệt Ưng Phi",
+    "slug": "cuu-nguyet-ung-phi",
+    "origin_name": "Condor In September",
+    "thumb_url": "cuu-nguyet-ung-phi-thumb.jpg",
+    "poster_url": "cuu-nguyet-ung-phi-poster.jpg",
+    "year": 1986
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 4,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-05T21:58:44.000Z"
+    },
+    "_id": "6a212d92c52ec62c8b18b14d",
+    "name": "The King of Queens (Phần 4)",
+    "slug": "the-king-of-queens-phan-4",
+    "origin_name": "The King of Queens (Season 4)",
+    "thumb_url": "the-king-of-queens-phan-4-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-4-poster.jpg",
+    "year": 2001
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 3,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-05T21:57:46.000Z"
+    },
+    "_id": "6a212d75f7f43ec64ef8070f",
+    "name": "The King of Queens (Phần 3)",
+    "slug": "the-king-of-queens-phan-3",
+    "origin_name": "The King of Queens (Season 3)",
+    "thumb_url": "the-king-of-queens-phan-3-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-3-poster.jpg",
+    "year": 2000
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 2,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-05T21:57:27.000Z"
+    },
+    "_id": "6a212cf6e10cfe56c49c021f",
+    "name": "The King of Queens (Phần 2)",
+    "slug": "the-king-of-queens-phan-2",
+    "origin_name": "The King of Queens (Season 2)",
+    "thumb_url": "the-king-of-queens-phan-2-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-2-poster.jpg",
+    "year": 1999
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 1,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-05T21:57:03.000Z"
+    },
+    "_id": "6a212cdbde5e0f1b85d10e6f",
+    "name": "The King of Queens (Phần 1)",
+    "slug": "the-king-of-queens-phan-1",
+    "origin_name": "The King of Queens (Season 1)",
+    "thumb_url": "the-king-of-queens-phan-1-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-1-poster.jpg",
+    "year": 1998
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278850",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38856645",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T20:34:34.000Z"
+    },
+    "_id": "69eee82b748ca16f0862fc03",
+    "name": "Love of Silom",
+    "slug": "love-silom",
+    "origin_name": "Love of Silom",
+    "thumb_url": "รักแห่งสีลม-thumb.jpg",
+    "poster_url": "รักแห่งสีลม-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1274706",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32129938",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T17:54:44.000Z"
+    },
+    "_id": "6a2286bc416b9186f011c7e7",
+    "name": "Người Phụ Nữ Hằn Những Vết Thương",
+    "slug": "nguoi-phu-nu-han-nhung-vet-thuong",
+    "origin_name": "The Marked Woman",
+    "thumb_url": "nguoi-phu-nu-han-nhung-vet-thuong-thumb.jpg",
+    "poster_url": "nguoi-phu-nu-han-nhung-vet-thuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1530510",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37961742",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T17:54:32.000Z"
+    },
+    "_id": "6a2285c012f0391f00d492db",
+    "name": "World Cup 1986: Chủ Nhà Mexico",
+    "slug": "mexico-86",
+    "origin_name": "Mexico 86",
+    "thumb_url": "mexico-86-thumb.jpg",
+    "poster_url": "mexico-86-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1358005",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt33397980",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T17:54:14.000Z"
+    },
+    "_id": "6a22866a142ea533b022acf4",
+    "name": "Yêu Nơi Công Sở",
+    "slug": "yeu-noi-cong-so",
+    "origin_name": "Office Romance",
+    "thumb_url": "yeu-noi-cong-so-thumb.jpg",
+    "poster_url": "yeu-noi-cong-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "276161",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34809853",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T17:49:24.000Z"
+    },
+    "_id": "6a2283ae2c0a4eaf26572b57",
+    "name": "Bài Học Đáng Đời",
+    "slug": "bai-hoc-dang-doi",
+    "origin_name": "Teach You a Lesson",
+    "thumb_url": "bai-hoc-dang-doi-thumb.jpg",
+    "poster_url": "bai-hoc-dang-doi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T17:28:03.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289147",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T17:21:35.000Z"
+    },
+    "_id": "6a1faba44e6584edee44b65a",
+    "name": "Dẫn Độ Linh Hồn: Mười Năm",
+    "slug": "dan-do-linh-hon-muoi-nam",
+    "origin_name": "The Ferry Man 10th Anniversary",
+    "thumb_url": "dan-do-linh-hon-muoi-nam-thumb.jpg",
+    "poster_url": "dan-do-linh-hon-muoi-nam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "277439",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34675596",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T17:12:28.000Z"
+    },
+    "_id": "6a22435bde5e0f1b85d13c09",
+    "name": "Dòng Sông Tội Ác",
+    "slug": "dong-song-toi-ac-2026",
+    "origin_name": "Cape Fear",
+    "thumb_url": "dong-song-toi-ac-2026-thumb.jpg",
+    "poster_url": "dong-song-toi-ac-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "252107",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32140872",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T17:12:13.000Z"
+    },
+    "_id": "6a190a6a4f61d761f76ddb90",
+    "name": "Căn Cứ Star City",
+    "slug": "can-cu-star-city",
+    "origin_name": "Star City",
+    "thumb_url": "can-cu-star-city-thumb.jpg",
+    "poster_url": "can-cu-star-city-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314916",
+      "season": 1,
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt35668813",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T17:11:57.000Z"
+    },
+    "_id": "6a03f0fa6d4243e068fa78a7",
+    "name": "Bản Năng Người Mẹ",
+    "slug": "ban-nang-nguoi-me-2026",
+    "origin_name": "Unconditional",
+    "thumb_url": "ban-nang-nguoi-me-2026-thumb.jpg",
+    "poster_url": "ban-nang-nguoi-me-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "241609",
+      "season": 2,
+      "vote_average": 7.6,
+      "vote_count": 189
+    },
+    "imdb": {
+      "id": "tt30459041",
+      "vote_average": 7.7,
+      "vote_count": 47480
+    },
+    "modified": {
+      "time": "2026-06-05T17:11:43.000Z"
+    },
+    "_id": "69d74fed91cc1b96d584364e",
+    "name": "Bạn Bè & Hàng Xóm (Phần 2)",
+    "slug": "ban-be-and-hang-xom-phan-2",
+    "origin_name": "Your Friends & Neighbors (Season 2)",
+    "thumb_url": "ban-be-and-hang-xom-phan-2-thumb.jpg",
+    "poster_url": "ban-be-and-hang-xom-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323067",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T15:23:07.000Z"
+    },
+    "_id": "6a166e48e12218d72857b634",
+    "name": "Xuân Đằng Đẵng Sắp Tàn",
+    "slug": "xuan-dang-dang-sap-tan",
+    "origin_name": "Shadows of the Late Spring",
+    "thumb_url": "xuan-dang-dang-sap-tan-thumb.jpg",
+    "poster_url": "xuan-dang-dang-sap-tan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T15:15:39.000Z"
+    },
+    "_id": "6a1a94a81fea2c5da7a7e833",
+    "name": "Tiêu Dao Tứ Công Tử",
+    "slug": "tieu-dao-tu-cong-tu",
+    "origin_name": "The Reborn Young Lord",
+    "thumb_url": "tieu-dao-tu-cong-tu-thumb.jpg",
+    "poster_url": "tieu-dao-tu-cong-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323508",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-05T15:15:25.000Z"
+    },
+    "_id": "6a130febe10cfe56c4994911",
+    "name": "Thần Y Cổ Đại Ở Thành Phố",
+    "slug": "than-y-co-dai-o-thanh-pho",
+    "origin_name": "Divine Doctor",
+    "thumb_url": "than-y-co-dai-o-thanh-pho-thumb.jpg",
+    "poster_url": "than-y-co-dai-o-thanh-pho-poster.jpg",
+    "year": 2026
+  }
+]
