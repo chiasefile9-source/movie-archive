@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272265",
+      "season": 1,
+      "vote_average": 6.818,
+      "vote_count": 22
+    },
+    "imdb": {
+      "id": "tt35562988",
+      "vote_average": 6.6,
+      "vote_count": 3187
+    },
+    "modified": {
+      "time": "2026-06-07T00:13:49.000Z"
+    },
+    "_id": "6a1e6491a6726df8fd370ed7",
+    "name": "Vị Khách (Phần 1)",
+    "slug": "vi-khach-phan-1",
+    "origin_name": "The Guest",
+    "thumb_url": "vi-khach-phan-1-thumb.jpg",
+    "poster_url": "vi-khach-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 8,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-06T22:30:26.000Z"
+    },
+    "_id": "6a212dfd1fea2c5da7a922f6",
+    "name": "The King of Queens (Phần 8)",
+    "slug": "the-king-of-queens-phan-8",
+    "origin_name": "The King of Queens (Season 8)",
+    "thumb_url": "the-king-of-queens-phan-8-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-8-poster.jpg",
+    "year": 2005
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 7,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-06T22:30:04.000Z"
+    },
+    "_id": "6a212dd4947ce584f1c39809",
+    "name": "The King of Queens (Phần 7)",
+    "slug": "the-king-of-queens-phan-7",
+    "origin_name": "The King of Queens (Season 7)",
+    "thumb_url": "the-king-of-queens-phan-7-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-7-poster.jpg",
+    "year": 2004
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 6,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-06T22:29:47.000Z"
+    },
+    "_id": "6a212dc2e12218d72859bf0a",
+    "name": "The King of Queens (Phần 6)",
+    "slug": "the-king-of-queens-phan-6",
+    "origin_name": "The King of Queens (Season 6)",
+    "thumb_url": "the-king-of-queens-phan-6-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-6-poster.jpg",
+    "year": 2003
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 5,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-06T22:29:25.000Z"
+    },
+    "_id": "6a212da86092900b4119b1c0",
+    "name": "The King of Queens (Phần 5)",
+    "slug": "the-king-of-queens-phan-5",
+    "origin_name": "The King of Queens (Season 5)",
+    "thumb_url": "the-king-of-queens-phan-5-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-5-poster.jpg",
+    "year": 2002
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4238",
+      "season": 4,
+      "vote_average": 7.1,
+      "vote_count": 719
+    },
+    "imdb": {
+      "id": "tt0165581",
+      "vote_average": 7.4,
+      "vote_count": 93622
+    },
+    "modified": {
+      "time": "2026-06-06T22:29:09.000Z"
+    },
+    "_id": "6a212d92c52ec62c8b18b14d",
+    "name": "The King of Queens (Phần 4)",
+    "slug": "the-king-of-queens-phan-4",
+    "origin_name": "The King of Queens (Season 4)",
+    "thumb_url": "the-king-of-queens-phan-4-thumb.jpg",
+    "poster_url": "the-king-of-queens-phan-4-poster.jpg",
+    "year": 2001
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "286069",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt36626294",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T21:37:33.000Z"
+    },
+    "_id": "6a0a87064f61d761f76b4ada",
+    "name": "Gió Thoảng Tình Theo",
+    "slug": "gio-thoang-tinh-theo",
+    "origin_name": "The Air",
+    "thumb_url": "gio-thoang-tinh-theo-thumb.jpg",
+    "poster_url": "gio-thoang-tinh-theo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300131",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39443399",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T21:36:50.000Z"
+    },
+    "_id": "69da6f99f616ee3807d610b1",
+    "name": "KILL BLUE",
+    "slug": "kill-blue",
+    "origin_name": "KILL BLUE",
+    "thumb_url": "kill-blue-thumb.jpg",
+    "poster_url": "kill-blue-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1339210",
+      "season": null,
+      "vote_average": 6.375,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt33249097",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T21:29:10.000Z"
+    },
+    "_id": "6a242eb612f0391f00d4dd6b",
+    "name": "Vòng Lặp Ký Ức",
+    "slug": "vong-lap-ky-uc",
+    "origin_name": "Affection",
+    "thumb_url": "vong-lap-ky-uc-thumb.jpg",
+    "poster_url": "vong-lap-ky-uc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1285959",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt32298956",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T21:27:43.000Z"
+    },
+    "_id": "6a242e5fa432d616e85e6961",
+    "name": "Hành Khách",
+    "slug": "hanh-khach",
+    "origin_name": "The Passenger",
+    "thumb_url": "hanh-khach-thumb.jpg",
+    "poster_url": "hanh-khach-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297712",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41962163",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T20:26:56.000Z"
+    },
+    "_id": "6a11a5fb4e6584edee420ab8",
+    "name": "Chuyên Gia Tuổi Trung Niên",
+    "slug": "chuyen-gia-tuoi-trung-nien",
+    "origin_name": "Fifties Professionals",
+    "thumb_url": "chuyen-gia-tuoi-trung-nien-thumb.jpg",
+    "poster_url": "chuyen-gia-tuoi-trung-nien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "217838",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34934110",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T19:04:25.000Z"
+    },
+    "_id": "69c75361eea244e3e8b93ab3",
+    "name": "Love Upon A Time: Duyên Kiếp Bên Người",
+    "slug": "love-upon-a-time-duyen-kiep-ben-nguoi",
+    "origin_name": "Love Upon a Time",
+    "thumb_url": "love-upon-a-time-duyen-kiep-ben-nguoi-thumb.jpg",
+    "poster_url": "love-upon-a-time-duyen-kiep-ben-nguoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323349",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T19:02:10.000Z"
+    },
+    "_id": "6a240c426997f14383cfeb1c",
+    "name": "Nguy Tình Nghịch Luyến",
+    "slug": "nguy-tinh-nghich-luyen",
+    "origin_name": "Fatal Desire",
+    "thumb_url": "nguy-tinh-nghich-luyen-thumb.jpg",
+    "poster_url": "nguy-tinh-nghich-luyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289147",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T18:54:45.000Z"
+    },
+    "_id": "6a1faba44e6584edee44b65a",
+    "name": "Dẫn Độ Linh Hồn: Mười Năm",
+    "slug": "dan-do-linh-hon-muoi-nam",
+    "origin_name": "The Ferry Man 10th Anniversary",
+    "thumb_url": "dan-do-linh-hon-muoi-nam-thumb.jpg",
+    "poster_url": "dan-do-linh-hon-muoi-nam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T18:51:36.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T18:45:49.000Z"
+    },
+    "_id": "6a1a94a81fea2c5da7a7e833",
+    "name": "Tiêu Dao Tứ Công Tử",
+    "slug": "tieu-dao-tu-cong-tu",
+    "origin_name": "The Reborn Young Lord",
+    "thumb_url": "tieu-dao-tu-cong-tu-thumb.jpg",
+    "poster_url": "tieu-dao-tu-cong-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287641",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982480",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T11:39:16.000Z"
+    },
+    "_id": "6a168242142ea533b0206a19",
+    "name": "Chói Mắt",
+    "slug": "choi-mat",
+    "origin_name": "Dazzling",
+    "thumb_url": "choi-mat-thumb.jpg",
+    "poster_url": "choi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316780",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T11:39:02.000Z"
+    },
+    "_id": "6a17eb1e1fea2c5da7a767df",
+    "name": "Lồng Giam",
+    "slug": "long-giam-2026",
+    "origin_name": "Cage of Shadows",
+    "thumb_url": "long-giam-2026-thumb.jpg",
+    "poster_url": "long-giam-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323964",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T11:38:42.000Z"
+    },
+    "_id": "6a1e5b04c52ec62c8b182b46",
+    "name": "Sơn Thần",
+    "slug": "son-than",
+    "origin_name": "Mountain Deity",
+    "thumb_url": "son-than-thumb.jpg",
+    "poster_url": "son-than-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "263054",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T11:35:03.000Z"
+    },
+    "_id": "6a1a6eb2947ce584f1c2530e",
+    "name": "Qua Muôn Thành Trì Mới Gặp Đúng Người",
+    "slug": "qua-muon-thanh-tri-moi-gap-dung-nguoi",
+    "origin_name": "100 Reasons Not to Be King",
+    "thumb_url": "qua-muon-thanh-tri-moi-gap-dung-nguoi-thumb.jpg",
+    "poster_url": "qua-muon-thanh-tri-moi-gap-dung-nguoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323689",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T11:34:40.000Z"
+    },
+    "_id": "6a166cd26997f14383cd5f94",
+    "name": "Cưới Rồi Mới Động Lòng",
+    "slug": "cuoi-roi-moi-dong-long",
+    "origin_name": "Late to Love",
+    "thumb_url": "cuoi-roi-moi-dong-long-thumb.jpg",
+    "poster_url": "cuoi-roi-moi-dong-long-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296990",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40552305",
+      "vote_average": 7.3,
+      "vote_count": 6
+    },
+    "modified": {
+      "time": "2026-06-06T11:34:21.000Z"
+    },
+    "_id": "6a2114016092900b4119aab2",
+    "name": "Lâm An Nhược Mộng",
+    "slug": "lam-an-nhuoc-mong",
+    "origin_name": "Reincarnated Love",
+    "thumb_url": "lam-an-nhuoc-mong-thumb.jpg",
+    "poster_url": "lam-an-nhuoc-mong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324300",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T11:33:49.000Z"
+    },
+    "_id": "6a20ff822c0a4eaf2656e25a",
+    "name": "Hiện Trường Vụ Án",
+    "slug": "hien-truong-vu-an",
+    "origin_name": "Crime Scene",
+    "thumb_url": "hien-truong-vu-an-thumb.jpg",
+    "poster_url": "hien-truong-vu-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313397",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-06T11:33:35.000Z"
+    },
+    "_id": "6a224abee14b2140fc6f3760",
+    "name": "Mượn Dung Nhan",
+    "slug": "muon-dung-nhan",
+    "origin_name": "Visage and Soul",
+    "thumb_url": "muon-dung-nhan-thumb.jpg",
+    "poster_url": "muon-dung-nhan-poster.jpg",
+    "year": 2026
+  }
+]
