@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313735",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40529758",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T00:33:22.000Z"
+    },
+    "_id": "69f9f093b692c7b208da50df",
+    "name": "Những Ngày Hạnh Phúc Của Chúng Ta",
+    "slug": "nhung-ngay-hanh-phuc-cua-chung-ta",
+    "origin_name": "Our Happy Days",
+    "thumb_url": "nhung-ngay-hanh-phuc-cua-chung-ta-thumb.jpg",
+    "poster_url": "nhung-ngay-hanh-phuc-cua-chung-ta-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274556",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 20
+    },
+    "imdb": {
+      "id": "tt34063491",
+      "vote_average": 7.1,
+      "vote_count": 2560
+    },
+    "modified": {
+      "time": "2026-06-08T21:22:54.000Z"
+    },
+    "_id": "68dcc5953e261817af05a0df",
+    "name": "Thành Phố Xa Xôi",
+    "slug": "thanh-pho-xa-xoi",
+    "origin_name": "Far Away",
+    "thumb_url": "thanh-pho-xa-xoi-thumb.jpg",
+    "poster_url": "thanh-pho-xa-xoi-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282497",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31922391",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T18:36:41.000Z"
+    },
+    "_id": "6a263e35e14b2140fc6fec49",
+    "name": "Bức Tường Mê Cung",
+    "slug": "buc-tuong-me-cung",
+    "origin_name": "Wonder Wall",
+    "thumb_url": "buc-tuong-me-cung-thumb.jpg",
+    "poster_url": "buc-tuong-me-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T18:36:09.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "931285",
+      "season": null,
+      "vote_average": 7.139,
+      "vote_count": 97
+    },
+    "imdb": {
+      "id": "tt17490712",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T14:14:52.000Z"
+    },
+    "_id": "6a0148426d4243e068f9f11b",
+    "name": "Cuộc Chiến Sinh Tử II",
+    "slug": "cuoc-chien-sinh-tu-ii",
+    "origin_name": "Mortal Kombat II",
+    "thumb_url": "cuoc-chien-sinh-tu-ii-thumb.jpg",
+    "poster_url": "cuoc-chien-sinh-tu-ii-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T14:14:22.000Z"
+    },
+    "_id": "6a1a94a81fea2c5da7a7e833",
+    "name": "Tiêu Dao Tứ Công Tử",
+    "slug": "tieu-dao-tu-cong-tu",
+    "origin_name": "The Reborn Young Lord",
+    "thumb_url": "tieu-dao-tu-cong-tu-thumb.jpg",
+    "poster_url": "tieu-dao-tu-cong-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323508",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T14:14:06.000Z"
+    },
+    "_id": "6a130febe10cfe56c4994911",
+    "name": "Thần Y Cổ Đại Ở Thành Phố",
+    "slug": "than-y-co-dai-o-thanh-pho",
+    "origin_name": "Divine Doctor",
+    "thumb_url": "than-y-co-dai-o-thanh-pho-thumb.jpg",
+    "poster_url": "than-y-co-dai-o-thanh-pho-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272265",
+      "season": 1,
+      "vote_average": 6.818,
+      "vote_count": 22
+    },
+    "imdb": {
+      "id": "tt35562988",
+      "vote_average": 6.6,
+      "vote_count": 3187
+    },
+    "modified": {
+      "time": "2026-06-08T13:43:00.000Z"
+    },
+    "_id": "6a1e6491a6726df8fd370ed7",
+    "name": "Vị Khách (Phần 1)",
+    "slug": "vi-khach-phan-1",
+    "origin_name": "The Guest",
+    "thumb_url": "vi-khach-phan-1-thumb.jpg",
+    "poster_url": "vi-khach-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319934",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38348835",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T13:42:33.000Z"
+    },
+    "_id": "6a266459142ea533b0235d84",
+    "name": "Calabasas Confidential",
+    "slug": "calabasas-confidential",
+    "origin_name": "Calabasas Confidential",
+    "thumb_url": "calabasas-confidential-thumb.jpg",
+    "poster_url": "calabasas-confidential-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1707914",
+      "season": null,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt33397303",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T13:37:54.000Z"
+    },
+    "_id": "6a263d1b416b9186f0126cbf",
+    "name": "Thần Thám Nằm Vùng 2",
+    "slug": "than-tham-nam-vung-2",
+    "origin_name": "Detective Chen 2",
+    "thumb_url": "than-tham-nam-vung-2-thumb.jpg",
+    "poster_url": "than-tham-nam-vung-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "107116",
+      "season": 1,
+      "vote_average": 7.4,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T13:17:04.000Z"
+    },
+    "_id": "62d841c00376e41264b61afa",
+    "name": "Vô Thượng Thần Đế",
+    "origin_name": "Supreme God Emperor",
+    "thumb_url": "vo-thuong-than-de-thumb.jpg",
+    "poster_url": "vo-thuong-than-de-poster.jpg",
+    "slug": "vo-thuong-than-de",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295434",
+      "season": 1,
+      "vote_average": 9.3,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt37532884",
+      "vote_average": 8.2,
+      "vote_count": 104
+    },
+    "modified": {
+      "time": "2026-06-08T13:15:00.000Z"
+    },
+    "_id": "68d273e85c81ed0050c53bce",
+    "name": "Hiệp Sĩ Mặt Nạ ZEZTZ",
+    "slug": "hiep-si-mat-na-zeztz",
+    "origin_name": "Kamen Rider ZEZTZ",
+    "thumb_url": "hiep-si-mat-na-zeztz-thumb.jpg",
+    "poster_url": "hiep-si-mat-na-zeztz-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1667493",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40618609",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T11:55:48.000Z"
+    },
+    "_id": "6a253a77a432d616e85e9f65",
+    "name": "USA 94: Brazil trở lại vinh quang",
+    "slug": "usa-94-brazil-tro-lai-vinh-quang",
+    "origin_name": "USA 94: Brazil's Return to Glory",
+    "thumb_url": "usa-94-brazil-tro-lai-vinh-quang-thumb.jpg",
+    "poster_url": "usa-94-brazil-tro-lai-vinh-quang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287641",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982480",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T11:25:44.000Z"
+    },
+    "_id": "6a168242142ea533b0206a19",
+    "name": "Chói Mắt",
+    "slug": "choi-mat",
+    "origin_name": "Dazzling",
+    "thumb_url": "choi-mat-thumb.jpg",
+    "poster_url": "choi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289209",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T11:18:28.000Z"
+    },
+    "_id": "6a1173d3e14b2140fc6c0f93",
+    "name": "Đại Đường Mê Vụ",
+    "slug": "dai-duong-me-vu",
+    "origin_name": "The Tang Mist",
+    "thumb_url": "dai-duong-me-vu-thumb.jpg",
+    "poster_url": "dai-duong-me-vu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296990",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40552305",
+      "vote_average": 7.3,
+      "vote_count": 6
+    },
+    "modified": {
+      "time": "2026-06-08T11:18:16.000Z"
+    },
+    "_id": "6a2114016092900b4119aab2",
+    "name": "Lâm An Nhược Mộng",
+    "slug": "lam-an-nhuoc-mong",
+    "origin_name": "Reincarnated Love",
+    "thumb_url": "lam-an-nhuoc-mong-thumb.jpg",
+    "poster_url": "lam-an-nhuoc-mong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324300",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T11:17:40.000Z"
+    },
+    "_id": "6a20ff822c0a4eaf2656e25a",
+    "name": "Hiện Trường Vụ Án",
+    "slug": "hien-truong-vu-an",
+    "origin_name": "Crime Scene",
+    "thumb_url": "hien-truong-vu-an-thumb.jpg",
+    "poster_url": "hien-truong-vu-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313397",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T11:17:23.000Z"
+    },
+    "_id": "6a224abee14b2140fc6f3760",
+    "name": "Mượn Dung Nhan",
+    "slug": "muon-dung-nhan",
+    "origin_name": "Visage and Soul",
+    "thumb_url": "muon-dung-nhan-thumb.jpg",
+    "poster_url": "muon-dung-nhan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "37854",
+      "season": 1,
+      "vote_average": 8.7,
+      "vote_count": 5216
+    },
+    "imdb": {
+      "id": "tt0388629",
+      "vote_average": 9,
+      "vote_count": 341535
+    },
+    "modified": {
+      "time": "2026-06-08T10:50:16.000Z"
+    },
+    "_id": "6220e66e8481266c5b7f154f",
+    "name": "Đảo Hải Tặc",
+    "origin_name": "One Piece (Luffy)",
+    "thumb_url": "one-piece-thumb.jpg",
+    "slug": "one-piece",
+    "year": 1999,
+    "poster_url": "one-piece-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "122612",
+      "season": 1,
+      "vote_average": 9.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt34882755",
+      "vote_average": 0,
+      "vote_count": 10
+    },
+    "modified": {
+      "time": "2026-06-08T10:49:43.000Z"
+    },
+    "_id": "68e4ba284f7493692abb949c",
+    "name": "Vạn Giới Độc Tôn",
+    "slug": "van-gioi-doc-ton",
+    "origin_name": "Ten Thousand Worlds",
+    "thumb_url": "van-gioi-doc-ton-thumb.jpg",
+    "poster_url": "van-gioi-doc-ton-poster.jpg",
+    "year": 2021
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311871",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-08T10:30:09.000Z"
+    },
+    "_id": "69e4a9db6d4243e068f1056b",
+    "name": "Anh Em Nhà Tagusari",
+    "slug": "tagusari-bros",
+    "origin_name": "TAGUSARI bros.",
+    "thumb_url": "tagusari-bros-thumb.jpg",
+    "poster_url": "tagusari-bros-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "299365",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42206645",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-07T23:26:57.000Z"
+    },
+    "_id": "6a1b1a29a432d616e85cc41d",
+    "name": "Chủ Tịch Tập Sự",
+    "slug": "chu-tich-tap-su",
+    "origin_name": "Reborn Rookie",
+    "thumb_url": "chu-tich-tap-su-thumb.jpg",
+    "poster_url": "chu-tich-tap-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124364",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 2553
+    },
+    "imdb": {
+      "id": "tt9813792",
+      "vote_average": 7.8,
+      "vote_count": 173600
+    },
+    "modified": {
+      "time": "2026-06-07T22:50:30.000Z"
+    },
+    "_id": "69e4fb962b874d6bfb6bbee5",
+    "name": "Thị Trấn Ác Mộng (Phần 4)",
+    "slug": "thi-tran-ac-mong-phan-4",
+    "origin_name": "FROM (Season 4)",
+    "thumb_url": "thi-tran-ac-mong-phan-4-thumb.jpg",
+    "poster_url": "thi-tran-ac-mong-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315438",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42022518",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-07T18:18:36.000Z"
+    },
+    "_id": "69f963cb91cc1b96d58fbb89",
+    "name": "LOVED ONE",
+    "slug": "loved-one",
+    "origin_name": "LOVED ONE",
+    "thumb_url": "loved-one-thumb.jpg",
+    "poster_url": "loved-one-poster.jpg",
+    "year": 2026
+  }
+]
