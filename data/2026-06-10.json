@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315494",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T22:52:48.000Z"
+    },
+    "_id": "69eae81d482e09b42826f8a5",
+    "name": "Reborn",
+    "slug": "reborn",
+    "origin_name": "Reborn",
+    "thumb_url": "reborn-thumb.jpg",
+    "poster_url": "reborn-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "321628",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39379466",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T22:49:59.000Z"
+    },
+    "_id": "69f9646ae53e6a47ad63d170",
+    "name": "Nhịp Điệu Thù Hận",
+    "slug": "nhip-dieu-thu-han",
+    "origin_name": "The Rhythm of Revenge",
+    "thumb_url": "nhip-dieu-thu-han-thumb.jpg",
+    "poster_url": "nhip-dieu-thu-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306118",
+      "season": 1,
+      "vote_average": 9.438,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt39013436",
+      "vote_average": 6.5,
+      "vote_count": 971
+    },
+    "modified": {
+      "time": "2026-06-09T22:31:17.000Z"
+    },
+    "_id": "6947d108da6ce23e8e932ab7",
+    "name": "Ranh Giới Định Mệnh",
+    "slug": "ranh-gioi-dinh-menh",
+    "origin_name": "Bound by Fate",
+    "thumb_url": "ranh-gioi-dinh-menh-thumb.jpg",
+    "poster_url": "ranh-gioi-dinh-menh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "293697",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39122671",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T22:17:48.000Z"
+    },
+    "_id": "69df6411377c8aaad5412ad8",
+    "name": "Tôi muốn chấm dứt trò chơi tình yêu này",
+    "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
+    "origin_name": "I Want to End This Love Game",
+    "thumb_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-thumb.jpg",
+    "poster_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34881054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T22:17:09.000Z"
+    },
+    "_id": "6a0ee15d12f0391f00d0eb0b",
+    "name": "WU",
+    "slug": "wu",
+    "origin_name": "WU",
+    "thumb_url": "wu-thumb.jpg",
+    "poster_url": "wu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "213326",
+      "season": 2,
+      "vote_average": 8.1,
+      "vote_count": 58
+    },
+    "imdb": {
+      "id": "tt23132598",
+      "vote_average": 6.4,
+      "vote_count": 612
+    },
+    "modified": {
+      "time": "2026-06-09T22:15:23.000Z"
+    },
+    "_id": "69e493fc4e2efe728847d230",
+    "name": "Nữ Vương Trùm Cuối Tàn Độc Căn Nguyên Của Mọi Thảm Kịch Sẽ Dốc Sức Vì Người Dân (Phần 2)",
+    "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
+    "origin_name": "The Most Heretical Last Boss Queen: From Villainess to Savior (Season 2)",
+    "thumb_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-thumb.jpg",
+    "poster_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "301944",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt39122769",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T22:15:05.000Z"
+    },
+    "_id": "69d5dfb315072466ace88b55",
+    "name": "Mai Mối Cho Độc Sư",
+    "slug": "mai-moi-cho-doc-su",
+    "origin_name": "Marriage Toxin",
+    "thumb_url": "mai-moi-cho-doc-su-thumb.jpg",
+    "poster_url": "mai-moi-cho-doc-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "304173",
+      "season": 2,
+      "vote_average": 8,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt38810320",
+      "vote_average": 8,
+      "vote_count": 36
+    },
+    "modified": {
+      "time": "2026-06-09T21:10:41.000Z"
+    },
+    "_id": "6a134b446092900b41170441",
+    "name": "Chị Ơi Anh Yêu Em (Phần 2)",
+    "slug": "chi-oi-anh-yeu-em-phan-2",
+    "origin_name": "Mind the Noona Gap (Season 2)",
+    "thumb_url": "chi-oi-anh-yeu-em-phan-2-thumb.jpg",
+    "poster_url": "chi-oi-anh-yeu-em-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315331",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T20:32:48.000Z"
+    },
+    "_id": "6a0fce831fea2c5da7a5e5da",
+    "name": "Dance of the Lion",
+    "slug": "dance-of-the-lion",
+    "origin_name": "Dance of the Lion",
+    "thumb_url": "dance-of-the-lion-thumb.jpg",
+    "poster_url": "dance-of-the-lion-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "257085",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21858998",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T20:20:56.000Z"
+    },
+    "_id": "6a28132a4be02ecfaffa13aa",
+    "name": "Thế Giới Em Và Tôi",
+    "slug": "the-gioi-em-va-toi",
+    "origin_name": "The Two Faces of Thatri",
+    "thumb_url": "the-gioi-em-va-toi-thumb.jpg",
+    "poster_url": "the-gioi-em-va-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282497",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31922391",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T18:33:19.000Z"
+    },
+    "_id": "6a263e35e14b2140fc6fec49",
+    "name": "Bức Tường Mê Cung",
+    "slug": "buc-tuong-me-cung",
+    "origin_name": "Wonder Wall",
+    "thumb_url": "buc-tuong-me-cung-thumb.jpg",
+    "poster_url": "buc-tuong-me-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274101",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T18:29:29.000Z"
+    },
+    "_id": "6a27f8d44e6584edee463da8",
+    "name": "Nhật Ký Bí Mật",
+    "slug": "nhat-ky-bi-mat",
+    "origin_name": "Secret Diary",
+    "thumb_url": "nhat-ky-bi-mat-thumb.jpg",
+    "poster_url": "nhat-ky-bi-mat-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320590",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T18:11:29.000Z"
+    },
+    "_id": "6a27eb874f61d761f7709bce",
+    "name": "Phi Thăng Giữa Ban Ngày",
+    "slug": "phi-thang-giua-ban-ngay",
+    "origin_name": "Rise Again",
+    "thumb_url": "phi-thang-giua-ban-ngay-thumb.jpg",
+    "poster_url": "phi-thang-giua-ban-ngay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-09T17:29:37.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281679",
+      "season": 1,
+      "vote_average": 7.172,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt29242849",
+      "vote_average": 7.2,
+      "vote_count": 355
+    },
+    "modified": {
+      "time": "2026-06-09T17:10:02.000Z"
+    },
+    "_id": "67b8abe19d115e9867c1d746",
+    "name": "Câu chuyện của gia đình tôi",
+    "slug": "cau-chuyen-cua-gia-dinh-toi",
+    "origin_name": "My Family",
+    "thumb_url": "cau-chuyen-cua-gia-dinh-toi-thumb.jpg",
+    "poster_url": "cau-chuyen-cua-gia-dinh-toi-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 15,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-09T16:37:32.000Z"
+    },
+    "_id": "6a27ded76092900b411aec99",
+    "name": "ER: Phòng Cấp Cứu (Phần 15)",
+    "slug": "er-phong-cap-cuu-phan-15",
+    "origin_name": "ER (Season 15)",
+    "thumb_url": "er-phong-cap-cuu-phan-15-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-15-poster.jpg",
+    "year": 2008
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 14,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-09T16:37:03.000Z"
+    },
+    "_id": "6a27debce14b2140fc704236",
+    "name": "ER: Phòng Cấp Cứu (Phần 14)",
+    "slug": "er-phong-cap-cuu-phan-14",
+    "origin_name": "ER (Season 14)",
+    "thumb_url": "er-phong-cap-cuu-phan-14-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-14-poster.jpg",
+    "year": 2007
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 13,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-09T16:36:11.000Z"
+    },
+    "_id": "6a27de814e6584edee4636d9",
+    "name": "ER: Phòng Cấp Cứu (Phần 13)",
+    "slug": "er-phong-cap-cuu-phan-13",
+    "origin_name": "ER (Season 13)",
+    "thumb_url": "er-phong-cap-cuu-phan-13-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-13-poster.jpg",
+    "year": 2006
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 12,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-09T16:35:43.000Z"
+    },
+    "_id": "6a27de6be14b2140fc7041ea",
+    "name": "ER: Phòng Cấp Cứu (Phần 12)",
+    "slug": "er-phong-cap-cuu-phan-12",
+    "origin_name": "ER (Season 12)",
+    "thumb_url": "er-phong-cap-cuu-phan-12-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-12-poster.jpg",
+    "year": 2005
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 11,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-09T16:34:46.000Z"
+    },
+    "_id": "6a27de32c52ec62c8b19ebce",
+    "name": "ER: Phòng Cấp Cứu (Phần 11)",
+    "slug": "er-phong-cap-cuu-phan-11",
+    "origin_name": "ER (Season 11)",
+    "thumb_url": "er-phong-cap-cuu-phan-11-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-11-poster.jpg",
+    "year": 2004
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 10,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-09T16:34:23.000Z"
+    },
+    "_id": "6a27de1c947ce584f1c4d10d",
+    "name": "ER: Phòng Cấp Cứu (Phần 10)",
+    "slug": "er-phong-cap-cuu-phan-10",
+    "origin_name": "ER (Season 10)",
+    "thumb_url": "er-phong-cap-cuu-phan-10-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-10-poster.jpg",
+    "year": 2003
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 9,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-09T16:34:01.000Z"
+    },
+    "_id": "6a27de054f61d761f770981e",
+    "name": "ER: Phòng Cấp Cứu (Phần 9)",
+    "slug": "er-phong-cap-cuu-phan-9",
+    "origin_name": "ER (Season 9)",
+    "thumb_url": "er-phong-cap-cuu-phan-9-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-9-poster.jpg",
+    "year": 2002
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 8,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-09T16:33:40.000Z"
+    },
+    "_id": "6a27ddf0de5e0f1b85d247c5",
+    "name": "ER: Phòng Cấp Cứu (Phần 8)",
+    "slug": "er-phong-cap-cuu-phan-8",
+    "origin_name": "ER (Season 8)",
+    "thumb_url": "er-phong-cap-cuu-phan-8-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-8-poster.jpg",
+    "year": 2001
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 7,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-09T16:33:19.000Z"
+    },
+    "_id": "6a27dddb4f61d761f77097f7",
+    "name": "ER: Phòng Cấp Cứu (Phần 7)",
+    "slug": "er-phong-cap-cuu-phan-7",
+    "origin_name": "ER (Season 7)",
+    "thumb_url": "er-phong-cap-cuu-phan-7-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-7-poster.jpg",
+    "year": 2000
+  }
+]
