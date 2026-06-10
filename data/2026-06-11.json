@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "272265",
+      "season": 1,
+      "vote_average": 6.818,
+      "vote_count": 22
+    },
+    "imdb": {
+      "id": "tt35562988",
+      "vote_average": 6.6,
+      "vote_count": 3187
+    },
+    "modified": {
+      "time": "2026-06-11T00:19:51.000Z"
+    },
+    "_id": "6a1e6491a6726df8fd370ed7",
+    "name": "Vị Khách (Phần 1)",
+    "slug": "vi-khach-phan-1",
+    "origin_name": "The Guest",
+    "thumb_url": "vi-khach-phan-1-thumb.jpg",
+    "poster_url": "vi-khach-phan-1-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "307602",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39375564",
+      "vote_average": 4.5,
+      "vote_count": 19
+    },
+    "modified": {
+      "time": "2026-06-11T00:10:28.000Z"
+    },
+    "_id": "69bc1529ccc6cea268841d51",
+    "name": "Công Thức Tình Yêu",
+    "slug": "cong-thuc-tinh-yeu",
+    "origin_name": "Recipe For Love",
+    "thumb_url": "cong-thuc-tinh-yeu-thumb.jpg",
+    "poster_url": "cong-thuc-tinh-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303076",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39073388",
+      "vote_average": 0,
+      "vote_count": 17
+    },
+    "modified": {
+      "time": "2026-06-11T00:09:21.000Z"
+    },
+    "_id": "6947a82897c71dcd0d63982e",
+    "name": "Người Đàn Ông Đầu Tiên",
+    "slug": "nguoi-dan-ong-dau-tien",
+    "origin_name": "First Man",
+    "thumb_url": "nguoi-dan-ong-dau-tien-thumb.jpg",
+    "poster_url": "nguoi-dan-ong-dau-tien-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322426",
+      "season": 1,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42604310",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-10T23:49:25.000Z"
+    },
+    "_id": "6a27db9abaf8dde7e3cdc7e6",
+    "name": "Na Uy: Chú ngựa ô",
+    "slug": "na-uy-chu-ngua-o",
+    "origin_name": "Norway: The Dark Horse",
+    "thumb_url": "na-uy-chu-ngua-o-thumb.jpg",
+    "poster_url": "na-uy-chu-ngua-o-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 3,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-10T23:48:56.000Z"
+    },
+    "_id": "6a27dc804f61d761f7709737",
+    "name": "ER: Phòng Cấp Cứu (Phần 3)",
+    "slug": "er-phong-cap-cuu-phan-3",
+    "origin_name": "ER (Season 3)",
+    "thumb_url": "er-phong-cap-cuu-phan-3-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-3-poster.jpg",
+    "year": 1996
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 2,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-10T23:48:30.000Z"
+    },
+    "_id": "6a27dc60142ea533b023a826",
+    "name": "ER: Phòng Cấp Cứu (Phần 2)",
+    "slug": "er-phong-cap-cuu-phan-2",
+    "origin_name": "ER (Season 2)",
+    "thumb_url": "er-phong-cap-cuu-phan-2-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-2-poster.jpg",
+    "year": 1995
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 1,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-10T23:47:10.000Z"
+    },
+    "_id": "6a27dc0dc52ec62c8b19ea72",
+    "name": "ER: Phòng Cấp Cứu (Phần 1)",
+    "slug": "er-phong-cap-cuu-phan-1",
+    "origin_name": "ER (Season 1)",
+    "thumb_url": "er-phong-cap-cuu-phan-1-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-1-poster.jpg",
+    "year": 1994
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "65942",
+      "season": 4,
+      "vote_average": 7.8,
+      "vote_count": 598
+    },
+    "imdb": {
+      "id": "tt5607616",
+      "vote_average": 8.1,
+      "vote_count": 38414
+    },
+    "modified": {
+      "time": "2026-06-10T23:08:08.000Z"
+    },
+    "_id": "69e49396748ca16f085fb60a",
+    "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác (Phần 4)",
+    "slug": "rezero-−-bat-dau-o-the-gioi-khac-phan-4",
+    "origin_name": "Re:ZERO -Starting Life in Another World- Season 4",
+    "thumb_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-thumb.jpg",
+    "poster_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "305079",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40388381",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-10T23:07:48.000Z"
+    },
+    "_id": "6a0e7b3ba432d616e85a61c5",
+    "name": "Ngoảnh Đầu Lại Lau Nước Mắt Cho Cậu",
+    "slug": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau",
+    "origin_name": "Smile After Tears",
+    "thumb_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-thumb.jpg",
+    "poster_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1403080",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30827025",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-10T23:02:34.000Z"
+    },
+    "_id": "69fc1424cec790794bfed07d",
+    "name": "Lần Nữa Đến Bên Em",
+    "slug": "lan-nua-den-ben-em",
+    "origin_name": "Love Beyond Dreams",
+    "thumb_url": "lan-nua-den-ben-em-thumb.jpg",
+    "poster_url": "lan-nua-den-ben-em-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "304820",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39122552",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-10T23:02:23.000Z"
+    },
+    "_id": "69da0326377c8aaad53f9816",
+    "name": "Để xổng mất là cá to, nhưng cá tôi câu được lại còn to hơn",
+    "slug": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
+    "origin_name": "Always a Catch!",
+    "thumb_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-thumb.jpg",
+    "poster_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72517",
+      "season": 4,
+      "vote_average": 8.405,
+      "vote_count": 766
+    },
+    "imdb": {
+      "id": "tt7263328",
+      "vote_average": 7.7,
+      "vote_count": 20411
+    },
+    "modified": {
+      "time": "2026-06-10T23:02:11.000Z"
+    },
+    "_id": "69cde6c8400bf394bd970fda",
+    "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+    "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+    "origin_name": "Classroom of the Elite (Season 4)",
+    "thumb_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+    "poster_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259819",
+      "season": 1,
+      "vote_average": 8.593,
+      "vote_count": 27
+    },
+    "imdb": {
+      "id": "tt33086804",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-10T22:49:37.000Z"
+    },
+    "_id": "69b8cad6b06c99c722fdbb43",
+    "name": "Cự Kê Chiến Ký",
+    "slug": "cu-ke-chien-ky",
+    "origin_name": "Rooster Fighter",
+    "thumb_url": "cu-ke-chien-ky-thumb.jpg",
+    "poster_url": "cu-ke-chien-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "73036",
+      "season": 2,
+      "vote_average": 8.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt4546444",
+      "vote_average": 8.2,
+      "vote_count": 38
+    },
+    "modified": {
+      "time": "2026-06-10T21:05:23.000Z"
+    },
+    "_id": "69eb8aff482e09b42827280a",
+    "name": "Chăm Sóc Tủ Lạnh Của Tôi Nhé (Phần 2)",
+    "slug": "cham-soc-tu-lanh-cua-toi-nhe-phan-2",
+    "origin_name": "Chef & My Fridge (Season 2)",
+    "thumb_url": "cham-soc-tu-lanh-cua-toi-nhe-phan-2-thumb.jpg",
+    "poster_url": "cham-soc-tu-lanh-cua-toi-nhe-phan-2-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274556",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 20
+    },
+    "imdb": {
+      "id": "tt34063491",
+      "vote_average": 7.1,
+      "vote_count": 2560
+    },
+    "modified": {
+      "time": "2026-06-10T20:38:09.000Z"
+    },
+    "_id": "68dcc5953e261817af05a0df",
+    "name": "Thành Phố Xa Xôi",
+    "slug": "thanh-pho-xa-xoi",
+    "origin_name": "Far Away",
+    "thumb_url": "thanh-pho-xa-xoi-thumb.jpg",
+    "poster_url": "thanh-pho-xa-xoi-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306118",
+      "season": 1,
+      "vote_average": 9.438,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt39013436",
+      "vote_average": 6.5,
+      "vote_count": 971
+    },
+    "modified": {
+      "time": "2026-06-10T20:09:18.000Z"
+    },
+    "_id": "6947d108da6ce23e8e932ab7",
+    "name": "Ranh Giới Định Mệnh",
+    "slug": "ranh-gioi-dinh-menh",
+    "origin_name": "Bound by Fate",
+    "thumb_url": "ranh-gioi-dinh-menh-thumb.jpg",
+    "poster_url": "ranh-gioi-dinh-menh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322634",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21402786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-10T18:44:10.000Z"
+    },
+    "_id": "6a0b20bac52ec62c8b14b334",
+    "name": "Hổ Giấu Vằn",
+    "slug": "ho-giau-van",
+    "origin_name": "Wicked Temptation",
+    "thumb_url": "ho-giau-van-thumb.jpg",
+    "poster_url": "ho-giau-van-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282497",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31922391",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-10T18:43:50.000Z"
+    },
+    "_id": "6a263e35e14b2140fc6fec49",
+    "name": "Bức Tường Mê Cung",
+    "slug": "buc-tuong-me-cung",
+    "origin_name": "Wonder Wall",
+    "thumb_url": "buc-tuong-me-cung-thumb.jpg",
+    "poster_url": "buc-tuong-me-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-10T17:06:50.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289147",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-10T17:03:26.000Z"
+    },
+    "_id": "6a1faba44e6584edee44b65a",
+    "name": "Dẫn Độ Linh Hồn: Mười Năm",
+    "slug": "dan-do-linh-hon-muoi-nam",
+    "origin_name": "The Ferry Man 10th Anniversary",
+    "thumb_url": "dan-do-linh-hon-muoi-nam-thumb.jpg",
+    "poster_url": "dan-do-linh-hon-muoi-nam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281679",
+      "season": 2,
+      "vote_average": 7.2,
+      "vote_count": 33
+    },
+    "imdb": {
+      "id": "tt29242849",
+      "vote_average": 7.2,
+      "vote_count": 355
+    },
+    "modified": {
+      "time": "2026-06-10T16:18:23.000Z"
+    },
+    "_id": "6a2916bfbaf8dde7e3cdff00",
+    "name": "Câu chuyện của gia đình tôi (Phần 2)",
+    "slug": "cau-chuyen-cua-gia-dinh-toi-phan-2",
+    "origin_name": "My Family (Season 2)",
+    "thumb_url": "cau-chuyen-cua-gia-dinh-toi-phan-2-thumb.jpg",
+    "poster_url": "cau-chuyen-cua-gia-dinh-toi-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1560681",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-10T16:18:07.000Z"
+    },
+    "_id": "6a2917931fea2c5da7aa9244",
+    "name": "Màu Tà Ác: Đen",
+    "slug": "mau-ta-ac-den",
+    "origin_name": "Colors of Evil: Black",
+    "thumb_url": "mau-ta-ac-den-thumb.jpg",
+    "poster_url": "mau-ta-ac-den-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "91121",
+      "season": 1,
+      "vote_average": 7.4,
+      "vote_count": 21
+    },
+    "imdb": {
+      "id": "tt15334046",
+      "vote_average": 7.4,
+      "vote_count": 421
+    },
+    "modified": {
+      "time": "2026-06-10T15:10:24.000Z"
+    },
+    "_id": "685b522911ae6766a74ed39c",
+    "name": "Bạn Chơi Thế Nào?",
+    "slug": "ban-choi-the-nao",
+    "origin_name": "How Do You Play?",
+    "thumb_url": "ban-choi-the-nao-thumb.jpg",
+    "poster_url": "ban-choi-the-nao-poster.jpg",
+    "year": 2019
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "65282",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 18
+    },
+    "imdb": {
+      "id": "tt11058644",
+      "vote_average": 7.6,
+      "vote_count": 3944
+    },
+    "modified": {
+      "time": "2026-06-10T15:10:11.000Z"
+    },
+    "_id": "62e210c5425c8969e5d579b6",
+    "name": "Tôi Sống Một Mình",
+    "origin_name": "I Live Alone",
+    "thumb_url": "toi-song-mot-minh-thumb.jpg",
+    "poster_url": "toi-song-mot-minh-poster.jpg",
+    "slug": "toi-song-mot-minh",
+    "year": 2020
+  }
+]
