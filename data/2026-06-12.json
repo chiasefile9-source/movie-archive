@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322634",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21402786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-12T00:12:39.000Z"
+    },
+    "_id": "6a0b20bac52ec62c8b14b334",
+    "name": "Hổ Giấu Vằn",
+    "slug": "ho-giau-van",
+    "origin_name": "Wicked Temptation",
+    "thumb_url": "ho-giau-van-thumb.jpg",
+    "poster_url": "ho-giau-van-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278605",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34959993",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-12T00:02:57.000Z"
+    },
+    "_id": "6a2ae808baf8dde7e3ce581c",
+    "name": "Hồ Sơ Nam Bộ",
+    "slug": "ho-so-nam-bo",
+    "origin_name": "Archives: The Nanyang Mystery",
+    "thumb_url": "ho-so-nam-bo-thumb.jpg",
+    "poster_url": "ho-so-nam-bo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325126",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T23:58:08.000Z"
+    },
+    "_id": "6a2a5e19f7f43ec64ef9b85d",
+    "name": "Cửu Nghĩa Nhân: Yên Vân Tú",
+    "slug": "cuu-nghia-nhan-yen-van-tu",
+    "origin_name": "The Embroidered Truth",
+    "thumb_url": "cuu-nghia-nhan-yen-van-tu-thumb.jpg",
+    "poster_url": "cuu-nghia-nhan-yen-van-tu-poster-1781197086074.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283428",
+      "season": 1,
+      "vote_average": 8.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt39123061",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T23:56:53.000Z"
+    },
+    "_id": "69cfc54f54ca9185bbbf9f80",
+    "name": "Bức Tường Băng",
+    "slug": "buc-tuong-bang",
+    "origin_name": "The Ramparts of Ice",
+    "thumb_url": "buc-tuong-bang-thumb.jpg",
+    "poster_url": "buc-tuong-bang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T23:55:46.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "86031",
+      "season": 4,
+      "vote_average": 8.533,
+      "vote_count": 1642
+    },
+    "imdb": {
+      "id": "tt9679542",
+      "vote_average": 8.1,
+      "vote_count": 41263
+    },
+    "modified": {
+      "time": "2026-06-11T23:55:32.000Z"
+    },
+    "_id": "6780ddf7af10fecdaf87d209",
+    "name": "Tiến Sĩ Đá: Hồi Sinh Thế Giới (Phần 4)",
+    "slug": "tien-si-da-hoi-sinh-the-gioi-phan-4",
+    "origin_name": "Dr. STONE (Season 4)",
+    "thumb_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-thumb.jpg",
+    "poster_url": "tien-si-da-hoi-sinh-the-gioi-phan-4-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282497",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31922391",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T23:54:00.000Z"
+    },
+    "_id": "6a263e35e14b2140fc6fec49",
+    "name": "Bức Tường Mê Cung",
+    "slug": "buc-tuong-me-cung",
+    "origin_name": "Wonder Wall",
+    "thumb_url": "buc-tuong-me-cung-thumb.jpg",
+    "poster_url": "buc-tuong-me-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 6,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-11T22:23:49.000Z"
+    },
+    "_id": "6a27ddc3e14b2140fc704152",
+    "name": "ER: Phòng Cấp Cứu (Phần 6)",
+    "slug": "er-phong-cap-cuu-phan-6",
+    "origin_name": "ER (Season 6)",
+    "thumb_url": "er-phong-cap-cuu-phan-6-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-6-poster.jpg",
+    "year": 1999
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 5,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-11T22:23:23.000Z"
+    },
+    "_id": "6a27dda91fea2c5da7aa5ceb",
+    "name": "ER: Phòng Cấp Cứu (Phần 5)",
+    "slug": "er-phong-cap-cuu-phan-5",
+    "origin_name": "ER (Season 5)",
+    "thumb_url": "er-phong-cap-cuu-phan-5-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-5-poster.jpg",
+    "year": 1998
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 4,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-11T22:23:04.000Z"
+    },
+    "_id": "6a27dd5ae14b2140fc704101",
+    "name": "ER: Phòng Cấp Cứu (Phần 4)",
+    "slug": "er-phong-cap-cuu-phan-4",
+    "origin_name": "ER (Season 4)",
+    "thumb_url": "er-phong-cap-cuu-phan-4-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-4-poster.jpg",
+    "year": 1997
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "4588",
+      "season": 3,
+      "vote_average": 7.8,
+      "vote_count": 926
+    },
+    "imdb": {
+      "id": "tt0108757",
+      "vote_average": 7.9,
+      "vote_count": 77552
+    },
+    "modified": {
+      "time": "2026-06-11T22:22:29.000Z"
+    },
+    "_id": "6a27dc804f61d761f7709737",
+    "name": "ER: Phòng Cấp Cứu (Phần 3)",
+    "slug": "er-phong-cap-cuu-phan-3",
+    "origin_name": "ER (Season 3)",
+    "thumb_url": "er-phong-cap-cuu-phan-3-thumb.jpg",
+    "poster_url": "er-phong-cap-cuu-phan-3-poster.jpg",
+    "year": 1996
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "102904",
+      "season": 5,
+      "vote_average": 7.74,
+      "vote_count": 262
+    },
+    "imdb": {
+      "id": "tt9077540",
+      "vote_average": 7.3,
+      "vote_count": 27427
+    },
+    "modified": {
+      "time": "2026-06-11T15:29:35.000Z"
+    },
+    "_id": "6a2a5fa3de5e0f1b85d2be4e",
+    "name": "Mộc lan ngọt ngào (Phần 5)",
+    "slug": "moc-lan-ngot-ngao-phan-5",
+    "origin_name": "Sweet Magnolias (Season 5)",
+    "thumb_url": "moc-lan-ngot-ngao-phan-5-thumb.jpg",
+    "poster_url": "moc-lan-ngot-ngao-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324115",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39749708",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T15:19:02.000Z"
+    },
+    "_id": "6a2a5f55947ce584f1c549f9",
+    "name": "Luật Sư Gian Ác",
+    "slug": "luat-su-gian-ac",
+    "origin_name": "The Evil Lawyer",
+    "thumb_url": "luat-su-gian-ac-thumb.jpg",
+    "poster_url": "luat-su-gian-ac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "246461",
+      "season": 1,
+      "vote_average": 6.7,
+      "vote_count": 53
+    },
+    "imdb": {
+      "id": "tt31322085",
+      "vote_average": 7,
+      "vote_count": 3112
+    },
+    "modified": {
+      "time": "2026-06-11T15:13:18.000Z"
+    },
+    "_id": "6a181b93a6726df8fd35e10d",
+    "name": "Sherlock và Con gái",
+    "slug": "sherlock-va-con-gai",
+    "origin_name": "Sherlock & Daughter",
+    "thumb_url": "sherlock-va-con-gai-thumb.jpg",
+    "poster_url": "sherlock-va-con-gai-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312493",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39400589",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T14:55:59.000Z"
+    },
+    "_id": "6a2a5fdf6997f14383d11b95",
+    "name": "Học Cách Chiến Đấu",
+    "slug": "hoc-cach-chien-dau",
+    "origin_name": "Viral Hit",
+    "thumb_url": "hoc-cach-chien-dau-thumb.jpg",
+    "poster_url": "hoc-cach-chien-dau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T14:08:43.000Z"
+    },
+    "_id": "6a1a94a81fea2c5da7a7e833",
+    "name": "Tiêu Dao Tứ Công Tử",
+    "slug": "tieu-dao-tu-cong-tu",
+    "origin_name": "The Reborn Young Lord",
+    "thumb_url": "tieu-dao-tu-cong-tu-thumb.jpg",
+    "poster_url": "tieu-dao-tu-cong-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320590",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T14:07:59.000Z"
+    },
+    "_id": "6a27eb874f61d761f7709bce",
+    "name": "Phi Thăng Giữa Ban Ngày",
+    "slug": "phi-thang-giua-ban-ngay",
+    "origin_name": "Rise Again",
+    "thumb_url": "phi-thang-giua-ban-ngay-thumb.jpg",
+    "poster_url": "phi-thang-giua-ban-ngay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "969681",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt22084616",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T13:12:40.000Z"
+    },
+    "_id": "6a2a51d8e10cfe56c49db0a3",
+    "name": "Người Nhện: Khởi Đầu Mới",
+    "slug": "nguoi-nhen-khoi-dau-moi",
+    "origin_name": "Spider-Man: Brand New Day",
+    "thumb_url": "nguoi-nhen-khoi-dau-moi-thumb.jpg",
+    "poster_url": "nguoi-nhen-khoi-dau-moi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "62489",
+      "season": null,
+      "vote_average": 4.6,
+      "vote_count": 34
+    },
+    "imdb": {
+      "id": "tt1545022",
+      "vote_average": 4.1,
+      "vote_count": 1068
+    },
+    "modified": {
+      "time": "2026-06-11T11:48:59.000Z"
+    },
+    "_id": "6a2a3e2df7f43ec64ef9b0fc",
+    "name": "Chuyện Chăn Gối",
+    "slug": "chuyen-chan-goi",
+    "origin_name": "Bedways",
+    "thumb_url": "chuyen-chan-goi-thumb.jpg",
+    "poster_url": "chuyen-chan-goi-poster.jpg",
+    "year": 2010
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "274101",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T11:37:09.000Z"
+    },
+    "_id": "6a27f8d44e6584edee463da8",
+    "name": "Nhật Ký Bí Mật",
+    "slug": "nhat-ky-bi-mat",
+    "origin_name": "Secret Diary",
+    "thumb_url": "nhat-ky-bi-mat-thumb.jpg",
+    "poster_url": "nhat-ky-bi-mat-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324241",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T11:34:37.000Z"
+    },
+    "_id": "6a28dc11c52ec62c8b1a10e2",
+    "name": "Thương Nguyệt Tinh Lan",
+    "slug": "thuong-nguyet-tinh-lan",
+    "origin_name": "Starveil Moon",
+    "thumb_url": "thuong-nguyet-tinh-lan-thumb.jpg",
+    "poster_url": "thuong-nguyet-tinh-lan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289209",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T11:09:18.000Z"
+    },
+    "_id": "6a1173d3e14b2140fc6c0f93",
+    "name": "Đại Đường Mê Vụ",
+    "slug": "dai-duong-me-vu",
+    "origin_name": "The Tang Mist",
+    "thumb_url": "dai-duong-me-vu-thumb.jpg",
+    "poster_url": "dai-duong-me-vu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324300",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T11:09:03.000Z"
+    },
+    "_id": "6a20ff822c0a4eaf2656e25a",
+    "name": "Hiện Trường Vụ Án",
+    "slug": "hien-truong-vu-an",
+    "origin_name": "Crime Scene",
+    "thumb_url": "hien-truong-vu-an-thumb.jpg",
+    "poster_url": "hien-truong-vu-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313397",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-11T11:08:48.000Z"
+    },
+    "_id": "6a224abee14b2140fc6f3760",
+    "name": "Mượn Dung Nhan",
+    "slug": "muon-dung-nhan",
+    "origin_name": "Visage and Soul",
+    "thumb_url": "muon-dung-nhan-thumb.jpg",
+    "poster_url": "muon-dung-nhan-poster.jpg",
+    "year": 2026
+  }
+]
