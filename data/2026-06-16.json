@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323411",
+      "season": 1,
+      "vote_average": 6.8,
+      "vote_count": 17
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T23:24:23.000Z"
+    },
+    "_id": "6a2fde1cf7f43ec64efa9e11",
+    "name": "Ma Cà Rồng: Lestat de Lioncourt",
+    "slug": "ma-ca-rong-lestat-de-lioncourt",
+    "origin_name": "The Vampire Lestat",
+    "thumb_url": "ma-ca-rong-lestat-de-lioncourt-thumb.jpg",
+    "poster_url": "ma-ca-rong-lestat-de-lioncourt-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315331",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T22:45:16.000Z"
+    },
+    "_id": "6a0fce831fea2c5da7a5e5da",
+    "name": "Dance of the Lion",
+    "slug": "dance-of-the-lion",
+    "origin_name": "Dance of the Lion",
+    "thumb_url": "dance-of-the-lion-thumb.jpg",
+    "poster_url": "dance-of-the-lion-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282497",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31922391",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T22:44:57.000Z"
+    },
+    "_id": "6a263e35e14b2140fc6fec49",
+    "name": "Bức Tường Mê Cung",
+    "slug": "buc-tuong-me-cung",
+    "origin_name": "Wonder Wall",
+    "thumb_url": "buc-tuong-me-cung-thumb.jpg",
+    "poster_url": "buc-tuong-me-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309043",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21310096",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T22:35:24.000Z"
+    },
+    "_id": "69f9622693c48ff6bff25e1a",
+    "name": "Yêu Được Chưa",
+    "slug": "yeu-duoc-chua",
+    "origin_name": "Let's Begin Again",
+    "thumb_url": "yeu-duoc-chua-thumb.jpg",
+    "poster_url": "yeu-duoc-chua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278605",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34959993",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T17:40:09.000Z"
+    },
+    "_id": "6a2ae808baf8dde7e3ce581c",
+    "name": "Hồ Sơ Nam Bộ",
+    "slug": "ho-so-nam-bo",
+    "origin_name": "Archives: The Nanyang Mystery",
+    "thumb_url": "ho-so-nam-bo-thumb.jpg",
+    "poster_url": "ho-so-nam-bo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T17:37:26.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320590",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T14:29:14.000Z"
+    },
+    "_id": "6a27eb874f61d761f7709bce",
+    "name": "Phi Thăng Giữa Ban Ngày",
+    "slug": "phi-thang-giua-ban-ngay",
+    "origin_name": "Rise Again",
+    "thumb_url": "phi-thang-giua-ban-ngay-thumb.jpg",
+    "poster_url": "phi-thang-giua-ban-ngay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325126",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T14:28:59.000Z"
+    },
+    "_id": "6a2a5e19f7f43ec64ef9b85d",
+    "name": "Cửu Nghĩa Nhân: Yên Vân Tú",
+    "slug": "cuu-nghia-nhan-yen-van-tu",
+    "origin_name": "The Embroidered Truth",
+    "thumb_url": "cuu-nghia-nhan-yen-van-tu-thumb.jpg",
+    "poster_url": "cuu-nghia-nhan-yen-van-tu-poster-1781197086074.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325368",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T14:28:04.000Z"
+    },
+    "_id": "6a2fa9256092900b411c38ff",
+    "name": "Năm Tháng Rực Lửa",
+    "slug": "nam-thang-ruc-lua",
+    "origin_name": "The Age of Fire",
+    "thumb_url": "nam-thang-ruc-lua-thumb.jpg",
+    "poster_url": "nam-thang-ruc-lua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287527",
+      "season": 1,
+      "vote_average": 8.242,
+      "vote_count": 149
+    },
+    "imdb": {
+      "id": "tt10970762",
+      "vote_average": 8.1,
+      "vote_count": 1757
+    },
+    "modified": {
+      "time": "2026-06-15T13:19:00.000Z"
+    },
+    "_id": "6a2f82c9e14b2140fc718709",
+    "name": "Những Bản Di Chúc (Phần 1)",
+    "slug": "nhung-ban-di-chuc-phan-1",
+    "origin_name": "The Testaments (Season 1)",
+    "thumb_url": "nhung-ban-di-chuc-phan-1-thumb.jpg",
+    "poster_url": "nhung-ban-di-chuc-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297712",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41962163",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T12:06:28.000Z"
+    },
+    "_id": "6a11a5fb4e6584edee420ab8",
+    "name": "Chuyên Gia Tuổi Trung Niên",
+    "slug": "chuyen-gia-tuoi-trung-nien",
+    "origin_name": "Fifties Professionals",
+    "thumb_url": "chuyen-gia-tuoi-trung-nien-thumb.jpg",
+    "poster_url": "chuyen-gia-tuoi-trung-nien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324300",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T11:16:22.000Z"
+    },
+    "_id": "6a20ff822c0a4eaf2656e25a",
+    "name": "Hiện Trường Vụ Án",
+    "slug": "hien-truong-vu-an",
+    "origin_name": "Crime Scene",
+    "thumb_url": "hien-truong-vu-an-thumb.jpg",
+    "poster_url": "hien-truong-vu-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292696",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37096911",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T11:16:08.000Z"
+    },
+    "_id": "692eb0a3ca27378366af8263",
+    "name": "Mạc Ly",
+    "slug": "mac-ly",
+    "origin_name": "The First Jasmine",
+    "thumb_url": "mac-ly-thumb-1780987241567.jpg",
+    "poster_url": "mac-ly-poster-1780987245674.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287641",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982480",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T11:14:03.000Z"
+    },
+    "_id": "6a168242142ea533b0206a19",
+    "name": "Chói Mắt",
+    "slug": "choi-mat",
+    "origin_name": "Dazzling",
+    "thumb_url": "choi-mat-thumb.jpg",
+    "poster_url": "choi-mat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "122612",
+      "season": 1,
+      "vote_average": 9.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt34882755",
+      "vote_average": 0,
+      "vote_count": 10
+    },
+    "modified": {
+      "time": "2026-06-15T10:52:43.000Z"
+    },
+    "_id": "68e4ba284f7493692abb949c",
+    "name": "Vạn Giới Độc Tôn",
+    "slug": "van-gioi-doc-ton",
+    "origin_name": "Ten Thousand Worlds",
+    "thumb_url": "van-gioi-doc-ton-thumb.jpg",
+    "poster_url": "van-gioi-doc-ton-poster.jpg",
+    "year": 2021
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311871",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T10:45:47.000Z"
+    },
+    "_id": "69e4a9db6d4243e068f1056b",
+    "name": "Anh Em Nhà Tagusari",
+    "slug": "tagusari-bros",
+    "origin_name": "TAGUSARI bros.",
+    "thumb_url": "tagusari-bros-thumb.jpg",
+    "poster_url": "tagusari-bros-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316294",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39380468",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T10:44:24.000Z"
+    },
+    "_id": "6a1e873a2c8b2895cfa7d675",
+    "name": "PAYBACK: Báo Thù",
+    "slug": "payback-bao-thu",
+    "origin_name": "Payback",
+    "thumb_url": "payback-bao-thu-thumb.jpg",
+    "poster_url": "payback-bao-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297438",
+      "season": 1,
+      "vote_average": 8.667,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt38797595",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T10:44:12.000Z"
+    },
+    "_id": "69d5e020e53e6a47ad57f86c",
+    "name": "Chuyện Kể Của Akane",
+    "slug": "chuyen-ke-cua-akane",
+    "origin_name": "Akane-banashi",
+    "thumb_url": "chuyen-ke-cua-akane-thumb.jpg",
+    "poster_url": "chuyen-ke-cua-akane-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303143",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38828946",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T10:43:24.000Z"
+    },
+    "_id": "69eedaa9377c8aaad5469e53",
+    "name": "Kẻ Thù Hoàng Gia Của Tôi",
+    "slug": "ke-thu-hoang-gia-cua-toi",
+    "origin_name": "My Royal Nemesis",
+    "thumb_url": "ke-thu-hoang-gia-cua-toi-thumb.jpg",
+    "poster_url": "ke-thu-hoang-gia-cua-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "248404",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42024186",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T10:43:03.000Z"
+    },
+    "_id": "6a0149ab15072466acf64360",
+    "name": "Your Dear Daddy: Gọi Dad đi Tharn",
+    "slug": "your-dear-daddy-goi-dad-di-tharn",
+    "origin_name": "Your Dear Daddy",
+    "thumb_url": "your-dear-daddy-goi-dad-di-tharn-thumb.jpg",
+    "poster_url": "your-dear-daddy-goi-dad-di-tharn-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "286069",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt36626294",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T10:39:32.000Z"
+    },
+    "_id": "6a0a87064f61d761f76b4ada",
+    "name": "Gió Thoảng Tình Theo",
+    "slug": "gio-thoang-tinh-theo",
+    "origin_name": "The Air",
+    "thumb_url": "gio-thoang-tinh-theo-thumb.jpg",
+    "poster_url": "gio-thoang-tinh-theo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "260463",
+      "season": 1,
+      "vote_average": 9.077,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt37532356",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T10:39:19.000Z"
+    },
+    "_id": "69d1cc78da6ce23e8eac3148",
+    "name": "Song Mệnh Cõi Hoàng Tuyền",
+    "slug": "song-menh-coi-hoang-tuyen",
+    "origin_name": "Daemons of the Shadow Realm",
+    "thumb_url": "song-menh-coi-hoang-tuyen-thumb.jpg",
+    "poster_url": "song-menh-coi-hoang-tuyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300131",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39443399",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T10:39:08.000Z"
+    },
+    "_id": "69da6f99f616ee3807d610b1",
+    "name": "KILL BLUE",
+    "slug": "kill-blue",
+    "origin_name": "KILL BLUE",
+    "thumb_url": "kill-blue-thumb.jpg",
+    "poster_url": "kill-blue-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "299365",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42206645",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-15T10:38:01.000Z"
+    },
+    "_id": "6a1b1a29a432d616e85cc41d",
+    "name": "Chủ Tịch Tập Sự",
+    "slug": "chu-tich-tap-su",
+    "origin_name": "Reborn Rookie",
+    "thumb_url": "chu-tich-tap-su-thumb.jpg",
+    "poster_url": "chu-tich-tap-su-poster.jpg",
+    "year": 2026
+  }
+]
