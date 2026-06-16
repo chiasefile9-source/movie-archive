@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "284110",
+      "season": 1,
+      "vote_average": 9.2,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt35955279",
+      "vote_average": 7.3,
+      "vote_count": 7
+    },
+    "modified": {
+      "time": "2026-06-16T23:31:19.000Z"
+    },
+    "_id": "6a12ac836997f14383cca3d3",
+    "name": "Chủ Giác",
+    "slug": "chu-giac",
+    "origin_name": "The Lead",
+    "thumb_url": "chu-giac-thumb.jpg",
+    "poster_url": "chu-giac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "257085",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21858998",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T23:28:02.000Z"
+    },
+    "_id": "6a28132a4be02ecfaffa13aa",
+    "name": "Thế Giới Em Và Tôi",
+    "slug": "the-gioi-em-va-toi",
+    "origin_name": "The Two Faces of Thatri",
+    "thumb_url": "the-gioi-em-va-toi-thumb.jpg",
+    "poster_url": "the-gioi-em-va-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315494",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T23:27:33.000Z"
+    },
+    "_id": "69eae81d482e09b42826f8a5",
+    "name": "Reborn",
+    "slug": "reborn",
+    "origin_name": "Reborn",
+    "thumb_url": "reborn-thumb.jpg",
+    "poster_url": "reborn-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287009",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39184653",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T22:47:14.000Z"
+    },
+    "_id": "6a1ed136baf8dde7e3cc2938",
+    "name": "Bác Sĩ Đảo Hoang",
+    "slug": "bac-si-dao-hoang",
+    "origin_name": "Doctor on the Edge",
+    "thumb_url": "bac-si-dao-hoang-thumb.jpg",
+    "poster_url": "bac-si-dao-hoang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "293697",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39122671",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T22:15:31.000Z"
+    },
+    "_id": "69df6411377c8aaad5412ad8",
+    "name": "Tôi muốn chấm dứt trò chơi tình yêu này",
+    "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
+    "origin_name": "I Want to End This Love Game",
+    "thumb_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-thumb.jpg",
+    "poster_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278169",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34881054",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T22:15:18.000Z"
+    },
+    "_id": "6a0ee15d12f0391f00d0eb0b",
+    "name": "WU",
+    "slug": "wu",
+    "origin_name": "WU",
+    "thumb_url": "wu-thumb.jpg",
+    "poster_url": "wu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "301944",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt39122769",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T22:12:49.000Z"
+    },
+    "_id": "69d5dfb315072466ace88b55",
+    "name": "Mai Mối Cho Độc Sư",
+    "slug": "mai-moi-cho-doc-su",
+    "origin_name": "Marriage Toxin",
+    "thumb_url": "mai-moi-cho-doc-su-thumb.jpg",
+    "poster_url": "mai-moi-cho-doc-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289147",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T22:09:37.000Z"
+    },
+    "_id": "6a1faba44e6584edee44b65a",
+    "name": "Dẫn Độ Linh Hồn: Mười Năm",
+    "slug": "dan-do-linh-hon-muoi-nam",
+    "origin_name": "The Ferry Man 10th Anniversary",
+    "thumb_url": "dan-do-linh-hon-muoi-nam-thumb.jpg",
+    "poster_url": "dan-do-linh-hon-muoi-nam-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295509",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38626513",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T21:38:42.000Z"
+    },
+    "_id": "6a02d864006591e108205d8a",
+    "name": "Huyền Thoại Lính Bếp",
+    "slug": "huyen-thoai-linh-bep",
+    "origin_name": "The Legend of Kitchen Soldier",
+    "thumb_url": "huyen-thoai-linh-bep-thumb.jpg",
+    "poster_url": "huyen-thoai-linh-bep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "213326",
+      "season": 2,
+      "vote_average": 8.1,
+      "vote_count": 58
+    },
+    "imdb": {
+      "id": "tt23132598",
+      "vote_average": 6.4,
+      "vote_count": 612
+    },
+    "modified": {
+      "time": "2026-06-16T21:05:04.000Z"
+    },
+    "_id": "69e493fc4e2efe728847d230",
+    "name": "Nữ Vương Trùm Cuối Tàn Độc Căn Nguyên Của Mọi Thảm Kịch Sẽ Dốc Sức Vì Người Dân (Phần 2)",
+    "slug": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2",
+    "origin_name": "The Most Heretical Last Boss Queen: From Villainess to Savior (Season 2)",
+    "thumb_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-thumb.jpg",
+    "poster_url": "nu-vuong-trum-cuoi-tan-doc-can-nguyen-cua-moi-tham-kich-se-doc-suc-vi-nguoi-dan-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "230311",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt28131816",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T21:04:51.000Z"
+    },
+    "_id": "692eb1314f4196d57ff194d4",
+    "name": "Tình Yêu Có Pháo Hoa",
+    "slug": "tinh-yeu-co-phao-hoa",
+    "origin_name": "Love Has Fireworks",
+    "thumb_url": "tinh-yeu-co-phao-hoa-thumb.jpg",
+    "poster_url": "tinh-yeu-co-phao-hoa-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315438",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42022518",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T20:59:28.000Z"
+    },
+    "_id": "69f963cb91cc1b96d58fbb89",
+    "name": "LOVED ONE",
+    "slug": "loved-one",
+    "origin_name": "LOVED ONE",
+    "thumb_url": "loved-one-thumb.jpg",
+    "poster_url": "loved-one-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "253476",
+      "season": 1,
+      "vote_average": 8.7,
+      "vote_count": 20
+    },
+    "imdb": {
+      "id": "tt32336365",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T18:05:41.000Z"
+    },
+    "_id": "6a312812de5e0f1b85d3e323",
+    "name": "Nhật Ký Nơi Xứ Lạ",
+    "slug": "nhat-ky-noi-xu-la",
+    "origin_name": "Journal with Witch",
+    "thumb_url": "nhat-ky-noi-xu-la-thumb.jpg",
+    "poster_url": "nhat-ky-noi-xu-la-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324241",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T17:35:39.000Z"
+    },
+    "_id": "6a28dc11c52ec62c8b1a10e2",
+    "name": "Thương Nguyệt Tinh Lan",
+    "slug": "thuong-nguyet-tinh-lan",
+    "origin_name": "Starveil Moon",
+    "thumb_url": "thuong-nguyet-tinh-lan-thumb.jpg",
+    "poster_url": "thuong-nguyet-tinh-lan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278605",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34959993",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T17:35:18.000Z"
+    },
+    "_id": "6a2ae808baf8dde7e3ce581c",
+    "name": "Hồ Sơ Nam Bộ",
+    "slug": "ho-so-nam-bo",
+    "origin_name": "Archives: The Nanyang Mystery",
+    "thumb_url": "ho-so-nam-bo-thumb.jpg",
+    "poster_url": "ho-so-nam-bo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T17:12:04.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287527",
+      "season": 1,
+      "vote_average": 8.242,
+      "vote_count": 149
+    },
+    "imdb": {
+      "id": "tt10970762",
+      "vote_average": 8.1,
+      "vote_count": 1757
+    },
+    "modified": {
+      "time": "2026-06-16T15:29:04.000Z"
+    },
+    "_id": "6a2f82c9e14b2140fc718709",
+    "name": "Những Bản Di Chúc (Phần 1)",
+    "slug": "nhung-ban-di-chuc-phan-1",
+    "origin_name": "The Testaments (Season 1)",
+    "thumb_url": "nhung-ban-di-chuc-phan-1-thumb.jpg",
+    "poster_url": "nhung-ban-di-chuc-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1084244",
+      "season": null,
+      "vote_average": 7.714,
+      "vote_count": 14
+    },
+    "imdb": {
+      "id": "tt29355505",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T14:43:25.000Z"
+    },
+    "_id": "6a30fe9aa6726df8fd3a5bfa",
+    "name": "Câu Chuyện Đồ Chơi 5",
+    "slug": "cau-chuyen-do-choi-5",
+    "origin_name": "Toy Story 5",
+    "thumb_url": "cau-chuyen-do-choi-5-thumb.jpg",
+    "poster_url": "cau-chuyen-do-choi-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312588",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39443474",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T14:38:05.000Z"
+    },
+    "_id": "6a30fd5d6997f14383d2316a",
+    "name": "Chasing Love",
+    "slug": "chasing-love",
+    "origin_name": "Chasing Love",
+    "thumb_url": "chasing-love-thumb.jpg",
+    "poster_url": "chasing-love-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "252257",
+      "season": 3,
+      "vote_average": 8.5,
+      "vote_count": 28
+    },
+    "imdb": {
+      "id": "tt32146518",
+      "vote_average": 7,
+      "vote_count": 2510
+    },
+    "modified": {
+      "time": "2026-06-16T14:37:41.000Z"
+    },
+    "_id": "6a30fd454be02ecfaffb979a",
+    "name": "AMERICA'S SWEETHEARTS: Đội cổ vũ Dallas Cowboys (Phần 3)",
+    "slug": "americas-sweethearts-doi-co-vu-dallas-cowboys-phan-3",
+    "origin_name": "AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders (Season 3)",
+    "thumb_url": "americas-sweethearts-doi-co-vu-dallas-cowboys-phan-3-thumb.jpg",
+    "poster_url": "americas-sweethearts-doi-co-vu-dallas-cowboys-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T14:03:47.000Z"
+    },
+    "_id": "6a1a94a81fea2c5da7a7e833",
+    "name": "Tiêu Dao Tứ Công Tử",
+    "slug": "tieu-dao-tu-cong-tu",
+    "origin_name": "The Reborn Young Lord",
+    "thumb_url": "tieu-dao-tu-cong-tu-thumb.jpg",
+    "poster_url": "tieu-dao-tu-cong-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320590",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T14:03:30.000Z"
+    },
+    "_id": "6a27eb874f61d761f7709bce",
+    "name": "Phi Thăng Giữa Ban Ngày",
+    "slug": "phi-thang-giua-ban-ngay",
+    "origin_name": "Rise Again",
+    "thumb_url": "phi-thang-giua-ban-ngay-thumb.jpg",
+    "poster_url": "phi-thang-giua-ban-ngay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325126",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T14:03:13.000Z"
+    },
+    "_id": "6a2a5e19f7f43ec64ef9b85d",
+    "name": "Cửu Nghĩa Nhân: Yên Vân Tú",
+    "slug": "cuu-nghia-nhan-yen-van-tu",
+    "origin_name": "The Embroidered Truth",
+    "thumb_url": "cuu-nghia-nhan-yen-van-tu-thumb.jpg",
+    "poster_url": "cuu-nghia-nhan-yen-van-tu-poster-1781197086074.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1221942",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-16T14:02:50.000Z"
+    },
+    "_id": "62550d55b89e109508090858",
+    "name": "Thám Tử Lừng Danh Conan",
+    "origin_name": "Detective Conan",
+    "thumb_url": "tham-tu-lung-danh-conan-thumb.jpg",
+    "slug": "tham-tu-lung-danh-conan",
+    "year": 2005,
+    "poster_url": "tham-tu-lung-danh-conan-poster.jpg"
+  }
+]
