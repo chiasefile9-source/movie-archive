@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287009",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39184653",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T00:17:49.000Z"
+    },
+    "_id": "6a1ed136baf8dde7e3cc2938",
+    "name": "Bác Sĩ Đảo Hoang",
+    "slug": "bac-si-dao-hoang",
+    "origin_name": "Doctor on the Edge",
+    "thumb_url": "bac-si-dao-hoang-thumb.jpg",
+    "poster_url": "bac-si-dao-hoang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295509",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt38626513",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T23:28:14.000Z"
+    },
+    "_id": "6a02d864006591e108205d8a",
+    "name": "Huyền Thoại Lính Bếp",
+    "slug": "huyen-thoai-linh-bep",
+    "origin_name": "The Legend of Kitchen Soldier",
+    "thumb_url": "huyen-thoai-linh-bep-thumb.jpg",
+    "poster_url": "huyen-thoai-linh-bep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287527",
+      "season": 1,
+      "vote_average": 8.242,
+      "vote_count": 149
+    },
+    "imdb": {
+      "id": "tt10970762",
+      "vote_average": 8.1,
+      "vote_count": 1757
+    },
+    "modified": {
+      "time": "2026-06-17T23:26:19.000Z"
+    },
+    "_id": "6a2f82c9e14b2140fc718709",
+    "name": "Những Bản Di Chúc (Phần 1)",
+    "slug": "nhung-ban-di-chuc-phan-1",
+    "origin_name": "The Testaments (Season 1)",
+    "thumb_url": "nhung-ban-di-chuc-phan-1-thumb.jpg",
+    "poster_url": "nhung-ban-di-chuc-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315172",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41863606",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T22:40:10.000Z"
+    },
+    "_id": "69e9ef6af0f815b666161eb7",
+    "name": "Vũ Điệu Tình Thù",
+    "slug": "vu-dieu-tinh-thu",
+    "origin_name": "The Bangkok Red Opera",
+    "thumb_url": "vu-dieu-tinh-thu-thumb.jpg",
+    "poster_url": "vu-dieu-tinh-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "304820",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39122552",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T22:39:36.000Z"
+    },
+    "_id": "69da0326377c8aaad53f9816",
+    "name": "Để xổng mất là cá to, nhưng cá tôi câu được lại còn to hơn",
+    "slug": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon",
+    "origin_name": "Always a Catch!",
+    "thumb_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-thumb.jpg",
+    "poster_url": "de-xong-mat-la-ca-to-nhung-ca-toi-cau-duoc-lai-con-to-hon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "65942",
+      "season": 4,
+      "vote_average": 7.8,
+      "vote_count": 598
+    },
+    "imdb": {
+      "id": "tt5607616",
+      "vote_average": 8.1,
+      "vote_count": 38414
+    },
+    "modified": {
+      "time": "2026-06-17T22:38:18.000Z"
+    },
+    "_id": "69e49396748ca16f085fb60a",
+    "name": "Re:Zero − Bắt Đầu Ở Thế Giới Khác (Phần 4)",
+    "slug": "rezero-−-bat-dau-o-the-gioi-khac-phan-4",
+    "origin_name": "Re:ZERO -Starting Life in Another World- Season 4",
+    "thumb_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-thumb.jpg",
+    "poster_url": "rezero-−-bat-dau-o-the-gioi-khac-phan-4-poster.jpg",
+    "year": 2016
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1403080",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt30827025",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T22:37:19.000Z"
+    },
+    "_id": "69fc1424cec790794bfed07d",
+    "name": "Lần Nữa Đến Bên Em",
+    "slug": "lan-nua-den-ben-em",
+    "origin_name": "Love Beyond Dreams",
+    "thumb_url": "lan-nua-den-ben-em-thumb.jpg",
+    "poster_url": "lan-nua-den-ben-em-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "230311",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt28131816",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T22:31:37.000Z"
+    },
+    "_id": "692eb1314f4196d57ff194d4",
+    "name": "Tình Yêu Có Pháo Hoa",
+    "slug": "tinh-yeu-co-phao-hoa",
+    "origin_name": "Love Has Fireworks",
+    "thumb_url": "tinh-yeu-co-phao-hoa-thumb.jpg",
+    "poster_url": "tinh-yeu-co-phao-hoa-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72517",
+      "season": 4,
+      "vote_average": 8.405,
+      "vote_count": 766
+    },
+    "imdb": {
+      "id": "tt7263328",
+      "vote_average": 7.7,
+      "vote_count": 20411
+    },
+    "modified": {
+      "time": "2026-06-17T19:57:12.000Z"
+    },
+    "_id": "69cde6c8400bf394bd970fda",
+    "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+    "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+    "origin_name": "Classroom of the Elite (Season 4)",
+    "thumb_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+    "poster_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "305079",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40388381",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T19:56:38.000Z"
+    },
+    "_id": "6a0e7b3ba432d616e85a61c5",
+    "name": "Ngoảnh Đầu Lại Lau Nước Mắt Cho Cậu",
+    "slug": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau",
+    "origin_name": "Smile After Tears",
+    "thumb_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-thumb.jpg",
+    "poster_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282497",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31922391",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T19:55:54.000Z"
+    },
+    "_id": "6a263e35e14b2140fc6fec49",
+    "name": "Bức Tường Mê Cung",
+    "slug": "buc-tuong-me-cung",
+    "origin_name": "Wonder Wall",
+    "thumb_url": "buc-tuong-me-cung-thumb.jpg",
+    "poster_url": "buc-tuong-me-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278605",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34959993",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T19:14:52.000Z"
+    },
+    "_id": "6a2ae808baf8dde7e3ce581c",
+    "name": "Hồ Sơ Nam Bộ",
+    "slug": "ho-so-nam-bo",
+    "origin_name": "Archives: The Nanyang Mystery",
+    "thumb_url": "ho-so-nam-bo-thumb.jpg",
+    "poster_url": "ho-so-nam-bo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T19:03:42.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "310837",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T19:01:57.000Z"
+    },
+    "_id": "6a32489cbaf8dde7e3cf9fce",
+    "name": "Tâm Gian Thác",
+    "slug": "hanh-gian-thac",
+    "origin_name": "You Have My Heart",
+    "thumb_url": "hanh-gian-thac-thumb.jpg",
+    "poster_url": "hanh-gian-thac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311847",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39749229",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T14:51:07.000Z"
+    },
+    "_id": "6a324d7ca432d616e860f0d1",
+    "name": "Khoảng Cách An Toàn",
+    "slug": "khoang-cach-an-toan",
+    "origin_name": "Safety Distance",
+    "thumb_url": "khoang-cach-an-toan-thumb.jpg",
+    "poster_url": "khoang-cach-an-toan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124394",
+      "season": 5,
+      "vote_average": 8.116,
+      "vote_count": 212
+    },
+    "imdb": {
+      "id": "tt11761176",
+      "vote_average": 7.7,
+      "vote_count": 8173
+    },
+    "modified": {
+      "time": "2026-06-17T14:38:14.000Z"
+    },
+    "_id": "6a3218c74e6584edee4800d7",
+    "name": "Power Book III: Raising Kanan (Phần 5)",
+    "slug": "power-book-iii-raising-kanan-phan-5",
+    "origin_name": "Power Book III: Raising Kanan (Season 5)",
+    "thumb_url": "power-book-iii-raising-kanan-phan-5-thumb.jpg",
+    "poster_url": "power-book-iii-raising-kanan-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314834",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T14:32:49.000Z"
+    },
+    "_id": "6a324a4d6092900b411cbe35",
+    "name": "Nữ Họa Sư",
+    "slug": "nu-hoa-su",
+    "origin_name": "The Lady Painter",
+    "thumb_url": "nu-hoa-su-thumb.jpg",
+    "poster_url": "nu-hoa-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325649",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T14:19:56.000Z"
+    },
+    "_id": "6a3248472c8b2895cfab5c95",
+    "name": "Hoàng Thành Quỷ Án",
+    "slug": "hoang-thanh-quy-an",
+    "origin_name": "Mortal Schemes",
+    "thumb_url": "hoang-thanh-quy-an-thumb.jpg",
+    "poster_url": "hoang-thanh-quy-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1630772",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T13:35:10.000Z"
+    },
+    "_id": "6a32228e2c8b2895cfab53ac",
+    "name": "Đời Ta, Ta Tự Mò",
+    "slug": "doi-ta-ta-tu-mo",
+    "origin_name": "Luck My Life",
+    "thumb_url": "doi-ta-ta-tu-mo-thumb.jpg",
+    "poster_url": "doi-ta-ta-tu-mo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300126",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39229633",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T13:33:17.000Z"
+    },
+    "_id": "69da021916bc1b4174f11ca4",
+    "name": "LIAR GAME",
+    "slug": "liar-game",
+    "origin_name": "LIAR GAME",
+    "thumb_url": "liar-game-thumb.jpg",
+    "poster_url": "liar-game-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1127384",
+      "season": null,
+      "vote_average": 6.2,
+      "vote_count": 12
+    },
+    "imdb": {
+      "id": "tt29516222",
+      "vote_average": 6.9,
+      "vote_count": 136
+    },
+    "modified": {
+      "time": "2026-06-17T11:27:39.000Z"
+    },
+    "_id": "6a32223be12218d7285cc5e7",
+    "name": "Vùng Biển Chết Chóc",
+    "slug": "vung-bien-chet-choc",
+    "origin_name": "Deep Water",
+    "thumb_url": "vung-bien-chet-choc-thumb.jpg",
+    "poster_url": "vung-bien-chet-choc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "288603",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982964",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T11:21:09.000Z"
+    },
+    "_id": "6a30e6e17544913d4931723b",
+    "name": "Mùa Hè Nồng Nhiệt",
+    "slug": "mua-he-nong-nhiet",
+    "origin_name": "Never-Ending Summer",
+    "thumb_url": "mua-he-nong-nhiet-thumb.jpg",
+    "poster_url": "mua-he-nong-nhiet-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313397",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T11:11:11.000Z"
+    },
+    "_id": "6a224abee14b2140fc6f3760",
+    "name": "Mượn Dung Nhan",
+    "slug": "muon-dung-nhan",
+    "origin_name": "Visage and Soul",
+    "thumb_url": "muon-dung-nhan-thumb.jpg",
+    "poster_url": "muon-dung-nhan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325307",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43507458",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-17T11:10:55.000Z"
+    },
+    "_id": "6a30cfa62c0a4eaf2659a961",
+    "name": "Gọi Ngay Bác Sĩ Khương!",
+    "slug": "goi-ngay-bac-si-khuong",
+    "origin_name": "Call for Dr. Jiang",
+    "thumb_url": "goi-ngay-bac-si-khuong-thumb.jpg",
+    "poster_url": "goi-ngay-bac-si-khuong-poster.jpg",
+    "year": 2026
+  }
+]
