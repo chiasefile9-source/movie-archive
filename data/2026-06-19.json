@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315172",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41863606",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T20:52:26.000Z"
+    },
+    "_id": "69e9ef6af0f815b666161eb7",
+    "name": "Vũ Điệu Tình Thù",
+    "slug": "vu-dieu-tinh-thu",
+    "origin_name": "The Bangkok Red Opera",
+    "thumb_url": "vu-dieu-tinh-thu-thumb.jpg",
+    "poster_url": "vu-dieu-tinh-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278178",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt34771210",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T20:50:24.000Z"
+    },
+    "_id": "6a33e012e10cfe56c49f6b06",
+    "name": "Cha sẽ tìm con",
+    "slug": "cha-se-tim-con",
+    "origin_name": "I Will Find You",
+    "thumb_url": "cha-se-tim-con-thumb.jpg",
+    "poster_url": "cha-se-tim-con-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "230311",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt28131816",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T20:50:11.000Z"
+    },
+    "_id": "692eb1314f4196d57ff194d4",
+    "name": "Tình Yêu Có Pháo Hoa",
+    "slug": "tinh-yeu-co-phao-hoa",
+    "origin_name": "Love Has Fireworks",
+    "thumb_url": "tinh-yeu-co-phao-hoa-thumb.jpg",
+    "poster_url": "tinh-yeu-co-phao-hoa-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300054",
+      "season": 1,
+      "vote_average": 8.803,
+      "vote_count": 38
+    },
+    "imdb": {
+      "id": "tt38201910",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T19:54:59.000Z"
+    },
+    "_id": "69a05237eea244e3e8af46b0",
+    "name": "Hành trình của Baki: Samurai bất bại",
+    "slug": "hanh-trinh-cua-baki-samurai-bat-bai",
+    "origin_name": "BAKI-DOU: The Invincible Samurai",
+    "thumb_url": "hanh-trinh-cua-baki-samurai-bat-bai-thumb.jpg",
+    "poster_url": "hanh-trinh-cua-baki-samurai-bat-bai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278605",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34959993",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T19:23:34.000Z"
+    },
+    "_id": "6a2ae808baf8dde7e3ce581c",
+    "name": "Hồ Sơ Nam Bộ",
+    "slug": "ho-so-nam-bo",
+    "origin_name": "Archives: The Nanyang Mystery",
+    "thumb_url": "ho-so-nam-bo-thumb.jpg",
+    "poster_url": "ho-so-nam-bo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1145899",
+      "season": null,
+      "vote_average": 6.426,
+      "vote_count": 95
+    },
+    "imdb": {
+      "id": "tt33029380",
+      "vote_average": 6.3,
+      "vote_count": 383
+    },
+    "modified": {
+      "time": "2026-06-18T19:21:06.000Z"
+    },
+    "_id": "6a27c43aa6726df8fd38be63",
+    "name": "Siêu Quậy Marsupilami",
+    "slug": "sieu-quay-marsupilami",
+    "origin_name": "Marsupilami",
+    "thumb_url": "sieu-quay-marsupilami-thumb.jpg",
+    "poster_url": "sieu-quay-marsupilami-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1318413",
+      "season": null,
+      "vote_average": 7.952,
+      "vote_count": 42
+    },
+    "imdb": {
+      "id": "tt32547691",
+      "vote_average": 7.7,
+      "vote_count": 1123
+    },
+    "modified": {
+      "time": "2026-06-18T19:15:13.000Z"
+    },
+    "_id": "6a33e151947ce584f1c70163",
+    "name": "Áp Lực",
+    "slug": "ap-luc",
+    "origin_name": "Pressure",
+    "thumb_url": "ap-luc-thumb.jpg",
+    "poster_url": "ap-luc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282497",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31922391",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T19:14:23.000Z"
+    },
+    "_id": "6a263e35e14b2140fc6fec49",
+    "name": "Bức Tường Mê Cung",
+    "slug": "buc-tuong-me-cung",
+    "origin_name": "Wonder Wall",
+    "thumb_url": "buc-tuong-me-cung-thumb.jpg",
+    "poster_url": "buc-tuong-me-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T19:08:46.000Z"
+    },
+    "_id": "6a1a94a81fea2c5da7a7e833",
+    "name": "Tiêu Dao Tứ Công Tử",
+    "slug": "tieu-dao-tu-cong-tu",
+    "origin_name": "The Reborn Young Lord",
+    "thumb_url": "tieu-dao-tu-cong-tu-thumb.jpg",
+    "poster_url": "tieu-dao-tu-cong-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325126",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T19:08:31.000Z"
+    },
+    "_id": "6a2a5e19f7f43ec64ef9b85d",
+    "name": "Cửu Nghĩa Nhân: Yên Vân Tú",
+    "slug": "cuu-nghia-nhan-yen-van-tu",
+    "origin_name": "The Embroidered Truth",
+    "thumb_url": "cuu-nghia-nhan-yen-van-tu-thumb.jpg",
+    "poster_url": "cuu-nghia-nhan-yen-van-tu-poster-1781197086074.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320590",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T19:08:21.000Z"
+    },
+    "_id": "6a27eb874f61d761f7709bce",
+    "name": "Phi Thăng Giữa Ban Ngày",
+    "slug": "phi-thang-giua-ban-ngay",
+    "origin_name": "Rise Again",
+    "thumb_url": "phi-thang-giua-ban-ngay-thumb.jpg",
+    "poster_url": "phi-thang-giua-ban-ngay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323411",
+      "season": 1,
+      "vote_average": 6.8,
+      "vote_count": 17
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T14:06:36.000Z"
+    },
+    "_id": "6a2fde1cf7f43ec64efa9e11",
+    "name": "Ma Cà Rồng: Lestat de Lioncourt",
+    "slug": "ma-ca-rong-lestat-de-lioncourt",
+    "origin_name": "The Vampire Lestat",
+    "thumb_url": "ma-ca-rong-lestat-de-lioncourt-thumb.jpg",
+    "poster_url": "ma-ca-rong-lestat-de-lioncourt-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319617",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41764389",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T12:10:48.000Z"
+    },
+    "_id": "6a1667334f61d761f76d511e",
+    "name": "The Boy and I Who Will Break Up in 100 Days",
+    "slug": "the-boy-and-i-who-will-break-up-in-100-days",
+    "origin_name": "The Boy and I Who Will Break Up in 100 Days",
+    "thumb_url": "the-boy-and-i-who-will-break-up-in-100-days-thumb.jpg",
+    "poster_url": "the-boy-and-i-who-will-break-up-in-100-days-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "60625",
+      "season": 9,
+      "vote_average": 8.675,
+      "vote_count": 10855
+    },
+    "imdb": {
+      "id": "tt2861424",
+      "vote_average": 9,
+      "vote_count": 692329
+    },
+    "modified": {
+      "time": "2026-06-18T12:04:47.000Z"
+    },
+    "_id": "6a13d0dce12218d7285724c1",
+    "name": "Rick và Morty (Phần 9)",
+    "slug": "rick-va-morty-phan-9",
+    "origin_name": "Rick and Morty (Season 9)",
+    "thumb_url": "rick-va-morty-phan-9-thumb.jpg",
+    "poster_url": "rick-va-morty-phan-9-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "310837",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T12:04:23.000Z"
+    },
+    "_id": "6a32489cbaf8dde7e3cf9fce",
+    "name": "Tâm Gian Thác",
+    "slug": "hanh-gian-thac",
+    "origin_name": "You Have My Heart",
+    "thumb_url": "hanh-gian-thac-thumb.jpg",
+    "poster_url": "hanh-gian-thac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "310921",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39673631",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T12:00:48.000Z"
+    },
+    "_id": "69d9fe3ef0f815b666107c96",
+    "name": "Monster Eater",
+    "slug": "monster-eater",
+    "origin_name": "Monster Eater",
+    "thumb_url": "monster-eater-thumb-1775895614969.jpg",
+    "poster_url": "monster-eater-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325586",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T12:00:22.000Z"
+    },
+    "_id": "6a337b5e4e6584edee485139",
+    "name": "Ta Là Kẻ Phản Diện Mệnh Lớn",
+    "slug": "ta-la-ke-phan-dien-menh-lon",
+    "origin_name": "I,The Fated Villain",
+    "thumb_url": "ta-la-ke-phan-dien-menh-lon-thumb.jpg",
+    "poster_url": "ta-la-ke-phan-dien-menh-lon-poster-1781758821556.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1359005",
+      "season": null,
+      "vote_average": 6.4,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt33440748",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T11:56:14.000Z"
+    },
+    "_id": "6a3376e7e14b2140fc725853",
+    "name": "Tinh Hà Nhập Mộng",
+    "slug": "tinh-ha-nhap-mong",
+    "origin_name": "Per Aspera Ad Astra",
+    "thumb_url": "tinh-ha-nhap-mong-thumb.jpg",
+    "poster_url": "tinh-ha-nhap-mong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "270476",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt33332385",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T11:50:53.000Z"
+    },
+    "_id": "69f1ad2591cc1b96d58cb1e2",
+    "name": "Bí Ẩn Thị Trấn Widow's Bay",
+    "slug": "bi-an-thi-tran-widows-bay",
+    "origin_name": "Widow's Bay",
+    "thumb_url": "bi-an-thi-tran-widows-bay-thumb.jpg",
+    "poster_url": "bi-an-thi-tran-widows-bay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "285404",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt35946742",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T11:48:41.000Z"
+    },
+    "_id": "6a0d5b2c2c0a4eaf265343d6",
+    "name": "Cam Kết Thỏa Mãn Tột Cùng",
+    "slug": "cam-ket-thoa-man-tot-cung",
+    "origin_name": "Maximum Pleasure Guaranteed",
+    "thumb_url": "cam-ket-thoa-man-tot-cung-thumb.jpg",
+    "poster_url": "cam-ket-thoa-man-tot-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1618321",
+      "season": null,
+      "vote_average": 6,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T11:47:16.000Z"
+    },
+    "_id": "69785a0097c71dcd0d679a7b",
+    "name": "Báu vật trời cho",
+    "slug": "bau-vat-troi-cho",
+    "origin_name": "Báu vật trời cho",
+    "thumb_url": "bau-vat-troi-cho-thumb.jpg",
+    "poster_url": "bau-vat-troi-cho-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T11:46:44.000Z"
+    },
+    "_id": "69f487916d4243e068f61e30",
+    "name": "Bắt Sóng Tình Duyên",
+    "slug": "bat-song-tinh-duyen",
+    "origin_name": "Rak Rak - Sense of Love",
+    "thumb_url": "bat-song-tinh-duyen-thumb.jpg",
+    "poster_url": "bat-song-tinh-duyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "288603",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982964",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T11:36:14.000Z"
+    },
+    "_id": "6a30e6e17544913d4931723b",
+    "name": "Mùa Hè Nồng Nhiệt",
+    "slug": "mua-he-nong-nhiet",
+    "origin_name": "Never-Ending Summer",
+    "thumb_url": "mua-he-nong-nhiet-thumb.jpg",
+    "poster_url": "mua-he-nong-nhiet-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292696",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37096911",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-18T11:35:59.000Z"
+    },
+    "_id": "692eb0a3ca27378366af8263",
+    "name": "Mạc Ly",
+    "slug": "mac-ly",
+    "origin_name": "The First Jasmine",
+    "thumb_url": "mac-ly-thumb-1780987241567.jpg",
+    "poster_url": "mac-ly-poster-1780987245674.jpg",
+    "year": 2026
+  }
+]
