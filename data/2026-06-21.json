@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124394",
+      "season": 5,
+      "vote_average": 8.116,
+      "vote_count": 212
+    },
+    "imdb": {
+      "id": "tt11761176",
+      "vote_average": 7.7,
+      "vote_count": 8173
+    },
+    "modified": {
+      "time": "2026-06-21T00:31:26.000Z"
+    },
+    "_id": "6a3218c74e6584edee4800d7",
+    "name": "Power Book III: Raising Kanan (Phần 5)",
+    "slug": "power-book-iii-raising-kanan-phan-5",
+    "origin_name": "Power Book III: Raising Kanan (Season 5)",
+    "thumb_url": "power-book-iii-raising-kanan-phan-5-thumb.jpg",
+    "poster_url": "power-book-iii-raising-kanan-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "286069",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt36626294",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T21:42:01.000Z"
+    },
+    "_id": "6a0a87064f61d761f76b4ada",
+    "name": "Gió Thoảng Tình Theo",
+    "slug": "gio-thoang-tinh-theo",
+    "origin_name": "The Air",
+    "thumb_url": "gio-thoang-tinh-theo-thumb.jpg",
+    "poster_url": "gio-thoang-tinh-theo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300131",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39443399",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T21:41:00.000Z"
+    },
+    "_id": "69da6f99f616ee3807d610b1",
+    "name": "KILL BLUE",
+    "slug": "kill-blue",
+    "origin_name": "KILL BLUE",
+    "thumb_url": "kill-blue-thumb.jpg",
+    "poster_url": "kill-blue-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "310837",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T21:33:35.000Z"
+    },
+    "_id": "6a32489cbaf8dde7e3cf9fce",
+    "name": "Tâm Gian Thác",
+    "slug": "hanh-gian-thac",
+    "origin_name": "You Have My Heart",
+    "thumb_url": "hanh-gian-thac-thumb.jpg",
+    "poster_url": "hanh-gian-thac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "239901",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt29489359",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T20:38:55.000Z"
+    },
+    "_id": "692f0e84dbdcc0b3a8a260e8",
+    "name": "Vân Tú Hành",
+    "slug": "van-tu-hanh",
+    "origin_name": "The Legend of Rosy Clouds",
+    "thumb_url": "van-tu-hanh-thumb.jpg",
+    "poster_url": "van-tu-hanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "230311",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt28131816",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T20:37:27.000Z"
+    },
+    "_id": "692eb1314f4196d57ff194d4",
+    "name": "Tình Yêu Có Pháo Hoa",
+    "slug": "tinh-yeu-co-phao-hoa",
+    "origin_name": "Love Has Fireworks",
+    "thumb_url": "tinh-yeu-co-phao-hoa-thumb.jpg",
+    "poster_url": "tinh-yeu-co-phao-hoa-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282497",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt31922391",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T20:26:08.000Z"
+    },
+    "_id": "6a263e35e14b2140fc6fec49",
+    "name": "Bức Tường Mê Cung",
+    "slug": "buc-tuong-me-cung",
+    "origin_name": "Wonder Wall",
+    "thumb_url": "buc-tuong-me-cung-thumb.jpg",
+    "poster_url": "buc-tuong-me-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "91801",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 285
+    },
+    "imdb": {
+      "id": "tt11034066",
+      "vote_average": 7.6,
+      "vote_count": 3317
+    },
+    "modified": {
+      "time": "2026-06-20T20:25:36.000Z"
+    },
+    "_id": "69d1d78e32adc86a1e86e515",
+    "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
+    "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
+    "origin_name": "Welcome to Demon School! Iruma-kun (Season 4)",
+    "thumb_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-thumb.jpg",
+    "poster_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289271",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37140755",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T20:16:48.000Z"
+    },
+    "_id": "6a1eb62ec52ec62c8b184344",
+    "name": "Kiều Sở",
+    "slug": "kieu-so",
+    "origin_name": "Ashes to Crown",
+    "thumb_url": "kieu-so-thumb.jpg",
+    "poster_url": "kieu-so-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278605",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34959993",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T20:05:09.000Z"
+    },
+    "_id": "6a2ae808baf8dde7e3ce581c",
+    "name": "Hồ Sơ Nam Bộ",
+    "slug": "ho-so-nam-bo",
+    "origin_name": "Archives: The Nanyang Mystery",
+    "thumb_url": "ho-so-nam-bo-thumb.jpg",
+    "poster_url": "ho-so-nam-bo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "237748",
+      "season": 2,
+      "vote_average": 7.198,
+      "vote_count": 58
+    },
+    "imdb": {
+      "id": "tt26448526",
+      "vote_average": 7.1,
+      "vote_count": 5370
+    },
+    "modified": {
+      "time": "2026-06-20T15:17:32.000Z"
+    },
+    "_id": "68e87457bc85dba74e70256f",
+    "name": "Tâm Trí Rực Rỡ (Phần 2)",
+    "slug": "tam-tri-ruc-ro-phan-2",
+    "origin_name": "Brilliant Minds (Season 2)",
+    "thumb_url": "tam-tri-ruc-ro-phan-2-thumb.jpg",
+    "poster_url": "tam-tri-ruc-ro-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319293",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T14:19:12.000Z"
+    },
+    "_id": "6a1a94a81fea2c5da7a7e833",
+    "name": "Tiêu Dao Tứ Công Tử",
+    "slug": "tieu-dao-tu-cong-tu",
+    "origin_name": "The Reborn Young Lord",
+    "thumb_url": "tieu-dao-tu-cong-tu-thumb.jpg",
+    "poster_url": "tieu-dao-tu-cong-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "320590",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T14:18:59.000Z"
+    },
+    "_id": "6a27eb874f61d761f7709bce",
+    "name": "Phi Thăng Giữa Ban Ngày",
+    "slug": "phi-thang-giua-ban-ngay",
+    "origin_name": "Rise Again",
+    "thumb_url": "phi-thang-giua-ban-ngay-thumb.jpg",
+    "poster_url": "phi-thang-giua-ban-ngay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325126",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T14:18:46.000Z"
+    },
+    "_id": "6a2a5e19f7f43ec64ef9b85d",
+    "name": "Cửu Nghĩa Nhân: Yên Vân Tú",
+    "slug": "cuu-nghia-nhan-yen-van-tu",
+    "origin_name": "The Embroidered Truth",
+    "thumb_url": "cuu-nghia-nhan-yen-van-tu-thumb.jpg",
+    "poster_url": "cuu-nghia-nhan-yen-van-tu-poster-1781197086074.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261594",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T13:30:35.000Z"
+    },
+    "_id": "6a3631f2947ce584f1c76d6c",
+    "name": "Nhất Niệm Sơ Kiến Cẩm Y Dao",
+    "slug": "nhat-niem-so-kien-cam-y-dao",
+    "origin_name": "Angels and Guards",
+    "thumb_url": "nhat-niem-so-kien-cam-y-dao-thumb.jpg",
+    "poster_url": "nhat-niem-so-kien-cam-y-dao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292696",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37096911",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T13:27:59.000Z"
+    },
+    "_id": "692eb0a3ca27378366af8263",
+    "name": "Mạc Ly",
+    "slug": "mac-ly",
+    "origin_name": "The First Jasmine",
+    "thumb_url": "mac-ly-thumb-1780987241567.jpg",
+    "poster_url": "mac-ly-poster-1780987245674.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325368",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T13:27:29.000Z"
+    },
+    "_id": "6a2fa9256092900b411c38ff",
+    "name": "Năm Tháng Rực Lửa",
+    "slug": "nam-thang-ruc-lua",
+    "origin_name": "The Age of Fire",
+    "thumb_url": "nam-thang-ruc-lua-thumb.jpg",
+    "poster_url": "nam-thang-ruc-lua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "288603",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982964",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T13:27:16.000Z"
+    },
+    "_id": "6a30e6e17544913d4931723b",
+    "name": "Mùa Hè Nồng Nhiệt",
+    "slug": "mua-he-nong-nhiet",
+    "origin_name": "Never-Ending Summer",
+    "thumb_url": "mua-he-nong-nhiet-thumb.jpg",
+    "poster_url": "mua-he-nong-nhiet-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323145",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T13:26:58.000Z"
+    },
+    "_id": "6a3630b6de5e0f1b85d4e01f",
+    "name": "Chi Bằng Gặp Nhau Một Lần",
+    "slug": "chi-bang-gap-nhau-mot-lan",
+    "origin_name": "Endless Love",
+    "thumb_url": "chi-bang-gap-nhau-mot-lan-thumb.jpg",
+    "poster_url": "chi-bang-gap-nhau-mot-lan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315704",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41455696",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T12:46:32.000Z"
+    },
+    "_id": "69e4f979da7d8940685e7409",
+    "name": "Thầy Tatsuki Quá Dễ Tính",
+    "slug": "thay-tatsuki-qua-de-tinh",
+    "origin_name": "Tatsuki: Too Kind for School",
+    "thumb_url": "thay-tatsuki-qua-de-tinh-thumb.jpg",
+    "poster_url": "thay-tatsuki-qua-de-tinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324768",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T12:46:13.000Z"
+    },
+    "_id": "6a34b6e84e6584edee4885c6",
+    "name": "Ý Chí Kim Cương",
+    "slug": "y-chi-kim-cuong",
+    "origin_name": "Strong Will",
+    "thumb_url": "y-chi-kim-cuong-thumb.jpg",
+    "poster_url": "y-chi-kim-cuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313397",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T12:46:00.000Z"
+    },
+    "_id": "6a224abee14b2140fc6f3760",
+    "name": "Mượn Dung Nhan",
+    "slug": "muon-dung-nhan",
+    "origin_name": "Visage and Soul",
+    "thumb_url": "muon-dung-nhan-thumb.jpg",
+    "poster_url": "muon-dung-nhan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "314834",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T12:45:45.000Z"
+    },
+    "_id": "6a324a4d6092900b411cbe35",
+    "name": "Nữ Họa Sư",
+    "slug": "nu-hoa-su",
+    "origin_name": "The Lady Painter",
+    "thumb_url": "nu-hoa-su-thumb.jpg",
+    "poster_url": "nu-hoa-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296232",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39229727",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-20T00:39:29.000Z"
+    },
+    "_id": "69d5e08d93c48ff6bfe68daa",
+    "name": "Trái Đất Đóng Băng",
+    "slug": "trai-dat-dong-bang",
+    "origin_name": "SNOWBALL EARTH",
+    "thumb_url": "trai-dat-dong-bang-thumb.jpg",
+    "poster_url": "trai-dat-dong-bang-poster.jpg",
+    "year": 2026
+  }
+]
