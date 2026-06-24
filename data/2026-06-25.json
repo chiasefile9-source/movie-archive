@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287527",
+      "season": 1,
+      "vote_average": 8.242,
+      "vote_count": 149
+    },
+    "imdb": {
+      "id": "tt10970762",
+      "vote_average": 8.1,
+      "vote_count": 1757
+    },
+    "modified": {
+      "time": "2026-06-25T00:19:08.000Z"
+    },
+    "_id": "6a2f82c9e14b2140fc718709",
+    "name": "Những Bản Di Chúc (Phần 1)",
+    "slug": "nhung-ban-di-chuc-phan-1",
+    "origin_name": "The Testaments (Season 1)",
+    "thumb_url": "nhung-ban-di-chuc-phan-1-thumb.jpg",
+    "poster_url": "nhung-ban-di-chuc-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324548",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21097138",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T23:33:13.000Z"
+    },
+    "_id": "6a34ba42de5e0f1b85d4960a",
+    "name": "Tám Tay Lừa Đảo",
+    "slug": "tam-tay-lua-dao",
+    "origin_name": "The Scammer Games",
+    "thumb_url": "tam-tay-lua-dao-thumb.jpg",
+    "poster_url": "tam-tay-lua-dao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322634",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21402786",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T22:41:52.000Z"
+    },
+    "_id": "6a0b20bac52ec62c8b14b334",
+    "name": "Hổ Giấu Vằn",
+    "slug": "ho-giau-van",
+    "origin_name": "Wicked Temptation",
+    "thumb_url": "ho-giau-van-thumb.jpg",
+    "poster_url": "ho-giau-van-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "305079",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40388381",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T22:40:29.000Z"
+    },
+    "_id": "6a0e7b3ba432d616e85a61c5",
+    "name": "Ngoảnh Đầu Lại Lau Nước Mắt Cho Cậu",
+    "slug": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau",
+    "origin_name": "Smile After Tears",
+    "thumb_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-thumb.jpg",
+    "poster_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "230311",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt28131816",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T22:40:12.000Z"
+    },
+    "_id": "692eb1314f4196d57ff194d4",
+    "name": "Tình Yêu Có Pháo Hoa",
+    "slug": "tinh-yeu-co-phao-hoa",
+    "origin_name": "Love Has Fireworks",
+    "thumb_url": "tinh-yeu-co-phao-hoa-thumb.jpg",
+    "poster_url": "tinh-yeu-co-phao-hoa-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "72517",
+      "season": 4,
+      "vote_average": 8.405,
+      "vote_count": 766
+    },
+    "imdb": {
+      "id": "tt7263328",
+      "vote_average": 7.7,
+      "vote_count": 20411
+    },
+    "modified": {
+      "time": "2026-06-24T22:40:00.000Z"
+    },
+    "_id": "69cde6c8400bf394bd970fda",
+    "name": "Chào mừng đến với lớp học đề cao thực lực (Phần 4)",
+    "slug": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4",
+    "origin_name": "Classroom of the Elite (Season 4)",
+    "thumb_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-thumb.jpg",
+    "poster_url": "chao-mung-den-voi-lop-hoc-de-cao-thuc-luc-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278605",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt34959993",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T17:57:21.000Z"
+    },
+    "_id": "6a2ae808baf8dde7e3ce581c",
+    "name": "Hồ Sơ Nam Bộ",
+    "slug": "ho-so-nam-bo",
+    "origin_name": "Archives: The Nanyang Mystery",
+    "thumb_url": "ho-so-nam-bo-thumb.jpg",
+    "poster_url": "ho-so-nam-bo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "239901",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt29489359",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T17:13:43.000Z"
+    },
+    "_id": "692f0e84dbdcc0b3a8a260e8",
+    "name": "Vân Tú Hành",
+    "slug": "van-tu-hanh",
+    "origin_name": "The Legend of Rosy Clouds",
+    "thumb_url": "van-tu-hanh-thumb.jpg",
+    "poster_url": "van-tu-hanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "37724",
+      "season": null,
+      "vote_average": 7.26,
+      "vote_count": 16036
+    },
+    "imdb": {
+      "id": "tt1074638",
+      "vote_average": 7.8,
+      "vote_count": 768360
+    },
+    "modified": {
+      "time": "2026-06-24T17:04:33.000Z"
+    },
+    "_id": "623351a23c735a9a446e0c81",
+    "name": "Điệp Viên 007: Tử Địa Skyfall",
+    "origin_name": "Skyfall",
+    "thumb_url": "skyfall-thumb.jpg",
+    "slug": "skyfall",
+    "year": 2012,
+    "poster_url": "skyfall-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325860",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T16:55:56.000Z"
+    },
+    "_id": "6a3ba9a76092900b411e8a75",
+    "name": "Con Đường Hành Y",
+    "slug": "con-duong-hanh-y",
+    "origin_name": "Trial of Healer",
+    "thumb_url": "con-duong-hanh-y-thumb.jpg",
+    "poster_url": "con-duong-hanh-y-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "936075",
+      "season": null,
+      "vote_average": 7.527,
+      "vote_count": 396
+    },
+    "imdb": {
+      "id": "tt11378946",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T16:12:13.000Z"
+    },
+    "_id": "69f5730b006591e1081c8c0a",
+    "name": "Michael",
+    "slug": "michael",
+    "origin_name": "Michael",
+    "thumb_url": "michael-thumb.jpg",
+    "poster_url": "michael-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325577",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T15:48:07.000Z"
+    },
+    "_id": "6a3a3b92947ce584f1c8313a",
+    "name": "Vợ Vốn Hiền Lương",
+    "slug": "vo-von-hien-luong",
+    "origin_name": "Inherently Kind",
+    "thumb_url": "vo-von-hien-luong-thumb.jpg",
+    "poster_url": "vo-von-hien-luong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325126",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T15:45:19.000Z"
+    },
+    "_id": "6a2a5e19f7f43ec64ef9b85d",
+    "name": "Cửu Nghĩa Nhân: Yên Vân Tú",
+    "slug": "cuu-nghia-nhan-yen-van-tu",
+    "origin_name": "The Embroidered Truth",
+    "thumb_url": "cuu-nghia-nhan-yen-van-tu-thumb.jpg",
+    "poster_url": "cuu-nghia-nhan-yen-van-tu-poster-1781197086074.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "285404",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt35946742",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T13:53:43.000Z"
+    },
+    "_id": "6a0d5b2c2c0a4eaf265343d6",
+    "name": "Cam Kết Thỏa Mãn Tột Cùng",
+    "slug": "cam-ket-thoa-man-tot-cung",
+    "origin_name": "Maximum Pleasure Guaranteed",
+    "thumb_url": "cam-ket-thoa-man-tot-cung-thumb.jpg",
+    "poster_url": "cam-ket-thoa-man-tot-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "310837",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T13:45:30.000Z"
+    },
+    "_id": "6a32489cbaf8dde7e3cf9fce",
+    "name": "Tâm Gian Thác",
+    "slug": "hanh-gian-thac",
+    "origin_name": "You Have My Heart",
+    "thumb_url": "hanh-gian-thac-thumb.jpg",
+    "poster_url": "hanh-gian-thac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "206647",
+      "season": null,
+      "vote_average": 6.569,
+      "vote_count": 11172
+    },
+    "imdb": {
+      "id": "tt2379713",
+      "vote_average": 6.8,
+      "vote_count": 493010
+    },
+    "modified": {
+      "time": "2026-06-24T13:34:53.000Z"
+    },
+    "_id": "62a9f6867a956fb5db1261b0",
+    "name": "Điệp Viên 007: Bóng Ma",
+    "origin_name": "007: SPECTRE",
+    "thumb_url": "diep-vien-007-bong-ma-thumb.jpg",
+    "poster_url": "diep-vien-007-bong-ma-poster.jpg",
+    "slug": "diep-vien-007-bong-ma",
+    "year": 2015
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "36557",
+      "season": null,
+      "vote_average": 7.57,
+      "vote_count": 11592
+    },
+    "imdb": {
+      "id": "tt0381061",
+      "vote_average": 8,
+      "vote_count": 739664
+    },
+    "modified": {
+      "time": "2026-06-24T13:34:14.000Z"
+    },
+    "_id": "6233515c3c735a9a446e0c46",
+    "name": "Sòng Bạc Hoàng Gia",
+    "origin_name": "Casino Royale",
+    "thumb_url": "song-bac-hoang-gia-thumb.jpg",
+    "slug": "song-bac-hoang-gia",
+    "year": 2006,
+    "poster_url": "song-bac-hoang-gia-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "370172",
+      "season": null,
+      "vote_average": 7.341,
+      "vote_count": 7021
+    },
+    "imdb": {
+      "id": "tt2382320",
+      "vote_average": 7.3,
+      "vote_count": 481524
+    },
+    "modified": {
+      "time": "2026-06-24T13:33:59.000Z"
+    },
+    "_id": "62347aa23c735a9a446e33b6",
+    "name": "Không phải lúc chết",
+    "origin_name": "No Time to Die",
+    "thumb_url": "no-time-to-die-thumb.jpg",
+    "slug": "no-time-to-die",
+    "year": 2021,
+    "poster_url": "no-time-to-die-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "10764",
+      "season": null,
+      "vote_average": 6.336,
+      "vote_count": 8472
+    },
+    "imdb": {
+      "id": "tt0830515",
+      "vote_average": 6.5,
+      "vote_count": 494408
+    },
+    "modified": {
+      "time": "2026-06-24T13:33:34.000Z"
+    },
+    "_id": "62334ea83c735a9a446e0a2f",
+    "name": "Định Mức Khuây Khỏa",
+    "origin_name": "Quantum of Solace",
+    "thumb_url": "dinh-muc-khuay-khoa-thumb.jpg",
+    "slug": "dinh-muc-khuay-khoa",
+    "year": 2008,
+    "poster_url": "dinh-muc-khuay-khoa-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "225221",
+      "season": 1,
+      "vote_average": 6.641,
+      "vote_count": 71
+    },
+    "imdb": {
+      "id": "tt24133138",
+      "vote_average": 6.6,
+      "vote_count": 6399
+    },
+    "modified": {
+      "time": "2026-06-24T12:25:00.000Z"
+    },
+    "_id": "6a37826f4be02ecfaffce4bb",
+    "name": "Chuyến Tàu Đêm Kinh Hoàng",
+    "slug": "chuyen-tau-dem-kinh-hoang",
+    "origin_name": "Nightsleeper",
+    "thumb_url": "chuyen-tau-dem-kinh-hoang-thumb.jpg",
+    "poster_url": "chuyen-tau-dem-kinh-hoang-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323145",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T11:16:54.000Z"
+    },
+    "_id": "6a3630b6de5e0f1b85d4e01f",
+    "name": "Chi Bằng Gặp Nhau Một Lần",
+    "slug": "chi-bang-gap-nhau-mot-lan",
+    "origin_name": "Endless Love",
+    "thumb_url": "chi-bang-gap-nhau-mot-lan-thumb.jpg",
+    "poster_url": "chi-bang-gap-nhau-mot-lan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261594",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T11:13:00.000Z"
+    },
+    "_id": "6a3631f2947ce584f1c76d6c",
+    "name": "Nhất Niệm Sơ Kiến Cẩm Y Dao",
+    "slug": "nhat-niem-so-kien-cam-y-dao",
+    "origin_name": "Angels and Guards",
+    "thumb_url": "nhat-niem-so-kien-cam-y-dao-thumb.jpg",
+    "poster_url": "nhat-niem-so-kien-cam-y-dao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326042",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T11:12:38.000Z"
+    },
+    "_id": "6a3a072df7f43ec64efc8da5",
+    "name": "Chiếu Điện Hoa Khai",
+    "slug": "chieu-dien-hoa-khai",
+    "origin_name": "Camellias",
+    "thumb_url": "chieu-dien-hoa-khai-thumb.jpg",
+    "poster_url": "chieu-dien-hoa-khai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "288603",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36982964",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-24T11:11:58.000Z"
+    },
+    "_id": "6a30e6e17544913d4931723b",
+    "name": "Mùa Hè Nồng Nhiệt",
+    "slug": "mua-he-nong-nhiet",
+    "origin_name": "Never-Ending Summer",
+    "thumb_url": "mua-he-nong-nhiet-thumb.jpg",
+    "poster_url": "mua-he-nong-nhiet-poster.jpg",
+    "year": 2026
+  }
+]
