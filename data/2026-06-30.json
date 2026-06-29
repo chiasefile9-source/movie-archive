@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "225221",
+      "season": 1,
+      "vote_average": 6.641,
+      "vote_count": 71
+    },
+    "imdb": {
+      "id": "tt24133138",
+      "vote_average": 6.6,
+      "vote_count": 6399
+    },
+    "modified": {
+      "time": "2026-06-29T15:33:35.000Z"
+    },
+    "_id": "6a37826f4be02ecfaffce4bb",
+    "name": "Chuyến Tàu Đêm Kinh Hoàng",
+    "slug": "chuyen-tau-dem-kinh-hoang",
+    "origin_name": "Nightsleeper",
+    "thumb_url": "chuyen-tau-dem-kinh-hoang-thumb.jpg",
+    "poster_url": "chuyen-tau-dem-kinh-hoang-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124364",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 2553
+    },
+    "imdb": {
+      "id": "tt9813792",
+      "vote_average": 7.8,
+      "vote_count": 173600
+    },
+    "modified": {
+      "time": "2026-06-28T18:30:08.000Z"
+    },
+    "_id": "69e4fb962b874d6bfb6bbee5",
+    "name": "Thị Trấn Ác Mộng (Phần 4)",
+    "slug": "thi-tran-ac-mong-phan-4",
+    "origin_name": "FROM (Season 4)",
+    "thumb_url": "thi-tran-ac-mong-phan-4-thumb.jpg",
+    "poster_url": "thi-tran-ac-mong-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "288659",
+      "season": 1,
+      "vote_average": 7.25,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt39267868",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-28T10:37:49.000Z"
+    },
+    "_id": "69cbf9dfb06c99c722022664",
+    "name": "Sứ Giả Bốn Mùa - Vũ Điệu Mùa Xuân",
+    "slug": "su-gia-bon-mua-vu-dieu-mua-xuan",
+    "origin_name": "Agents of the Four Seasons",
+    "thumb_url": "su-gia-bon-mua-vu-dieu-mua-xuan-thumb.jpg",
+    "poster_url": "su-gia-bon-mua-vu-dieu-mua-xuan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316294",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39380468",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-28T10:37:34.000Z"
+    },
+    "_id": "6a1e873a2c8b2895cfa7d675",
+    "name": "PAYBACK: Báo Thù",
+    "slug": "payback-bao-thu",
+    "origin_name": "Payback",
+    "thumb_url": "payback-bao-thu-thumb.jpg",
+    "poster_url": "payback-bao-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324551",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43611919",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-28T10:16:05.000Z"
+    },
+    "_id": "6a3e1ffb173846d64434c1e0",
+    "name": "Đế Sư Trường An",
+    "slug": "de-su-truong-an",
+    "origin_name": "The Imperial Master",
+    "thumb_url": "de-su-truong-an-thumb.jpg",
+    "poster_url": "de-su-truong-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309043",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21310096",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-28T10:12:17.000Z"
+    },
+    "_id": "69f9622693c48ff6bff25e1a",
+    "name": "Yêu Được Chưa",
+    "slug": "yeu-duoc-chua",
+    "origin_name": "Let's Begin Again",
+    "thumb_url": "yeu-duoc-chua-thumb.jpg",
+    "poster_url": "yeu-duoc-chua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "228429",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt28022382",
+      "vote_average": 8.1,
+      "vote_count": 432
+    },
+    "modified": {
+      "time": "2026-06-28T10:12:00.000Z"
+    },
+    "_id": "6496778689254768d75ee8e3",
+    "name": "Đấu La Đại Lục 2: Tuyệt Thế Đường Môn",
+    "slug": "dau-la-dai-luc-2-tuyet-the-duong-mon",
+    "origin_name": "Soul Land 2: The Peerless Tang Clan",
+    "thumb_url": "dau-la-dai-luc-2-tuyet-the-duong-mon-thumb.jpg",
+    "poster_url": "dau-la-dai-luc-2-tuyet-the-duong-mon-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "110181",
+      "season": 1,
+      "vote_average": 7.6,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt20769560",
+      "vote_average": 0,
+      "vote_count": 131
+    },
+    "modified": {
+      "time": "2026-06-28T10:11:47.000Z"
+    },
+    "_id": "68e4bc4d69d7b4696cc59469",
+    "name": "Võ Thần Chúa Tể",
+    "slug": "vo-than-chua-te",
+    "origin_name": "Martial Master",
+    "thumb_url": "vo-than-chua-te-thumb.jpg",
+    "poster_url": "vo-than-chua-te-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "79481",
+      "season": 5,
+      "vote_average": 8.2,
+      "vote_count": 57
+    },
+    "imdb": {
+      "id": "tt12409194",
+      "vote_average": 8.7,
+      "vote_count": 2938
+    },
+    "modified": {
+      "time": "2026-06-28T10:11:33.000Z"
+    },
+    "_id": "644f757ed95ac616c32b8c56",
+    "name": "Đấu Phá Thương Khung Ngoại Truyện",
+    "slug": "dau-pha-thuong-khung-ngoai-truyen",
+    "origin_name": "Fights Break Sphere S5",
+    "thumb_url": "dau-pha-thuong-khung-ngoai-truyen-thumb.jpg",
+    "poster_url": "dau-pha-thuong-khung-ngoai-truyen-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1340206",
+      "season": null,
+      "vote_average": 7.17,
+      "vote_count": 103
+    },
+    "imdb": {
+      "id": "tt33296751",
+      "vote_average": 7.5,
+      "vote_count": 5712
+    },
+    "modified": {
+      "time": "2026-06-28T10:06:57.000Z"
+    },
+    "_id": "6a408fd12c8b2895cfae1ee0",
+    "name": "Bộ chỉnh âm",
+    "slug": "bo-chinh-am-2025",
+    "origin_name": "Tuner",
+    "thumb_url": "bo-chinh-am-2025-thumb.jpg",
+    "poster_url": "bo-chinh-am-2025-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "248404",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42024186",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-27T23:25:40.000Z"
+    },
+    "_id": "6a0149ab15072466acf64360",
+    "name": "Your Dear Daddy: Gọi Dad đi Tharn",
+    "slug": "your-dear-daddy-goi-dad-di-tharn",
+    "origin_name": "Your Dear Daddy",
+    "thumb_url": "your-dear-daddy-goi-dad-di-tharn-thumb.jpg",
+    "poster_url": "your-dear-daddy-goi-dad-di-tharn-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "286069",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt36626294",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-27T23:24:22.000Z"
+    },
+    "_id": "6a0a87064f61d761f76b4ada",
+    "name": "Gió Thoảng Tình Theo",
+    "slug": "gio-thoang-tinh-theo",
+    "origin_name": "The Air",
+    "thumb_url": "gio-thoang-tinh-theo-thumb.jpg",
+    "poster_url": "gio-thoang-tinh-theo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313263",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41492869",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-27T23:24:08.000Z"
+    },
+    "_id": "6a38d4aaa432d616e8623bb8",
+    "name": "Siêu Sao Hay Siêu Xịt",
+    "slug": "sieu-sao-hay-sieu-xit",
+    "origin_name": "Lost to Light",
+    "thumb_url": "sieu-sao-hay-sieu-xit-thumb.jpg",
+    "poster_url": "sieu-sao-hay-sieu-xit-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300131",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39443399",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-27T23:23:20.000Z"
+    },
+    "_id": "69da6f99f616ee3807d610b1",
+    "name": "KILL BLUE",
+    "slug": "kill-blue",
+    "origin_name": "KILL BLUE",
+    "thumb_url": "kill-blue-thumb.jpg",
+    "poster_url": "kill-blue-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "299365",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42206645",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-27T23:21:11.000Z"
+    },
+    "_id": "6a1b1a29a432d616e85cc41d",
+    "name": "Chủ Tịch Tập Sự",
+    "slug": "chu-tich-tap-su",
+    "origin_name": "Reborn Rookie",
+    "thumb_url": "chu-tich-tap-su-thumb.jpg",
+    "poster_url": "chu-tich-tap-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315318",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-27T23:19:40.000Z"
+    },
+    "_id": "6a3ff5dee12218d7285f7fd4",
+    "name": "Tiếng Anh Thành Tiếng Yêu",
+    "slug": "tieng-anh-thanh-tieng-yeu",
+    "origin_name": "My Tutor, My Love",
+    "thumb_url": "tieng-anh-thanh-tieng-yeu-thumb.jpg",
+    "poster_url": "tieng-anh-thanh-tieng-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323962",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt43491842",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-27T23:15:49.000Z"
+    },
+    "_id": "6a3ff529173846d6443528f1",
+    "name": "Gieo Gì Gặt nấy - Nông Trại Thẳng Tiến",
+    "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
+    "origin_name": "GBRB: Farm Operation - Go Go Farm",
+    "thumb_url": "gieo-gi-gat-nay-nong-trai-thang-tien-thumb.jpg",
+    "poster_url": "gieo-gi-gat-nay-nong-trai-thang-tien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323997",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "vote_average": 0,
+      "vote_count": 0,
+      "id": null
+    },
+    "modified": {
+      "time": "2026-06-27T23:13:10.000Z"
+    },
+    "_id": "6a047d1b31aa2678f8d3fd05",
+    "name": "Bố Vợ Tôi Là Mafia",
+    "slug": "bo-vo-toi-la-mafia",
+    "origin_name": "bapa mentuaku mafia",
+    "thumb_url": "bo-vo-toi-la-mafia-thumb.jpg",
+    "poster_url": "bo-vo-toi-la-mafia-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "302162",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt39387632",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-27T23:06:49.000Z"
+    },
+    "_id": "6a02de83377c8aaad54cb5d1",
+    "name": "Khúc Ca Linh Hồn Shinsengumi",
+    "slug": "khuc-ca-linh-hon-shinsengumi",
+    "origin_name": "Song of the Samurai - Chapter: Youthful Days in Edo",
+    "thumb_url": "khuc-ca-linh-hon-shinsengumi-thumb.jpg",
+    "poster_url": "khuc-ca-linh-hon-shinsengumi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296206",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42127457",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-27T23:06:10.000Z"
+    },
+    "_id": "6a3ea8611fea2c5da7ae92b2",
+    "name": "Đặc Vụ Kim Tái Khởi Động",
+    "slug": "dac-vu-kim-tai-khoi-dong",
+    "origin_name": "Agent Kim Reactivated",
+    "thumb_url": "dac-vu-kim-tai-khoi-dong-thumb.jpg",
+    "poster_url": "dac-vu-kim-tai-khoi-dong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124394",
+      "season": 5,
+      "vote_average": 8.116,
+      "vote_count": 212
+    },
+    "imdb": {
+      "id": "tt11761176",
+      "vote_average": 7.7,
+      "vote_count": 8173
+    },
+    "modified": {
+      "time": "2026-06-27T22:56:23.000Z"
+    },
+    "_id": "6a3218c74e6584edee4800d7",
+    "name": "Power Book III: Raising Kanan (Phần 5)",
+    "slug": "power-book-iii-raising-kanan-phan-5",
+    "origin_name": "Power Book III: Raising Kanan (Season 5)",
+    "thumb_url": "power-book-iii-raising-kanan-phan-5-thumb.jpg",
+    "poster_url": "power-book-iii-raising-kanan-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1630264",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt40269077",
+      "vote_average": 7.4,
+      "vote_count": 17
+    },
+    "modified": {
+      "time": "2026-06-27T22:39:37.000Z"
+    },
+    "_id": "6a3fc782142ea533b0281c35",
+    "name": "Mảnh Ký Ức Đặc Biệt",
+    "slug": "manh-ky-uc-dac-biet",
+    "origin_name": "A Special Memory",
+    "thumb_url": "manh-ky-uc-dac-biet-thumb.jpg",
+    "poster_url": "manh-ky-uc-dac-biet-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259231",
+      "season": 2,
+      "vote_average": 8.3,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt32792277",
+      "vote_average": 8.4,
+      "vote_count": 292
+    },
+    "modified": {
+      "time": "2026-06-27T19:56:51.000Z"
+    },
+    "_id": "6a3f85f4c52ec62c8b1e5154",
+    "name": "Trảm Thần: Phàm Trần Thần Vực (Phần 2)",
+    "slug": "tram-than-pham-tran-than-vuc-phan-2",
+    "origin_name": "Slay the Gods (Season 2)",
+    "thumb_url": "tram-than-pham-tran-than-vuc-phan-2-thumb.jpg",
+    "poster_url": "tram-than-pham-tran-than-vuc-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289763",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt38960812",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-06-27T18:59:42.000Z"
+    },
+    "_id": "6a3fb51e416b9186f0173245",
+    "name": "Sếp Ơi Mai Đừng Gặp Nhau",
+    "slug": "sep-oi-mai-dung-gap-nhau",
+    "origin_name": "See You at Work Tomorrow!",
+    "thumb_url": "sep-oi-mai-dung-gap-nhau-thumb.jpg",
+    "poster_url": "sep-oi-mai-dung-gap-nhau-poster.jpg",
+    "year": 2026
+  }
+]
