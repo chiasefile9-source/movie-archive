@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "225221",
+      "season": 1,
+      "vote_average": 6.641,
+      "vote_count": 71
+    },
+    "imdb": {
+      "id": "tt24133138",
+      "vote_average": 6.6,
+      "vote_count": 6399
+    },
+    "modified": {
+      "time": "2026-07-02T00:12:57.000Z"
+    },
+    "_id": "6a37826f4be02ecfaffce4bb",
+    "name": "Chuyến Tàu Đêm Kinh Hoàng",
+    "slug": "chuyen-tau-dem-kinh-hoang",
+    "origin_name": "Nightsleeper",
+    "thumb_url": "chuyen-tau-dem-kinh-hoang-thumb.jpg",
+    "poster_url": "chuyen-tau-dem-kinh-hoang-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "293697",
+      "season": 1,
+      "vote_average": 7.2,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39122671",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T22:47:58.000Z"
+    },
+    "_id": "69df6411377c8aaad5412ad8",
+    "name": "Tôi muốn chấm dứt trò chơi tình yêu này",
+    "slug": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay",
+    "origin_name": "I Want to End This Love Game",
+    "thumb_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-thumb.jpg",
+    "poster_url": "toi-muon-cham-dut-tro-choi-tinh-yeu-nay-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "305079",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40388381",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T22:47:43.000Z"
+    },
+    "_id": "6a0e7b3ba432d616e85a61c5",
+    "name": "Ngoảnh Đầu Lại Lau Nước Mắt Cho Cậu",
+    "slug": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau",
+    "origin_name": "Smile After Tears",
+    "thumb_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-thumb.jpg",
+    "poster_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "301944",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt39122769",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T22:47:01.000Z"
+    },
+    "_id": "69d5dfb315072466ace88b55",
+    "name": "Mai Mối Cho Độc Sư",
+    "slug": "mai-moi-cho-doc-su",
+    "origin_name": "Marriage Toxin",
+    "thumb_url": "mai-moi-cho-doc-su-thumb.jpg",
+    "poster_url": "mai-moi-cho-doc-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "310708",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43250938",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T22:46:48.000Z"
+    },
+    "_id": "6a453514c52ec62c8b1f4cbf",
+    "name": "AI Girl: Bạn Gái Người Máy",
+    "slug": "ai-girl-ban-gai-nguoi-may",
+    "origin_name": "AI Girl",
+    "thumb_url": "ai-girl-ban-gai-nguoi-may-thumb.jpg",
+    "poster_url": "ai-girl-ban-gai-nguoi-may-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1202033",
+      "season": null,
+      "vote_average": 9.1,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt32278481",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T22:44:59.000Z"
+    },
+    "_id": "6a4535f8416b9186f0182485",
+    "name": "Enola Holmes 3",
+    "slug": "enola-holmes-3",
+    "origin_name": "Enola Holmes 3",
+    "thumb_url": "enola-holmes-3-thumb.jpg",
+    "poster_url": "enola-holmes-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "239901",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt29489359",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T22:41:57.000Z"
+    },
+    "_id": "692f0e84dbdcc0b3a8a260e8",
+    "name": "Vân Tú Hành",
+    "slug": "van-tu-hanh",
+    "origin_name": "The Legend of Rosy Clouds",
+    "thumb_url": "van-tu-hanh-thumb.jpg",
+    "poster_url": "van-tu-hanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "309104",
+      "season": 1,
+      "vote_average": 6.7,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt39385481",
+      "vote_average": 0,
+      "vote_count": 16
+    },
+    "modified": {
+      "time": "2026-07-01T17:42:09.000Z"
+    },
+    "_id": "6a44c0b04f61d761f775d325",
+    "name": "Siêu Sao Siêu Xịt",
+    "slug": "sieu-sao-sieu-xit-2026",
+    "origin_name": "I Wanna Be Sup'Tar",
+    "thumb_url": "sieu-sao-sieu-xit-2026-thumb.jpg",
+    "poster_url": "sieu-sao-sieu-xit-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "291947",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37481034",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T17:37:20.000Z"
+    },
+    "_id": "6a3cca2416a695c8bb06bccb",
+    "name": "Đêm Qua Tới Gần",
+    "slug": "dem-qua-toi-gan",
+    "origin_name": "Inseparable",
+    "thumb_url": "dem-qua-toi-gan-thumb.jpg",
+    "poster_url": "dem-qua-toi-gan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315083",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt40231500",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T16:19:47.000Z"
+    },
+    "_id": "6a44dbad947ce584f1ca1cb4",
+    "name": "The Edge of Horizon",
+    "slug": "the-edge-of-horizon",
+    "origin_name": "The Edge of Horizon",
+    "thumb_url": "the-edge-of-horizon-thumb.jpg",
+    "poster_url": "the-edge-of-horizon-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "467914",
+      "season": null,
+      "vote_average": 6.2,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt3517106",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T16:18:42.000Z"
+    },
+    "_id": "6a44c620142ea533b028e435",
+    "name": "Thế Giới Đôi Khi",
+    "slug": "the-gioi-doi-khi",
+    "origin_name": "The Land of Sometimes",
+    "thumb_url": "the-gioi-doi-khi-thumb.jpg",
+    "poster_url": "the-gioi-doi-khi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1339713",
+      "season": null,
+      "vote_average": 8.002,
+      "vote_count": 1173
+    },
+    "imdb": {
+      "id": "tt37287335",
+      "vote_average": 8.2,
+      "vote_count": 50183
+    },
+    "modified": {
+      "time": "2026-07-01T15:21:51.000Z"
+    },
+    "_id": "6a44c4e62c0a4eaf265d6437",
+    "name": "Ám Ảnh",
+    "slug": "am-anh-2026",
+    "origin_name": "Obsession",
+    "thumb_url": "am-anh-2026-thumb.jpg",
+    "poster_url": "am-anh-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1314481",
+      "season": null,
+      "vote_average": 6.753,
+      "vote_count": 973
+    },
+    "imdb": {
+      "id": "tt33612209",
+      "vote_average": 6.6,
+      "vote_count": 53400
+    },
+    "modified": {
+      "time": "2026-07-01T15:21:24.000Z"
+    },
+    "_id": "69e8835231aa2678f8cbc332",
+    "name": "Yêu Nữ Thích Hàng Hiệu 2",
+    "slug": "yeu-nu-thich-hang-hieu-2",
+    "origin_name": "The Devil Wears Prada 2",
+    "thumb_url": "yeu-nu-thich-hang-hieu-2-thumb-1782894079322.jpg",
+    "poster_url": "yeu-nu-thich-hang-hieu-2-poster-1782894080830.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "206916",
+      "season": 1,
+      "vote_average": 6.719,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt10016724",
+      "vote_average": 6.5,
+      "vote_count": 3537
+    },
+    "modified": {
+      "time": "2026-07-01T15:12:46.000Z"
+    },
+    "_id": "6a3aaacf16a695c8bb066105",
+    "name": "Góc Tối Nhân Bản",
+    "slug": "goc-toi-nhan-ban",
+    "origin_name": "Orphan Black: Echoes",
+    "thumb_url": "goc-toi-nhan-ban-thumb.jpg",
+    "poster_url": "goc-toi-nhan-ban-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325577",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T15:06:46.000Z"
+    },
+    "_id": "6a3a3b92947ce584f1c8313a",
+    "name": "Vợ Vốn Hiền Lương",
+    "slug": "vo-von-hien-luong",
+    "origin_name": "Inherently Kind",
+    "thumb_url": "vo-von-hien-luong-thumb.jpg",
+    "poster_url": "vo-von-hien-luong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325860",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T15:06:16.000Z"
+    },
+    "_id": "6a3ba9a76092900b411e8a75",
+    "name": "Con Đường Hành Y",
+    "slug": "con-duong-hanh-y",
+    "origin_name": "Trial of Healer",
+    "thumb_url": "con-duong-hanh-y-thumb.jpg",
+    "poster_url": "con-duong-hanh-y-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T15:05:28.000Z"
+    },
+    "_id": "6a44c806e10cfe56c4a27d7f",
+    "name": "Mảnh Ghép Bí Ẩn",
+    "slug": "manh-ghep-bi-an",
+    "origin_name": "The Murder Puzzle",
+    "thumb_url": "manh-ghep-bi-an-thumb.jpg",
+    "poster_url": "manh-ghep-bi-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324768",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T15:02:19.000Z"
+    },
+    "_id": "6a34b6e84e6584edee4885c6",
+    "name": "Ý Chí Kim Cương",
+    "slug": "y-chi-kim-cuong",
+    "origin_name": "Strong Will",
+    "thumb_url": "y-chi-kim-cuong-thumb.jpg",
+    "poster_url": "y-chi-kim-cuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324548",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21097138",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T15:01:49.000Z"
+    },
+    "_id": "6a34ba42de5e0f1b85d4960a",
+    "name": "Tám Tay Lừa Đảo",
+    "slug": "tam-tay-lua-dao",
+    "origin_name": "The Scammer Games",
+    "thumb_url": "tam-tay-lua-dao-thumb.jpg",
+    "poster_url": "tam-tay-lua-dao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "257085",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21858998",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T14:50:44.000Z"
+    },
+    "_id": "6a28132a4be02ecfaffa13aa",
+    "name": "Thế Giới Em Và Tôi",
+    "slug": "the-gioi-em-va-toi",
+    "origin_name": "The Two Faces of Thatri",
+    "thumb_url": "the-gioi-em-va-toi-thumb.jpg",
+    "poster_url": "the-gioi-em-va-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315312",
+      "season": 1,
+      "vote_average": 7.7,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt40388379",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T14:50:20.000Z"
+    },
+    "_id": "6a15468cbaf8dde7e3ca412b",
+    "name": "Fukami nghịch ngợm ngoài sức tưởng tượng",
+    "slug": "fukami-nghich-ngom-ngoai-suc-tuong-tuong",
+    "origin_name": "Unexpectedly Naughty Fukami",
+    "thumb_url": "fukami-nghich-ngom-ngoai-suc-tuong-tuong-thumb.jpg",
+    "poster_url": "fukami-nghich-ngom-ngoai-suc-tuong-tuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1274214",
+      "season": null,
+      "vote_average": 9,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt30761647",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T14:29:14.000Z"
+    },
+    "_id": "6a44ae39a432d616e86452b5",
+    "name": "Papa Zola: The Movie",
+    "slug": "papa-zola-the-movie",
+    "origin_name": "Papa Zola: The Movie",
+    "thumb_url": "papa-zola-the-movie-thumb.jpg",
+    "poster_url": "papa-zola-the-movie-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "251600",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36872458",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T14:28:45.000Z"
+    },
+    "_id": "692eea661563911f044968ed",
+    "name": "Thiên Hương",
+    "slug": "thien-huong",
+    "origin_name": "The Eternal Fragrance",
+    "thumb_url": "thien-huong-thumb.jpg",
+    "poster_url": "thien-huong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "230311",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt28131816",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-01T14:22:09.000Z"
+    },
+    "_id": "692eb1314f4196d57ff194d4",
+    "name": "Tình Yêu Có Pháo Hoa",
+    "slug": "tinh-yeu-co-phao-hoa",
+    "origin_name": "Love Has Fireworks",
+    "thumb_url": "tinh-yeu-co-phao-hoa-thumb.jpg",
+    "poster_url": "tinh-yeu-co-phao-hoa-poster.jpg",
+    "year": 2025
+  }
+]
