@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296206",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42127457",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T22:37:23.000Z"
+    },
+    "_id": "6a3ea8611fea2c5da7ae92b2",
+    "name": "Đặc Vụ Kim Tái Khởi Động",
+    "slug": "dac-vu-kim-tai-khoi-dong",
+    "origin_name": "Agent Kim Reactivated",
+    "thumb_url": "dac-vu-kim-tai-khoi-dong-thumb.jpg",
+    "poster_url": "dac-vu-kim-tai-khoi-dong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "299167",
+      "season": 1,
+      "vote_average": 9.171,
+      "vote_count": 38
+    },
+    "imdb": {
+      "id": "tt34991493",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T22:35:56.000Z"
+    },
+    "_id": "6a0b02307544913d492aafe1",
+    "name": "Trang Trại Dutton",
+    "slug": "trang-trai-dutton",
+    "origin_name": "Dutton Ranch",
+    "thumb_url": "trang-trai-dutton-thumb.jpg",
+    "poster_url": "trang-trai-dutton-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "82684",
+      "season": 4,
+      "vote_average": 8.398,
+      "vote_count": 865
+    },
+    "imdb": {
+      "id": "tt9054364",
+      "vote_average": 8,
+      "vote_count": 22072
+    },
+    "modified": {
+      "time": "2026-07-03T22:30:13.000Z"
+    },
+    "_id": "69d5e11f7e5a0662d4dc7c5f",
+    "name": "Lúc Đó Tôi Đã Chuyển Sinh Thành Slime (Phần 4)",
+    "slug": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4",
+    "origin_name": "That Time I Got Reincarnated as a Slime (Season 4)",
+    "thumb_url": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-thumb.jpg",
+    "poster_url": "luc-do-toi-da-chuyen-sinh-thanh-slime-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326189",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43611695",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T22:29:58.000Z"
+    },
+    "_id": "6a45f28a6997f14383d62108",
+    "name": "Chủng Mặc Viên",
+    "slug": "chung-mac-vien",
+    "origin_name": "Zhong Mo Yuan",
+    "thumb_url": "chung-mac-vien-thumb.jpg",
+    "poster_url": "chung-mac-vien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278850",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38856645",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T20:08:08.000Z"
+    },
+    "_id": "69eee82b748ca16f0862fc03",
+    "name": "Love of Silom",
+    "slug": "love-silom",
+    "origin_name": "Love of Silom",
+    "thumb_url": "รักแห่งสีลม-thumb.jpg",
+    "poster_url": "รักแห่งสีลม-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "291947",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37481034",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T18:42:10.000Z"
+    },
+    "_id": "6a3cca2416a695c8bb06bccb",
+    "name": "Đêm Qua Tới Gần",
+    "slug": "dem-qua-toi-gan",
+    "origin_name": "Inseparable",
+    "thumb_url": "dem-qua-toi-gan-thumb.jpg",
+    "poster_url": "dem-qua-toi-gan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "239901",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt29489359",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T18:42:01.000Z"
+    },
+    "_id": "692f0e84dbdcc0b3a8a260e8",
+    "name": "Vân Tú Hành",
+    "slug": "van-tu-hanh",
+    "origin_name": "The Legend of Rosy Clouds",
+    "thumb_url": "van-tu-hanh-thumb.jpg",
+    "poster_url": "van-tu-hanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "277439",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt34675596",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T16:09:23.000Z"
+    },
+    "_id": "6a22435bde5e0f1b85d13c09",
+    "name": "Dòng Sông Tội Ác",
+    "slug": "dong-song-toi-ac-2026",
+    "origin_name": "Cape Fear",
+    "thumb_url": "dong-song-toi-ac-2026-thumb.jpg",
+    "poster_url": "dong-song-toi-ac-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "252107",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt32140872",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T16:09:09.000Z"
+    },
+    "_id": "6a190a6a4f61d761f76ddb90",
+    "name": "Căn Cứ Star City",
+    "slug": "can-cu-star-city",
+    "origin_name": "Star City",
+    "thumb_url": "can-cu-star-city-thumb.jpg",
+    "poster_url": "can-cu-star-city-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "237748",
+      "season": 2,
+      "vote_average": 7.198,
+      "vote_count": 58
+    },
+    "imdb": {
+      "id": "tt26448526",
+      "vote_average": 7.1,
+      "vote_count": 5370
+    },
+    "modified": {
+      "time": "2026-07-03T15:34:10.000Z"
+    },
+    "_id": "68e87457bc85dba74e70256f",
+    "name": "Tâm Trí Rực Rỡ (Phần 2)",
+    "slug": "tam-tri-ruc-ro-phan-2",
+    "origin_name": "Brilliant Minds (Season 2)",
+    "thumb_url": "tam-tri-ruc-ro-phan-2-thumb.jpg",
+    "poster_url": "tam-tri-ruc-ro-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "125988",
+      "season": 3,
+      "vote_average": 8.165,
+      "vote_count": 2131
+    },
+    "imdb": {
+      "id": "tt14688458",
+      "vote_average": 8.1,
+      "vote_count": 214043
+    },
+    "modified": {
+      "time": "2026-07-03T14:54:59.000Z"
+    },
+    "_id": "6a4762471fea2c5da7b03673",
+    "name": "Silo (Phần 3)",
+    "slug": "silo-phan-3",
+    "origin_name": "Silo (Season 3)",
+    "thumb_url": "silo-phan-3-thumb.jpg",
+    "poster_url": "silo-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "203744",
+      "season": 2,
+      "vote_average": 7.2,
+      "vote_count": 305
+    },
+    "imdb": {
+      "id": "tt16418808",
+      "vote_average": 7.4,
+      "vote_count": 41815
+    },
+    "modified": {
+      "time": "2026-07-03T14:38:48.000Z"
+    },
+    "_id": "6a3774ffc52ec62c8b1cc5bf",
+    "name": "Thám Tử Sugar (Phần 2)",
+    "slug": "tham-tu-sugar-phan-2",
+    "origin_name": "Sugar (Season 2)",
+    "thumb_url": "tham-tu-sugar-phan-2-thumb.jpg",
+    "poster_url": "tham-tu-sugar-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322055",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43592244",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T14:34:01.000Z"
+    },
+    "_id": "6a3dff79a432d616e8632a17",
+    "name": "Lời Đề Nghị Của Công Tố Viên",
+    "slug": "loi-de-nghi-cua-cong-to-vien",
+    "origin_name": "The Prosecutor's Proposal",
+    "thumb_url": "loi-de-nghi-cua-cong-to-vien-thumb.jpg",
+    "poster_url": "loi-de-nghi-cua-cong-to-vien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325860",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T14:30:55.000Z"
+    },
+    "_id": "6a3ba9a76092900b411e8a75",
+    "name": "Con Đường Hành Y",
+    "slug": "con-duong-hanh-y",
+    "origin_name": "Trial of Healer",
+    "thumb_url": "con-duong-hanh-y-thumb.jpg",
+    "poster_url": "con-duong-hanh-y-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323146",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T14:29:42.000Z"
+    },
+    "_id": "6a44c806e10cfe56c4a27d7f",
+    "name": "Mảnh Ghép Bí Ẩn",
+    "slug": "manh-ghep-bi-an",
+    "origin_name": "The Murder Puzzle",
+    "thumb_url": "manh-ghep-bi-an-thumb.jpg",
+    "poster_url": "manh-ghep-bi-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "129272",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 6
+    },
+    "imdb": {
+      "id": "tt15816496",
+      "vote_average": 0,
+      "vote_count": 122
+    },
+    "modified": {
+      "time": "2026-07-03T14:25:24.000Z"
+    },
+    "_id": "62d1e31f0376e41264a0aad7",
+    "name": "Nghịch Thiên Chí Tôn",
+    "origin_name": "Against The Sky Supreme",
+    "thumb_url": "nghich-thien-chi-ton-thumb.jpg",
+    "poster_url": "nghich-thien-chi-ton-poster.jpg",
+    "slug": "nghich-thien-chi-ton",
+    "year": 2021
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259844",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T14:25:07.000Z"
+    },
+    "_id": "6902db510ffdad56a3512b84",
+    "name": "Linh Vũ Đại Lục",
+    "slug": "linh-vu-dai-luc",
+    "origin_name": "Legend of Lingwu Continent",
+    "thumb_url": "linh-vu-dai-luc-thumb.jpg",
+    "poster_url": "linh-vu-dai-luc-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "251600",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36872458",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T11:59:20.000Z"
+    },
+    "_id": "692eea661563911f044968ed",
+    "name": "Thiên Hương",
+    "slug": "thien-huong",
+    "origin_name": "The Eternal Fragrance",
+    "thumb_url": "thien-huong-thumb.jpg",
+    "poster_url": "thien-huong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312534",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T11:58:39.000Z"
+    },
+    "_id": "6a45f6e812f0391f00db11d1",
+    "name": "Hoa Hồng Rực Lửa",
+    "slug": "hoa-hong-ruc-lua",
+    "origin_name": "Burning Rose",
+    "thumb_url": "hoa-hong-ruc-lua-thumb.jpg",
+    "poster_url": "hoa-hong-ruc-lua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325867",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43599619",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T11:54:50.000Z"
+    },
+    "_id": "6a3d17f9e10cfe56c4a1217a",
+    "name": "Nữ Tử Trường An",
+    "slug": "nu-tu-truong-an",
+    "origin_name": "The Ladies of Chang'an",
+    "thumb_url": "nu-tu-truong-an-thumb.jpg",
+    "poster_url": "nu-tu-truong-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326886",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T11:52:18.000Z"
+    },
+    "_id": "6a473e6cbaf8dde7e3d39848",
+    "name": "Quý Nhân Mang Nhiều Điềm Lành",
+    "slug": "quy-nhan-mang-nhieu-diem-lanh",
+    "origin_name": "贵人多旺事",
+    "thumb_url": "quy-nhan-mang-nhieu-diem-lanh-thumb.jpg",
+    "poster_url": "quy-nhan-mang-nhieu-diem-lanh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "261594",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T11:48:57.000Z"
+    },
+    "_id": "6a3631f2947ce584f1c76d6c",
+    "name": "Nhất Niệm Sơ Kiến Cẩm Y Dao",
+    "slug": "nhat-niem-so-kien-cam-y-dao",
+    "origin_name": "Angels and Guards",
+    "thumb_url": "nhat-niem-so-kien-cam-y-dao-thumb.jpg",
+    "poster_url": "nhat-niem-so-kien-cam-y-dao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326042",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T11:48:44.000Z"
+    },
+    "_id": "6a3a072df7f43ec64efc8da5",
+    "name": "Chiếu Điện Hoa Khai",
+    "slug": "chieu-dien-hoa-khai",
+    "origin_name": "Camellias",
+    "thumb_url": "chieu-dien-hoa-khai-thumb.jpg",
+    "poster_url": "chieu-dien-hoa-khai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326376",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-03T11:48:18.000Z"
+    },
+    "_id": "6a3f858da6726df8fd3d2da5",
+    "name": "Môi Giới Đại Cát",
+    "slug": "moi-gioi-dai-cat",
+    "origin_name": "The Found Family",
+    "thumb_url": "moi-gioi-dai-cat-thumb.jpg",
+    "poster_url": "moi-gioi-dai-cat-poster.jpg",
+    "year": 2026
+  }
+]
