@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1424435",
+      "season": null,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt33514933",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T23:09:10.000Z"
+    },
+    "_id": "6a492f781fea2c5da7b0bd76",
+    "name": "Đôi Cánh Kinh Hoàng",
+    "slug": "doi-canh-kinh-hoang",
+    "origin_name": "Wings of Dread",
+    "thumb_url": "doi-canh-kinh-hoang-thumb.jpg",
+    "poster_url": "doi-canh-kinh-hoang-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1340206",
+      "season": null,
+      "vote_average": 7.17,
+      "vote_count": 103
+    },
+    "imdb": {
+      "id": "tt33296751",
+      "vote_average": 7.5,
+      "vote_count": 5712
+    },
+    "modified": {
+      "time": "2026-07-04T23:07:05.000Z"
+    },
+    "_id": "6a408fd12c8b2895cfae1ee0",
+    "name": "Bộ chỉnh âm",
+    "slug": "bo-chinh-am-2025",
+    "origin_name": "Tuner",
+    "thumb_url": "bo-chinh-am-2025-thumb.jpg",
+    "poster_url": "bo-chinh-am-2025-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "251600",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36872458",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T23:04:49.000Z"
+    },
+    "_id": "692eea661563911f044968ed",
+    "name": "Thiên Hương",
+    "slug": "thien-huong",
+    "origin_name": "The Eternal Fragrance",
+    "thumb_url": "thien-huong-thumb.jpg",
+    "poster_url": "thien-huong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313263",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41492869",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T23:02:08.000Z"
+    },
+    "_id": "6a38d4aaa432d616e8623bb8",
+    "name": "Siêu Sao Hay Siêu Xịt",
+    "slug": "sieu-sao-hay-sieu-xit",
+    "origin_name": "Lost to Light",
+    "thumb_url": "sieu-sao-hay-sieu-xit-thumb.jpg",
+    "poster_url": "sieu-sao-hay-sieu-xit-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "299365",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42206645",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T23:01:09.000Z"
+    },
+    "_id": "6a1b1a29a432d616e85cc41d",
+    "name": "Chủ Tịch Tập Sự",
+    "slug": "chu-tich-tap-su",
+    "origin_name": "Reborn Rookie",
+    "thumb_url": "chu-tich-tap-su-thumb.jpg",
+    "poster_url": "chu-tich-tap-su-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296206",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42127457",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T23:00:30.000Z"
+    },
+    "_id": "6a3ea8611fea2c5da7ae92b2",
+    "name": "Đặc Vụ Kim Tái Khởi Động",
+    "slug": "dac-vu-kim-tai-khoi-dong",
+    "origin_name": "Agent Kim Reactivated",
+    "thumb_url": "dac-vu-kim-tai-khoi-dong-thumb.jpg",
+    "poster_url": "dac-vu-kim-tai-khoi-dong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "286069",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt36626294",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T23:00:09.000Z"
+    },
+    "_id": "6a0a87064f61d761f76b4ada",
+    "name": "Gió Thoảng Tình Theo",
+    "slug": "gio-thoang-tinh-theo",
+    "origin_name": "The Air",
+    "thumb_url": "gio-thoang-tinh-theo-thumb.jpg",
+    "poster_url": "gio-thoang-tinh-theo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "91801",
+      "season": 4,
+      "vote_average": 8.2,
+      "vote_count": 285
+    },
+    "imdb": {
+      "id": "tt11034066",
+      "vote_average": 7.6,
+      "vote_count": 3317
+    },
+    "modified": {
+      "time": "2026-07-04T22:55:57.000Z"
+    },
+    "_id": "69d1d78e32adc86a1e86e515",
+    "name": "Vào Ma Giới Rồi Đấy! Iruma-kun (Phần 4)",
+    "slug": "vao-ma-gioi-roi-day-iruma-kun-phan-4",
+    "origin_name": "Welcome to Demon School! Iruma-kun (Season 4)",
+    "thumb_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-thumb.jpg",
+    "poster_url": "vao-ma-gioi-roi-day-iruma-kun-phan-4-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "206916",
+      "season": 1,
+      "vote_average": 6.719,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt10016724",
+      "vote_average": 6.5,
+      "vote_count": 3537
+    },
+    "modified": {
+      "time": "2026-07-04T22:55:13.000Z"
+    },
+    "_id": "6a3aaacf16a695c8bb066105",
+    "name": "Góc Tối Nhân Bản",
+    "slug": "goc-toi-nhan-ban",
+    "origin_name": "Orphan Black: Echoes",
+    "thumb_url": "goc-toi-nhan-ban-thumb.jpg",
+    "poster_url": "goc-toi-nhan-ban-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "239901",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt29489359",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T17:37:39.000Z"
+    },
+    "_id": "692f0e84dbdcc0b3a8a260e8",
+    "name": "Vân Tú Hành",
+    "slug": "van-tu-hanh",
+    "origin_name": "The Legend of Rosy Clouds",
+    "thumb_url": "van-tu-hanh-thumb.jpg",
+    "poster_url": "van-tu-hanh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "291947",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt37481034",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T17:19:52.000Z"
+    },
+    "_id": "6a3cca2416a695c8bb06bccb",
+    "name": "Đêm Qua Tới Gần",
+    "slug": "dem-qua-toi-gan",
+    "origin_name": "Inseparable",
+    "thumb_url": "dem-qua-toi-gan-thumb.jpg",
+    "poster_url": "dem-qua-toi-gan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323146",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T14:02:05.000Z"
+    },
+    "_id": "6a44c806e10cfe56c4a27d7f",
+    "name": "Mảnh Ghép Bí Ẩn",
+    "slug": "manh-ghep-bi-an",
+    "origin_name": "The Murder Puzzle",
+    "thumb_url": "manh-ghep-bi-an-thumb.jpg",
+    "poster_url": "manh-ghep-bi-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325860",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T14:01:56.000Z"
+    },
+    "_id": "6a3ba9a76092900b411e8a75",
+    "name": "Con Đường Hành Y",
+    "slug": "con-duong-hanh-y",
+    "origin_name": "Trial of Healer",
+    "thumb_url": "con-duong-hanh-y-thumb.jpg",
+    "poster_url": "con-duong-hanh-y-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323569",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43619367",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T13:48:02.000Z"
+    },
+    "_id": "6a489081a6726df8fd3ef473",
+    "name": "The Servant Prince",
+    "slug": "the-servant-prince",
+    "origin_name": "The Servant Prince",
+    "thumb_url": "the-servant-prince-thumb.jpg",
+    "poster_url": "the-servant-prince-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "308216",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt41846573",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T13:47:38.000Z"
+    },
+    "_id": "6a48a8ee16a695c8bb092257",
+    "name": "Chiến Binh Ánh Sáng TEO",
+    "slug": "chien-binh-anh-sang-teo",
+    "origin_name": "Ultraman Teo",
+    "thumb_url": "chien-binh-anh-sang-teo-thumb.jpg",
+    "poster_url": "chien-binh-anh-sang-teo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "201859",
+      "season": 3,
+      "vote_average": 7,
+      "vote_count": 25
+    },
+    "imdb": {
+      "id": "tt19800744",
+      "vote_average": 7.1,
+      "vote_count": 500
+    },
+    "modified": {
+      "time": "2026-07-04T13:47:16.000Z"
+    },
+    "_id": "6a190bc9a6726df8fd360d29",
+    "name": "Love Class  (Phần 3)",
+    "slug": "love-class-phan-3",
+    "origin_name": "Love Class (Season 3)",
+    "thumb_url": "love-class-phan-3-thumb.jpg",
+    "poster_url": "love-class-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "308834",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T13:46:49.000Z"
+    },
+    "_id": "6a37afa9f7f43ec64efc2b72",
+    "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
+    "slug": "ve-nen-giac-mo-ngay-cuoi",
+    "origin_name": "In Love Forever",
+    "thumb_url": "ve-nen-giac-mo-ngay-cuoi-thumb.jpg",
+    "poster_url": "ve-nen-giac-mo-ngay-cuoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316407",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt42445481",
+      "vote_average": 8,
+      "vote_count": 7
+    },
+    "modified": {
+      "time": "2026-07-04T13:46:11.000Z"
+    },
+    "_id": "6a1eadea4f61d761f76ef11c",
+    "name": "Lost To You",
+    "slug": "lost-to-you",
+    "origin_name": "Lost To You",
+    "thumb_url": "lost-to-you-thumb.jpg",
+    "poster_url": "lost-to-you-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323962",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt43491842",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T13:45:27.000Z"
+    },
+    "_id": "6a3ff529173846d6443528f1",
+    "name": "Gieo Gì Gặt nấy - Nông Trại Thẳng Tiến",
+    "slug": "gieo-gi-gat-nay-nong-trai-thang-tien",
+    "origin_name": "GBRB: Farm Operation - Go Go Farm",
+    "thumb_url": "gieo-gi-gat-nay-nong-trai-thang-tien-thumb.jpg",
+    "poster_url": "gieo-gi-gat-nay-nong-trai-thang-tien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "107116",
+      "season": 1,
+      "vote_average": 7.4,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T13:30:24.000Z"
+    },
+    "_id": "62d841c00376e41264b61afa",
+    "name": "Vô Thượng Thần Đế",
+    "origin_name": "Supreme God Emperor",
+    "thumb_url": "vo-thuong-than-de-thumb.jpg",
+    "poster_url": "vo-thuong-than-de-poster.jpg",
+    "slug": "vo-thuong-than-de",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "67063",
+      "season": 6,
+      "vote_average": 7,
+      "vote_count": 52
+    },
+    "imdb": {
+      "id": "tt12882132",
+      "vote_average": 6.8,
+      "vote_count": 450
+    },
+    "modified": {
+      "time": "2026-07-04T13:29:41.000Z"
+    },
+    "_id": "695a2015f65d22d617a3e52a",
+    "name": "Người Trên Vạn Người (Phần 6)",
+    "slug": "nguoi-tren-van-nguoi-phan-6",
+    "origin_name": "Hitori No Shita - The Outcast (Season 6)",
+    "thumb_url": "nguoi-tren-van-nguoi-phan-6-thumb.jpg",
+    "poster_url": "nguoi-tren-van-nguoi-phan-6-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "282158",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T13:29:31.000Z"
+    },
+    "_id": "69800ed8da6ce23e8e97b912",
+    "name": "Trạch Thiên Ký",
+    "slug": "trach-thien-ky-2026",
+    "origin_name": "Fighter of the Destiny 3D",
+    "thumb_url": "trach-thien-ky-2026-thumb.jpg",
+    "poster_url": "trach-thien-ky-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319037",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43408130",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-04T13:26:31.000Z"
+    },
+    "_id": "6a4890c6e12218d728612703",
+    "name": "Gió Nổi Hàn Dương, Xuân Sơn Cảnh",
+    "slug": "a-winter-sun-wakes-the-wind-in-spring-hills-dream",
+    "origin_name": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
+    "thumb_url": "a-winter-sun-wakes-the-wind-in-spring-hills-dream-thumb.jpg",
+    "poster_url": "a-winter-sun-wakes-the-wind-in-spring-hills-dream-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "223911",
+      "season": 1,
+      "vote_average": 8.8,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt27432264",
+      "vote_average": 8.6,
+      "vote_count": 727
+    },
+    "modified": {
+      "time": "2026-07-04T13:25:59.000Z"
+    },
+    "_id": "65711707efed8b7739873bf4",
+    "name": "Tiên Nghịch",
+    "slug": "tien-nghich",
+    "origin_name": "Renegade Immortal",
+    "thumb_url": "tien-nghich-thumb.jpg",
+    "poster_url": "tien-nghich-poster.jpg",
+    "year": 2023
+  }
+]
