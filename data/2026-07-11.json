@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "206916",
+      "season": 1,
+      "vote_average": 6.719,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt10016724",
+      "vote_average": 6.5,
+      "vote_count": 3537
+    },
+    "modified": {
+      "time": "2026-07-10T12:53:07.000Z"
+    },
+    "_id": "6a3aaacf16a695c8bb066105",
+    "name": "Góc Tối Nhân Bản",
+    "slug": "goc-toi-nhan-ban",
+    "origin_name": "Orphan Black: Echoes",
+    "thumb_url": "goc-toi-nhan-ban-thumb.jpg",
+    "poster_url": "goc-toi-nhan-ban-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287527",
+      "season": 1,
+      "vote_average": 8.242,
+      "vote_count": 149
+    },
+    "imdb": {
+      "id": "tt10970762",
+      "vote_average": 8.1,
+      "vote_count": 1757
+    },
+    "modified": {
+      "time": "2026-07-09T22:10:48.000Z"
+    },
+    "_id": "6a2f82c9e14b2140fc718709",
+    "name": "Những Bản Di Chúc (Phần 1)",
+    "slug": "nhung-ban-di-chuc-phan-1",
+    "origin_name": "The Testaments (Season 1)",
+    "thumb_url": "nhung-ban-di-chuc-phan-1-thumb.jpg",
+    "poster_url": "nhung-ban-di-chuc-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "262388",
+      "season": 1,
+      "vote_average": 8.4,
+      "vote_count": 85
+    },
+    "imdb": {
+      "id": "tt33253070",
+      "vote_average": 6.3,
+      "vote_count": 884
+    },
+    "modified": {
+      "time": "2026-07-09T16:38:17.000Z"
+    },
+    "_id": "6a4f38f54f61d761f77894df",
+    "name": "Bóng Ma Báo Thù",
+    "slug": "bong-ma-bao-thu",
+    "origin_name": "M.I.A.",
+    "thumb_url": "bong-ma-bao-thu-thumb.jpg",
+    "poster_url": "bong-ma-bao-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306118",
+      "season": 1,
+      "vote_average": 9.438,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt39013436",
+      "vote_average": 6.5,
+      "vote_count": 971
+    },
+    "modified": {
+      "time": "2026-07-08T23:40:27.000Z"
+    },
+    "_id": "6947d108da6ce23e8e932ab7",
+    "name": "Ranh Giới Định Mệnh",
+    "slug": "ranh-gioi-dinh-menh",
+    "origin_name": "Bound by Fate",
+    "thumb_url": "ranh-gioi-dinh-menh-thumb.jpg",
+    "poster_url": "ranh-gioi-dinh-menh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "110181",
+      "season": 1,
+      "vote_average": 7.6,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt20769560",
+      "vote_average": 0,
+      "vote_count": 131
+    },
+    "modified": {
+      "time": "2026-07-07T13:42:46.000Z"
+    },
+    "_id": "68e4bc4d69d7b4696cc59469",
+    "name": "Võ Thần Chúa Tể",
+    "slug": "vo-than-chua-te",
+    "origin_name": "Martial Master",
+    "thumb_url": "vo-than-chua-te-thumb.jpg",
+    "poster_url": "vo-than-chua-te-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316540",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43321335",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T13:41:51.000Z"
+    },
+    "_id": "6a488f1d12f0391f00dbb5af",
+    "name": "Chàng Rể Hào Môn",
+    "slug": "bittersweet-love",
+    "origin_name": "Bittersweet Love",
+    "thumb_url": "bittersweet-love-thumb.jpg",
+    "poster_url": "bittersweet-love-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1688279",
+      "season": null,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T13:38:09.000Z"
+    },
+    "_id": "6a4c9ed1416b9186f01a2096",
+    "name": "Mùa Không Tên",
+    "slug": "mua-khong-ten",
+    "origin_name": "The Nameless Season",
+    "thumb_url": "mua-khong-ten-thumb.jpg",
+    "poster_url": "mua-khong-ten-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "156571",
+      "season": 5,
+      "vote_average": 7.5,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt20835030",
+      "vote_average": 0,
+      "vote_count": 72
+    },
+    "modified": {
+      "time": "2026-07-07T13:35:43.000Z"
+    },
+    "_id": "69537b9f54ca9185bba81a38",
+    "name": "Vĩnh Sinh (Phần 5)",
+    "slug": "vinh-sinh-phan-5",
+    "origin_name": "Immortality (Season 5)",
+    "thumb_url": "vinh-sinh-phan-5-thumb.jpg",
+    "poster_url": "vinh-sinh-phan-5-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323990",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt43311796",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T13:35:13.000Z"
+    },
+    "_id": "6a4c9e21e14b2140fc779b49",
+    "name": "Are the Sexy Buttocks Not Good?",
+    "slug": "are-the-sexy-buttocks-not-good",
+    "origin_name": "Are the Sexy Buttocks Not Good?",
+    "thumb_url": "are-the-sexy-buttocks-not-good-thumb.jpg",
+    "poster_url": "are-the-sexy-buttocks-not-good-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326844",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt43609776",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T13:18:28.000Z"
+    },
+    "_id": "6a4c981bf7f43ec64e009d6f",
+    "name": "100 Ngày Trở Thành Vua",
+    "slug": "100-ngay-tro-thanh-vua",
+    "origin_name": "Crowned in a Hundred Days",
+    "thumb_url": "100-ngay-tro-thanh-vua-thumb.jpg",
+    "poster_url": "100-ngay-tro-thanh-vua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "106449",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 72
+    },
+    "imdb": {
+      "id": "tt12879782",
+      "vote_average": 8.6,
+      "vote_count": 603
+    },
+    "modified": {
+      "time": "2026-07-07T13:11:06.000Z"
+    },
+    "_id": "6264079bdb43524328b143c6",
+    "name": "Phàm Nhân Tu Tiên",
+    "origin_name": "Phàm Nhân Tu Tiên Chi Phàm Nhân Phong Khởi Thiên Nam, Fan Ren Xiu Xian Zhuan",
+    "thumb_url": "pham-nhan-tu-tien-thumb.jpg",
+    "slug": "pham-nhan-tu-tien",
+    "year": 2020,
+    "poster_url": "pham-nhan-tu-tien-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "236534",
+      "season": 1,
+      "vote_average": 8.2,
+      "vote_count": 12
+    },
+    "imdb": {
+      "id": "tt33501934",
+      "vote_average": 8.6,
+      "vote_count": 320
+    },
+    "modified": {
+      "time": "2026-07-07T12:39:55.000Z"
+    },
+    "_id": "67209e4087a7be4c2dd1c330",
+    "name": "Mục Thần Ký",
+    "slug": "muc-than-ky",
+    "origin_name": "Tales of Qin Mu",
+    "thumb_url": "muc-than-ky-thumb.jpg",
+    "poster_url": "muc-than-ky-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "220850",
+      "season": 1,
+      "vote_average": 8.6,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt28210907",
+      "vote_average": 8.6,
+      "vote_count": 124
+    },
+    "modified": {
+      "time": "2026-07-07T12:32:26.000Z"
+    },
+    "_id": "69042d90b234f5d94935f1ca",
+    "name": "Luyện Khí Mười Vạn Năm",
+    "slug": "luyen-khi-muoi-van-nam",
+    "origin_name": "One Hundred Thousand Years of Qi Refining",
+    "thumb_url": "luyen-khi-muoi-van-nam-thumb.jpg",
+    "poster_url": "luyen-khi-muoi-van-nam-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "122612",
+      "season": 1,
+      "vote_average": 9.5,
+      "vote_count": 4
+    },
+    "imdb": {
+      "id": "tt34882755",
+      "vote_average": 0,
+      "vote_count": 10
+    },
+    "modified": {
+      "time": "2026-07-07T12:32:11.000Z"
+    },
+    "_id": "68e4ba284f7493692abb949c",
+    "name": "Vạn Giới Độc Tôn",
+    "slug": "van-gioi-doc-ton",
+    "origin_name": "Ten Thousand Worlds",
+    "thumb_url": "van-gioi-doc-ton-thumb.jpg",
+    "poster_url": "van-gioi-doc-ton-poster.jpg",
+    "year": 2021
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324551",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43611919",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T12:31:03.000Z"
+    },
+    "_id": "6a3e1ffb173846d64434c1e0",
+    "name": "Đế Sư Trường An",
+    "slug": "de-su-truong-an",
+    "origin_name": "The Imperial Master",
+    "thumb_url": "de-su-truong-an-thumb.jpg",
+    "poster_url": "de-su-truong-an-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326376",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T12:21:05.000Z"
+    },
+    "_id": "6a3f858da6726df8fd3d2da5",
+    "name": "Môi Giới Đại Cát",
+    "slug": "moi-gioi-dai-cat",
+    "origin_name": "The Found Family",
+    "thumb_url": "moi-gioi-dai-cat-thumb.jpg",
+    "poster_url": "moi-gioi-dai-cat-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326384",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43618109",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T12:20:47.000Z"
+    },
+    "_id": "6a449f20142ea533b028d43b",
+    "name": "Đứng Trên Đầu Gió",
+    "slug": "dung-tren-dau-gio",
+    "origin_name": "Riding the Wind",
+    "thumb_url": "dung-tren-dau-gio-thumb.jpg",
+    "poster_url": "dung-tren-dau-gio-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326615",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T12:20:10.000Z"
+    },
+    "_id": "6a45f4aa4be02ecfafff8988",
+    "name": "Hoán Sa Lục",
+    "slug": "hoan-sa-luc",
+    "origin_name": "The Silk Master from the Future",
+    "thumb_url": "hoan-sa-luc-thumb.jpg",
+    "poster_url": "hoan-sa-luc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T12:19:53.000Z"
+    },
+    "_id": "6a4b319fc52ec62c8b20d888",
+    "name": "Cô Thành Chiếu: Kinh Biến",
+    "slug": "co-thanh-chieu-kinh-bien",
+    "origin_name": "Dynasty of the Undead: Mutate",
+    "thumb_url": "co-thanh-chieu-kinh-bien-thumb.jpg",
+    "poster_url": "co-thanh-chieu-kinh-bien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326886",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T12:11:41.000Z"
+    },
+    "_id": "6a473e6cbaf8dde7e3d39848",
+    "name": "Quý Nhân Mang Nhiều Điềm Lành",
+    "slug": "quy-nhan-mang-nhieu-diem-lanh",
+    "origin_name": "Auspicious Nobles",
+    "thumb_url": "quy-nhan-mang-nhieu-diem-lanh-thumb.jpg",
+    "poster_url": "quy-nhan-mang-nhieu-diem-lanh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312534",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T12:11:16.000Z"
+    },
+    "_id": "6a45f6e812f0391f00db11d1",
+    "name": "Hoa Hồng Rực Lửa",
+    "slug": "hoa-hong-ruc-lua",
+    "origin_name": "Burning Rose",
+    "thumb_url": "hoa-hong-ruc-lua-thumb.jpg",
+    "poster_url": "hoa-hong-ruc-lua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "291392",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36979936",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T12:09:03.000Z"
+    },
+    "_id": "6a4a2e9ede5e0f1b85d8eb9e",
+    "name": "Chó Hoang Và Xương",
+    "slug": "cho-hoang-va-xuong",
+    "origin_name": "Love For You",
+    "thumb_url": "cho-hoang-va-xuong-thumb.jpg",
+    "poster_url": "cho-hoang-va-xuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "153217",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38939446",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-06T19:23:50.000Z"
+    },
+    "_id": "6a4b4ccf2c8b2895cfb0794b",
+    "name": "Tia sáng của ngày mai",
+    "slug": "tia-sang-cua-ngay-mai",
+    "origin_name": "Sparks of Tomorrow",
+    "thumb_url": "tia-sang-cua-ngay-mai-thumb.jpg",
+    "poster_url": "tia-sang-cua-ngay-mai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "239901",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt29489359",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-06T17:17:10.000Z"
+    },
+    "_id": "692f0e84dbdcc0b3a8a260e8",
+    "name": "Vân Tú Hành",
+    "slug": "van-tu-hanh",
+    "origin_name": "The Legend of Rosy Clouds",
+    "thumb_url": "van-tu-hanh-thumb.jpg",
+    "poster_url": "van-tu-hanh-poster.jpg",
+    "year": 2025
+  }
+]
