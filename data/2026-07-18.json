@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292365",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-17T01:57:08.000Z"
+    },
+    "_id": "6a59298412f0391f00e0d8af",
+    "name": "Bí Kíp Nghịch Tập Của Thiếu Hiệp",
+    "slug": "bi-kip-nghich-tap-cua-thieu-hiep",
+    "origin_name": "Young Swordsman",
+    "thumb_url": "bi-kip-nghich-tap-cua-thieu-hiep-thumb.jpg",
+    "poster_url": "bi-kip-nghich-tap-cua-thieu-hiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324113",
+      "season": 1,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-17T01:55:19.000Z"
+    },
+    "_id": "6a5929174be02ecfaf05565b",
+    "name": "Tình Yêu Và Tội Lỗi",
+    "slug": "tinh-yeu-va-toi-loi",
+    "origin_name": "Sin And Love",
+    "thumb_url": "tinh-yeu-va-toi-loi-thumb.jpg",
+    "poster_url": "tinh-yeu-va-toi-loi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325211",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43613798",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-17T01:53:31.000Z"
+    },
+    "_id": "6a5928abc52ec62c8b253bfb",
+    "name": "San Hô Đen (Phần 1)",
+    "slug": "san-ho-den",
+    "origin_name": "Black Coral (Season 1)",
+    "thumb_url": "san-ho-den-thumb.jpg",
+    "poster_url": "san-ho-den-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "286506",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36204806",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-17T01:52:11.000Z"
+    },
+    "_id": "692eae53d786e0eb70f48454",
+    "name": "Bách Hoa Sát",
+    "slug": "bach-hoa-sat",
+    "origin_name": "Blossoms of Power",
+    "thumb_url": "bach-hoa-sat-thumb.jpg",
+    "poster_url": "bach-hoa-sat-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324235",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-17T01:48:54.000Z"
+    },
+    "_id": "6a59279616a695c8bb0e3610",
+    "name": "Xuân Hoa Yến (Phần 1)",
+    "slug": "xuan-hoa-yen",
+    "origin_name": "Blooms for Her (Season 1)",
+    "thumb_url": "xuan-hoa-yen-thumb.jpg",
+    "poster_url": "xuan-hoa-yen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324768",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-17T01:46:33.000Z"
+    },
+    "_id": "6a34b6e84e6584edee4885c6",
+    "name": "Ý Chí Kim Cương",
+    "slug": "y-chi-kim-cuong",
+    "origin_name": "Strong Will",
+    "thumb_url": "y-chi-kim-cuong-thumb.jpg",
+    "poster_url": "y-chi-kim-cuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "107463",
+      "season": 2,
+      "vote_average": 6.9,
+      "vote_count": 19
+    },
+    "imdb": {
+      "id": "tt28259824",
+      "vote_average": 7.7,
+      "vote_count": 571
+    },
+    "modified": {
+      "time": "2026-07-17T01:45:44.000Z"
+    },
+    "_id": "6a2a2b93de5e0f1b85d2aeaf",
+    "name": "Tiêu Nhân (Phần 2)",
+    "slug": "tieu-nhan-phan-2",
+    "origin_name": "Blades of the Guardians Season 2",
+    "thumb_url": "tieu-nhan-phan-2-thumb.jpg",
+    "poster_url": "tieu-nhan-phan-2-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322055",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43592244",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-17T01:45:24.000Z"
+    },
+    "_id": "6a3dff79a432d616e8632a17",
+    "name": "Lời Đề Nghị Của Công Tố Viên",
+    "slug": "loi-de-nghi-cua-cong-to-vien",
+    "origin_name": "The Prosecutor's Proposal",
+    "thumb_url": "loi-de-nghi-cua-cong-to-vien-thumb.jpg",
+    "poster_url": "loi-de-nghi-cua-cong-to-vien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326886",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-17T01:44:24.000Z"
+    },
+    "_id": "6a473e6cbaf8dde7e3d39848",
+    "name": "Quý Nhân Mang Nhiều Điềm Lành",
+    "slug": "quy-nhan-mang-nhieu-diem-lanh",
+    "origin_name": "Auspicious Nobles",
+    "thumb_url": "quy-nhan-mang-nhieu-diem-lanh-thumb.jpg",
+    "poster_url": "quy-nhan-mang-nhieu-diem-lanh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324548",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21097138",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-17T01:42:59.000Z"
+    },
+    "_id": "6a34ba42de5e0f1b85d4960a",
+    "name": "Tám Tay Lừa Đảo",
+    "slug": "tam-tay-lua-dao",
+    "origin_name": "The Scammer Games",
+    "thumb_url": "tam-tay-lua-dao-thumb.jpg",
+    "poster_url": "tam-tay-lua-dao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "99966",
+      "season": 1,
+      "vote_average": 8.278,
+      "vote_count": 4288
+    },
+    "imdb": {
+      "vote_average": 7.6,
+      "vote_count": 87687,
+      "id": "tt14169960"
+    },
+    "modified": {
+      "time": "2026-07-16T15:21:14.000Z"
+    },
+    "_id": "620a1d8a0ff00506b6fb1bf2",
+    "name": "Ngôi Trường Xác Sống",
+    "origin_name": "All of Us Are Dead",
+    "thumb_url": "ngoi-truong-xac-song-thumb.jpg",
+    "slug": "ngoi-truong-xac-song",
+    "year": 2021,
+    "poster_url": "ngoi-truong-xac-song-poster.jpg"
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "262388",
+      "season": 1,
+      "vote_average": 8.4,
+      "vote_count": 85
+    },
+    "imdb": {
+      "id": "tt33253070",
+      "vote_average": 6.3,
+      "vote_count": 884
+    },
+    "modified": {
+      "time": "2026-07-13T21:38:24.000Z"
+    },
+    "_id": "6a4f38f54f61d761f77894df",
+    "name": "Bóng Ma Báo Thù",
+    "slug": "bong-ma-bao-thu",
+    "origin_name": "M.I.A.",
+    "thumb_url": "bong-ma-bao-thu-thumb.jpg",
+    "poster_url": "bong-ma-bao-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323411",
+      "season": 1,
+      "vote_average": 6.8,
+      "vote_count": 17
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-13T13:41:03.000Z"
+    },
+    "_id": "6a2fde1cf7f43ec64efa9e11",
+    "name": "Ma Cà Rồng: Lestat de Lioncourt",
+    "slug": "ma-ca-rong-lestat-de-lioncourt",
+    "origin_name": "The Vampire Lestat (Interview with the Vampire Season 3)",
+    "thumb_url": "ma-ca-rong-lestat-de-lioncourt-thumb.jpg",
+    "poster_url": "ma-ca-rong-lestat-de-lioncourt-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "124394",
+      "season": 5,
+      "vote_average": 8.116,
+      "vote_count": 212
+    },
+    "imdb": {
+      "id": "tt11761176",
+      "vote_average": 7.7,
+      "vote_count": 8173
+    },
+    "modified": {
+      "time": "2026-07-12T14:00:34.000Z"
+    },
+    "_id": "6a3218c74e6584edee4800d7",
+    "name": "Power Book III: Raising Kanan (Phần 5)",
+    "slug": "power-book-iii-raising-kanan-phan-5",
+    "origin_name": "Power Book III: Raising Kanan (Season 5)",
+    "thumb_url": "power-book-iii-raising-kanan-phan-5-thumb.jpg",
+    "poster_url": "power-book-iii-raising-kanan-phan-5-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "206916",
+      "season": 1,
+      "vote_average": 6.719,
+      "vote_count": 32
+    },
+    "imdb": {
+      "id": "tt10016724",
+      "vote_average": 6.5,
+      "vote_count": 3537
+    },
+    "modified": {
+      "time": "2026-07-10T12:53:07.000Z"
+    },
+    "_id": "6a3aaacf16a695c8bb066105",
+    "name": "Góc Tối Nhân Bản",
+    "slug": "goc-toi-nhan-ban",
+    "origin_name": "Orphan Black: Echoes",
+    "thumb_url": "goc-toi-nhan-ban-thumb.jpg",
+    "poster_url": "goc-toi-nhan-ban-poster.jpg",
+    "year": 2024
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287527",
+      "season": 1,
+      "vote_average": 8.242,
+      "vote_count": 149
+    },
+    "imdb": {
+      "id": "tt10970762",
+      "vote_average": 8.1,
+      "vote_count": 1757
+    },
+    "modified": {
+      "time": "2026-07-09T22:10:48.000Z"
+    },
+    "_id": "6a2f82c9e14b2140fc718709",
+    "name": "Những Bản Di Chúc (Phần 1)",
+    "slug": "nhung-ban-di-chuc-phan-1",
+    "origin_name": "The Testaments (Season 1)",
+    "thumb_url": "nhung-ban-di-chuc-phan-1-thumb.jpg",
+    "poster_url": "nhung-ban-di-chuc-phan-1-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306118",
+      "season": 1,
+      "vote_average": 9.438,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt39013436",
+      "vote_average": 6.5,
+      "vote_count": 971
+    },
+    "modified": {
+      "time": "2026-07-08T23:40:27.000Z"
+    },
+    "_id": "6947d108da6ce23e8e932ab7",
+    "name": "Ranh Giới Định Mệnh",
+    "slug": "ranh-gioi-dinh-menh",
+    "origin_name": "Bound by Fate",
+    "thumb_url": "ranh-gioi-dinh-menh-thumb.jpg",
+    "poster_url": "ranh-gioi-dinh-menh-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "110181",
+      "season": 1,
+      "vote_average": 7.6,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt20769560",
+      "vote_average": 0,
+      "vote_count": 131
+    },
+    "modified": {
+      "time": "2026-07-07T13:42:46.000Z"
+    },
+    "_id": "68e4bc4d69d7b4696cc59469",
+    "name": "Võ Thần Chúa Tể",
+    "slug": "vo-than-chua-te",
+    "origin_name": "Martial Master",
+    "thumb_url": "vo-than-chua-te-thumb.jpg",
+    "poster_url": "vo-than-chua-te-poster.jpg",
+    "year": 2020
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316540",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43321335",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T13:41:51.000Z"
+    },
+    "_id": "6a488f1d12f0391f00dbb5af",
+    "name": "Chàng Rể Hào Môn",
+    "slug": "bittersweet-love",
+    "origin_name": "Bittersweet Love",
+    "thumb_url": "bittersweet-love-thumb.jpg",
+    "poster_url": "bittersweet-love-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1688279",
+      "season": null,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T13:38:09.000Z"
+    },
+    "_id": "6a4c9ed1416b9186f01a2096",
+    "name": "Mùa Không Tên",
+    "slug": "mua-khong-ten",
+    "origin_name": "The Nameless Season",
+    "thumb_url": "mua-khong-ten-thumb.jpg",
+    "poster_url": "mua-khong-ten-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "156571",
+      "season": 5,
+      "vote_average": 7.5,
+      "vote_count": 11
+    },
+    "imdb": {
+      "id": "tt20835030",
+      "vote_average": 0,
+      "vote_count": 72
+    },
+    "modified": {
+      "time": "2026-07-07T13:35:43.000Z"
+    },
+    "_id": "69537b9f54ca9185bba81a38",
+    "name": "Vĩnh Sinh (Phần 5)",
+    "slug": "vinh-sinh-phan-5",
+    "origin_name": "Immortality (Season 5)",
+    "thumb_url": "vinh-sinh-phan-5-thumb.jpg",
+    "poster_url": "vinh-sinh-phan-5-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "323990",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt43311796",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T13:35:13.000Z"
+    },
+    "_id": "6a4c9e21e14b2140fc779b49",
+    "name": "Are the Sexy Buttocks Not Good?",
+    "slug": "are-the-sexy-buttocks-not-good",
+    "origin_name": "Are the Sexy Buttocks Not Good?",
+    "thumb_url": "are-the-sexy-buttocks-not-good-thumb.jpg",
+    "poster_url": "are-the-sexy-buttocks-not-good-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326844",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt43609776",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-07T13:18:28.000Z"
+    },
+    "_id": "6a4c981bf7f43ec64e009d6f",
+    "name": "100 Ngày Trở Thành Vua",
+    "slug": "100-ngay-tro-thanh-vua",
+    "origin_name": "Crowned in a Hundred Days",
+    "thumb_url": "100-ngay-tro-thanh-vua-thumb.jpg",
+    "poster_url": "100-ngay-tro-thanh-vua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "106449",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 72
+    },
+    "imdb": {
+      "id": "tt12879782",
+      "vote_average": 8.6,
+      "vote_count": 603
+    },
+    "modified": {
+      "time": "2026-07-07T13:11:06.000Z"
+    },
+    "_id": "6264079bdb43524328b143c6",
+    "name": "Phàm Nhân Tu Tiên",
+    "origin_name": "Phàm Nhân Tu Tiên Chi Phàm Nhân Phong Khởi Thiên Nam, Fan Ren Xiu Xian Zhuan",
+    "thumb_url": "pham-nhan-tu-tien-thumb.jpg",
+    "slug": "pham-nhan-tu-tien",
+    "year": 2020,
+    "poster_url": "pham-nhan-tu-tien-poster.jpg"
+  }
+]
