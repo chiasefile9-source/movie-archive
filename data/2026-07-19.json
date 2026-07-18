@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287075",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39311004",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-19T00:16:00.000Z"
+    },
+    "_id": "6a5bb3fc173846d6443da2ea",
+    "name": "Thiếu Nữ Phép Thuật Nanoha EXCEEDS",
+    "slug": "thieu-nu-phep-thuat-nanoha-exceeds",
+    "origin_name": "Magical Girl Lyrical NANOHA EXCEEDS Gun Blaze Vengeance",
+    "thumb_url": "thieu-nu-phep-thuat-nanoha-exceeds-thumb.jpg",
+    "poster_url": "thieu-nu-phep-thuat-nanoha-exceeds-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "260463",
+      "season": 1,
+      "vote_average": 9.077,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt37532356",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T23:51:30.000Z"
+    },
+    "_id": "69d1cc78da6ce23e8eac3148",
+    "name": "Song Mệnh Cõi Hoàng Tuyền",
+    "slug": "song-menh-coi-hoang-tuyen",
+    "origin_name": "Daemons of the Shadow Realm",
+    "thumb_url": "song-menh-coi-hoang-tuyen-thumb.jpg",
+    "poster_url": "song-menh-coi-hoang-tuyen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "316294",
+      "season": 1,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt39380468",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T23:49:58.000Z"
+    },
+    "_id": "6a1e873a2c8b2895cfa7d675",
+    "name": "PAYBACK: Báo Thù",
+    "slug": "payback-bao-thu",
+    "origin_name": "Payback",
+    "thumb_url": "payback-bao-thu-thumb.jpg",
+    "poster_url": "payback-bao-thu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "4710",
+      "season": null,
+      "vote_average": 7.203,
+      "vote_count": 426
+    },
+    "imdb": {
+      "id": "tt0060675",
+      "vote_average": 7.4,
+      "vote_count": 18464
+    },
+    "modified": {
+      "time": "2026-07-18T23:28:07.000Z"
+    },
+    "_id": "6a5ba567142ea533b0308d63",
+    "name": "Masculin Féminin",
+    "slug": "masculin-feminin",
+    "origin_name": "Masculin Féminin",
+    "thumb_url": "masculin-feminin-thumb.jpg",
+    "poster_url": "masculin-feminin-poster.jpg",
+    "year": 1966
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1468683",
+      "season": null,
+      "vote_average": 5.8,
+      "vote_count": 37
+    },
+    "imdb": {
+      "id": "tt36619926",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T23:28:07.000Z"
+    },
+    "_id": "6a5ba5e41fea2c5da7b74541",
+    "name": "Trái tim ngừng nhịp: Mãi yêu",
+    "slug": "trai-tim-ngung-nhip-mai-yeu",
+    "origin_name": "Heartstopper Forever",
+    "thumb_url": "trai-tim-ngung-nhip-mai-yeu-thumb.jpg",
+    "poster_url": "trai-tim-ngung-nhip-mai-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278624",
+      "season": 1,
+      "vote_average": 6.2,
+      "vote_count": 46
+    },
+    "imdb": {
+      "id": "tt34866681",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T23:06:41.000Z"
+    },
+    "_id": "6a5ba1cae14b2140fc7d260a",
+    "name": "Cuộc Đua Sinh Tử",
+    "slug": "cuoc-dua-sinh-tu",
+    "origin_name": "Lucky",
+    "thumb_url": "cuoc-dua-sinh-tu-thumb.jpg",
+    "poster_url": "cuoc-dua-sinh-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313263",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41492869",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:46:31.000Z"
+    },
+    "_id": "6a38d4aaa432d616e8623bb8",
+    "name": "Siêu Sao Hay Siêu Xịt",
+    "slug": "sieu-sao-hay-sieu-xit",
+    "origin_name": "Lost to Light",
+    "thumb_url": "sieu-sao-hay-sieu-xit-thumb.jpg",
+    "poster_url": "sieu-sao-hay-sieu-xit-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300727",
+      "season": 1,
+      "vote_average": 5.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt43357366",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:32:58.000Z"
+    },
+    "_id": "6a5b9caae14b2140fc7d1f4f",
+    "name": "Phi Vụ Chung Cư",
+    "slug": "phi-vu-chung-cu",
+    "origin_name": "The Apartment Job",
+    "thumb_url": "phi-vu-chung-cu-thumb.jpg",
+    "poster_url": "phi-vu-chung-cu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296437",
+      "season": 1,
+      "vote_average": 6.9,
+      "vote_count": 5
+    },
+    "imdb": {
+      "id": "tt41054252",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:22:16.000Z"
+    },
+    "_id": "6a5b9a28a432d616e86bfb1f",
+    "name": "Lãnh Chúa Vùng Đất Không Cư Dân",
+    "slug": "lanh-chua-vung-dat-khong-cu-dan",
+    "origin_name": "The Frontier Lord Begins with Zero Subjects",
+    "thumb_url": "lanh-chua-vung-dat-khong-cu-dan-thumb.jpg",
+    "poster_url": "lanh-chua-vung-dat-khong-cu-dan-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "307585",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt41293320",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:21:25.000Z"
+    },
+    "_id": "6a5b99f54f61d761f77d7236",
+    "name": "Xin Hãy Thứ Lỗi Cho Các Em Trai Của Tôi",
+    "slug": "xin-hay-thu-loi-cho-cac-em-trai-cua-toi",
+    "origin_name": "Please Excuse My Younger Brothers",
+    "thumb_url": "xin-hay-thu-loi-cho-cac-em-trai-cua-toi-thumb.jpg",
+    "poster_url": "xin-hay-thu-loi-cho-cac-em-trai-cua-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295609",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:20:35.000Z"
+    },
+    "_id": "6a5b68ac947ce584f1d1724b",
+    "name": "Tôi Là Nhậm Phi Phàm",
+    "slug": "toi-la-nham-phi-pham",
+    "origin_name": "I Am Fei Fan",
+    "thumb_url": "toi-la-nham-phi-pham-thumb.jpg",
+    "poster_url": "toi-la-nham-phi-pham-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "270603",
+      "season": 1,
+      "vote_average": 8.8,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt33334216",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:19:47.000Z"
+    },
+    "_id": "6a5b5ba7de5e0f1b85dedf8b",
+    "name": "Trọng Giáp Hiệp Sĩ Chuyển Sinh Bị Lưu Đày Trở Nên Vô Địch Nhờ Kiến Thức Về Game",
+    "slug": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
+    "origin_name": "The Exiled Heavy Knight Knows How to Game the System",
+    "thumb_url": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game-thumb.jpg",
+    "poster_url": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "287028",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt36290385",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:19:29.000Z"
+    },
+    "_id": "6a5b5f04173846d6443d3c2f",
+    "name": "Vẽ Xong Đi, Rồi Hãy Chết!",
+    "slug": "ve-xong-di-roi-hay-chet",
+    "origin_name": "Draw This, Then Die!",
+    "thumb_url": "ve-xong-di-roi-hay-chet-thumb.jpg",
+    "poster_url": "ve-xong-di-roi-hay-chet-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "308834",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:19:25.000Z"
+    },
+    "_id": "6a37afa9f7f43ec64efc2b72",
+    "name": "Vẽ Nên Giấc Mơ Ngày Cưới",
+    "slug": "ve-nen-giac-mo-ngay-cuoi",
+    "origin_name": "In Love Forever",
+    "thumb_url": "ve-nen-giac-mo-ngay-cuoi-thumb.jpg",
+    "poster_url": "ve-nen-giac-mo-ngay-cuoi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "138502",
+      "season": 2,
+      "vote_average": 8.6,
+      "vote_count": 711
+    },
+    "imdb": {
+      "id": "tt16026746",
+      "vote_average": 8.7,
+      "vote_count": 50140
+    },
+    "modified": {
+      "time": "2026-07-18T22:18:58.000Z"
+    },
+    "_id": "6a49dc48c52ec62c8b2069b0",
+    "name": "Dị Nhân '97 (Phần 2)",
+    "slug": "di-nhan-97-phan-2",
+    "origin_name": "X-Men '97 (Season 2)",
+    "thumb_url": "di-nhan-97-phan-2-thumb-1783225705485.jpg",
+    "poster_url": "di-nhan-97-phan-2-poster-1783225709042.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324768",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:18:33.000Z"
+    },
+    "_id": "6a34b6e84e6584edee4885c6",
+    "name": "Ý Chí Kim Cương",
+    "slug": "y-chi-kim-cuong",
+    "origin_name": "Strong Will",
+    "thumb_url": "y-chi-kim-cuong-thumb.jpg",
+    "poster_url": "y-chi-kim-cuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292365",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:18:21.000Z"
+    },
+    "_id": "6a59298412f0391f00e0d8af",
+    "name": "Bí Kíp Nghịch Tập Của Thiếu Hiệp",
+    "slug": "bi-kip-nghich-tap-cua-thieu-hiep",
+    "origin_name": "Young Swordsman",
+    "thumb_url": "bi-kip-nghich-tap-cua-thieu-hiep-thumb.jpg",
+    "poster_url": "bi-kip-nghich-tap-cua-thieu-hiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324335",
+      "season": 1,
+      "vote_average": 2,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt41276849",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:18:05.000Z"
+    },
+    "_id": "6a5b909a6092900b4127b0ea",
+    "name": "Lời Giới Thiệu Của Tiền Bối Iwamoto",
+    "slug": "loi-gioi-thieu-cua-tien-boi-iwamoto",
+    "origin_name": "Recommendations from Iwamoto-Senpai",
+    "thumb_url": "loi-gioi-thieu-cua-tien-boi-iwamoto-thumb.jpg",
+    "poster_url": "loi-gioi-thieu-cua-tien-boi-iwamoto-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326445",
+      "season": 1,
+      "vote_average": 6.8,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt43618445",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:17:51.000Z"
+    },
+    "_id": "6a5b904a4be02ecfaf06d3a9",
+    "name": "Tỉnh Táo Rồi, Lookpeach",
+    "slug": "tinh-tao-roi-lookpeach",
+    "origin_name": "Peach and Me",
+    "thumb_url": "tinh-tao-roi-lookpeach-thumb.jpg",
+    "poster_url": "tinh-tao-roi-lookpeach-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "285992",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36626299",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:17:32.000Z"
+    },
+    "_id": "6a5b902c12f0391f00e252b0",
+    "name": "Xích Tình Rực Lửa",
+    "slug": "xich-tinh-ruc-lua",
+    "origin_name": "The Fire",
+    "thumb_url": "xich-tinh-ruc-lua-thumb.jpg",
+    "poster_url": "xich-tinh-ruc-lua-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296003",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt35418163",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:17:10.000Z"
+    },
+    "_id": "6a5b64a7a6726df8fd45673a",
+    "name": "Tiểu Phương",
+    "slug": "tieu-phuong",
+    "origin_name": "Xiao Fang",
+    "thumb_url": "tieu-phuong-thumb.jpg",
+    "poster_url": "tieu-phuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "306121",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39026840",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-18T22:16:40.000Z"
+    },
+    "_id": "69d9fe91db41bcecb8ddf777",
+    "name": "Giọt Rượu Thần Thánh",
+    "slug": "giot-ruou-than-thanh-anime",
+    "origin_name": "The Drops of God",
+    "thumb_url": "giot-ruou-than-thanh-anime-thumb.jpg",
+    "poster_url": "giot-ruou-than-thanh-anime-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "203744",
+      "season": 2,
+      "vote_average": 7.2,
+      "vote_count": 305
+    },
+    "imdb": {
+      "id": "tt16418808",
+      "vote_average": 7.4,
+      "vote_count": 41815
+    },
+    "modified": {
+      "time": "2026-07-18T22:16:17.000Z"
+    },
+    "_id": "6a3774ffc52ec62c8b1cc5bf",
+    "name": "Thám Tử Sugar (Phần 2)",
+    "slug": "tham-tu-sugar-phan-2",
+    "origin_name": "Sugar (Season 2)",
+    "thumb_url": "tham-tu-sugar-phan-2-thumb.jpg",
+    "poster_url": "tham-tu-sugar-phan-2-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "125988",
+      "season": 3,
+      "vote_average": 8.165,
+      "vote_count": 2131
+    },
+    "imdb": {
+      "id": "tt14688458",
+      "vote_average": 8.1,
+      "vote_count": 214043
+    },
+    "modified": {
+      "time": "2026-07-18T22:15:41.000Z"
+    },
+    "_id": "6a4762471fea2c5da7b03673",
+    "name": "Silo (Phần 3)",
+    "slug": "silo-phan-3",
+    "origin_name": "Silo (Season 3)",
+    "thumb_url": "silo-phan-3-thumb.jpg",
+    "poster_url": "silo-phan-3-poster.jpg",
+    "year": 2026
+  }
+]
