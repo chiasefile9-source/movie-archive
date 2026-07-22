@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "301345",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-22T20:37:57.000Z"
+    },
+    "_id": "6a4a2ddc4f61d761f7773432",
+    "name": "Kinh Thành Kỳ Thám",
+    "slug": "kinh-thanh-ky-tham",
+    "origin_name": "Cases Between Us",
+    "thumb_url": "kinh-thanh-ky-tham-thumb.jpg",
+    "poster_url": "kinh-thanh-ky-tham-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295558",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-22T20:35:19.000Z"
+    },
+    "_id": "692f0fc8dbdcc0b3a8a26128",
+    "name": "Tước Cốt",
+    "slug": "tuoc-cot",
+    "origin_name": "Key to the Phoenix Heart",
+    "thumb_url": "tuoc-cot-thumb.jpg",
+    "poster_url": "tuoc-cot-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1275779",
+      "season": null,
+      "vote_average": 7.2,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt15047880",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-22T17:41:41.000Z"
+    },
+    "_id": "6a22563d6997f14383cf9dfb",
+    "name": "Thời Khắc Công Bố",
+    "slug": "thoi-khac-cong-bo",
+    "origin_name": "Disclosure Day",
+    "thumb_url": "thoi-khac-cong-bo-thumb.jpg",
+    "poster_url": "thoi-khac-cong-bo-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "257085",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21858998",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-20T22:49:04.000Z"
+    },
+    "_id": "6a28132a4be02ecfaffa13aa",
+    "name": "Thế Giới Em Và Tôi",
+    "slug": "the-gioi-em-va-toi",
+    "origin_name": "The Two Faces of Thatri",
+    "thumb_url": "the-gioi-em-va-toi-thumb.jpg",
+    "poster_url": "the-gioi-em-va-toi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325211",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43613798",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-20T22:11:20.000Z"
+    },
+    "_id": "6a5928abc52ec62c8b253bfb",
+    "name": "San Hô Đen (Phần 1)",
+    "slug": "san-ho-den",
+    "origin_name": "Black Coral (Season 1)",
+    "thumb_url": "san-ho-den-thumb.jpg",
+    "poster_url": "san-ho-den-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324768",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-20T21:55:04.000Z"
+    },
+    "_id": "6a34b6e84e6584edee4885c6",
+    "name": "Ý Chí Kim Cương",
+    "slug": "y-chi-kim-cuong",
+    "origin_name": "Strong Will",
+    "thumb_url": "y-chi-kim-cuong-thumb.jpg",
+    "poster_url": "y-chi-kim-cuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "286506",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36204806",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-20T18:35:27.000Z"
+    },
+    "_id": "692eae53d786e0eb70f48454",
+    "name": "Bách Hoa Sát",
+    "slug": "bach-hoa-sat",
+    "origin_name": "Blossoms of Power",
+    "thumb_url": "bach-hoa-sat-thumb.jpg",
+    "poster_url": "bach-hoa-sat-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289139",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37443650",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-20T18:35:12.000Z"
+    },
+    "_id": "692eb53354d8512f7b4577e2",
+    "name": "Giây Phút Ấy Vượt Giới Hạn",
+    "slug": "giay-phut-ay-vuot-gioi-han",
+    "origin_name": "Overdo",
+    "thumb_url": "giay-phut-ay-vuot-gioi-han-thumb.jpg",
+    "poster_url": "giay-phut-ay-vuot-gioi-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292365",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-20T16:07:14.000Z"
+    },
+    "_id": "6a59298412f0391f00e0d8af",
+    "name": "Bí Kíp Nghịch Tập Của Thiếu Hiệp",
+    "slug": "bi-kip-nghich-tap-cua-thieu-hiep",
+    "origin_name": "Young Swordsman",
+    "thumb_url": "bi-kip-nghich-tap-cua-thieu-hiep-thumb.jpg",
+    "poster_url": "bi-kip-nghich-tap-cua-thieu-hiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "94997",
+      "season": 3,
+      "vote_average": 8.3,
+      "vote_count": 6242
+    },
+    "imdb": {
+      "id": "tt11198330",
+      "vote_average": 8.3,
+      "vote_count": 523146
+    },
+    "modified": {
+      "time": "2026-07-20T16:06:51.000Z"
+    },
+    "_id": "6a3a58714e6584edee499a5e",
+    "name": "Gia Tộc Rồng (Phần 3)",
+    "slug": "gia-toc-rong-phan-3",
+    "origin_name": "House of the Dragon (Season 3)",
+    "thumb_url": "gia-toc-rong-phan-3-thumb.jpg",
+    "poster_url": "gia-toc-rong-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319082",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-20T16:06:33.000Z"
+    },
+    "_id": "6a5ca0a34e6584edee53b881",
+    "name": "Lẽ Nào Lại Thế",
+    "slug": "le-nao-lai-the",
+    "origin_name": "No Way! My Bro Is the Emperor",
+    "thumb_url": "le-nao-lai-the-thumb.jpg",
+    "poster_url": "le-nao-lai-the-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "286345",
+      "season": 1,
+      "vote_average": 7.5,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt41293157",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-20T00:36:18.000Z"
+    },
+    "_id": "6a5d081f4f61d761f77e7887",
+    "name": "Ác Nữ Nửa Vời ~Truyền Kì Hoán Hồn Đổi Xác~",
+    "slug": "ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac",
+    "origin_name": "Though I Am an Inept Villainess",
+    "thumb_url": "ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac-thumb.jpg",
+    "poster_url": "ac-nu-nua-voi-truyen-ki-hoan-hon-doi-xac-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295071",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    "imdb": {
+      "id": "tt38049145",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-19T23:13:22.000Z"
+    },
+    "_id": "6a5cf328947ce584f1d29caf",
+    "name": "Tạm Biệt, Lara",
+    "slug": "tam-biet-lara",
+    "origin_name": "Goodbye, Lara",
+    "thumb_url": "tam-biet-lara-thumb.jpg",
+    "poster_url": "tam-biet-lara-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "94664",
+      "season": 3,
+      "vote_average": 8.561,
+      "vote_count": 1507
+    },
+    "imdb": {
+      "id": "tt13293588",
+      "vote_average": 8.2,
+      "vote_count": 35393
+    },
+    "modified": {
+      "time": "2026-07-19T23:13:09.000Z"
+    },
+    "_id": "6a4a1509c52ec62c8b20839b",
+    "name": "Thất nghiệp chuyển sinh (Phần 3)",
+    "slug": "that-nghiep-chuyen-sinh-phan-3",
+    "origin_name": "Mushoku Tensei: Jobless Reincarnation (Season 3)",
+    "thumb_url": "that-nghiep-chuyen-sinh-phan-3-thumb.jpg",
+    "poster_url": "that-nghiep-chuyen-sinh-phan-3-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "153217",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38939446",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-19T23:12:54.000Z"
+    },
+    "_id": "6a4b4ccf2c8b2895cfb0794b",
+    "name": "Tia sáng của ngày mai",
+    "slug": "tia-sang-cua-ngay-mai",
+    "origin_name": "Sparks of Tomorrow",
+    "thumb_url": "tia-sang-cua-ngay-mai-thumb.jpg",
+    "poster_url": "tia-sang-cua-ngay-mai-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "223564",
+      "season": 3,
+      "vote_average": 8.202,
+      "vote_count": 203
+    },
+    "imdb": {
+      "id": "tt28919914",
+      "vote_average": 6.9,
+      "vote_count": 3747
+    },
+    "modified": {
+      "time": "2026-07-19T22:35:55.000Z"
+    },
+    "_id": "6a5ced1e2c0a4eaf2665e784",
+    "name": "100 cô bạn gái yêu bạn rất rất rất rất rất nhiều (Phần 3)",
+    "slug": "100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3",
+    "origin_name": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (Season 3)",
+    "thumb_url": "100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-thumb.jpg",
+    "poster_url": "100-co-ban-gai-yeu-ban-rat-rat-rat-rat-rat-nhieu-phan-3-poster.jpg",
+    "year": 2023
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300267",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41293112",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-19T22:35:31.000Z"
+    },
+    "_id": "6a5cec862c0a4eaf2665e6b2",
+    "name": "Hậu Phương Mạnh Nhất Thế Giới - Nhà Khai Phá Tân Binh Của Vương Quốc Mê Cung",
+    "slug": "hau-phuong-manh-nhat-the-gioi-nha-khai-pha-tan-binh-cua-vuong-quoc-me-cung",
+    "origin_name": "The World's Strongest Rearguard",
+    "thumb_url": "hau-phuong-manh-nhat-the-gioi-nha-khai-pha-tan-binh-cua-vuong-quoc-me-cung-thumb.jpg",
+    "poster_url": "hau-phuong-manh-nhat-the-gioi-nha-khai-pha-tan-binh-cua-vuong-quoc-me-cung-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "838617",
+      "season": null,
+      "vote_average": 7.1,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt13863968",
+      "vote_average": 8,
+      "vote_count": 1671
+    },
+    "modified": {
+      "time": "2026-07-19T22:24:33.000Z"
+    },
+    "_id": "6a5ceb6112f0391f00e349b4",
+    "name": "Sự Khôn Ngoan Từ Tổn Thương",
+    "slug": "su-khon-ngoan-tu-ton-thuong",
+    "origin_name": "The Wisdom of Trauma",
+    "thumb_url": "su-khon-ngoan-tu-ton-thuong-thumb.jpg",
+    "poster_url": "su-khon-ngoan-tu-ton-thuong-poster.jpg",
+    "year": 2021
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "300727",
+      "season": 1,
+      "vote_average": 5.3,
+      "vote_count": 3
+    },
+    "imdb": {
+      "id": "tt43357366",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-19T22:24:18.000Z"
+    },
+    "_id": "6a5b9caae14b2140fc7d1f4f",
+    "name": "Phi Vụ Chung Cư",
+    "slug": "phi-vu-chung-cu",
+    "origin_name": "The Apartment Job",
+    "thumb_url": "phi-vu-chung-cu-thumb.jpg",
+    "poster_url": "phi-vu-chung-cu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324235",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-19T17:29:50.000Z"
+    },
+    "_id": "6a59279616a695c8bb0e3610",
+    "name": "Xuân Hoa Yến (Phần 1)",
+    "slug": "xuan-hoa-yen",
+    "origin_name": "Blooms for Her (Season 1)",
+    "thumb_url": "xuan-hoa-yen-thumb.jpg",
+    "poster_url": "xuan-hoa-yen-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "326886",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-19T17:29:39.000Z"
+    },
+    "_id": "6a473e6cbaf8dde7e3d39848",
+    "name": "Quý Nhân Mang Nhiều Điềm Lành",
+    "slug": "quy-nhan-mang-nhieu-diem-lanh",
+    "origin_name": "Auspicious Nobles",
+    "thumb_url": "quy-nhan-mang-nhieu-diem-lanh-thumb.jpg",
+    "poster_url": "quy-nhan-mang-nhieu-diem-lanh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "285143",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36596650",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-19T17:28:31.000Z"
+    },
+    "_id": "6a49f15abaf8dde7e3d45212",
+    "name": "Tỏa Sáng Như Những Vì Sao",
+    "slug": "toa-sang-nhu-nhung-vi-sao",
+    "origin_name": "Road to Success",
+    "thumb_url": "toa-sang-nhu-nhung-vi-sao-thumb.jpg",
+    "poster_url": "toa-sang-nhu-nhung-vi-sao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "233291",
+      "season": 1,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt28591181",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-19T17:27:46.000Z"
+    },
+    "_id": "69c64c2a4da3bf6eb345b636",
+    "name": "Sưu Thần Ký",
+    "slug": "suu-than-ky",
+    "origin_name": "In Search of Gods",
+    "thumb_url": "suu-than-ky-thumb.jpg",
+    "poster_url": "suu-than-ky-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312849",
+      "season": 1,
+      "vote_average": 6.5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt41278600",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-19T03:07:04.000Z"
+    },
+    "_id": "6a5bdce86092900b4127fcd3",
+    "name": "Bảo Mẫu Bí Mật Của Tiểu Thư",
+    "slug": "bao-mau-bi-mat-cua-tieu-thu",
+    "origin_name": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+    "thumb_url": "bao-mau-bi-mat-cua-tieu-thu-thumb.jpg",
+    "poster_url": "bao-mau-bi-mat-cua-tieu-thu-poster.jpg",
+    "year": 2026
+  }
+]
