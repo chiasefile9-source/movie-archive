@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1284465",
+      "season": null,
+      "vote_average": 6.8,
+      "vote_count": 87
+    },
+    "imdb": {
+      "id": "tt32273171",
+      "vote_average": 7.4,
+      "vote_count": 143
+    },
+    "modified": {
+      "time": "2026-07-23T10:59:13.000Z"
+    },
+    "_id": "6a618f86b468d7d317f08284",
+    "name": "Cái Chết của Robin Hood",
+    "slug": "cai-chet-cua-robin-hood",
+    "origin_name": "The Death of Robin Hood",
+    "thumb_url": "cai-chet-cua-robin-hood-thumb.jpg",
+    "poster_url": "cai-chet-cua-robin-hood-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "286506",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36204806",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T10:34:27.000Z"
+    },
+    "_id": "692eae53d786e0eb70f48454",
+    "name": "Bách Hoa Sát",
+    "slug": "bach-hoa-sat",
+    "origin_name": "Blossoms of Power",
+    "thumb_url": "bach-hoa-sat-thumb.jpg",
+    "poster_url": "bach-hoa-sat-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "318006",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41732861",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:24:46.000Z"
+    },
+    "_id": "69dfb02615072466aceb2819",
+    "name": "Hình Phạt Vì Yêu Em",
+    "slug": "hinh-phat-vi-yeu-em",
+    "origin_name": "Love's Shattered Reflections",
+    "thumb_url": "hinh-phat-vi-yeu-em-thumb.jpg",
+    "poster_url": "hinh-phat-vi-yeu-em-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324768",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:23:58.000Z"
+    },
+    "_id": "6a34b6e84e6584edee4885c6",
+    "name": "Ý Chí Kim Cương",
+    "slug": "y-chi-kim-cuong",
+    "origin_name": "Strong Will",
+    "thumb_url": "y-chi-kim-cuong-thumb.jpg",
+    "poster_url": "y-chi-kim-cuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "138502",
+      "season": 2,
+      "vote_average": 8.6,
+      "vote_count": 711
+    },
+    "imdb": {
+      "id": "tt16026746",
+      "vote_average": 8.7,
+      "vote_count": 50140
+    },
+    "modified": {
+      "time": "2026-07-23T01:23:48.000Z"
+    },
+    "_id": "6a49dc48c52ec62c8b2069b0",
+    "name": "Dị Nhân '97 (Phần 2)",
+    "slug": "di-nhan-97-phan-2",
+    "origin_name": "X-Men '97 (Season 2)",
+    "thumb_url": "di-nhan-97-phan-2-thumb-1783225705485.jpg",
+    "poster_url": "di-nhan-97-phan-2-poster-1783225709042.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "329260",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:23:37.000Z"
+    },
+    "_id": "6a60e47cd83fa97ee76b51b3",
+    "name": "Vạn Cổ Thần Đế",
+    "slug": "van-co-than-de",
+    "origin_name": "God of Eternity",
+    "thumb_url": "van-co-than-de-thumb.jpg",
+    "poster_url": "",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "315318",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:23:24.000Z"
+    },
+    "_id": "6a3ff5dee12218d7285f7fd4",
+    "name": "Tiếng Anh Thành Tiếng Yêu",
+    "slug": "tieng-anh-thanh-tieng-yeu",
+    "origin_name": "My Tutor, My Love",
+    "thumb_url": "tieng-anh-thanh-tieng-yeu-thumb.jpg",
+    "poster_url": "tieng-anh-thanh-tieng-yeu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "251600",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36872458",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:23:11.000Z"
+    },
+    "_id": "692eea661563911f044968ed",
+    "name": "Thiên Hương",
+    "slug": "thien-huong",
+    "origin_name": "The Eternal Fragrance",
+    "thumb_url": "thien-huong-thumb.jpg",
+    "poster_url": "thien-huong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "298994",
+      "season": 1,
+      "vote_average": 7.643,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt38262097",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:22:51.000Z"
+    },
+    "_id": "6a610400f01a64048c694cee",
+    "name": "Dân Làng Cấp 999 Từ Làng Quê",
+    "slug": "dan-lang-cap-999-tu-lang-que",
+    "origin_name": "The Villager of Level 999",
+    "thumb_url": "dan-lang-cap-999-tu-lang-que-thumb.jpg",
+    "poster_url": "dan-lang-cap-999-tu-lang-que-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324548",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21097138",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:22:38.000Z"
+    },
+    "_id": "6a34ba42de5e0f1b85d4960a",
+    "name": "Tám Tay Lừa Đảo",
+    "slug": "tam-tay-lua-dao",
+    "origin_name": "The Scammer Games",
+    "thumb_url": "tam-tay-lua-dao-thumb.jpg",
+    "poster_url": "tam-tay-lua-dao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324113",
+      "season": 1,
+      "vote_average": 5,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:22:27.000Z"
+    },
+    "_id": "6a5929174be02ecfaf05565b",
+    "name": "Tình Yêu Và Tội Lỗi",
+    "slug": "tinh-yeu-va-toi-loi",
+    "origin_name": "Sin And Love",
+    "thumb_url": "tinh-yeu-va-toi-loi-thumb.jpg",
+    "poster_url": "tinh-yeu-va-toi-loi-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "69346",
+      "season": 2,
+      "vote_average": 8.214,
+      "vote_count": 450
+    },
+    "imdb": {
+      "id": "tt6455986",
+      "vote_average": 7.6,
+      "vote_count": 5653
+    },
+    "modified": {
+      "time": "2026-07-23T01:22:15.000Z"
+    },
+    "_id": "6a60e8e3e87c61a151b8ddb0",
+    "name": "Tanya Chiến Ký (Phần 2)",
+    "slug": "tanya-chien-ky-phan-2",
+    "origin_name": "Saga of Tanya the Evil (Season 2)",
+    "thumb_url": "tanya-chien-ky-phan-2-thumb.jpg",
+    "poster_url": "tanya-chien-ky-phan-2-poster.jpg",
+    "year": 2017
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "325211",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43613798",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:22:13.000Z"
+    },
+    "_id": "6a5928abc52ec62c8b253bfb",
+    "name": "San Hô Đen (Phần 1)",
+    "slug": "san-ho-den",
+    "origin_name": "Black Coral (Season 1)",
+    "thumb_url": "san-ho-den-thumb.jpg",
+    "poster_url": "san-ho-den-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "305079",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt40388381",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:21:50.000Z"
+    },
+    "_id": "6a0e7b3ba432d616e85a61c5",
+    "name": "Ngoảnh Đầu Lại Lau Nước Mắt Cho Cậu",
+    "slug": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau",
+    "origin_name": "Smile After Tears",
+    "thumb_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-thumb.jpg",
+    "poster_url": "ngoanh-dau-lai-lau-nuoc-mat-cho-cau-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "278624",
+      "season": 1,
+      "vote_average": 6.2,
+      "vote_count": 46
+    },
+    "imdb": {
+      "id": "tt34866681",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:21:39.000Z"
+    },
+    "_id": "6a5ba1cae14b2140fc7d260a",
+    "name": "Cuộc Đua Sinh Tử",
+    "slug": "cuoc-dua-sinh-tu",
+    "origin_name": "Lucky",
+    "thumb_url": "cuoc-dua-sinh-tu-thumb.jpg",
+    "poster_url": "cuoc-dua-sinh-tu-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "311914",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt39378708",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:21:27.000Z"
+    },
+    "_id": "6a60d35ab353c27b9bba2d50",
+    "name": "Love Destiny: Nhân Duyên Tiền Định",
+    "slug": "love-destiny-nhan-duyen-tien-dinh",
+    "origin_name": "Love Destiny",
+    "thumb_url": "love-destiny-nhan-duyen-tien-dinh-thumb.jpg",
+    "poster_url": "love-destiny-nhan-duyen-tien-dinh-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319082",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:21:14.000Z"
+    },
+    "_id": "6a5ca0a34e6584edee53b881",
+    "name": "Lẽ Nào Lại Thế",
+    "slug": "le-nao-lai-the",
+    "origin_name": "No Way! My Bro Is the Emperor",
+    "thumb_url": "le-nao-lai-the-thumb.jpg",
+    "poster_url": "le-nao-lai-the-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "303493",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt38916337",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:21:01.000Z"
+    },
+    "_id": "6a44af594f61d761f775cce3",
+    "name": "KNOT: Nút Thắt",
+    "slug": "knot-nut-that",
+    "origin_name": "Knot",
+    "thumb_url": "knot-nut-that-thumb.jpg",
+    "poster_url": "knot-nut-that-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "79166",
+      "season": 3,
+      "vote_average": 7.7,
+      "vote_count": 187
+    },
+    "imdb": {
+      "id": "tt8086718",
+      "vote_average": 7.9,
+      "vote_count": 6257
+    },
+    "modified": {
+      "time": "2026-07-23T01:20:47.000Z"
+    },
+    "_id": "6a60d682b9a3536414630989",
+    "name": "Xanh Thẳm (Phần 3)",
+    "slug": "xanh-tham-phan-3",
+    "origin_name": "Grand Blue Dreaming (Season 3)",
+    "thumb_url": "xanh-tham-phan-3-thumb.jpg",
+    "poster_url": "xanh-tham-phan-3-poster.jpg",
+    "year": 2018
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "281281",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt35495063",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:20:46.000Z"
+    },
+    "_id": "6a60d8b39c324208c3c7a29f",
+    "name": "Lực Lượng Tinh Nhuệ",
+    "slug": "luc-luong-tinh-nhue",
+    "origin_name": "Elite Force",
+    "thumb_url": "luc-luong-tinh-nhue-thumb.jpg",
+    "poster_url": "luc-luong-tinh-nhue-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289139",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37443650",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:20:13.000Z"
+    },
+    "_id": "692eb53354d8512f7b4577e2",
+    "name": "Giây Phút Ấy Vượt Giới Hạn",
+    "slug": "giay-phut-ay-vuot-gioi-han",
+    "origin_name": "Overdo",
+    "thumb_url": "giay-phut-ay-vuot-gioi-han-thumb.jpg",
+    "poster_url": "giay-phut-ay-vuot-gioi-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296915",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43616159",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:20:01.000Z"
+    },
+    "_id": "6a60e44e9c324208c3c7b30c",
+    "name": "Chuyện Vui Của Y Nhiên",
+    "slug": "chuyen-vui-cua-y-nhien",
+    "origin_name": "Yiran's Silver Linings",
+    "thumb_url": "chuyen-vui-cua-y-nhien-thumb.jpg",
+    "poster_url": "chuyen-vui-cua-y-nhien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "291392",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt36979936",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:19:39.000Z"
+    },
+    "_id": "6a4a2e9ede5e0f1b85d8eb9e",
+    "name": "Chó Hoang Và Xương",
+    "slug": "cho-hoang-va-xuong",
+    "origin_name": "Love For You",
+    "thumb_url": "cho-hoang-va-xuong-thumb.jpg",
+    "poster_url": "cho-hoang-va-xuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "329394",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39390494",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-23T01:16:36.000Z"
+    },
+    "_id": "6a610904a45d25230b15898d",
+    "name": "Cha Của Con Gái Tôi",
+    "slug": "cha-cua-con-gai-toi",
+    "origin_name": "My Daughter's Father",
+    "thumb_url": "cha-cua-con-gai-toi-thumb.jpg",
+    "poster_url": "cha-cua-con-gai-toi-poster.jpg",
+    "year": 2026
+  }
+]
