@@ -1,0 +1,578 @@
+[
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "292365",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:17:16.000Z"
+    },
+    "_id": "6a59298412f0391f00e0d8af",
+    "name": "Bí Kíp Nghịch Tập Của Thiếu Hiệp",
+    "slug": "bi-kip-nghich-tap-cua-thieu-hiep",
+    "origin_name": "Young Swordsman",
+    "thumb_url": "bi-kip-nghich-tap-cua-thieu-hiep-thumb.jpg",
+    "poster_url": "bi-kip-nghich-tap-cua-thieu-hiep-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324768",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:16:43.000Z"
+    },
+    "_id": "6a34b6e84e6584edee4885c6",
+    "name": "Ý Chí Kim Cương",
+    "slug": "y-chi-kim-cuong",
+    "origin_name": "Strong Will",
+    "thumb_url": "y-chi-kim-cuong-thumb.jpg",
+    "poster_url": "y-chi-kim-cuong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296915",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43616159",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:16:30.000Z"
+    },
+    "_id": "6a60e44e9c324208c3c7b30c",
+    "name": "Chuyện Vui Của Y Nhiên",
+    "slug": "chuyen-vui-cua-y-nhien",
+    "origin_name": "Yiran's Silver Linings",
+    "thumb_url": "chuyen-vui-cua-y-nhien-thumb.jpg",
+    "poster_url": "chuyen-vui-cua-y-nhien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "297142",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:16:10.000Z"
+    },
+    "_id": "6a6291b0f01a64048c6a8e58",
+    "name": "Chiến Dịch Phố Portland",
+    "slug": "chien-dich-pho-portland",
+    "origin_name": "Portland Street Operation",
+    "thumb_url": "chien-dich-pho-portland-thumb.jpg",
+    "poster_url": "chien-dich-pho-portland-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319082",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:15:49.000Z"
+    },
+    "_id": "6a5ca0a34e6584edee53b881",
+    "name": "Lẽ Nào Lại Thế",
+    "slug": "le-nao-lai-the",
+    "origin_name": "No Way! My Bro Is the Emperor",
+    "thumb_url": "le-nao-lai-the-thumb.jpg",
+    "poster_url": "le-nao-lai-the-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "295609",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:15:36.000Z"
+    },
+    "_id": "6a5b68ac947ce584f1d1724b",
+    "name": "Tôi Là Nhậm Phi Phàm",
+    "slug": "toi-la-nham-phi-pham",
+    "origin_name": "I Am Fei Fan",
+    "thumb_url": "toi-la-nham-phi-pham-thumb.jpg",
+    "poster_url": "toi-la-nham-phi-pham-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "301345",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:15:22.000Z"
+    },
+    "_id": "6a4a2ddc4f61d761f7773432",
+    "name": "Kinh Thành Kỳ Thám",
+    "slug": "kinh-thanh-ky-tham",
+    "origin_name": "Cases Between Us",
+    "thumb_url": "kinh-thanh-ky-tham-thumb.jpg",
+    "poster_url": "kinh-thanh-ky-tham-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "289139",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt37443650",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:15:07.000Z"
+    },
+    "_id": "692eb53354d8512f7b4577e2",
+    "name": "Giây Phút Ấy Vượt Giới Hạn",
+    "slug": "giay-phut-ay-vuot-gioi-han",
+    "origin_name": "Overdo",
+    "thumb_url": "giay-phut-ay-vuot-gioi-han-thumb.jpg",
+    "poster_url": "giay-phut-ay-vuot-gioi-han-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "",
+      "season": null,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:14:53.000Z"
+    },
+    "_id": "6a654fedd83fa97ee76eea62",
+    "name": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai",
+    "slug": "phap-su-tu-linh-ta-chinh-la-thien-tai",
+    "origin_name": "Necromancer: King of the Scourge",
+    "thumb_url": "phap-su-tu-linh-ta-chinh-la-thien-tai-thumb.jpg",
+    "poster_url": "",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "283780",
+      "season": 1,
+      "vote_average": 7,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt35046956",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:14:52.000Z"
+    },
+    "_id": "6a6549c8630a218f7c6b1834",
+    "name": "Chiến Binh Trong Gió",
+    "slug": "chien-binh-trong-gio",
+    "origin_name": "Wind-Born Warriors",
+    "thumb_url": "chien-binh-trong-gio-thumb.jpg",
+    "poster_url": "chien-binh-trong-gio-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "1659155",
+      "season": null,
+      "vote_average": 5,
+      "vote_count": 7
+    },
+    "imdb": {
+      "id": "tt41111628",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:14:12.000Z"
+    },
+    "_id": "6a654e700fd8af184f111e77",
+    "name": "Niềm Tin Vô Thực",
+    "slug": "niem-tin-vo-thuc",
+    "origin_name": "The Truthers",
+    "thumb_url": "niem-tin-vo-thuc-thumb.jpg",
+    "poster_url": "niem-tin-vo-thuc-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "313101",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt39665097",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:14:01.000Z"
+    },
+    "_id": "6a654e3b675bbefd3c1690d7",
+    "name": "Musafir Cafe",
+    "slug": "musafir-cafe",
+    "origin_name": "Musafir Cafe",
+    "thumb_url": "musafir-cafe-thumb.jpg",
+    "poster_url": "musafir-cafe-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296206",
+      "season": 1,
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt42127457",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:13:44.000Z"
+    },
+    "_id": "6a3ea8611fea2c5da7ae92b2",
+    "name": "Đặc Vụ Kim Tái Khởi Động",
+    "slug": "dac-vu-kim-tai-khoi-dong",
+    "origin_name": "Agent Kim Reactivated",
+    "thumb_url": "dac-vu-kim-tai-khoi-dong-thumb.jpg",
+    "poster_url": "dac-vu-kim-tai-khoi-dong-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "949838",
+      "season": null,
+      "vote_average": 5.7,
+      "vote_count": 48
+    },
+    "imdb": {
+      "id": "tt36304003",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:13:28.000Z"
+    },
+    "_id": "6a6547beb468d7d317f3a965",
+    "name": "72 GIỜ",
+    "slug": "72-gio",
+    "origin_name": "72 HOURS",
+    "thumb_url": "72-gio-thumb.jpg",
+    "poster_url": "72-gio-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "movie",
+      "id": "11519",
+      "season": null,
+      "vote_average": 5.774,
+      "vote_count": 706
+    },
+    "imdb": {
+      "id": "tt0078723",
+      "vote_average": 5.8,
+      "vote_count": 38772
+    },
+    "modified": {
+      "time": "2026-07-26T08:13:27.000Z"
+    },
+    "_id": "6a6547732ca828f7761c99df",
+    "name": "1941",
+    "slug": "1941",
+    "origin_name": "1941",
+    "thumb_url": "1941-thumb.jpg",
+    "poster_url": "1941-poster.jpg",
+    "year": 1979
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "319062",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt41574962",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-26T08:13:03.000Z"
+    },
+    "_id": "6a6554726b9685817fcb4882",
+    "name": "Xuân Về Phượng Trì",
+    "slug": "xuan-ve-phuong-tri",
+    "origin_name": "Spring Over Phoenix Pond",
+    "thumb_url": "xuan-ve-phuong-tri-thumb.jpg",
+    "poster_url": "xuan-ve-phuong-tri-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "240993",
+      "season": 2,
+      "vote_average": 7.2,
+      "vote_count": 109
+    },
+    "imdb": {
+      "id": "tt28088031",
+      "vote_average": 6.8,
+      "vote_count": 10653
+    },
+    "modified": {
+      "time": "2026-07-26T08:12:36.000Z"
+    },
+    "_id": "6a6555e5bb1f0dbe3e609947",
+    "name": "Ransom Canyon (Phần 2)",
+    "slug": "ransom-canyon-phan-2",
+    "origin_name": "Ransom Canyon (Season 2)",
+    "thumb_url": "ransom-canyon-phan-2-thumb.jpg",
+    "poster_url": "ransom-canyon-phan-2-poster.jpg",
+    "year": 2025
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "270603",
+      "season": 1,
+      "vote_average": 8.8,
+      "vote_count": 8
+    },
+    "imdb": {
+      "id": "tt33334216",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-24T08:32:37.000Z"
+    },
+    "_id": "6a5b5ba7de5e0f1b85dedf8b",
+    "name": "Trọng Giáp Hiệp Sĩ Chuyển Sinh Bị Lưu Đày Trở Nên Vô Địch Nhờ Kiến Thức Về Game",
+    "slug": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
+    "origin_name": "The Exiled Heavy Knight Knows How to Game the System",
+    "thumb_url": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game-thumb.jpg",
+    "poster_url": "trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "324548",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt21097138",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-24T08:32:26.000Z"
+    },
+    "_id": "6a34ba42de5e0f1b85d4960a",
+    "name": "Tám Tay Lừa Đảo",
+    "slug": "tam-tay-lua-dao",
+    "origin_name": "The Scammer Games",
+    "thumb_url": "tam-tay-lua-dao-thumb.jpg",
+    "poster_url": "tam-tay-lua-dao-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "322055",
+      "season": 1,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "imdb": {
+      "id": "tt43592244",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-24T08:32:12.000Z"
+    },
+    "_id": "6a3dff79a432d616e8632a17",
+    "name": "Lời Đề Nghị Của Công Tố Viên",
+    "slug": "loi-de-nghi-cua-cong-to-vien",
+    "origin_name": "The Prosecutor's Proposal",
+    "thumb_url": "loi-de-nghi-cua-cong-to-vien-thumb.jpg",
+    "poster_url": "loi-de-nghi-cua-cong-to-vien-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "296286",
+      "season": 1,
+      "vote_average": 9,
+      "vote_count": 13
+    },
+    "imdb": {
+      "id": "tt37614297",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-24T08:31:44.000Z"
+    },
+    "_id": "6a5b5a152c0a4eaf2664b7fc",
+    "name": "Hút Thuốc Phía Sau Siêu Thị Cùng Em",
+    "slug": "hut-thuoc-phia-sau-sieu-thi-cung-em",
+    "origin_name": "Smoking Behind the Supermarket with You",
+    "thumb_url": "hut-thuoc-phia-sau-sieu-thi-cung-em-thumb.jpg",
+    "poster_url": "hut-thuoc-phia-sau-sieu-thi-cung-em-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "312949",
+      "season": 1,
+      "vote_average": 8.4,
+      "vote_count": 33
+    },
+    "imdb": {
+      "id": "tt39551330",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-24T08:31:28.000Z"
+    },
+    "_id": "6a62bd1d21c6afa9069a14c3",
+    "name": "Cô mèo nghiện thuốc lá",
+    "slug": "co-meo-nghien-thuoc-la",
+    "origin_name": "Chainsmoker Cat",
+    "thumb_url": "co-meo-nghien-thuoc-la-thumb.jpg",
+    "poster_url": "co-meo-nghien-thuoc-la-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "328150",
+      "season": 1,
+      "vote_average": 8,
+      "vote_count": 1
+    },
+    "imdb": {
+      "id": "tt43665728",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    "modified": {
+      "time": "2026-07-24T05:34:54.000Z"
+    },
+    "_id": "6a62970e3ef38c740d3de33c",
+    "name": "Phương Trình Tình Yêu",
+    "slug": "phuong-trinh-tinh-yeu-2026",
+    "origin_name": "Love Algorithm",
+    "thumb_url": "phuong-trinh-tinh-yeu-2026-thumb.jpg",
+    "poster_url": "phuong-trinh-tinh-yeu-2026-poster.jpg",
+    "year": 2026
+  },
+  {
+    "tmdb": {
+      "type": "tv",
+      "id": "259231",
+      "season": 2,
+      "vote_average": 8.3,
+      "vote_count": 16
+    },
+    "imdb": {
+      "id": "tt32792277",
+      "vote_average": 8.4,
+      "vote_count": 292
+    },
+    "modified": {
+      "time": "2026-07-24T05:32:19.000Z"
+    },
+    "_id": "6a3f85f4c52ec62c8b1e5154",
+    "name": "Trảm Thần: Phàm Trần Thần Vực (Phần 2)",
+    "slug": "tram-than-pham-tran-than-vuc-phan-2",
+    "origin_name": "Slay the Gods (Season 2)",
+    "thumb_url": "tram-than-pham-tran-than-vuc-phan-2-thumb.jpg",
+    "poster_url": "tram-than-pham-tran-than-vuc-phan-2-poster.jpg",
+    "year": 2026
+  }
+]
